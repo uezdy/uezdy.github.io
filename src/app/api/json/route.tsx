@@ -1,8 +1,9 @@
 import type { NextRequest } from "next/server";
 import { NextResponse } from "next/server";
 import { promises as fs } from "node:fs";
+import {NextApiResponse} from "next";
 
-export default async function GET(req: NextRequest) {
+export async function GET(req: NextRequest, res: NextApiResponse<any>) {
     const path = "./src/app/api/json/result.json";
     const fileBuffer = await fs.readFile(path);
     const json = JSON.parse(fileBuffer.toString());
