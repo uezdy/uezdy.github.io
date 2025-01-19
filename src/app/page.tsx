@@ -1,12 +1,20 @@
 import styles from "./page.module.css";
 
-export const dynamic = 'force-static';
+const getData = async () => {
+    const response = await fetch(`https://uezdy.github.io/result.json`, {
+        cache: "no-cache",
+    });
+    const data = await response.json();
+
+    return data;
+};
 
 export default async function Home() {
+    const data = await getData();
     return (
         <div className={styles.page}>
             <main className={styles.main}>
-                0
+                {data.messages.length}
             </main>
             <footer className={styles.footer}>
 
