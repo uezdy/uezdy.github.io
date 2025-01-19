@@ -2,12 +2,10 @@ import styles from "./page.module.css";
 import Link from "next/link";
 
 const getData = async () => {
-    const response = await fetch("http://localhost:3000/api/json", {
+    const response = await fetch("/result.json", {
         cache: "no-cache",
     });
-    const data = await response.json();
-
-    return data;
+    return await response.json();
 };
 
 export default async function Home() {
