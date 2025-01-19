@@ -1,11 +1,22 @@
 import styles from "./page.module.css";
-import {MainPage} from "@/app/components/MainPage";
+import Link from "next/link";
 
-export default  function Home() {
+const getData = async () => {
+    const response = await fetch(`http://localhost:3000/api/json`, {
+        cache: "no-cache",
+    });
+    const data = await response.json();
+
+    return data;
+};
+export const dynamic = 'force-static';
+
+export default async function Home() {
+    const data = await getData();
     return (
         <div className={styles.page}>
             <main className={styles.main}>
-                <MainPage/>
+                {data.messages.length}
             </main>
             <footer className={styles.footer}>
 
