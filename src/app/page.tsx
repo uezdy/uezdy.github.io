@@ -1,16 +1,12 @@
 import styles from "./page.module.css";
-
-const getData = async () => {
-    const response = await fetch(`https://uezdy.github.io/result.json`, {
-        cache: "no-cache",
-    });
-    const data = await response.json();
-
-    return data;
-};
+import { promises as fs } from 'fs';
+import * as path from 'path';
 
 export default async function Home() {
-    const data = await getData();
+    const pathJSON = path.join('public/result.json');
+    const file = await fs.readFile(pathJSON, 'utf8');
+    const data = JSON.parse(file);
+
     return (
         <div className={styles.page}>
             <main className={styles.main}>
