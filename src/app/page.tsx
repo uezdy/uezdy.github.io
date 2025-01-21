@@ -17,7 +17,7 @@ export const metadata: Metadata = {
 
 
 export default async function Home() {
-    const topics = [];
+    const topics: any = [];
 
     return (
         <div className={styles.page}>
