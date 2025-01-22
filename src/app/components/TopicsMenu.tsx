@@ -6,7 +6,7 @@ export default function TopicsMenu({messages}: any) {
     const [tops, setTops] = React.useState([]);
     React.useEffect(() => {
         if (messages) {
-            const topics = [];
+            const topics: any = [];
             messages.forEach((msg: any) => {
                 if (msg.action === 'topic_created') {
                     topics.push(msg);
