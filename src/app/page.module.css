@@ -49,7 +49,7 @@
 }
 
 .main li:not(:last-of-type) {
-  margin-bottom: 8px;
+  /*margin-bottom: 8px;*/
 }
 
 .main code {

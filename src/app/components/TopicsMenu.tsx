@@ -1,18 +1,27 @@
 'use client'
 import React from "react";
+import {Button, ButtonGroup} from "@mui/joy";
 
-export default function TopicsMenu({topics}: any) {
+export default function TopicsMenu({messages}: any) {
     const [tops, setTops] = React.useState([]);
     React.useEffect(() => {
-        if (topics) {
+        if (messages) {
+            const topics = [];
+            messages.forEach((msg: any) => {
+                if (msg.action === 'topic_created') {
+                    topics.push(msg);
+                }
+            });
+
             setTops(topics);
         }
-    }, [topics])
+    }, [messages]);
     return <>
-        <div>
+        <ButtonGroup orientation="vertical">
             {
-                tops.map((top: any) => <div key={top.id}>{top.title}</div>)
+                tops.map((top: any) => <Button key={top.id}>{top.title}</Button>)
             }
-        </div>
+        </ButtonGroup>
+
     </>
 };

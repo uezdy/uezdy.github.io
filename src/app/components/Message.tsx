@@ -1,9 +1,11 @@
+import {List, ListItem} from "@mui/joy";
+
 export default async function Message({msg}: any) {
     return <>
-        <div>
+        <ListItem variant="outlined">
             {
                 Array.isArray(msg.text) ? '' : msg.text
             }
-        </div>
+        </ListItem>
     </>
 };
