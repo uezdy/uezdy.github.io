@@ -35,6 +35,6 @@ export default function Page({params}: any) {
     )
 }
 
-export function generateStaticParams({id}: any) {
-    return [ { id } ]
+export function generateStaticParams({params}: any) {
+    return [ { id: params.id } ]
 }
