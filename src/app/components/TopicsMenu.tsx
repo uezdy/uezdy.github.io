@@ -1,6 +1,7 @@
 'use client'
 import React from "react";
-import {Button, ButtonGroup} from "@mui/joy";
+import {ButtonGroup} from "@mui/joy";
+import Link from 'next/link'
 
 export default function TopicsMenu({messages}: any) {
     const [tops, setTops] = React.useState([]);
@@ -19,7 +20,7 @@ export default function TopicsMenu({messages}: any) {
     return <>
         <ButtonGroup orientation="vertical">
             {
-                tops.map((top: any) => <Button key={top.id}>{top.title}</Button>)
+                tops.map((top: any) => <Link key={top.id} href={`/topic/${top.id}`}>{top.title}</Link>)
             }
         </ButtonGroup>
 
