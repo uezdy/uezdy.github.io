@@ -8,7 +8,7 @@ const pathJSON = path.join('public/result.json');
 const file = await fs.readFile(pathJSON, 'utf8');
 const data = JSON.parse(file);
 
-export async function generateMetadata({ params }: any): Promise<any> {
+export async function generateMetadata({params}: any): Promise<any> {
     const currtopMsg = data.messages.find((msg: any) => +msg.id === +params.id);
     return {
         title: currtopMsg.title
@@ -35,6 +35,6 @@ export default function Page({params}: any) {
     )
 }
 
-export function generateStaticParams({params}: any) {
-    return [ { id: params.id } ]
+export function generateStaticParams({ params: {id} }: {params: { id: string };}) {
+    return [{id: id}]
 }
