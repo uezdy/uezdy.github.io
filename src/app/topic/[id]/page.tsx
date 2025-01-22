@@ -15,6 +15,10 @@ export async function generateMetadata({params}: any): Promise<any> {
     };
 }
 
+export function generateStaticParams({ params: {id} }: {params: { id: string };}) {
+    return [{id: id}]
+}
+
 export default function Page({params}: any) {
     return (
         <>
@@ -33,8 +37,4 @@ export default function Page({params}: any) {
         </>
 
     )
-}
-
-export function generateStaticParams({ params: {id} }: {params: { id: string };}) {
-    return [{id: id}]
 }
