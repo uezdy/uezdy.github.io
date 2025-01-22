@@ -2,13 +2,14 @@
 import React from "react";
 import {ButtonGroup} from "@mui/joy";
 import Link from 'next/link'
+import {TGMessage} from "@/app/components/types";
 
-export default function TopicsMenu({messages}: any) {
-    const [tops, setTops] = React.useState([]);
+export default function TopicsMenu({messages}: { messages: Array<TGMessage> }) {
+    const [tops, setTops] = React.useState<Array<TGMessage>>([]);
     React.useEffect(() => {
         if (messages) {
             const topics: any = [];
-            messages.forEach((msg: any) => {
+            messages.forEach((msg: TGMessage) => {
                 if (msg.action === 'topic_created') {
                     topics.push(msg);
                 }
@@ -20,7 +21,7 @@ export default function TopicsMenu({messages}: any) {
     return <>
         <ButtonGroup orientation="vertical">
             {
-                tops.map((top: any) => <Link key={top.id} href={`/topic/${top.id}`}>{top.title}</Link>)
+                tops.map((top: TGMessage) => <Link key={top.id} href={`/topic/${top.id}`}>{top.title}</Link>)
             }
         </ButtonGroup>
 

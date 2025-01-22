@@ -21,7 +21,7 @@ export default async function Home() {
     return (
         <div className={styles.page}>
             <main className={styles.main}>
-                <TopicsMenu topics={topics} messages={data.messages}/>
+                <TopicsMenu messages={data.messages}/>
             </main>
             <footer className={styles.footer}>
 
