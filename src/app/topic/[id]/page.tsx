@@ -34,3 +34,7 @@ export default function Page({params}: any) {
 
     )
 }
+
+export function generateStaticParams() {
+    return [ { id: [""] } ]
+}
