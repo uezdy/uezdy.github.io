@@ -4,10 +4,17 @@ import * as path from 'path';
 import {Metadata} from "next";
 import React from "react";
 import TopicsMenu from "@/app/components/TopicsMenu";
+import {TGMessage} from "@/app/components/types";
 
-const pathJSON = path.join('public/result.json');
-const file = await fs.readFile(pathJSON, 'utf8');
-const data = JSON.parse(file);
+const messages: Array<TGMessage> = [];
+const files = await fs.readdir(path.resolve('public/uezdy'), 'utf8')
+
+files.forEach(async (file: any) => {
+    const pathJSON = path.join('public/uezdy', file);
+    const fileData = await fs.readFile(pathJSON, 'utf8');
+    const data = JSON.parse(fileData);
+    messages.push(...data);
+});
 
 export const metadata: Metadata = {
     title: "Уезды Беларуси (Генеалогия Беларуси)",
@@ -21,7 +28,7 @@ export default async function Home() {
     return (
         <div className={styles.page}>
             <main className={styles.main}>
-                <TopicsMenu messages={data.messages}/>
+                <TopicsMenu messages={messages}/>
             </main>
             <footer className={styles.footer}>
 

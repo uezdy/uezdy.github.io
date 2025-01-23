@@ -10,7 +10,8 @@ const file = await fs.readFile(pathJSON, 'utf8');
 const data = JSON.parse(file);
 
 export async function generateMetadata({params}: any) {
-    const currtopMsg = data.messages.find((msg: TGMessage) => +msg.id === +params.id);
+    const { id: paramsId } = await params;
+    const currtopMsg = data.messages.find((msg: TGMessage) => +msg.id === +paramsId);
     return {
         title: currtopMsg.title
     };
@@ -25,15 +26,17 @@ export async function generateStaticParams() {
         id: `${msg.id}`,
     }));
 }
-export default function Page({params}: any) {
+export default async function Page({params}: any) {
+    const { id: paramsId } = await params;
+
     return (
         <>
-            {params.id}
+            {paramsId}
             <List>
                 {
                     data
                         .messages
-                        .filter((msg: TGMessage) => msg && msg.reply_to_message_id && (+msg!.reply_to_message_id === +params.id))
+                        .filter((msg: TGMessage) => msg && msg.reply_to_message_id && (+msg!.reply_to_message_id === +paramsId))
                         .map((msg: TGMessage) => {
                             return msg.text && msg.type === 'message' ? <Message key={msg.id} msg={msg}/> : <></>
                         })
