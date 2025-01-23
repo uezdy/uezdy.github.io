@@ -2,7 +2,6 @@ import Message from "@/app/components/Message";
 import React from "react";
 import path from "path";
 import {promises as fs} from "fs";
-import {List} from "@mui/joy";
 import {TGMessage} from "@/app/components/types";
 
 const pathJSON = path.join('public/uezdy/uezdy.json');
