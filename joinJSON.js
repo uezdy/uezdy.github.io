@@ -11,5 +11,5 @@ files.forEach((file) => {
     messages.push(...data);
 });
 
-fs.writeFileSync(`./public/uezdy/uezdy.json`, JSON.stringify(messages, null, 4), {encoding: 'utf8', flag: 'w'});
+fs.writeFileSync(`./public/uezdy/   uezdy.json`, JSON.stringify(messages, null, 4), {encoding: 'utf8', flag: 'w'});
 console.log(messages.length);

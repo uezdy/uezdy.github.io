@@ -20,4 +20,5 @@ export interface TGMessage {
 export interface TextEntity {
     type: string;
     text: string;
+    href?: string;
 }

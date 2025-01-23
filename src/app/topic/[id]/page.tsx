@@ -22,16 +22,15 @@ export default async function Page({params}: any) {
 
     return (
         <>
-            {paramsId}
-            <List>
+            <main>
                 {
                     messages
                         .filter((msg: TGMessage) => msg && msg.reply_to_message_id && (+msg!.reply_to_message_id === +paramsId))
                         .map((msg: TGMessage) => {
-                            return msg.text && msg.type === 'message' ? <Message key={msg.id} msg={msg}/> : <></>
+                            return msg.text && msg.type === 'message' && <Message topicId={paramsId} key={msg.id} msg={msg} />
                         })
                 }
-            </List>
+            </main>
 
         </>
 
