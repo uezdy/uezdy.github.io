@@ -6,7 +6,7 @@ import {TGMessage} from "@/app/components/types";
 export default async function Message({msg}: {msg: TGMessage}) {
     return <>
         <ListItem variant="outlined">
-            <Link href={`https://t.me/sennenskiy/${msg.id}`}>origin</Link>
+            <Link href={`https://t.me/uezdy/${msg.id}`}>origin</Link>
             {
                 Array.isArray(msg.text) ? '' : msg.text
             }
