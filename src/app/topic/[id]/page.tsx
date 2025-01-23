@@ -5,7 +5,7 @@ import {promises as fs} from "fs";
 import {List} from "@mui/joy";
 import {TGMessage} from "@/app/components/types";
 
-const pathJSON = path.join('public/uezdy.json');
+const pathJSON = path.join('public/uezdy/uezdy.json');
 const file = await fs.readFile(pathJSON, 'utf8');
 const messages = JSON.parse(file);
 
