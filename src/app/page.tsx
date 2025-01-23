@@ -6,15 +6,9 @@ import React from "react";
 import TopicsMenu from "@/app/components/TopicsMenu";
 import {TGMessage} from "@/app/components/types";
 
-const messages: Array<TGMessage> = [];
-const files = await fs.readdir(path.resolve('public/uezdy'), 'utf8')
-
-files.forEach(async (file: any) => {
-    const pathJSON = path.join('public/uezdy', file);
-    const fileData = await fs.readFile(pathJSON, 'utf8');
-    const data = JSON.parse(fileData);
-    messages.push(...data);
-});
+const pathJSON = path.join('public/uezdy.json');
+const file = await fs.readFile(pathJSON, 'utf8');
+const messages: Array<TGMessage> = JSON.parse(file);
 
 export const metadata: Metadata = {
     title: "Уезды Беларуси (Генеалогия Беларуси)",
