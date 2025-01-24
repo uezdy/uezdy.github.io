@@ -12,7 +12,7 @@ files.forEach((file: string) => {
     messages.push(...data);
 });
 
-fs.writeFileSync(`./public/uezdy/uezdy.json`, JSON.stringify(messages), {encoding: 'utf8', flag: 'w'});
+// fs.writeFileSync(path.resolve('./public/uezdy/uezdy.json'), JSON.stringify(messages), {encoding: 'utf8', flag: 'w'});
 console.log(messages.length);
 
 export {messages};
