@@ -7,13 +7,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
         {
             url: 'https://uezdy.github.io/',
             lastModified: new Date(),
-            changeFrequency: 'yearly',
+            changeFrequency: 'weekly',
             priority: 1,
         },
         {
             url: 'https://uezdy.github.io/uezdy',
             lastModified: new Date(),
-            changeFrequency: 'monthly',
+            changeFrequency: 'weekly',
             priority: 0.8,
         },
         {
