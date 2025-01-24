@@ -20,7 +20,7 @@ export default async function Page({params}: any) {
     return (
         <>
             <main>
-                <SelectedMenu messages={messages} paramsId={topicId} />
+                <SelectedMenu messages={messages} topicId={topicId} />
                 {
                     messages
                         .filter((msg: TGMessage) => msg && msg.reply_to_message_id && (+msg!.reply_to_message_id === +topicId))
