@@ -4,10 +4,10 @@ import "./Message.css";
 import React from "react";
 import Link from "next/link";
 import {TextEntity, TGMessage} from "@/app/components/types";
+import {Typography} from "@mui/joy";
 
 export default async function Message({msg, topicId}: { msg: TGMessage, topicId: number }) {
     return <>
-        <p className="tgme_widget_message_bubble">
         <span className="message-top">
             <span>
                 <Link href={`https://t.me/uezdy/${topicId}/${msg.id}`}>
@@ -23,9 +23,11 @@ export default async function Message({msg, topicId}: { msg: TGMessage, topicId:
                 <Link href={`/uezdy/topic/${topicId}/${msg.id}`}>##</Link>
             </Chip>
         </span>
-        <Divider component="span" />
-        <TextJoin text={msg.text}/>
-    </p>
+        <Typography className="tgme_widget_message_bubble" startDecorator={<>
+            <Divider component="span"/>
+        </>}>
+            <TextJoin text={msg.text}/>
+        </Typography>
     </>
 };
 
