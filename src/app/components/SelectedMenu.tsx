@@ -32,11 +32,10 @@ export default function SelectedMenu({messages, topicId}: {messages: Array<TGMes
     }, [messages]);
 
 
-    const createHandleClose = (id: any, e: any) => () => {
+    const handleClose = (e: any, id: any) => {
         e.preventDefault();
         setSelectedIndex(id);
-        router.push(`/uezdy/topic/${id}`);
-        debugger;
+        router.push(`/uezdy/${id}`);
     };
 
     return (
@@ -45,7 +44,7 @@ export default function SelectedMenu({messages, topicId}: {messages: Array<TGMes
             <Menu>
                 {
                     tops.map((top: TGMessage) => {
-                        return <MenuItem key={top.id} selected={selectedIndex === +top.id} onClick={(e: any) => createHandleClose(+top.id, e)}>
+                        return <MenuItem key={top.id} selected={selectedIndex === +top.id} onClick={(e: any) => handleClose(e, +top.id)}>
                             {top.title}
                         </MenuItem>
                     })
