@@ -13,7 +13,7 @@ let currentChunk = [];
 
 let count = 2000;
 
-data.messages.forEach((message) => {
+data.messages.forEach((message, index) => {
     if (!pool[message.id]) {
         currentChunk.push(message);
         pool[message.id] = true;
@@ -24,6 +24,12 @@ data.messages.forEach((message) => {
         fs.writeFileSync(`${targetDir}/${fileName}.json`, JSON.stringify(currentChunk, null, 4), {encoding: 'utf8', flag: 'w'});
         currentChunk = [];
         count += 2000;
+    }
+
+    if (index === (data.messages.length - 1)) {
+        count += 2000;
+        const fileName = normalazePageNumb(`${count}`);
+        fs.writeFileSync(`${targetDir}/${fileName}.json`, JSON.stringify(currentChunk, null, 4), {encoding: 'utf8', flag: 'w'});
     }
 });
 
