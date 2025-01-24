@@ -1,5 +1,6 @@
 import Typography from '@mui/joy/Typography';
 import Chip from '@mui/joy/Chip';
+import Divider from '@mui/joy/Divider';
 import "./Message.css";
 import React from "react";
 import Link from "next/link";
@@ -18,6 +19,7 @@ export default async function Message({msg, topicId}: { msg: TGMessage, topicId:
                 component="span"
             >{msg.from || 'Удаленный Аккаунт'}</Chip>
         </span>
+        <Divider component="span" />
         <TextJoin text={msg.text}/>
     </Typography>
 };
