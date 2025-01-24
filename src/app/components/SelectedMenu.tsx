@@ -9,14 +9,14 @@ import Dropdown from '@mui/joy/Dropdown';
 import {TGMessage} from "@/app/components/types";
 import { useRouter } from 'next/navigation';
 
-export default function SelectedMenu({messages, paramsId}: {messages: Array<TGMessage>, paramsId: number}) {
-    const [selectedIndex, setSelectedIndex] = React.useState<number>(+paramsId);
+export default function SelectedMenu({messages, topicId}: {messages: Array<TGMessage>, topicId: number}) {
+    const [selectedIndex, setSelectedIndex] = React.useState<number>(+topicId);
     const router = useRouter();
 
     const [tops, setTops] = React.useState<Array<TGMessage>>([]);
     React.useEffect(() => {
-        if (paramsId) {setSelectedIndex(+paramsId);}
-    }, [paramsId]);
+        if (topicId) {setSelectedIndex(+topicId);}
+    }, [topicId]);
 
     React.useEffect(() => {
         if (messages) {
