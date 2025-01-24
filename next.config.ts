@@ -1,7 +1,8 @@
 import type {NextConfig} from "next";
 
 const nextConfig: NextConfig = {
-    output: 'export'
+    output: 'export',
+    staticPageGenerationTimeout: 200
 };
 
 export default nextConfig;
