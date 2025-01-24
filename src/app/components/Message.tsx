@@ -15,6 +15,7 @@ export default async function Message({msg, topicId}: { msg: TGMessage, topicId:
                 variant="outlined"
                 color="neutral"
                 size="sm"
+                component="span"
             >{msg.from || 'Удаленный Аккаунт'}</Chip>
         </span>
         <TextJoin text={msg.text}/>
