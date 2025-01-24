@@ -18,7 +18,7 @@ export default async function Message({msg, topicId}: { msg: TGMessage, topicId:
                 >{msg.from || 'Удаленный Аккаунт'}</Chip>
             </span>
             <Chip size="sm">
-                <Link href={`/uezdy/topic/${topicId}/${msg.id}`}>##</Link>
+                <Link href={`/uezdy/${topicId}/${msg.id}`}>##</Link>
             </Chip>
         </span>
         <TextJoin text={msg.text}/>
