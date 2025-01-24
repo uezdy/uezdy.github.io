@@ -1,0 +1,15 @@
+main {
+    margin-left: 45px;
+    padding: 12px 17px;
+}
+
+main p {
+    display: block;
+    margin-top: 0;
+    border-radius: 0 0 10px 10px;
+    border: 1px solid #d7e3ec;
+    font-size: 16px;
+    line-height: 21px;
+    word-break: break-word;
+    padding: 12px 17px;
+}

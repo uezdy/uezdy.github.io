@@ -1,13 +1,7 @@
 .page {}
 .main {
-    display: flex;
-    flex-direction: column;
-    gap: 32px;
-    grid-row-start: 2;
 }
 
 .footer {
-    grid-row-start: 3;
     display: flex;
-    gap: 24px;
 }

@@ -1,14 +1,6 @@
-.tgme_widget_message_bubble {
-    display: flex;
-    flex-direction: column;
-}
 .message-top {
     display: flex;
     justify-content: space-between;
-    margin-left: 45px;
-    border: 1px solid var(--bubble-border-color);
+    border: 1px solid #d7e3ec;
     border-radius: 10px 10px 0 0;
-}
-.tgme_widget_message_bubble.tgme_widget_message_text.js-message_text {
-    margin-top: 0;
 }

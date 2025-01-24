@@ -1,10 +1,8 @@
 import Chip from '@mui/joy/Chip';
-import Divider from '@mui/joy/Divider';
 import "./Message.css";
 import React from "react";
 import Link from "next/link";
 import {TextEntity, TGMessage} from "@/app/components/types";
-import {Typography} from "@mui/joy";
 
 export default async function Message({msg, topicId}: { msg: TGMessage, topicId: number }) {
     return <>
@@ -23,7 +21,6 @@ export default async function Message({msg, topicId}: { msg: TGMessage, topicId:
                 <Link href={`/uezdy/topic/${topicId}/${msg.id}`}>##</Link>
             </Chip>
         </span>
-        <Divider component="span"/>
         <TextJoin text={msg.text}/>
     </>
 };

@@ -4,6 +4,7 @@ import path from "path";
 import {promises as fs} from "fs";
 import {TGMessage} from "@/app/components/types";
 import SelectedMenu from "@/app/components/SelectedMenu";
+import "./topicPage.css";
 
 const pathJSON = path.join('public/uezdy/uezdy.json');
 const file = await fs.readFile(pathJSON, 'utf8');

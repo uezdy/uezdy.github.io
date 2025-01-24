@@ -23,7 +23,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-          <link rel="stylesheet" href="https://telegram.org/css/widget-frame.css?68"></link>
+          {/*<link rel="stylesheet" href="https://telegram.org/css/widget-frame.css?68"></link>*/}
       </head>
       <body>
         {children}
