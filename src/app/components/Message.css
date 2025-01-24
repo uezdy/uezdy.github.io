@@ -2,5 +2,6 @@
     display: flex;
     justify-content: space-between;
     border: 1px solid #d7e3ec;
+    border-bottom: none;
     border-radius: 10px 10px 0 0;
 }
