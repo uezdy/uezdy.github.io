@@ -1,0 +1,4 @@
+.tgme_widget_message_bubble {
+    display: flex;
+    flex-direction: column;
+}
