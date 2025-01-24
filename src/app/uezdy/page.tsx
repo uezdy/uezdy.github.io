@@ -1,14 +1,8 @@
 import styles from "./page.module.css";
-import {promises as fs} from 'fs';
-import * as path from 'path';
 import {Metadata} from "next";
 import React from "react";
 import TopicsMenu from "@/app/components/TopicsMenu";
-import {TGMessage} from "@/app/components/types";
-
-const pathJSON = path.join('public/uezdy/uezdy.json');
-const file = await fs.readFile(pathJSON, 'utf8');
-const messages: Array<TGMessage> = JSON.parse(file);
+import {messages} from "@/app/services/service.data";
 
 export const metadata: Metadata = {
     title: "Уезды Беларуси (Генеалогия Беларуси)",
