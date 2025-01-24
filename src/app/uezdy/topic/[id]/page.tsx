@@ -3,6 +3,7 @@ import React from "react";
 import path from "path";
 import {promises as fs} from "fs";
 import {TGMessage} from "@/app/components/types";
+import SelectedMenu from "@/app/components/SelectedMenu";
 
 const pathJSON = path.join('public/uezdy/uezdy.json');
 const file = await fs.readFile(pathJSON, 'utf8');
@@ -22,6 +23,7 @@ export default async function Page({params}: any) {
     return (
         <>
             <main>
+                <SelectedMenu messages={messages} paramsId={paramsId} />
                 {
                     messages
                         .filter((msg: TGMessage) => msg && msg.reply_to_message_id && (+msg!.reply_to_message_id === +paramsId))

@@ -7,17 +7,22 @@ import Link from "next/link";
 import {TextEntity, TGMessage} from "@/app/components/types";
 
 export default async function Message({msg, topicId}: { msg: TGMessage, topicId: number }) {
-    return <Typography className="tgme_widget_message_bubble">
-        <span>
-            <Link href={`https://t.me/uezdy/${topicId}/${msg.id}`}>
-                <Chip component="span" size="sm">{msg.id}</Chip>
-            </Link>
-            <Chip
-                variant="outlined"
-                color="neutral"
-                size="sm"
-                component="span"
-            >{msg.from || 'Удаленный Аккаунт'}</Chip>
+    return <Typography className="tgme_widget_message_bubble" r>
+        <span className="message-top">
+            <span>
+                <Link href={`https://t.me/uezdy/${topicId}/${msg.id}`}>
+                    <Chip component="span" size="sm">{msg.id}</Chip>
+                </Link>
+                <Chip
+                    variant="outlined"
+                    color="neutral"
+                    size="sm"
+                    component="span"
+                >{msg.from || 'Удаленный Аккаунт'}</Chip>
+            </span>
+            <Chip component="span" size="sm">
+                <Link href={`/uezdy/topic/${topicId}/${msg.id}`}>##</Link>
+            </Chip>
         </span>
         <Divider component="span" />
         <TextJoin text={msg.text}/>
