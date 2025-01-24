@@ -23,11 +23,8 @@ export default async function Message({msg, topicId}: { msg: TGMessage, topicId:
                 <Link href={`/uezdy/topic/${topicId}/${msg.id}`}>##</Link>
             </Chip>
         </span>
-        <Typography className="tgme_widget_message_bubble" startDecorator={<>
-            <Divider component="span"/>
-        </>}>
-            <TextJoin text={msg.text}/>
-        </Typography>
+        <Divider component="span"/>
+        <TextJoin text={msg.text}/>
     </>
 };
 
@@ -58,6 +55,6 @@ const TextJoin = ({text}: any) => {
     } else {
         textString = text;
     }
-    return <span className="tgme_widget_message_text js-message_text"
+    return <p className="tgme_widget_message_bubble tgme_widget_message_text js-message_text"
                  dangerouslySetInnerHTML={{__html: textString.replace(/\n/g, '<br>')}}/>
 };
