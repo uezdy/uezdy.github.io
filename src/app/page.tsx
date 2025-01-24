@@ -1,6 +1,6 @@
 import {Metadata} from "next";
 import React from "react";
-import styles from "@/app/uezdy/page.module.css";
+import styles from "@/app/page.module.css";
 import Link from "next/link";
 
 export const metadata: Metadata = {
