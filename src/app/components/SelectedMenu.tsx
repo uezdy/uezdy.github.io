@@ -35,7 +35,7 @@ export default function SelectedMenu({messages, topicId}: {messages: Array<TGMes
     const handleClose = (e: any, id: any) => {
         e.preventDefault();
         setSelectedIndex(id);
-        router.push(`/uezdy/${id}`);
+        router.push(`/uezdy/${id}/1`);
     };
 
     return (

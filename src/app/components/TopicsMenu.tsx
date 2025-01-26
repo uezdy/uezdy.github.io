@@ -21,7 +21,7 @@ export default function TopicsMenu({messages}: { messages: Array<TGMessage> }) {
     return <>
         <ButtonGroup orientation="vertical">
             {
-                tops.map((top: TGMessage) => <Link key={top.id} href={`/uezdy/${top.id}`}>{top.title}</Link>)
+                tops.map((top: TGMessage) => <Link key={top.id} href={`/uezdy/${top.id}/1`}>{top.title}</Link>)
             }
         </ButtonGroup>
 
