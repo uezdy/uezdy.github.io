@@ -1,27 +1,34 @@
-import Chip from '@mui/joy/Chip';
 import "./Message.css";
 import React from "react";
 import Link from "next/link";
+import Button from '@mui/material/Button';
 import {TextEntity, TGMessage} from "@/app/components/types";
+import Card from '@mui/material/Card';
+import CardContent from '@mui/material/CardContent';
 
 export default async function Message({msg, topicId}: { msg: TGMessage, topicId: number }) {
     return <>
-        <span className="message-top">
-            <span>
-                <Link href={`https://t.me/uezdy/${topicId}/${msg.id}`}>
-                    <Chip size="sm">{msg.id}</Chip>
-                </Link>
-                <Chip
-                    variant="outlined"
-                    color="neutral"
-                    size="sm"
-                >{msg.from || 'Удаленный Аккаунт'}</Chip>
-            </span>
-            <Chip size="sm">
-                <Link href={`/uezdy/${topicId}/${msg.id}`}>##</Link>
-            </Chip>
-        </span>
-        <TextJoin text={msg.text}/>
+        <Card sx={{minWidth: 275}}>
+            <CardContent>
+                <span className="message-top">
+                    <span>
+                        <Button size="small" aria-label="Информация по сообщению">
+                            <Link href={`https://t.me/uezdy/${topicId}/${msg.id}`}
+                                  title="Открыть оригинальную запись в телеграм группе">
+                                {msg.id}
+                            </Link>
+                        </Button>
+                        <Button size="small" aria-label="Информация по сообщению">
+                            {msg.from || 'Удаленный Аккаунт'}
+                        </Button>
+                    </span>
+                    <Button size="small" aria-label="Информация по сообщению">
+                        <Link href={`/uezdy/${topicId}/${msg.id}`}>##</Link>
+                    </Button>
+                </span>
+                <TextJoin text={msg.text}/>
+            </CardContent>
+        </Card>
     </>
 };
 
@@ -53,5 +60,5 @@ const TextJoin = ({text}: any) => {
         textString = text;
     }
     return <p className="tgme_widget_message_bubble tgme_widget_message_text js-message_text"
-                 dangerouslySetInnerHTML={{__html: textString.replace(/\n/g, '<br>')}}/>
+              dangerouslySetInnerHTML={{__html: textString.replace(/\n/g, '<br>')}}/>
 };

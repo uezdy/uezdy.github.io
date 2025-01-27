@@ -25,7 +25,12 @@ export default function TopicsMenu({topicsPool}: any) {
     return <nav>
         <List orientation="vertical">
             {
-                tops.map((top: any) => <ListItem key={top.id}><CommentIcon className="comment-icon" /><Link className="topic-list-item" href={`/uezdy/${top.id}/1`}>{top.title}</Link></ListItem>)
+                tops.map((top: any) => <ListItem key={top.id}>
+                    <CommentIcon className="comment-icon"/>
+                    <Link className="topic-list-item" href={`/uezdy/${top.id}/1`}>
+                        {top.title}
+                    </Link>
+                </ListItem>)
             }
         </List>
 

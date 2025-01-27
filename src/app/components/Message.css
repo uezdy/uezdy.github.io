@@ -5,3 +5,8 @@
     border-bottom: none;
     border-radius: 10px 10px 0 0;
 }
+
+.message-top a,
+.message-top button {
+    font-size: 0.5rem;
+}

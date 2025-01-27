@@ -25,7 +25,6 @@ export default function RootLayout({
       <head>
           <meta name="google-site-verification" content="WcZLxrvNHupEwOXBZ_xza8RMaDFrJ_7Nc_Ax_vyo0zw" />
           <meta name="yandex-verification" content="9c6b753fbeb916ac" />
-          {/*<link rel="stylesheet" href="https://telegram.org/css/widget-frame.css?68"></link>*/}
       </head>
       <body>
         {children}

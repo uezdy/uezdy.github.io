@@ -1,4 +1,3 @@
-import styles from "./page.module.css";
 import {Metadata} from "next";
 import React from "react";
 import TopicsMenu from "@/app/components/TopicsMenu";
