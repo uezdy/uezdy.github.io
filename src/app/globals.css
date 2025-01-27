@@ -1,12 +1,17 @@
 a {
   color: inherit;
   text-decoration: none;
-
   width: fit-content;
 }
-a:hover {
-  border-bottom: 1px solid #000000;
+a.topic-list-item {
+  transition-duration: 100ms;
+  transition-property: font-size;
+}
+a.topic-list-item:hover {
   font-size: larger;
+}
+a:hover {
+  /*border-bottom: 1px solid #000000;*/
 }
 .comment-icon {
   margin: 0 10px;
