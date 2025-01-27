@@ -22,7 +22,7 @@ files.forEach((file: string) => {
     messages.push(...data);
 });
 
-messages.forEach((msg: TGMessage, index: number) => {
+messages.forEach((msg: TGMessage) => {
     if (msg.reply_to_message_id) {
         if (topicsPool[msg.reply_to_message_id]) {
             topicsPool[msg.reply_to_message_id].messages.push(msg);
@@ -48,5 +48,4 @@ for (const topicsPoolKey in topicsPool) {
         return resultArray
     }, [])
 }
-
-export {messages, topicsPool};
+export {topicsPool};

@@ -17,10 +17,9 @@ export async function generateStaticParams() {
         });
     }
 
-
     ids.forEach(({topicId}: any) => {
-        const list = topicsPool[topicId].messages;
-        new Array(Math.round(list.length/perChunk))
+        const pagesArr = topicsPool[topicId].messages;
+        new Array(pagesArr.length)
             .fill(0)
             .forEach((v: any, index: number) => {
                 stPropsArr.push({
@@ -29,18 +28,26 @@ export async function generateStaticParams() {
                 })
             })
     });
-    console.log(stPropsArr);
     return stPropsArr;
 }
 
 export default async function Page({params}: any) {
 
     const {topicId, page} = await params;
-
+    const pagesCount = topicsPool[topicId].messages.length - 1;
     return (
         <>
             <main>
                 <SelectedMenu topicsPool={topicsPool} topicId={topicId}/>
+                <div className="pagination">
+                    {
+                        new Array(pagesCount)
+                            .fill(0)
+                            .map((v: number, index: number) => {
+                                return <a key={index} href={`/uezdy/${topicId}/${index + 1}`}>{index + 1}</a>
+                            })
+                    }
+                </div>
                 {
                     topicsPool[topicId]
                         .messages[page]
