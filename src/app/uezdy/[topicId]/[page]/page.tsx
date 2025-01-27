@@ -49,7 +49,7 @@ export default async function Page({params}: any) {
                         .messages[page - 1]
                         .map((msg: TGMessage) => {
                             return msg.text && msg.type === 'message' &&
-                                <Message topicId={topicId} key={msg.id} msg={msg}/>
+                                <Message key={msg.id} topicId={topicId} page={page} msg={msg}/>
                         })
                 }
             </main>

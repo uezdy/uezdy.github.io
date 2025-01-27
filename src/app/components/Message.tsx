@@ -6,7 +6,7 @@ import {TextEntity, TGMessage} from "@/app/components/types";
 import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 
-export default async function Message({msg, topicId}: { msg: TGMessage, topicId: number }) {
+export default async function Message({msg, topicId, page}: { msg: TGMessage, topicId: number, page: number }) {
     return <>
         <Card sx={{minWidth: 275}}>
             <CardContent>
@@ -22,9 +22,11 @@ export default async function Message({msg, topicId}: { msg: TGMessage, topicId:
                             {msg.from || 'Удаленный Аккаунт'}
                         </Button>
                     </span>
-                    <Button size="small" aria-label="Информация по сообщению">
-                        <Link href={`/uezdy/${topicId}/${msg.id}`}>##</Link>
-                    </Button>
+                    <span>
+                        <Button size="small" aria-label="Информация по сообщению">
+                            <Link href={`/uezdy/${topicId}/${page}/${msg.id}`}>##</Link>
+                        </Button>
+                    </span>
                 </span>
                 <TextJoin text={msg.text}/>
             </CardContent>
