@@ -23,7 +23,7 @@ export default function TopicsMenu({topicsPool}: any) {
         }
     }, [topicsPool]);
     return <nav>
-        <List orientation="vertical">
+        <List>
             {
                 tops.map((top: any) => <ListItem key={top.id}>
                     <CommentIcon className="comment-icon"/>
