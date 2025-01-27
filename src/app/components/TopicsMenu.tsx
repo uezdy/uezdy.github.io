@@ -2,26 +2,28 @@
 import React from "react";
 import {ButtonGroup} from "@mui/joy";
 import Link from 'next/link'
-import {TGMessage} from "@/app/components/types";
 
-export default function TopicsMenu({messages}: { messages: Array<TGMessage> }) {
-    const [tops, setTops] = React.useState<Array<TGMessage>>([]);
+export default function TopicsMenu({topicsPool}: any) {
+    const [tops, setTops] = React.useState<any>([]);
     React.useEffect(() => {
-        if (messages) {
+        if (topicsPool) {
             const topics: any = [];
-            messages.forEach((msg: TGMessage) => {
-                if (msg.action === 'topic_created') {
-                    topics.push(msg);
-                }
-            });
+
+            for (const topicsPoolKey in topicsPool) {
+                const msg: any = topicsPool[topicsPoolKey];
+                topics.push({
+                    id: msg.id,
+                    title: msg.title
+                });
+            }
 
             setTops(topics);
         }
-    }, [messages]);
+    }, [topicsPool]);
     return <>
         <ButtonGroup orientation="vertical">
             {
-                tops.map((top: TGMessage) => <Link key={top.id} href={`/uezdy/${top.id}/1`}>{top.title}</Link>)
+                tops.map((top: any) => <Link key={top.id} href={`/uezdy/${top.id}/1`}>{top.title}</Link>)
             }
         </ButtonGroup>
 

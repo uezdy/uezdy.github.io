@@ -2,7 +2,7 @@ import styles from "./page.module.css";
 import {Metadata} from "next";
 import React from "react";
 import TopicsMenu from "@/app/components/TopicsMenu";
-import {messages} from "@/app/services/service.data";
+import {topicsPool} from "@/app/services/service.data";
 
 export const metadata: Metadata = {
     title: "Уезды Беларуси (Генеалогия Беларуси)",
@@ -15,7 +15,7 @@ export default async function Home() {
     return (
         <div className={styles.page}>
             <main className={styles.main}>
-                <TopicsMenu messages={messages}/>
+                <TopicsMenu topicsPool={topicsPool}/>
             </main>
             <footer className={styles.footer}>
 
