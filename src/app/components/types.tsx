@@ -15,6 +15,7 @@ export interface TGMessage {
     name?:                string;
     founded?:             number;
     members?:             string[];
+    messages:             string[];
 }
 
 export interface TextEntity {

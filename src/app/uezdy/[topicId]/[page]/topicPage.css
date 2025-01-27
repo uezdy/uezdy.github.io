@@ -13,3 +13,12 @@ main p {
     word-break: break-word;
     padding: 12px 17px;
 }
+
+.top-navigation-bar {
+    display: flex;
+    width: calc(100vw - 90px - 34px);
+}
+.top-navigation-bar .pagination {
+    width: calc(100vw - 90px - 34px - 112px);
+    overflow-y: auto;
+}

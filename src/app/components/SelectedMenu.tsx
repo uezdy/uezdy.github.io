@@ -9,7 +9,7 @@ import Dropdown from '@mui/joy/Dropdown';
 import {TGMessage} from "@/app/components/types";
 import { useRouter } from 'next/navigation';
 
-export default function SelectedMenu({messages, topicId}: {messages: Array<TGMessage>, topicId: number}) {
+export default function SelectedMenu({topicsPool, topicId}: {topicsPool: Array<TGMessage>, topicId: number}) {
     const [selectedIndex, setSelectedIndex] = React.useState<number>(+topicId);
     const router = useRouter();
 
@@ -19,23 +19,26 @@ export default function SelectedMenu({messages, topicId}: {messages: Array<TGMes
     }, [topicId]);
 
     React.useEffect(() => {
-        if (messages) {
+        if (topicsPool) {
             const topics: any = [];
-            messages.forEach((msg: TGMessage) => {
-                if (msg.action === 'topic_created') {
-                    topics.push(msg);
-                }
-            });
+
+            for (const topicsPoolKey in topicsPool) {
+                const msg: any = topicsPool[topicsPoolKey];
+                topics.push({
+                    id: msg.id,
+                    title: msg.title
+                });
+            }
 
             setTops(topics);
         }
-    }, [messages]);
+    }, [topicsPool]);
 
 
     const handleClose = (e: any, id: any) => {
         e.preventDefault();
         setSelectedIndex(id);
-        router.push(`/uezdy/${id}`);
+        router.push(`/uezdy/${id}/1`);
     };
 
     return (
