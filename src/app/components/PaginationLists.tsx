@@ -13,7 +13,7 @@ export default function PaginationLists({pagesCount, topicId, page}: any) {
         router.push(`/uezdy/${topicId}/${nPage}`);
     };
 
-    return pagesCount ? <Pagination
+    return pagesCount > 1 ? <Pagination
         size="small"
         hidePrevButton
         hideNextButton
