@@ -13,7 +13,7 @@ export default async function Message({msg, topicId}: { msg: TGMessage, topicId:
                 <span className="message-top">
                     <span>
                         <Button size="small" aria-label="Информация по сообщению">
-                            <Link href={`https://t.me/uezdy/${topicId}/${msg.id}`}
+                            <Link target="_blank" href={`https://t.me/uezdy/${topicId}/${msg.id}`}
                                   title="Открыть оригинальную запись в телеграм группе">
                                 {msg.id}
                             </Link>
