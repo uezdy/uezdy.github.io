@@ -38,12 +38,11 @@ export default async function Page({params}: any) {
     const pagesCount = topicsPool[topicId].messages.length - 1;
     return (
         <>
+            <nav className="static-navigation-bar top-navigation-bar">
+                <SelectedMenu topicsPool={topicsPool} topicId={topicId}/>
+                <PaginationLists pagesCount={pagesCount} topicId={topicId} page={page} />
+            </nav>
             <main>
-
-                <nav className="top-navigation-bar">
-                    <SelectedMenu topicsPool={topicsPool} topicId={topicId}/>
-                    <PaginationLists pagesCount={pagesCount} topicId={topicId} page={page} />
-                </nav>
                 {
                     topicsPool[topicId]
                         .messages[page - 1]

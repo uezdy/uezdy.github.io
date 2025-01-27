@@ -8,7 +8,7 @@ import CardContent from '@mui/material/CardContent';
 
 export default async function Message({msg, topicId, page}: { msg: TGMessage, topicId: number, page: number }) {
     return <>
-        <Card sx={{minWidth: 275}}>
+        <Card sx={{minWidth: 275}} className="message-card">
             <CardContent>
                 <span className="message-top">
                     <span>

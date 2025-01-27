@@ -3,8 +3,10 @@
         margin-left: 45px;
         padding: 12px 17px;
     }
+    .static-navigation-bar {
+        padding-left: 62px;
+    }
 }
-
 
 main p {
     display: block;
@@ -24,4 +26,20 @@ main p {
 .top-navigation-bar .pagination {
     width: calc(100vw - 90px - 34px - 112px);
     overflow-y: auto;
+}
+
+.static-navigation-bar {
+    position: fixed;
+    background-color: #ffffff;
+    width: 100%;
+    opacity: 1;
+    z-index: 1;
+    top: 0;
+    border-bottom: 1px solid #d7e3ec;
+}
+
+main {
+    margin-top: 38px;
+    overflow: scroll;
+    height: calc(100vh - 38px);
 }
