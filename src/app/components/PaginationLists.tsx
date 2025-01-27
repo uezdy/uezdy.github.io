@@ -1,6 +1,6 @@
 'use client'
 
-import {Pagination, PaginationItem, PaginationRenderItemParams} from "@mui/material";
+import {Pagination} from "@mui/material";
 import { useRouter } from 'next/navigation';
 import './PaginationLists.css';
 import {ChangeEvent} from "react";
@@ -13,7 +13,7 @@ export default function PaginationLists({pagesCount, topicId, page}: any) {
         router.push(`/uezdy/${topicId}/${nPage}`);
     };
 
-    return <Pagination
+    return pagesCount ? <Pagination
         size="small"
         hidePrevButton
         hideNextButton
@@ -23,7 +23,7 @@ export default function PaginationLists({pagesCount, topicId, page}: any) {
         siblingCount={0}
         defaultPage={+page || 1}
         onChange={clickHandler}
-    />
+    /> : <></>
 };
 
 /*
