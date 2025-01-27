@@ -3,7 +3,10 @@ import React from "react";
 import {TGMessage} from "@/app/components/types";
 import SelectedMenu from "@/app/components/SelectedMenu";
 import "./topicPage.css";
-import {perChunk, topicsPool} from "@/app/services/service.data";
+import {topicsPool} from "@/app/services/service.data";
+import Button from '@mui/material/Button';
+import ButtonGroup from '@mui/material/ButtonGroup';
+import Link from "next/link";
 
 export async function generateStaticParams() {
     const stPropsArr: Array<any> = [];
@@ -38,16 +41,18 @@ export default async function Page({params}: any) {
     return (
         <>
             <main>
-                <SelectedMenu topicsPool={topicsPool} topicId={topicId}/>
-                <div className="pagination">
-                    {
-                        new Array(pagesCount)
-                            .fill(0)
-                            .map((v: number, index: number) => {
-                                return <a key={index} href={`/uezdy/${topicId}/${index + 1}`}>{index + 1}</a>
-                            })
-                    }
-                </div>
+                <nav className="top-navigation-bar">
+                    <SelectedMenu topicsPool={topicsPool} topicId={topicId}/>
+                    <ButtonGroup className="pagination" variant="outlined" size="small" aria-label="Basic button group">
+                        {
+                            new Array(pagesCount)
+                                .fill(0)
+                                .map((v: number, index: number) => {
+                                    return <Button key={index} disabled={+page === (index + 1)}><Link href={`/uezdy/${topicId}/${index + 1}`}>{index + 1}</Link></Button>
+                                })
+                        }
+                    </ButtonGroup>
+                </nav>
                 {
                     topicsPool[topicId]
                         .messages[page]
