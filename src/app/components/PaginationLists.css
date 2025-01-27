@@ -1,3 +1,7 @@
 .pagination-native-mui {
     display: flex;
+    margin-left: 1rem;
+}
+.pagination-native-mui ul {
+    flex-wrap: nowrap;
 }

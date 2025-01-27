@@ -14,10 +14,13 @@ export default function PaginationLists({pagesCount, topicId, page}: any) {
     };
 
     return <Pagination
+        size="small"
+        hidePrevButton
+        hideNextButton
         className="pagination-native-mui"
         count={pagesCount}
-        boundaryCount={1}
-        siblingCount={1}
+        boundaryCount={3}
+        siblingCount={0}
         defaultPage={+page || 1}
         onChange={clickHandler}
     />
