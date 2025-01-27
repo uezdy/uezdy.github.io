@@ -12,14 +12,7 @@ export const metadata: Metadata = {
 
 export default async function Home() {
 
-    return (
-        <div className={styles.page}>
-            <main className={styles.main}>
-                <TopicsMenu topicsPool={topicsPool}/>
-            </main>
-            <footer className={styles.footer}>
-
-            </footer>
-        </div>
-    );
+    return <>
+        <TopicsMenu topicsPool={topicsPool} />
+    </>;
 }

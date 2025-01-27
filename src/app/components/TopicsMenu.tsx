@@ -1,7 +1,9 @@
 'use client'
 import React from "react";
-import {ButtonGroup} from "@mui/joy";
 import Link from 'next/link'
+import List from '@mui/material/List';
+import ListItem from '@mui/material/ListItem';
+import CommentIcon from '@mui/icons-material/Comment';
 
 export default function TopicsMenu({topicsPool}: any) {
     const [tops, setTops] = React.useState<any>([]);
@@ -20,12 +22,12 @@ export default function TopicsMenu({topicsPool}: any) {
             setTops(topics);
         }
     }, [topicsPool]);
-    return <>
-        <ButtonGroup orientation="vertical">
+    return <nav>
+        <List orientation="vertical">
             {
-                tops.map((top: any) => <Link key={top.id} href={`/uezdy/${top.id}/1`}>{top.title}</Link>)
+                tops.map((top: any) => <ListItem key={top.id}><CommentIcon className="comment-icon" /><Link underline="hover" href={`/uezdy/${top.id}/1`}>{top.title}</Link></ListItem>)
             }
-        </ButtonGroup>
+        </List>
 
-    </>
+    </nav>
 };
