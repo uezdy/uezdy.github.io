@@ -6,7 +6,7 @@ const messages: Array<TGMessage> = [];
 const files = await fs.readdirSync(path.resolve('./public/uezdy/src'), 'utf8')
 
 const topicsPool: any = {};
-export const perChunk = 1000;
+export const perChunk = 100;
 
 files.forEach((file: string) => {
     const pathJSON = path.join('./public/uezdy/src', file);
