@@ -11,7 +11,7 @@ a.topic-list-item:hover {
   font-size: larger;
 }
 a:hover {
-  /*border-bottom: 1px solid #000000;*/
+  text-decoration: underline;
 }
 .comment-icon {
   margin: 0 10px;
