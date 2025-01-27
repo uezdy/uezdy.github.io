@@ -3,11 +3,12 @@
 import {Pagination, PaginationItem, PaginationRenderItemParams} from "@mui/material";
 import { useRouter } from 'next/navigation';
 import './PaginationLists.css';
+import {ChangeEvent} from "react";
 
 export default function PaginationLists({pagesCount, topicId, page}: any) {
     const router = useRouter();
 
-    const clickHandler = (event: React.ChangeEvent, nPage: number) => {
+    const clickHandler = (event: ChangeEvent<unknown>, nPage: number) => {
         event.preventDefault();
         router.push(`/uezdy/${topicId}/${nPage}`);
     };
