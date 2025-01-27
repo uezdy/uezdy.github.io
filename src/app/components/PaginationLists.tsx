@@ -3,9 +3,10 @@
 import {Pagination} from "@mui/material";
 import { useRouter } from 'next/navigation';
 import './PaginationLists.css';
-import {ChangeEvent} from "react";
+import React, {ChangeEvent} from "react";
 
 export default function PaginationLists({pagesCount, topicId, page}: any) {
+    const [currentWidth, setCurrentWidth] = React.useState(1000);
     const router = useRouter();
 
     const clickHandler = (event: ChangeEvent<unknown>, nPage: number) => {
@@ -13,19 +14,17 @@ export default function PaginationLists({pagesCount, topicId, page}: any) {
         router.push(`/uezdy/${topicId}/${nPage}`);
     };
 
+    React.useEffect(() => {
+        setCurrentWidth(window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth);
+    }, []);
+
     return pagesCount > 1 ? <Pagination
         size="small"
-        hidePrevButton
-        hideNextButton
         className="pagination-native-mui"
         count={pagesCount}
-        boundaryCount={3}
-        siblingCount={0}
+        boundaryCount={currentWidth < 700 && pagesCount > 10 ? 1 : 3}
+        siblingCount={currentWidth < 700 && pagesCount > 10 ? 1 : 3}
         defaultPage={+page || 1}
         onChange={clickHandler}
     /> : <></>
 };
-
-/*
-<Button key={index} disabled={+page === (index + 1)}><Link href={`/uezdy/${topicId}/${index + 1}`}>{index + 1}</Link></Button>
-* */
