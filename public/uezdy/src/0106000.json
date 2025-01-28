@@ -28378,9 +28378,14 @@
         "reactions": [
             {
                 "type": "emoji",
-                "count": 2,
+                "count": 3,
                 "emoji": "😁",
                 "recent": [
+                    {
+                        "from": "Виктория",
+                        "from_id": "user1069039166",
+                        "date": "2025-01-25T08:24:37"
+                    },
                     {
                         "from": "Elena",
                         "from_id": "user823477307",

@@ -7411,11 +7411,18 @@
                         "from": "Надежда",
                         "from_id": "user526360320",
                         "date": "2024-08-17T16:50:18"
-                    },
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
                     {
-                        "from": ";",
-                        "from_id": "user5579643927",
-                        "date": "2024-08-15T06:08:21"
+                        "from": "Марина Баранова",
+                        "from_id": "user5174884532",
+                        "date": "2025-01-24T10:55:00"
                     }
                 ]
             }
@@ -17618,7 +17625,7 @@
         "type": "message",
         "date": "2024-08-17T22:09:58",
         "date_unixtime": "1723921798",
-        "from": "Olga Kukuts",
+        "from": "Olga",
         "from_id": "user1144031369",
         "reply_to_message_id": 60130,
         "text": "ну, кстати да, в слове выше сРОдственник пишется так же. Запишу Ярошем тогда. Всем спасибо",
@@ -42041,9 +42048,14 @@
         "reactions": [
             {
                 "type": "emoji",
-                "count": 8,
+                "count": 9,
                 "emoji": "👍",
                 "recent": [
+                    {
+                        "from": "Eka",
+                        "from_id": "user835480479",
+                        "date": "2025-01-27T23:36:03"
+                    },
                     {
                         "from": "Eka",
                         "from_id": "user510598726",

@@ -17635,9 +17635,14 @@
             },
             {
                 "type": "emoji",
-                "count": 1,
+                "count": 2,
                 "emoji": "🔥",
                 "recent": [
+                    {
+                        "from": "Детидетей",
+                        "from_id": "user668121919",
+                        "date": "2025-01-28T01:53:06"
+                    },
                     {
                         "from": "Evgeniy Shabanov",
                         "from_id": "user387659235",

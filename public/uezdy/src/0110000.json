@@ -16071,6 +16071,23 @@
             {
                 "type": "emoji",
                 "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "$€£¥ €£¥₩$",
+                        "from_id": "user6871021372",
+                        "date": "2025-01-25T00:02:51"
+                    },
+                    {
+                        "from": "Leon",
+                        "from_id": "user1876891660",
+                        "date": "2025-01-13T10:17:52"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
                 "emoji": "❤",
                 "recent": [
                     {
@@ -19157,6 +19174,18 @@
             }
         ],
         "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "💯",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2025-01-23T16:39:55"
+                    }
+                ]
+            },
             {
                 "type": "emoji",
                 "count": 1,
@@ -24178,9 +24207,14 @@
         "reactions": [
             {
                 "type": "emoji",
-                "count": 4,
+                "count": 5,
                 "emoji": "👍",
                 "recent": [
+                    {
+                        "from": "ina",
+                        "from_id": "user1161095317",
+                        "date": "2025-01-25T09:38:45"
+                    },
                     {
                         "from": "Yarasłaŭ Šapavał",
                         "from_id": "user64665575",

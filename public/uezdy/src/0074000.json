@@ -7096,18 +7096,18 @@
         "reactions": [
             {
                 "type": "emoji",
-                "count": 15,
+                "count": 16,
                 "emoji": "🔥",
                 "recent": [
+                    {
+                        "from": "Eka",
+                        "from_id": "user835480479",
+                        "date": "2025-01-27T23:04:00"
+                    },
                     {
                         "from": "Дарья Лебедева",
                         "from_id": "user5695411996",
                         "date": "2024-02-15T21:57:51"
-                    },
-                    {
-                        "from": "dinapan",
-                        "from_id": "user1282302844",
-                        "date": "2024-02-13T17:41:31"
                     }
                 ]
             },

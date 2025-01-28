@@ -5671,9 +5671,14 @@
         "reactions": [
             {
                 "type": "emoji",
-                "count": 8,
+                "count": 9,
                 "emoji": "👍",
                 "recent": [
+                    {
+                        "from": "В",
+                        "from_id": "user5050312544",
+                        "date": "2025-01-23T20:09:30"
+                    },
                     {
                         "from": "Anatoly Sazanovich",
                         "from_id": "user5542313094",

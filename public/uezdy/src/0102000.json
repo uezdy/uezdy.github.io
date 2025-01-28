@@ -26073,9 +26073,14 @@
         "reactions": [
             {
                 "type": "emoji",
-                "count": 3,
+                "count": 4,
                 "emoji": "👍",
                 "recent": [
+                    {
+                        "from": "Ира",
+                        "from_id": "user475415013",
+                        "date": "2025-01-26T18:13:45"
+                    },
                     {
                         "from": "Tacciana",
                         "from_id": "user6965994936",

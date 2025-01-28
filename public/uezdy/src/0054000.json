@@ -16215,9 +16215,14 @@
         "reactions": [
             {
                 "type": "emoji",
-                "count": 2,
+                "count": 3,
                 "emoji": "😢",
                 "recent": [
+                    {
+                        "from": "Екатерина Алипова",
+                        "from_id": "user1678585837",
+                        "date": "2025-01-26T23:26:58"
+                    },
                     {
                         "from": "Виктория",
                         "from_id": "user1069039166",

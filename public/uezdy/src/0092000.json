@@ -19955,9 +19955,14 @@
         "reactions": [
             {
                 "type": "emoji",
-                "count": 1,
+                "count": 2,
                 "emoji": "👍",
                 "recent": [
+                    {
+                        "from": "Eka",
+                        "from_id": "user835480479",
+                        "date": "2025-01-27T23:25:21"
+                    },
                     {
                         "from": "Анатолий Атнагулов",
                         "from_id": "user1002589739",
@@ -21385,7 +21390,7 @@
         "type": "message",
         "date": "2024-07-31T17:49:42",
         "date_unixtime": "1722437382",
-        "from": "Olga Kukuts",
+        "from": "Olga",
         "from_id": "user1144031369",
         "reply_to_message_id": 90962,
         "text": "Ага, я вот тоже ради такой информации ищу.",

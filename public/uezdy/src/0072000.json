@@ -7428,20 +7428,18 @@
             {
                 "type": "emoji",
                 "count": 5,
-                "emoji": "✍",
-                "recent": [
-                    {
-                        "from": "Елизавета Т.",
-                        "from_id": "user290703965",
-                        "date": "2024-01-23T14:19:41"
-                    }
-                ]
+                "emoji": "✍"
             },
             {
                 "type": "emoji",
-                "count": 4,
+                "count": 5,
                 "emoji": "🎉",
                 "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2025-01-23T11:00:46"
+                    },
                     {
                         "from": "I D",
                         "from_id": "user5726368881",
@@ -12120,9 +12118,14 @@
         "reactions": [
             {
                 "type": "emoji",
-                "count": 4,
+                "count": 5,
                 "emoji": "❤",
                 "recent": [
+                    {
+                        "from": "Kats",
+                        "from_id": "user543969229",
+                        "date": "2025-01-23T18:06:31"
+                    },
                     {
                         "from": null,
                         "from_id": "user1647115375",
@@ -12132,11 +12135,6 @@
                         "from": "MikhailR Kubasov",
                         "from_id": "user918899531",
                         "date": "2024-01-24T12:51:30"
-                    },
-                    {
-                        "from": "Viktar",
-                        "from_id": "user283664960",
-                        "date": "2024-01-24T07:22:58"
                     }
                 ]
             }
