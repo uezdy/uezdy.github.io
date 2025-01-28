@@ -7,22 +7,28 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 
 export default async function Message({msg, topicId, page}: { msg: TGMessage, topicId: number, page: number }) {
+    let date = new Date(msg.date as any);
+    let year = new Intl.DateTimeFormat('ru', { year: 'numeric' }).format(date);
+    let month = new Intl.DateTimeFormat('ru', { month: 'short' }).format(date);
+    let day = new Intl.DateTimeFormat('ru', { day: '2-digit' }).format(date);
+    console.log(`${day}-${month}-${year}`);
     return <>
         <Card sx={{minWidth: 275}} className="message-card">
             <CardContent>
                 <span className="message-top">
                     <span>
                         <Button size="small" aria-label="Информация по сообщению">
-                            <Link target="_blank" href={`https://t.me/uezdy/${topicId}/${msg.id}`}
+                            <Link target="_blank" href={`https://t.me/uezdy${+topicId ? `/${topicId}` : ''}/${msg.id}`}
                                   title="Открыть оригинальную запись в телеграм группе">
                                 {msg.id}
                             </Link>
                         </Button>
-                        <Button size="small" aria-label="Информация по сообщению">
+                        <Button size="small" aria-label="Информация по сообщению" className={msg.from_id}>
                             {msg.from || 'Удаленный Аккаунт'}
                         </Button>
                     </span>
                     <span>
+                        <span aria-label="Date of message" className="date-of-message">{`${day} ${month} ${year}`}</span>
                         <Button size="small" aria-label="Информация по сообщению">
                             <Link href={`/uezdy/${topicId}/${page}/${msg.id}`}>##</Link>
                         </Button>

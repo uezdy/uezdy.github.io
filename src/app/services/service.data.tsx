@@ -5,7 +5,13 @@ import {TGMessage} from "@/app/components/types";
 const messages: Array<TGMessage> = [];
 const files = await fs.readdirSync(path.resolve('./public/uezdy/src'), 'utf8')
 
-const topicsPool: any = {};
+const topicsPool: any = {
+    '0': {
+        title: 'default',
+        id: 0,
+        messages: []
+    }
+};
 export const perChunk = 500;
 
 files.forEach((file: string) => {
@@ -27,6 +33,8 @@ messages.forEach((msg: TGMessage) => {
         if (topicsPool[msg.reply_to_message_id]) {
             topicsPool[msg.reply_to_message_id].messages.push(msg);
         }
+    } else {
+        topicsPool['0'].messages.push(msg);
     }
 });
 
