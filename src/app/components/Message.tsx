@@ -23,7 +23,7 @@ export default async function Message({msg, topicId, page}: { msg: TGMessage, to
                                 {msg.id}
                             </Link>
                         </Button>
-                        <Button size="small" aria-label="Информация по сообщению" className={msg.from_id}>
+                        <Button size="small" aria-label="Автор сообщения" className={msg.from_id}>
                             {msg.from || 'Удаленный Аккаунт'}
                         </Button>
                     </span>
