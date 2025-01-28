@@ -11,7 +11,7 @@ export default async function Message({msg, topicId, page}: { msg: TGMessage, to
     let year = new Intl.DateTimeFormat('ru', { year: 'numeric' }).format(date);
     let month = new Intl.DateTimeFormat('ru', { month: 'short' }).format(date);
     let day = new Intl.DateTimeFormat('ru', { day: '2-digit' }).format(date);
-    console.log(`${day}-${month}-${year}`);
+
     return <>
         <Card sx={{minWidth: 275}} className="message-card">
             <CardContent>
