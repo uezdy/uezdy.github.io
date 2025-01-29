@@ -54,7 +54,7 @@ for (const topicId in pool) {
     const messagesObject = pool[topicId];
     for (const messageId in messagesObject) {
         topicChunk[messageId] = messagesObject[messageId];
-        if (Object.keys(topicChunk).length >= (count - 1)) {
+        if (+messageId >= (count - 1)) {
             const fileName = normalazePageNumb(`${count}`);
             if (!fs.existsSync(`${targetDir}/${topicId}`)){
                 fs.mkdirSync(`${targetDir}/${topicId}`);
@@ -64,6 +64,10 @@ for (const topicId in pool) {
             count += 2000;
         }
     }
+    count += 2000;
+    const fileName = normalazePageNumb(`${count}`);
+    fs.writeFileSync(`${targetDir}/${topicId}/${fileName}.json`, JSON.stringify(topicChunk, null, 4), {encoding: 'utf8', flag: 'w'});
+
 }
 
 function normalazePageNumb(page) {
