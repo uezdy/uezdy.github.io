@@ -39,34 +39,48 @@ data.messages.forEach((message, index) => {
     }
     if (message.reply_to_message_id) {
         const tID = getTopicId(message.reply_to_message_id);
-        if (!pool[tID]) {
+        if (!pool[tID] && poolTopics[tID]) {
             pool[tID] = {};
         }
-        pool[tID][message.id] = message;
+        if (poolTopics[tID]) {
+            pool[tID][message.id] = message;
+        } else {
+            pool['0'][message.id] = message;
+        }
     } else {
         pool['0'][message.id] = message;
     }
 });
 
+if (!fs.existsSync(`${targetDir}`)){
+    fs.mkdirSync(`${targetDir}`);
+}
+
 for (const topicId in pool) {
+    if (!fs.existsSync(`${targetDir}/${topicId}`)){
+        fs.mkdirSync(`${targetDir}/${topicId}`);
+    }
     let count = 2000;
     let topicChunk = {};
     const messagesObject = pool[topicId];
+    const messagesLength = Object.keys(messagesObject).length;
+    let index = 0;
     for (const messageId in messagesObject) {
         topicChunk[messageId] = messagesObject[messageId];
         if (+messageId >= (count - 1)) {
             const fileName = normalazePageNumb(`${count}`);
-            if (!fs.existsSync(`${targetDir}/${topicId}`)){
-                fs.mkdirSync(`${targetDir}/${topicId}`);
-            }
             fs.writeFileSync(`${targetDir}/${topicId}/${fileName}.json`, JSON.stringify(topicChunk, null, 4), {encoding: 'utf8', flag: 'w'});
             topicChunk = {};
             count += 2000;
         }
+        if (index === (messagesLength - 1)) {
+            count += 2000;
+            const fileName = normalazePageNumb(`${count}`);
+            fs.writeFileSync(`${targetDir}/${topicId}/${fileName}.json`, JSON.stringify(topicChunk, null, 4), {encoding: 'utf8', flag: 'w'});
+            topicChunk = {};
+        }
+        ++index;
     }
-    count += 2000;
-    const fileName = normalazePageNumb(`${count}`);
-    fs.writeFileSync(`${targetDir}/${topicId}/${fileName}.json`, JSON.stringify(topicChunk, null, 4), {encoding: 'utf8', flag: 'w'});
 
 }
 
