@@ -1,0 +1,836 @@
+{
+    "100054": {
+        "id": 100054,
+        "type": "message",
+        "date": "2024-10-14T11:59:15",
+        "date_unixtime": "1728896355",
+        "edited": "2024-10-14T13:45:29",
+        "edited_unixtime": "1728902729",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "8573.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Военные разорения и восстановление сельского \nхозяйства на востоке Белорусии во второй половине \nXVII - первой половине XVIII вв.\nВ.И.МЕЛЕШКО\n1974г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Военные разорения и восстановление сельского \nхозяйства на востоке Белорусии во второй половине \nXVII - первой половине XVIII вв.\nВ.И.МЕЛЕШКО\n1974г."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Александр МойДом",
+                        "from_id": "user1447328870",
+                        "date": "2024-10-31T02:35:57"
+                    },
+                    {
+                        "from": "Andrei",
+                        "from_id": "user1041972008",
+                        "date": "2024-10-15T11:06:36"
+                    },
+                    {
+                        "from": "Gеоrge",
+                        "from_id": "user1208477498",
+                        "date": "2024-10-14T22:16:23"
+                    }
+                ]
+            }
+        ]
+    },
+    "100111": {
+        "id": 100111,
+        "type": "message",
+        "date": "2024-10-14T17:51:15",
+        "date_unixtime": "1728917475",
+        "edited": "2024-10-14T18:07:29",
+        "edited_unixtime": "1728918449",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1244,
+        "height": 1280,
+        "text": [
+            "Историческая справка о городах Гродненской губернии от 1892 г.\nЧерновик. Рукопись. \n",
+            {
+                "type": "text_link",
+                "text": "НИАБ в г.Гродно: Ф. 1. Оп. 18. Д. 40. Лл. 14а - 15.",
+                "href": "https://vk.com/wall-219337249_95"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Историческая справка о городах Гродненской губернии от 1892 г.\nЧерновик. Рукопись. \n"
+            },
+            {
+                "type": "text_link",
+                "text": "НИАБ в г.Гродно: Ф. 1. Оп. 18. Д. 40. Лл. 14а - 15.",
+                "href": "https://vk.com/wall-219337249_95"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Olga Shichko",
+                        "from_id": "user735923170",
+                        "date": "2024-10-20T17:57:05"
+                    },
+                    {
+                        "from": "K",
+                        "from_id": "user725953270",
+                        "date": "2024-10-14T23:00:56"
+                    },
+                    {
+                        "from": "Sb",
+                        "from_id": "user6512553342",
+                        "date": "2024-10-14T22:32:08"
+                    }
+                ]
+            }
+        ]
+    },
+    "100283": {
+        "id": 100283,
+        "type": "message",
+        "date": "2024-10-17T04:57:55",
+        "date_unixtime": "1729130275",
+        "edited": "2024-10-20T19:35:53",
+        "edited_unixtime": "1729442153",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "Книжный магазин «Фаланстер»",
+        "reply_to_message_id": 24109,
+        "text": [
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://sun9-24.userapi.com/s/v1/ig2/Kcr2fW_q812_ueHkuA9S8nGIY4M6RtQiAON_KnODmZUwwe27RMlKzXWCO3XwtMJM1ykBD1wGeeRigTbKosLlDgS_.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2160x2160&from=bu&cs=1280x1280"
+            },
+            {
+                "type": "bold",
+                "text": "Кио Маклир. Корни: о сплетеньях жизни и семейных тайнах\n"
+            },
+            "Издательство Ad Marginem. 707 р.\n\nВ новом романе канадская писательница Кио Маклир, автор нескольких детских книг и орнитологического автофикшна «Птицы, искусство, жизнь» (2017), продолжает исследовать границу между природой и культурой, помещая частную историю своей семьи в центр художественного повествования. Спустя три месяца после смерти отца она сдает ДНК-тест и узнает, что он не являлся ее биологическим родственником. Мать, иммигрантка из Японии, хранит молчание, то ли не в состоянии подобрать нужные слова, то ли не желая ворошить прошлое. В попытках понять мать, увлекающуюся садоводством, героиня обращается к миру цветов и растений. Маклир совершает воображаемое путешествие по садам в своей жизни, следуя за японским календарем, который делится не на времена года, а на двадцать четыре малых сезона — сэкки: чистый свет, холодные росы, хлебные дожди… — чтобы обрести общий язык, который поможет не только разгадать семейную тайну, но и найти ответы на более серьезные вопросы: что такое родство и что значит быть семьей?\n\nСм. также:\nПтицы, искусство, жизнь: год наблюдений. 544 р. ",
+            {
+                "type": "link",
+                "text": "https://vk.com/wall-30401645_115851"
+            },
+            "\n\nЗаказать книгу с доставкой: ",
+            {
+                "type": "email",
+                "text": "shop@falanster.ru"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://sun9-24.userapi.com/s/v1/ig2/Kcr2fW_q812_ueHkuA9S8nGIY4M6RtQiAON_KnODmZUwwe27RMlKzXWCO3XwtMJM1ykBD1wGeeRigTbKosLlDgS_.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2160x2160&from=bu&cs=1280x1280"
+            },
+            {
+                "type": "bold",
+                "text": "Кио Маклир. Корни: о сплетеньях жизни и семейных тайнах\n"
+            },
+            {
+                "type": "plain",
+                "text": "Издательство Ad Marginem. 707 р.\n\nВ новом романе канадская писательница Кио Маклир, автор нескольких детских книг и орнитологического автофикшна «Птицы, искусство, жизнь» (2017), продолжает исследовать границу между природой и культурой, помещая частную историю своей семьи в центр художественного повествования. Спустя три месяца после смерти отца она сдает ДНК-тест и узнает, что он не являлся ее биологическим родственником. Мать, иммигрантка из Японии, хранит молчание, то ли не в состоянии подобрать нужные слова, то ли не желая ворошить прошлое. В попытках понять мать, увлекающуюся садоводством, героиня обращается к миру цветов и растений. Маклир совершает воображаемое путешествие по садам в своей жизни, следуя за японским календарем, который делится не на времена года, а на двадцать четыре малых сезона — сэкки: чистый свет, холодные росы, хлебные дожди… — чтобы обрести общий язык, который поможет не только разгадать семейную тайну, но и найти ответы на более серьезные вопросы: что такое родство и что значит быть семьей?\n\nСм. также:\nПтицы, искусство, жизнь: год наблюдений. 544 р. "
+            },
+            {
+                "type": "link",
+                "text": "https://vk.com/wall-30401645_115851"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nЗаказать книгу с доставкой: "
+            },
+            {
+                "type": "email",
+                "text": "shop@falanster.ru"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "100538": {
+        "id": 100538,
+        "type": "message",
+        "date": "2024-10-19T18:31:48",
+        "date_unixtime": "1729351908",
+        "edited": "2024-10-19T18:48:04",
+        "edited_unixtime": "1729352884",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1080,
+        "height": 1157,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 10,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Александр МойДом",
+                        "from_id": "user1447328870",
+                        "date": "2024-10-31T02:45:24"
+                    },
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-10-28T07:50:51"
+                    },
+                    {
+                        "from": "Валентин Ш",
+                        "from_id": "user968736097",
+                        "date": "2024-10-19T23:03:16"
+                    }
+                ]
+            }
+        ]
+    },
+    "100539": {
+        "id": 100539,
+        "type": "message",
+        "date": "2024-10-19T18:31:48",
+        "date_unixtime": "1729351908",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1052,
+        "height": 1280,
+        "text": [
+            "800 страниц документов, касающихся Беларуси 1654-1655гг.\n\nскачать книгу можно здесь:\n",
+            {
+                "type": "link",
+                "text": "https://runivers.ru/lib/book19843/595792/#BookContents"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "800 страниц документов, касающихся Беларуси 1654-1655гг.\n\nскачать книгу можно здесь:\n"
+            },
+            {
+                "type": "link",
+                "text": "https://runivers.ru/lib/book19843/595792/#BookContents"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "101197": {
+        "id": 101197,
+        "type": "message",
+        "date": "2024-10-23T21:48:17",
+        "date_unixtime": "1729709297",
+        "edited": "2024-10-23T21:48:43",
+        "edited_unixtime": "1729709323",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Konfederacya_generalna_omnium_ordinum_re (1).pdf",
+        "mime_type": "application/pdf",
+        "text": "Konfederacya generalna omnium ordinum regni et magni ducatus Lithvaniae,\nroku 1764",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Konfederacya generalna omnium ordinum regni et magni ducatus Lithvaniae,\nroku 1764"
+            }
+        ]
+    },
+    "101367": {
+        "id": 101367,
+        "type": "message",
+        "date": "2024-10-25T12:26:14",
+        "date_unixtime": "1729848374",
+        "edited": "2024-10-25T12:31:41",
+        "edited_unixtime": "1729848701",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Gritskevich_Anatoliy_Chastnovladelcheskie_goroda_Belorussii_v_XV.djvu",
+        "mime_type": "image/vnd.djvu",
+        "text": "Анатолий Грицкевич, 1975г.\n\"Частновладельческие города Беларуси XVI-XVII вв.: Соц.-экон. исследование истории городов\"",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Анатолий Грицкевич, 1975г.\n\"Частновладельческие города Беларуси XVI-XVII вв.: Соц.-экон. исследование истории городов\""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-10-25T15:28:56"
+                    },
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-10-25T12:31:41"
+                    }
+                ]
+            }
+        ]
+    },
+    "101398": {
+        "id": 101398,
+        "type": "message",
+        "date": "2024-10-25T18:02:39",
+        "date_unixtime": "1729868559",
+        "edited": "2024-10-25T18:16:32",
+        "edited_unixtime": "1729869392",
+        "from": "🌞",
+        "from_id": "user718980479",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "2294 - 001 - 0035 1901 Metrich knigi CGIA Smolensk Luterani.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            "------- ",
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            " -------\nЗаглавие: 1899-1901. МК Смоленский Римско-католический коcтел. ЦГИА ф. 2292 оп. 1., PDF.\nд. 35 (1901)., 101 стр., 34,50 Мб.\nАвтор: Смоленский Римско-католический костел (Могилевской Р-К. духовной консистории.)\nЖанр: ",
+            {
+                "type": "hashtag",
+                "text": "#1901г"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Смоленская"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Церковь"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Католики"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Генеалогия"
+            },
+            "\nИздатель: ЦГИА СПб.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на книгу в библиотеке: ",
+            {
+                "type": "link",
+                "text": "http://book-olds.ru/BookLibrary/41002-TSerkov-v-Smolenskoy-gubernii/1899.-MK-Smolenskiy-Rimsko-katolicheskiy-komtel.-TSGIA-f.-2292-op.-1.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "------- "
+            },
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            {
+                "type": "plain",
+                "text": " -------\nЗаглавие: 1899-1901. МК Смоленский Римско-католический коcтел. ЦГИА ф. 2292 оп. 1., PDF.\nд. 35 (1901)., 101 стр., 34,50 Мб.\nАвтор: Смоленский Римско-католический костел (Могилевской Р-К. духовной консистории.)\nЖанр: "
+            },
+            {
+                "type": "hashtag",
+                "text": "#1901г"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Смоленская"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Церковь"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Католики"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Генеалогия"
+            },
+            {
+                "type": "plain",
+                "text": "\nИздатель: ЦГИА СПб.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на книгу в библиотеке: "
+            },
+            {
+                "type": "link",
+                "text": "http://book-olds.ru/BookLibrary/41002-TSerkov-v-Smolenskoy-gubernii/1899.-MK-Smolenskiy-Rimsko-katolicheskiy-komtel.-TSGIA-f.-2292-op.-1.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Natalia Lu",
+                        "from_id": "user219698220",
+                        "date": "2025-01-04T10:54:35"
+                    },
+                    {
+                        "from": "AV",
+                        "from_id": "user484872692",
+                        "date": "2024-10-25T19:43:15"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-10-25T18:16:32"
+                    }
+                ]
+            }
+        ]
+    },
+    "101400": {
+        "id": 101400,
+        "type": "message",
+        "date": "2024-10-25T18:21:29",
+        "date_unixtime": "1729869689",
+        "edited": "2024-10-25T19:43:19",
+        "edited_unixtime": "1729874599",
+        "from": "🌞",
+        "from_id": "user718980479",
+        "reply_to_message_id": 101398,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 576,
+        "height": 1280,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Natalia Lu",
+                        "from_id": "user219698220",
+                        "date": "2025-01-04T10:54:34"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-11-14T11:49:20"
+                    },
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2024-10-29T07:25:30"
+                    }
+                ]
+            }
+        ]
+    },
+    "101401": {
+        "id": 101401,
+        "type": "message",
+        "date": "2024-10-25T18:21:30",
+        "date_unixtime": "1729869690",
+        "from": "🌞",
+        "from_id": "user718980479",
+        "reply_to_message_id": 101398,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 576,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "101402": {
+        "id": 101402,
+        "type": "message",
+        "date": "2024-10-25T18:21:30",
+        "date_unixtime": "1729869690",
+        "from": "🌞",
+        "from_id": "user718980479",
+        "reply_to_message_id": 101398,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 576,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "101403": {
+        "id": 101403,
+        "type": "message",
+        "date": "2024-10-25T18:21:30",
+        "date_unixtime": "1729869690",
+        "from": "🌞",
+        "from_id": "user718980479",
+        "reply_to_message_id": 101398,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 576,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "101404": {
+        "id": 101404,
+        "type": "message",
+        "date": "2024-10-25T18:21:31",
+        "date_unixtime": "1729869691",
+        "from": "🌞",
+        "from_id": "user718980479",
+        "reply_to_message_id": 101398,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 576,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "101405": {
+        "id": 101405,
+        "type": "message",
+        "date": "2024-10-25T18:21:31",
+        "date_unixtime": "1729869691",
+        "from": "🌞",
+        "from_id": "user718980479",
+        "reply_to_message_id": 101398,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 576,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "101408": {
+        "id": 101408,
+        "type": "message",
+        "date": "2024-10-25T19:32:10",
+        "date_unixtime": "1729873930",
+        "edited": "2024-10-25T19:44:14",
+        "edited_unixtime": "1729874654",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "8833.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Клецкая шляхта XVI-XVII стст.(спiсы)\nПазднякоў В.С.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Клецкая шляхта XVI-XVII стст.(спiсы)\nПазднякоў В.С."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-10-26T15:16:24"
+                    },
+                    {
+                        "from": "Tuk & Pluh",
+                        "from_id": "user5662743054",
+                        "date": "2024-10-26T13:28:17"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-10-25T20:43:42"
+                    }
+                ]
+            }
+        ]
+    },
+    "101514": {
+        "id": 101514,
+        "type": "message",
+        "date": "2024-10-27T18:49:41",
+        "date_unixtime": "1730044181",
+        "from": "Легендарны дзед",
+        "from_id": "user7543100818",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "atb3F1ZJ4lfjB.djvu",
+        "mime_type": "image/vnd.djvu",
+        "text": "",
+        "text_entities": []
+    },
+    "101515": {
+        "id": 101515,
+        "type": "message",
+        "date": "2024-10-27T18:50:49",
+        "date_unixtime": "1730044249",
+        "edited": "2024-10-27T21:44:30",
+        "edited_unixtime": "1730054670",
+        "from": "Легендарны дзед",
+        "from_id": "user7543100818",
+        "reply_to_message_id": 24109,
+        "text": "Сакалоўская А.С., Кальварыя, 1997 г. \nВ данной книге указан список надгробий с ФИО погребённых от А до Я, но только старые надгробия!:)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сакалоўская А.С., Кальварыя, 1997 г. \nВ данной книге указан список надгробий с ФИО погребённых от А до Я, но только старые надгробия!:)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2024-10-29T07:25:42"
+                    },
+                    {
+                        "from": "Jury Pleskačeŭski",
+                        "from_id": "user326667641",
+                        "date": "2024-10-28T11:56:57"
+                    },
+                    {
+                        "from": "Darya Titova",
+                        "from_id": "user425492223",
+                        "date": "2024-10-27T21:44:30"
+                    }
+                ]
+            }
+        ]
+    },
+    "101727": {
+        "id": 101727,
+        "type": "message",
+        "date": "2024-10-29T11:28:02",
+        "date_unixtime": "1730190482",
+        "edited": "2024-10-29T11:43:41",
+        "edited_unixtime": "1730191421",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "8862.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Я.К. Анiшчанка\nВывады шляхецкіх генеалогій у актах земскіх і гродскіх судоў XVIII ст.\n(2008г.)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я.К. Анiшчанка\nВывады шляхецкіх генеалогій у актах земскіх і гродскіх судоў XVIII ст.\n(2008г.)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Vasil | Васіль",
+                        "from_id": "user233557287",
+                        "date": "2024-10-30T10:28:59"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-10-29T12:48:10"
+                    },
+                    {
+                        "from": "Jury Pleskačeŭski",
+                        "from_id": "user326667641",
+                        "date": "2024-10-29T11:43:41"
+                    }
+                ]
+            }
+        ]
+    },
+    "101929": {
+        "id": 101929,
+        "type": "message",
+        "date": "2024-10-31T19:02:22",
+        "date_unixtime": "1730390542",
+        "edited": "2024-10-31T19:13:58",
+        "edited_unixtime": "1730391238",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 24109,
+        "text": [
+            {
+                "type": "bold",
+                "text": "\"Минский Мужик (Дионисий Горбацевич): Что я видел в Советской России. Из моих личных наблюдений\" (1934)."
+            },
+            "\n\nМинский Мужик (1895—1986, настоящее имя — Дионисий Горбацевич) родился в Слуцком районе Минской губернии в крестьянской семье, из-за бедности эмигрировал в 1913 году в США. Он придерживался анархистских взглядов, стал обычным чикагским рабочим, но в 1934 году смог вернуться домой американским туристом, посетить родственников и посмотреть на советскую Россию. Ему еще дважды удалось побывать на родине, в 1960 и 1966-м, но уже через год после первого визита он опубликовал эту книгу, важный документ о жизни СССР 1930-х годов."
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "\"Минский Мужик (Дионисий Горбацевич): Что я видел в Советской России. Из моих личных наблюдений\" (1934)."
+            },
+            {
+                "type": "plain",
+                "text": "\n\nМинский Мужик (1895—1986, настоящее имя — Дионисий Горбацевич) родился в Слуцком районе Минской губернии в крестьянской семье, из-за бедности эмигрировал в 1913 году в США. Он придерживался анархистских взглядов, стал обычным чикагским рабочим, но в 1934 году смог вернуться домой американским туристом, посетить родственников и посмотреть на советскую Россию. Ему еще дважды удалось побывать на родине, в 1960 и 1966-м, но уже через год после первого визита он опубликовал эту книгу, важный документ о жизни СССР 1930-х годов."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 13,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Вальдэк",
+                        "from_id": "user1157687135",
+                        "date": "2024-11-15T17:18:39"
+                    },
+                    {
+                        "from": "Александр Хроматографист",
+                        "from_id": "user1219803517",
+                        "date": "2024-11-12T00:44:21"
+                    },
+                    {
+                        "from": "ПортоФито",
+                        "from_id": "user1086752770",
+                        "date": "2024-11-05T21:06:23"
+                    }
+                ]
+            }
+        ]
+    },
+    "101930": {
+        "id": 101930,
+        "type": "message",
+        "date": "2024-10-31T19:02:27",
+        "date_unixtime": "1730390547",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Минский_Мужик_Д_М_Горбацевич_Что_я_видел_в_Советской_России_изд.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    "101931": {
+        "id": 101931,
+        "type": "message",
+        "date": "2024-10-31T19:02:27",
+        "date_unixtime": "1730390547",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Минский_Мужик_Д_М_Горбацевич_Что_я_видел_в_Советской_России_новое.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    "102080": {
+        "id": 102080,
+        "type": "message",
+        "date": "2024-11-02T02:40:29",
+        "date_unixtime": "1730504429",
+        "from": "Olga",
+        "from_id": "user1117086057",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "125193_Szlakami_sztetli_Podroze_przez_zapomniany_kontynen.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": [
+            "„Zapomniany Kontynent\n\nDziedzictwo kulturowe Europy to … małe miasteczka, zwane kiedyś sztetlami położone głównie na Litwie, Białorusi, Ukrainie, Polsce …“\n\n",
+            {
+                "type": "link",
+                "text": "https://shtetlroutes.eu/pl/forgotten-continent/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "„Zapomniany Kontynent\n\nDziedzictwo kulturowe Europy to … małe miasteczka, zwane kiedyś sztetlami położone głównie na Litwie, Białorusi, Ukrainie, Polsce …“\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://shtetlroutes.eu/pl/forgotten-continent/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    }
+}

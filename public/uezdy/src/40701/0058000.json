@@ -1,0 +1,359 @@
+{
+    "56033": {
+        "id": 56033,
+        "type": "message",
+        "date": "2023-09-08T16:59:45",
+        "date_unixtime": "1694181585",
+        "edited": "2023-09-08T17:09:01",
+        "edited_unixtime": "1694182141",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1080,
+        "height": 1117,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 25,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Елизавета Матвеева",
+                        "from_id": "user1170527864",
+                        "date": "2024-11-06T20:04:15"
+                    },
+                    {
+                        "from": "Helena Pozharitckaia",
+                        "from_id": "user956631283",
+                        "date": "2024-08-13T11:46:45"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 12,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Светлана Зайцева",
+                        "from_id": "user250039643",
+                        "date": "2024-12-14T11:40:27"
+                    }
+                ]
+            }
+        ]
+    },
+    "57287": {
+        "id": 57287,
+        "type": "message",
+        "date": "2023-09-24T12:09:10",
+        "date_unixtime": "1695546550",
+        "edited": "2023-10-19T12:20:02",
+        "edited_unixtime": "1697707202",
+        "from": "Любовь Александровна",
+        "from_id": "user920580192",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Наталья Спасская",
+                        "from_id": "user1487544921",
+                        "date": "2023-10-19T12:20:02"
+                    }
+                ]
+            }
+        ]
+    },
+    "57289": {
+        "id": 57289,
+        "type": "message",
+        "date": "2023-09-24T12:14:47",
+        "date_unixtime": "1695546887",
+        "edited": "2023-10-07T13:50:35",
+        "edited_unixtime": "1696675835",
+        "from": "Любовь Александровна",
+        "from_id": "user920580192",
+        "reply_to_message_id": 40701,
+        "text": "Мой дедушка Шабанов Николай Константинович 1902 года рождения, сзади фото подпись. Интересно где этот город находиться, я думаю что в России.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мой дедушка Шабанов Николай Константинович 1902 года рождения, сзади фото подпись. Интересно где этот город находиться, я думаю что в России."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ольга",
+                        "from_id": "user1777381637",
+                        "date": "2023-10-07T13:50:35"
+                    }
+                ]
+            }
+        ]
+    },
+    "57531": {
+        "id": 57531,
+        "type": "message",
+        "date": "2023-09-26T15:04:11",
+        "date_unixtime": "1695729851",
+        "from": "Дмитрий",
+        "from_id": "user6122626194",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "57532": {
+        "id": 57532,
+        "type": "message",
+        "date": "2023-09-26T15:04:12",
+        "date_unixtime": "1695729852",
+        "from": "Дмитрий",
+        "from_id": "user6122626194",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "57533": {
+        "id": 57533,
+        "type": "message",
+        "date": "2023-09-26T15:05:22",
+        "date_unixtime": "1695729922",
+        "from": "Дмитрий",
+        "from_id": "user6122626194",
+        "reply_to_message_id": 40701,
+        "text": "Кто что думает?Открытка?Никто из бабушек не узнал ,а им уже под 90 лет.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Кто что думает?Открытка?Никто из бабушек не узнал ,а им уже под 90 лет."
+            }
+        ]
+    },
+    "57534": {
+        "id": 57534,
+        "type": "message",
+        "date": "2023-09-26T15:07:10",
+        "date_unixtime": "1695730030",
+        "edited": "2023-09-26T15:08:55",
+        "edited_unixtime": "1695730135",
+        "from": "Evita",
+        "from_id": "user66187238",
+        "reply_to_message_id": 57531,
+        "text": "Фотографии-открытки. Такие делали. На фото либо родня, либо знакомые. У свекрови фото прадеда её в таком формате сохранилось.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Фотографии-открытки. Такие делали. На фото либо родня, либо знакомые. У свекрови фото прадеда её в таком формате сохранилось."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Olesya",
+                        "from_id": "user812087649",
+                        "date": "2023-10-19T17:41:16"
+                    },
+                    {
+                        "from": "Чысты Гуманітарый",
+                        "from_id": "user453928472",
+                        "date": "2023-09-27T08:01:37"
+                    },
+                    {
+                        "from": "Дмитрий",
+                        "from_id": "user6122626194",
+                        "date": "2023-09-26T15:08:55"
+                    }
+                ]
+            }
+        ]
+    },
+    "57535": {
+        "id": 57535,
+        "type": "message",
+        "date": "2023-09-26T15:09:29",
+        "date_unixtime": "1695730169",
+        "from": "Дмитрий",
+        "from_id": "user6122626194",
+        "reply_to_message_id": 40701,
+        "text": "Понятно,видать так и останутся неизвестными.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Понятно,видать так и останутся неизвестными."
+            }
+        ]
+    },
+    "57537": {
+        "id": 57537,
+        "type": "message",
+        "date": "2023-09-26T15:12:27",
+        "date_unixtime": "1695730347",
+        "from": "Boris Nikitin",
+        "from_id": "user516707057",
+        "reply_to_message_id": 57535,
+        "text": "Кажется, если задаться целью, то можно хотя бы мастерскую и город определить по фону. А это может и на мысли навести дальнейшие.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Кажется, если задаться целью, то можно хотя бы мастерскую и город определить по фону. А это может и на мысли навести дальнейшие."
+            }
+        ]
+    },
+    "57647": {
+        "id": 57647,
+        "type": "message",
+        "date": "2023-09-26T22:29:42",
+        "date_unixtime": "1695756582",
+        "edited": "2023-09-26T22:45:30",
+        "edited_unixtime": "1695757530",
+        "from": "ksenia",
+        "from_id": "user805895547",
+        "reply_to_message_id": 57537,
+        "text": "Да они 1) стандартные 2) их привозили даже туда, где ателье не было. Задник нарисованный, ставь где угодно",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да они 1) стандартные 2) их привозили даже туда, где ателье не было. Задник нарисованный, ставь где угодно"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Марина Журавлева (Олешкевич)",
+                        "from_id": "user317398191",
+                        "date": "2023-09-27T20:50:34"
+                    },
+                    {
+                        "from": "Audoсcia",
+                        "from_id": "user1846341469",
+                        "date": "2023-09-27T15:07:31"
+                    },
+                    {
+                        "from": "Дмитрий",
+                        "from_id": "user6122626194",
+                        "date": "2023-09-27T05:13:27"
+                    }
+                ]
+            }
+        ]
+    },
+    "57800": {
+        "id": 57800,
+        "type": "message",
+        "date": "2023-09-28T00:29:35",
+        "date_unixtime": "1695850175",
+        "edited": "2023-09-28T11:51:55",
+        "edited_unixtime": "1695891115",
+        "from": "Elena Alexandrovna",
+        "from_id": "user35652215",
+        "reply_to_message_id": 40701,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "обои 600 сепия рамка.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 5935,
+        "height": 8392,
+        "text": "Ушаков Ник Ник и Малаховская Александра Могилевская г",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ушаков Ник Ник и Малаховская Александра Могилевская г"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Наталья Спасская",
+                        "from_id": "user1487544921",
+                        "date": "2023-10-19T16:29:19"
+                    },
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2023-10-03T10:36:26"
+                    },
+                    {
+                        "from": "Ks Arche",
+                        "from_id": "user1705348657",
+                        "date": "2023-09-28T11:51:55"
+                    }
+                ]
+            }
+        ]
+    },
+    "58212": {
+        "id": 58212,
+        "type": "message",
+        "date": "2023-10-03T10:33:33",
+        "date_unixtime": "1696318413",
+        "edited": "2023-10-03T10:36:08",
+        "edited_unixtime": "1696318568",
+        "from": "Марина",
+        "from_id": "user1874881112",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 958,
+        "height": 1280,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 16,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Dzmitry Kishkilevich",
+                        "from_id": "user531336074",
+                        "date": "2024-03-30T12:05:29"
+                    },
+                    {
+                        "from": "Ирина Бадьина",
+                        "from_id": "user233333536",
+                        "date": "2023-11-27T14:32:19"
+                    },
+                    {
+                        "from": "Yuliya",
+                        "from_id": "user367322964",
+                        "date": "2023-10-29T14:44:22"
+                    }
+                ]
+            }
+        ]
+    }
+}

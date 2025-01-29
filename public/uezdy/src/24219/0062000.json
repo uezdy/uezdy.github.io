@@ -1,0 +1,79 @@
+{
+    "104490": {
+        "id": 104490,
+        "type": "message",
+        "date": "2024-11-26T15:08:27",
+        "date_unixtime": "1732622907",
+        "edited": "2025-01-11T23:34:35",
+        "edited_unixtime": "1736627675",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 24219,
+        "text": [
+            "Создана группа по ",
+            {
+                "type": "bold",
+                "text": "Брестскому"
+            },
+            " уезду: ",
+            {
+                "type": "link",
+                "text": "https://t.me/brest_uezd"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Создана группа по "
+            },
+            {
+                "type": "bold",
+                "text": "Брестскому"
+            },
+            {
+                "type": "plain",
+                "text": " уезду: "
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/brest_uezd"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 7,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "MikhailR Kubasov",
+                        "from_id": "user918899531",
+                        "date": "2024-12-24T23:47:42"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Оксана",
+                        "from_id": "user1352894747",
+                        "date": "2025-01-03T20:56:12"
+                    },
+                    {
+                        "from": "Jury St",
+                        "from_id": "user1058262908",
+                        "date": "2024-12-01T22:53:18"
+                    }
+                ]
+            }
+        ]
+    }
+}

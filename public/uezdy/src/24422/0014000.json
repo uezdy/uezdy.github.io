@@ -1,0 +1,37 @@
+{
+    "24529": {
+        "id": 24529,
+        "type": "message",
+        "date": "2022-11-07T20:20:34",
+        "date_unixtime": "1667841634",
+        "edited": "2023-07-08T07:35:23",
+        "edited_unixtime": "1688790923",
+        "from": "Victor",
+        "from_id": "user512489139",
+        "reply_to_message_id": 24422,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Список_беженцев_разыскиваемых_американскими_переселенцами_Вып_2.pdf",
+        "mime_type": "application/pdf",
+        "text": "Список_беженцев_разыскиваемых_американскими_переселенцами_Вып_2",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Список_беженцев_разыскиваемых_американскими_переселенцами_Вып_2"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Vasi Vasi",
+                        "from_id": "user7071190955",
+                        "date": "2024-07-05T13:08:17"
+                    }
+                ]
+            }
+        ]
+    }
+}

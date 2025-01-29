@@ -1,0 +1,47 @@
+{
+    "40725": {
+        "id": 40725,
+        "type": "message",
+        "date": "2023-04-02T22:23:04",
+        "date_unixtime": "1680463384",
+        "edited": "2023-04-02T22:46:56",
+        "edited_unixtime": "1680464816",
+        "from": "🌞",
+        "from_id": "user718980479",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "Справа Нина Павловна Рыбакова. Бегомль 1940",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Справа Нина Павловна Рыбакова. Бегомль 1940"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 8,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Наталья Васильевна",
+                        "from_id": "user976932240",
+                        "date": "2024-07-03T13:07:40"
+                    },
+                    {
+                        "from": "Наталья Ромодина",
+                        "from_id": "user5220465151",
+                        "date": "2024-04-15T11:25:02"
+                    },
+                    {
+                        "from": "Марина",
+                        "from_id": "user1373140078",
+                        "date": "2024-01-10T13:23:34"
+                    }
+                ]
+            }
+        ]
+    }
+}

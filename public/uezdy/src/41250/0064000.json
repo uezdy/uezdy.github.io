@@ -1,0 +1,439 @@
+{
+    "62053": {
+        "id": 62053,
+        "type": "message",
+        "date": "2023-11-07T12:08:21",
+        "date_unixtime": "1699348101",
+        "from": "Mira",
+        "from_id": "user507372385",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "62054": {
+        "id": 62054,
+        "type": "message",
+        "date": "2023-11-07T12:08:22",
+        "date_unixtime": "1699348102",
+        "from": "Mira",
+        "from_id": "user507372385",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "62055": {
+        "id": 62055,
+        "type": "message",
+        "date": "2023-11-07T12:08:22",
+        "date_unixtime": "1699348102",
+        "from": "Mira",
+        "from_id": "user507372385",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "62056": {
+        "id": 62056,
+        "type": "message",
+        "date": "2023-11-07T12:08:23",
+        "date_unixtime": "1699348103",
+        "from": "Mira",
+        "from_id": "user507372385",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    "62057": {
+        "id": 62057,
+        "type": "message",
+        "date": "2023-11-07T13:34:37",
+        "date_unixtime": "1699353277",
+        "from": "Ольга🥕Нутрициолог",
+        "from_id": "user347564211",
+        "reply_to_message_id": 62056,
+        "text": "Добрый день! А про Островских случайно нет фото страниц?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день! А про Островских случайно нет фото страниц?"
+            }
+        ]
+    },
+    "62058": {
+        "id": 62058,
+        "type": "message",
+        "date": "2023-11-07T13:50:01",
+        "date_unixtime": "1699354201",
+        "edited": "2023-11-07T13:51:35",
+        "edited_unixtime": "1699354295",
+        "from": "Mira",
+        "from_id": "user507372385",
+        "reply_to_message_id": 62057,
+        "text": "Специально не делала, но если вас интересует, смогу сфотографировать как снова буду в библиотеке",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Специально не делала, но если вас интересует, смогу сфотографировать как снова буду в библиотеке"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Ольга🥕Нутрициолог",
+                        "from_id": "user347564211",
+                        "date": "2023-11-07T13:51:36"
+                    }
+                ]
+            }
+        ]
+    },
+    "62059": {
+        "id": 62059,
+        "type": "message",
+        "date": "2023-11-07T13:50:51",
+        "date_unixtime": "1699354251",
+        "edited": "2023-11-07T13:51:24",
+        "edited_unixtime": "1699354284",
+        "from": "Ольга🥕Нутрициолог",
+        "from_id": "user347564211",
+        "reply_to_message_id": 62058,
+        "text": "Если вам не трудно, была бы очень благодарна❤",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Если вам не трудно, была бы очень благодарна❤"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Mira",
+                        "from_id": "user507372385",
+                        "date": "2023-11-07T13:51:24"
+                    }
+                ]
+            }
+        ]
+    },
+    "62230": {
+        "id": 62230,
+        "type": "message",
+        "date": "2023-11-09T09:17:28",
+        "date_unixtime": "1699510648",
+        "from": "Наталья Спасская",
+        "from_id": "user1487544921",
+        "reply_to_message_id": 62052,
+        "text": "А откуда такая книжка? Вижу библиотечный номер.. подскажите, можно где то ее добыть? Интересуют Лукашевичи.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А откуда такая книжка? Вижу библиотечный номер.. подскажите, можно где то ее добыть? Интересуют Лукашевичи."
+            }
+        ]
+    },
+    "62231": {
+        "id": 62231,
+        "type": "message",
+        "date": "2023-11-09T09:37:57",
+        "date_unixtime": "1699511877",
+        "from": "Mira",
+        "from_id": "user507372385",
+        "reply_to_message_id": 62230,
+        "text": "Национальная библиотека РБ",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Национальная библиотека РБ"
+            }
+        ]
+    },
+    "62232": {
+        "id": 62232,
+        "type": "message",
+        "date": "2023-11-09T09:49:33",
+        "date_unixtime": "1699512573",
+        "from": "Наталья Спасская",
+        "from_id": "user1487544921",
+        "reply_to_message_id": 41250,
+        "text": "О, благодарю!)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "О, благодарю!)"
+            }
+        ]
+    },
+    "63056": {
+        "id": 63056,
+        "type": "message",
+        "date": "2023-11-17T17:41:11",
+        "date_unixtime": "1700232071",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 41250,
+        "text": "З калекцыі былога дырэктара НАРБа, дарэчы 👆",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "З калекцыі былога дырэктара НАРБа, дарэчы 👆"
+            }
+        ]
+    },
+    "63057": {
+        "id": 63057,
+        "type": "message",
+        "date": "2023-11-17T17:41:12",
+        "date_unixtime": "1700232072",
+        "edited": "2023-11-18T11:02:33",
+        "edited_unixtime": "1700294553",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "Архіў",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 750,
+        "height": 1227,
+        "text": "Модніца з Мінска. Пачатак ХХ стагоддзя. З калекцыі Аляксандра Самовіча.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Модніца з Мінска. Пачатак ХХ стагоддзя. З калекцыі Аляксандра Самовіча."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Алена",
+                        "from_id": "user1617817551",
+                        "date": "2023-11-19T10:15:34"
+                    },
+                    {
+                        "from": "Ольга Влади",
+                        "from_id": "user1659770550",
+                        "date": "2023-11-18T18:43:13"
+                    },
+                    {
+                        "from": "Darya",
+                        "from_id": "user353969106",
+                        "date": "2023-11-18T18:07:16"
+                    }
+                ]
+            }
+        ]
+    },
+    "63253": {
+        "id": 63253,
+        "type": "message",
+        "date": "2023-11-18T17:36:57",
+        "date_unixtime": "1700318217",
+        "edited": "2023-11-18T17:52:13",
+        "edited_unixtime": "1700319133",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 41250,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://realt.onliner.by/2023/11/18/belorusy-vosstanavlivali-drevnyuyu-chasovnyu"
+            },
+            "\nОтреставрировали развалины старинной часовни, когда-то принадлежавшей роду Вишневских, д. Тейки."
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://realt.onliner.by/2023/11/18/belorusy-vosstanavlivali-drevnyuyu-chasovnyu"
+            },
+            {
+                "type": "plain",
+                "text": "\nОтреставрировали развалины старинной часовни, когда-то принадлежавшей роду Вишневских, д. Тейки."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 9,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Siarhei Andryjanau",
+                        "from_id": "user153886828",
+                        "date": "2023-11-20T23:29:53"
+                    },
+                    {
+                        "from": "Olga Byinevich",
+                        "from_id": "user366744817",
+                        "date": "2023-11-20T07:34:37"
+                    },
+                    {
+                        "from": "Людвига Людвига",
+                        "from_id": "user5071720783",
+                        "date": "2023-11-19T22:02:42"
+                    }
+                ]
+            }
+        ]
+    },
+    "63584": {
+        "id": 63584,
+        "type": "message",
+        "date": "2023-11-20T22:40:00",
+        "date_unixtime": "1700509200",
+        "from": "🤫🏍⛺",
+        "from_id": "user6213882374",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 990,
+        "height": 936,
+        "text": "",
+        "text_entities": []
+    },
+    "63585": {
+        "id": 63585,
+        "type": "message",
+        "date": "2023-11-20T22:40:01",
+        "date_unixtime": "1700509201",
+        "from": "🤫🏍⛺",
+        "from_id": "user6213882374",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 866,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "63586": {
+        "id": 63586,
+        "type": "message",
+        "date": "2023-11-20T22:40:08",
+        "date_unixtime": "1700509208",
+        "edited": "2023-11-20T22:42:30",
+        "edited_unixtime": "1700509350",
+        "from": "🤫🏍⛺",
+        "from_id": "user6213882374",
+        "reply_to_message_id": 41250,
+        "text": "Iwona Sudnik - wieloletnia pasjonatka genealogii i podróży genealogicznych. Członkini Śląskiego oraz Polskiego Towarzystwa Genealogicznego, stała bywalczyni corocznej konferencji genealogicznej GENEAMI, która odbywa się w Brzegu. Pierwszy raz odwiedziła białoruskie miasteczko Mir w 2010 roku. To w tych okolicach żyli i zmarli jej przodkowie, którzy zostali pochowani na miejscowym cmentarzu katolickim. Znalazła ich groby już podczas pierwszych odwiedzin, a sam cmentarz zachwycił ją swoim urokiem - położony na skraju miejscowości, na wzgórzu, pośród starych drzew. Przez kolejne lata wracała do Miru kilkakrotnie. Zakochała się w tych okolicach, tamtejszej kuchni, kulturze. Spotkała wiele ciekawych i dobrych ludzi, którzy do dziś są częścią jej życia. Tak narodził się pomysł na powstanie książki o lokalnym cmentarzu rzymskokatolickim, która - jak się później okazało - musiała zostać uzupełniona informacjami zdobytymi podczas godzin spędzonych w różnych archiwach. Przy tych pracach przyświecała idea, aby wiedza o dawnych mieszkańcach ziemi mirskiej dotarła do ich potomków, w tym prywatnych wnucząt, Mayi i Leo. Teraz pora na kolejne rodzinne cmentarze. I wiem, że zrobi to świetnie.\n\nKsiążkę można zamówić pisząc na adres: iwonacmentarze[ ]gmail.comь\n\ncena to 120zł +kw poczta 15zł, paczkomat 16,99\n\nksiążka ma 480str i ponad 890 zdjęć",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Iwona Sudnik - wieloletnia pasjonatka genealogii i podróży genealogicznych. Członkini Śląskiego oraz Polskiego Towarzystwa Genealogicznego, stała bywalczyni corocznej konferencji genealogicznej GENEAMI, która odbywa się w Brzegu. Pierwszy raz odwiedziła białoruskie miasteczko Mir w 2010 roku. To w tych okolicach żyli i zmarli jej przodkowie, którzy zostali pochowani na miejscowym cmentarzu katolickim. Znalazła ich groby już podczas pierwszych odwiedzin, a sam cmentarz zachwycił ją swoim urokiem - położony na skraju miejscowości, na wzgórzu, pośród starych drzew. Przez kolejne lata wracała do Miru kilkakrotnie. Zakochała się w tych okolicach, tamtejszej kuchni, kulturze. Spotkała wiele ciekawych i dobrych ludzi, którzy do dziś są częścią jej życia. Tak narodził się pomysł na powstanie książki o lokalnym cmentarzu rzymskokatolickim, która - jak się później okazało - musiała zostać uzupełniona informacjami zdobytymi podczas godzin spędzonych w różnych archiwach. Przy tych pracach przyświecała idea, aby wiedza o dawnych mieszkańcach ziemi mirskiej dotarła do ich potomków, w tym prywatnych wnucząt, Mayi i Leo. Teraz pora na kolejne rodzinne cmentarze. I wiem, że zrobi to świetnie.\n\nKsiążkę można zamówić pisząc na adres: iwonacmentarze[ ]gmail.comь\n\ncena to 120zł +kw poczta 15zł, paczkomat 16,99\n\nksiążka ma 480str i ponad 890 zdjęć"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 8,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "A M",
+                        "from_id": "user148775496",
+                        "date": "2023-11-21T06:32:13"
+                    },
+                    {
+                        "from": "Alla Lebedeva",
+                        "from_id": "user1345556165",
+                        "date": "2023-11-21T03:47:26"
+                    },
+                    {
+                        "from": "Victor",
+                        "from_id": "user512489139",
+                        "date": "2023-11-21T00:05:51"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤"
+            }
+        ]
+    },
+    "63588": {
+        "id": 63588,
+        "type": "message",
+        "date": "2023-11-21T01:17:27",
+        "date_unixtime": "1700518647",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 41250,
+        "text": "А перевода на русский нет?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А перевода на русский нет?"
+            }
+        ]
+    },
+    "63596": {
+        "id": 63596,
+        "type": "message",
+        "date": "2023-11-21T03:37:15",
+        "date_unixtime": "1700527035",
+        "from": "Чысты Гуманітарый",
+        "from_id": "user453928472",
+        "reply_to_message_id": 63588,
+        "text": "Книги? Или текста? Если текст сообщения , то переводчик встроен в телеграм, или скопируйте и в гугл",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Книги? Или текста? Если текст сообщения , то переводчик встроен в телеграм, или скопируйте и в гугл"
+            }
+        ]
+    },
+    "63609": {
+        "id": 63609,
+        "type": "message",
+        "date": "2023-11-21T11:23:55",
+        "date_unixtime": "1700555035",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 41250,
+        "text": "Это хорошо если вы знаете польски а если кто не знает и захочет ссылку тут найти как ему искать?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это хорошо если вы знаете польски а если кто не знает и захочет ссылку тут найти как ему искать?"
+            }
+        ]
+    },
+    "64094": {
+        "id": 64094,
+        "type": "message",
+        "date": "2023-11-27T09:16:41",
+        "date_unixtime": "1701065801",
+        "from": "Татьяна",
+        "from_id": "user2133751489",
+        "reply_to_message_id": 63596,
+        "text": "Будьте добры, расскажите непросвященным в этом деле, где встроенный переводчик в Телеграмм? Пожалуйста!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Будьте добры, расскажите непросвященным в этом деле, где встроенный переводчик в Телеграмм? Пожалуйста!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "35201": {
+        "id": 35201,
+        "type": "message",
+        "date": "2023-02-23T21:28:09",
+        "date_unixtime": "1677176889",
+        "edited": "2023-02-24T02:30:39",
+        "edited_unixtime": "1677195039",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 35187,
+        "text": "Каля Глыбокага і ў Фэйсбуку на старонцы Кастуся Шыталя",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Каля Глыбокага і ў Фэйсбуку на старонцы Кастуся Шыталя"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Emilie White",
+                        "from_id": "user564703012",
+                        "date": "2023-02-24T02:30:39"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "47952": {
+        "id": 47952,
+        "type": "message",
+        "date": "2023-06-01T20:44:25",
+        "date_unixtime": "1685641465",
+        "edited": "2023-06-01T20:58:14",
+        "edited_unixtime": "1685642294",
+        "from": "Natali Шелганова",
+        "from_id": "user879160135",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 742,
+        "height": 805,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Charaita",
+                        "from_id": "user813179818",
+                        "date": "2023-06-13T18:23:55"
+                    },
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2023-06-01T23:31:44"
+                    },
+                    {
+                        "from": "Natali Шелганова",
+                        "from_id": "user879160135",
+                        "date": "2023-06-01T21:00:07"
+                    }
+                ]
+            }
+        ]
+    }
+}

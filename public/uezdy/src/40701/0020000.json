@@ -1,0 +1,52 @@
+{
+    "40817": {
+        "id": 40817,
+        "type": "message",
+        "date": "2023-04-03T15:10:42",
+        "date_unixtime": "1680523842",
+        "edited": "2023-04-15T17:59:32",
+        "edited_unixtime": "1681570772",
+        "from": "Марина Журавлева (Олешкевич)",
+        "from_id": "user317398191",
+        "reply_to_message_id": 40701,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1928_Олешкевич Данил_свадебное.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 2312,
+        "height": 3100,
+        "text": "Олешкевич Данил Онуфриевич с женой Марией Зиновьевной, в девичестве Третьяковой, 1928 г., август; Лунинец Пинского у.Минской губ.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Олешкевич Данил Онуфриевич с женой Марией Зиновьевной, в девичестве Третьяковой, 1928 г., август; Лунинец Пинского у.Минской губ."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Darya",
+                        "from_id": "user353969106",
+                        "date": "2023-10-17T11:02:40"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Светлана Самсончик",
+                        "from_id": "user1462369405",
+                        "date": "2023-04-15T17:59:32"
+                    }
+                ]
+            }
+        ]
+    }
+}

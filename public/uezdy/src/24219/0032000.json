@@ -1,0 +1,49 @@
+{
+    "66158": {
+        "id": 66158,
+        "type": "message",
+        "date": "2023-12-24T17:58:33",
+        "date_unixtime": "1703429913",
+        "edited": "2023-12-24T19:26:29",
+        "edited_unixtime": "1703435189",
+        "from": "Vitaly Khor Vitaut",
+        "from_id": "user7511581",
+        "reply_to_message_id": 24219,
+        "text": [
+            "Генеалогия Воложинского района / Раковской волости Минского уезда и окрестности ",
+            {
+                "type": "link",
+                "text": "https://t.me/rakowska"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Генеалогия Воложинского района / Раковской волости Минского уезда и окрестности "
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/rakowska"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2023-12-24T19:26:29"
+                    }
+                ]
+            }
+        ]
+    }
+}

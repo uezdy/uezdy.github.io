@@ -1,0 +1,745 @@
+{
+    "100665": {
+        "id": 100665,
+        "type": "message",
+        "date": "2024-10-20T16:53:06",
+        "date_unixtime": "1729432386",
+        "edited": "2024-10-20T18:27:20",
+        "edited_unixtime": "1729438040",
+        "from": "🌞",
+        "from_id": "user718980479",
+        "reply_to_message_id": 24122,
+        "text": [
+            "На ВГД размещены ссылки на опросные листы и документы цивильных и военнопленных,\nходатайствующих о зачислении в лагерь для отправления в Советскую Россию 1919-1921 года (сайт gwar)\n",
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/316/128192/60.htm?a=stdforum_view&o="
+            },
+            "\nДела разбиты по начальной букве фамилии"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На ВГД размещены ссылки на опросные листы и документы цивильных и военнопленных,\nходатайствующих о зачислении в лагерь для отправления в Советскую Россию 1919-1921 года (сайт gwar)\n"
+            },
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/316/128192/60.htm?a=stdforum_view&o="
+            },
+            {
+                "type": "plain",
+                "text": "\nДела разбиты по начальной букве фамилии"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 9,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Tatsiana",
+                        "from_id": "user1099160156",
+                        "date": "2024-10-31T18:42:49"
+                    },
+                    {
+                        "from": "Гарик",
+                        "from_id": "user7087009637",
+                        "date": "2024-10-22T15:45:26"
+                    },
+                    {
+                        "from": "დ",
+                        "from_id": "user5017731844",
+                        "date": "2024-10-21T13:41:48"
+                    }
+                ]
+            }
+        ]
+    },
+    "101386": {
+        "id": 101386,
+        "type": "message",
+        "date": "2024-10-25T14:25:09",
+        "date_unixtime": "1729855509",
+        "edited": "2024-10-25T14:31:53",
+        "edited_unixtime": "1729855913",
+        "from": "$€£¥ €£¥₩$",
+        "from_id": "user6871021372",
+        "reply_to_message_id": 24122,
+        "text": [
+            "МК праваслаўныя: \n",
+            {
+                "type": "italic",
+                "text": "Bereźnica, par. "
+            },
+            "21\n",
+            {
+                "type": "italic",
+                "text": "Biała, par. "
+            },
+            "18, 19, 22-24\n",
+            {
+                "type": "italic",
+                "text": "Błudów, par. "
+            },
+            "1\n",
+            {
+                "type": "italic",
+                "text": "Bucyń, par. "
+            },
+            "2\n",
+            {
+                "type": "italic",
+                "text": "Głuchy, par. "
+            },
+            "13\n",
+            {
+                "type": "italic",
+                "text": "Górka Połonna, par. "
+            },
+            "14\n",
+            {
+                "type": "italic",
+                "text": "Gródek, wś"
+            },
+            " 6\n",
+            {
+                "type": "italic",
+                "text": "Hołowno, par. "
+            },
+            "3, 4\n",
+            {
+                "type": "italic",
+                "text": "Huszcza, urząd gminny"
+            },
+            " 21\n",
+            {
+                "type": "italic",
+                "text": "Kamień Koszyrski, par. św. Eliasza proroka"
+            },
+            " 15\n",
+            {
+                "type": "italic",
+                "text": "Karasin, par. "
+            },
+            "5\n",
+            {
+                "type": "italic",
+                "text": "Korszów, par. "
+            },
+            "6\n",
+            {
+                "type": "italic",
+                "text": "Krzemieniec, par. św. Mikołaja"
+            },
+            " 21\n",
+            {
+                "type": "italic",
+                "text": "Krzemieniec, Wołyński Konsystorz Duchowny"
+            },
+            " 21\n",
+            {
+                "type": "italic",
+                "text": "Kulczyn, par. "
+            },
+            "7, 16\n",
+            {
+                "type": "italic",
+                "text": "Ławrów, par. "
+            },
+            "21\n",
+            {
+                "type": "italic",
+                "text": "Lubaszka Mała, par. "
+            },
+            "21\n",
+            {
+                "type": "italic",
+                "text": "Mańkowicze, par. "
+            },
+            "21\n",
+            {
+                "type": "italic",
+                "text": "Maszów, wś"
+            },
+            " 17\n",
+            {
+                "type": "italic",
+                "text": "Milcza Mała, par. NMP"
+            },
+            " 21\n",
+            {
+                "type": "italic",
+                "text": "Niemowicze, par. "
+            },
+            "21\n",
+            {
+                "type": "italic",
+                "text": "Nowosiółki, par. śś. Piotra i Pawła"
+            },
+            " 21\n",
+            {
+                "type": "italic",
+                "text": "Okorsk Duży, wś"
+            },
+            " 21\n",
+            {
+                "type": "italic",
+                "text": "Osowce, par. "
+            },
+            "8\n",
+            {
+                "type": "italic",
+                "text": "Ostryna, par. "
+            },
+            "25-27\n",
+            {
+                "type": "italic",
+                "text": "Owadno, par. "
+            },
+            "9\n",
+            {
+                "type": "italic",
+                "text": "Ozdeniż, par. "
+            },
+            "10, 11\n",
+            {
+                "type": "italic",
+                "text": "Ozdów, wś"
+            },
+            " 14\n",
+            {
+                "type": "italic",
+                "text": "Radwanicze, par. "
+            },
+            "21\n",
+            {
+                "type": "italic",
+                "text": "Radziechów, par. "
+            },
+            "17\n",
+            {
+                "type": "italic",
+                "text": "Ruda, par. Narodzenia Bogarodzicy"
+            },
+            " 21\n",
+            {
+                "type": "italic",
+                "text": "Rzeczyca, par. "
+            },
+            "12\n",
+            {
+                "type": "italic",
+                "text": "Sarny, par. NMP Poczajowskiej"
+            },
+            " 21\n",
+            {
+                "type": "italic",
+                "text": "Sekoń, patrz Siekuń"
+            },
+            "\n",
+            {
+                "type": "italic",
+                "text": "Siekoń, patrz Siekuń"
+            },
+            "\n",
+            {
+                "type": "italic",
+                "text": "Siekuń, par. św. Mikołaja"
+            },
+            " 21\n",
+            {
+                "type": "italic",
+                "text": "Szymkowce, par. św. Paraskiewy"
+            },
+            " 21\n",
+            {
+                "type": "italic",
+                "text": "Turzysk, par. św. Mikołaja "
+            },
+            "20\n\n",
+            {
+                "type": "link",
+                "text": "https://www.agad.gov.pl/inwentarze/Kprx302.xml"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "МК праваслаўныя: \n"
+            },
+            {
+                "type": "italic",
+                "text": "Bereźnica, par. "
+            },
+            {
+                "type": "plain",
+                "text": "21\n"
+            },
+            {
+                "type": "italic",
+                "text": "Biała, par. "
+            },
+            {
+                "type": "plain",
+                "text": "18, 19, 22-24\n"
+            },
+            {
+                "type": "italic",
+                "text": "Błudów, par. "
+            },
+            {
+                "type": "plain",
+                "text": "1\n"
+            },
+            {
+                "type": "italic",
+                "text": "Bucyń, par. "
+            },
+            {
+                "type": "plain",
+                "text": "2\n"
+            },
+            {
+                "type": "italic",
+                "text": "Głuchy, par. "
+            },
+            {
+                "type": "plain",
+                "text": "13\n"
+            },
+            {
+                "type": "italic",
+                "text": "Górka Połonna, par. "
+            },
+            {
+                "type": "plain",
+                "text": "14\n"
+            },
+            {
+                "type": "italic",
+                "text": "Gródek, wś"
+            },
+            {
+                "type": "plain",
+                "text": " 6\n"
+            },
+            {
+                "type": "italic",
+                "text": "Hołowno, par. "
+            },
+            {
+                "type": "plain",
+                "text": "3, 4\n"
+            },
+            {
+                "type": "italic",
+                "text": "Huszcza, urząd gminny"
+            },
+            {
+                "type": "plain",
+                "text": " 21\n"
+            },
+            {
+                "type": "italic",
+                "text": "Kamień Koszyrski, par. św. Eliasza proroka"
+            },
+            {
+                "type": "plain",
+                "text": " 15\n"
+            },
+            {
+                "type": "italic",
+                "text": "Karasin, par. "
+            },
+            {
+                "type": "plain",
+                "text": "5\n"
+            },
+            {
+                "type": "italic",
+                "text": "Korszów, par. "
+            },
+            {
+                "type": "plain",
+                "text": "6\n"
+            },
+            {
+                "type": "italic",
+                "text": "Krzemieniec, par. św. Mikołaja"
+            },
+            {
+                "type": "plain",
+                "text": " 21\n"
+            },
+            {
+                "type": "italic",
+                "text": "Krzemieniec, Wołyński Konsystorz Duchowny"
+            },
+            {
+                "type": "plain",
+                "text": " 21\n"
+            },
+            {
+                "type": "italic",
+                "text": "Kulczyn, par. "
+            },
+            {
+                "type": "plain",
+                "text": "7, 16\n"
+            },
+            {
+                "type": "italic",
+                "text": "Ławrów, par. "
+            },
+            {
+                "type": "plain",
+                "text": "21\n"
+            },
+            {
+                "type": "italic",
+                "text": "Lubaszka Mała, par. "
+            },
+            {
+                "type": "plain",
+                "text": "21\n"
+            },
+            {
+                "type": "italic",
+                "text": "Mańkowicze, par. "
+            },
+            {
+                "type": "plain",
+                "text": "21\n"
+            },
+            {
+                "type": "italic",
+                "text": "Maszów, wś"
+            },
+            {
+                "type": "plain",
+                "text": " 17\n"
+            },
+            {
+                "type": "italic",
+                "text": "Milcza Mała, par. NMP"
+            },
+            {
+                "type": "plain",
+                "text": " 21\n"
+            },
+            {
+                "type": "italic",
+                "text": "Niemowicze, par. "
+            },
+            {
+                "type": "plain",
+                "text": "21\n"
+            },
+            {
+                "type": "italic",
+                "text": "Nowosiółki, par. śś. Piotra i Pawła"
+            },
+            {
+                "type": "plain",
+                "text": " 21\n"
+            },
+            {
+                "type": "italic",
+                "text": "Okorsk Duży, wś"
+            },
+            {
+                "type": "plain",
+                "text": " 21\n"
+            },
+            {
+                "type": "italic",
+                "text": "Osowce, par. "
+            },
+            {
+                "type": "plain",
+                "text": "8\n"
+            },
+            {
+                "type": "italic",
+                "text": "Ostryna, par. "
+            },
+            {
+                "type": "plain",
+                "text": "25-27\n"
+            },
+            {
+                "type": "italic",
+                "text": "Owadno, par. "
+            },
+            {
+                "type": "plain",
+                "text": "9\n"
+            },
+            {
+                "type": "italic",
+                "text": "Ozdeniż, par. "
+            },
+            {
+                "type": "plain",
+                "text": "10, 11\n"
+            },
+            {
+                "type": "italic",
+                "text": "Ozdów, wś"
+            },
+            {
+                "type": "plain",
+                "text": " 14\n"
+            },
+            {
+                "type": "italic",
+                "text": "Radwanicze, par. "
+            },
+            {
+                "type": "plain",
+                "text": "21\n"
+            },
+            {
+                "type": "italic",
+                "text": "Radziechów, par. "
+            },
+            {
+                "type": "plain",
+                "text": "17\n"
+            },
+            {
+                "type": "italic",
+                "text": "Ruda, par. Narodzenia Bogarodzicy"
+            },
+            {
+                "type": "plain",
+                "text": " 21\n"
+            },
+            {
+                "type": "italic",
+                "text": "Rzeczyca, par. "
+            },
+            {
+                "type": "plain",
+                "text": "12\n"
+            },
+            {
+                "type": "italic",
+                "text": "Sarny, par. NMP Poczajowskiej"
+            },
+            {
+                "type": "plain",
+                "text": " 21\n"
+            },
+            {
+                "type": "italic",
+                "text": "Sekoń, patrz Siekuń"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "italic",
+                "text": "Siekoń, patrz Siekuń"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "italic",
+                "text": "Siekuń, par. św. Mikołaja"
+            },
+            {
+                "type": "plain",
+                "text": " 21\n"
+            },
+            {
+                "type": "italic",
+                "text": "Szymkowce, par. św. Paraskiewy"
+            },
+            {
+                "type": "plain",
+                "text": " 21\n"
+            },
+            {
+                "type": "italic",
+                "text": "Turzysk, par. św. Mikołaja "
+            },
+            {
+                "type": "plain",
+                "text": "20\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://www.agad.gov.pl/inwentarze/Kprx302.xml"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "I D",
+                        "from_id": "user5726368881",
+                        "date": "2024-10-28T11:37:15"
+                    },
+                    {
+                        "from": "Sb",
+                        "from_id": "user6512553342",
+                        "date": "2024-10-26T07:57:24"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2024-10-28T09:25:31"
+                    }
+                ]
+            }
+        ]
+    },
+    "101994": {
+        "id": 101994,
+        "type": "message",
+        "date": "2024-11-01T11:58:07",
+        "date_unixtime": "1730451487",
+        "edited": "2024-11-01T12:10:09",
+        "edited_unixtime": "1730452209",
+        "from": "$€£¥ €£¥₩$",
+        "from_id": "user6871021372",
+        "reply_to_message_id": 24122,
+        "text": [
+            "Спісы землеўладальнікаў і маёнткаў у ХХ стг. падчас 2й Жэчы Паспалітай   ",
+            {
+                "type": "link",
+                "text": "http://ziemianie.pamiec.pl/pl/majatki/index.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спісы землеўладальнікаў і маёнткаў у ХХ стг. падчас 2й Жэчы Паспалітай   "
+            },
+            {
+                "type": "link",
+                "text": "http://ziemianie.pamiec.pl/pl/majatki/index.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-11-02T15:50:23"
+                    },
+                    {
+                        "from": "Яська Гаспадар з-пад Вільні",
+                        "from_id": "user787777714",
+                        "date": "2024-11-01T14:51:24"
+                    },
+                    {
+                        "from": "Natalie",
+                        "from_id": "user73018109",
+                        "date": "2024-11-01T14:02:09"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍"
+            }
+        ]
+    },
+    "102125": {
+        "id": 102125,
+        "type": "message",
+        "date": "2024-11-02T15:44:32",
+        "date_unixtime": "1730551472",
+        "edited": "2024-11-02T15:49:01",
+        "edited_unixtime": "1730551741",
+        "from": "Яська Гаспадар з-пад Вільні",
+        "from_id": "user787777714",
+        "forwarded_from": "Delfi Литва",
+        "reply_to_message_id": 24122,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1200,
+        "height": 711,
+        "text": [
+            "Уехавшие из Литвы, больные жители или те, кто не знает точное место захоронения своих дальних родственников, могут найти их в реестре или посетить могилы виртуально – с помощью реестра вильнюсских кладбищ.\n\nВ цифровом формате доступны данные по 43 кладбищам. Благодаря реестру сейчас можно найти точные координаты места захоронения. При создании реестра с помощью дронов была зафиксирована каждая могила, созданы ортофотографические фотографии кладбищ и по ним составлены планы. В базу данных введена информация о каждой могиле.\n",
+            {
+                "type": "link",
+                "text": "www.delfi.lt/a/120061787"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Уехавшие из Литвы, больные жители или те, кто не знает точное место захоронения своих дальних родственников, могут найти их в реестре или посетить могилы виртуально – с помощью реестра вильнюсских кладбищ.\n\nВ цифровом формате доступны данные по 43 кладбищам. Благодаря реестру сейчас можно найти точные координаты места захоронения. При создании реестра с помощью дронов была зафиксирована каждая могила, созданы ортофотографические фотографии кладбищ и по ним составлены планы. В базу данных введена информация о каждой могиле.\n"
+            },
+            {
+                "type": "link",
+                "text": "www.delfi.lt/a/120061787"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 8,
+                "emoji": "🔥"
+            },
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Сергей Попов",
+                        "from_id": "user1821920206",
+                        "date": "2025-01-06T21:52:50"
+                    },
+                    {
+                        "from": "Оксана",
+                        "from_id": "user1944196273",
+                        "date": "2024-12-18T14:11:09"
+                    },
+                    {
+                        "from": "Evgeniy Shabanov",
+                        "from_id": "user387659235",
+                        "date": "2024-12-07T19:58:37"
+                    }
+                ]
+            }
+        ]
+    }
+}

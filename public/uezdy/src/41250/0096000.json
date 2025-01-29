@@ -1,0 +1,630 @@
+{
+    "94127": {
+        "id": 94127,
+        "type": "message",
+        "date": "2024-08-26T22:50:26",
+        "date_unixtime": "1724701826",
+        "from": "Sb",
+        "from_id": "user6512553342",
+        "reply_to_message_id": 41250,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://virtualbrest.ru/news118192.php"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://virtualbrest.ru/news118192.php"
+            }
+        ]
+    },
+    "94128": {
+        "id": 94128,
+        "type": "message",
+        "date": "2024-08-26T22:50:45",
+        "date_unixtime": "1724701845",
+        "from": "Sb",
+        "from_id": "user6512553342",
+        "reply_to_message_id": 41250,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://virtualbrest.ru/news118434.php"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://virtualbrest.ru/news118434.php"
+            }
+        ]
+    },
+    "94129": {
+        "id": 94129,
+        "type": "message",
+        "date": "2024-08-26T22:51:06",
+        "date_unixtime": "1724701866",
+        "from": "Sb",
+        "from_id": "user6512553342",
+        "reply_to_message_id": 41250,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://virtualbrest.ru/news120439.php"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://virtualbrest.ru/news120439.php"
+            }
+        ]
+    },
+    "94130": {
+        "id": 94130,
+        "type": "message",
+        "date": "2024-08-26T22:51:27",
+        "date_unixtime": "1724701887",
+        "from": "Sb",
+        "from_id": "user6512553342",
+        "reply_to_message_id": 41250,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://virtualbrest.ru/news124365.php"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://virtualbrest.ru/news124365.php"
+            }
+        ]
+    },
+    "94131": {
+        "id": 94131,
+        "type": "message",
+        "date": "2024-08-26T22:51:48",
+        "date_unixtime": "1724701908",
+        "from": "Sb",
+        "from_id": "user6512553342",
+        "reply_to_message_id": 41250,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://virtualbrest.ru/news127074.php"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://virtualbrest.ru/news127074.php"
+            }
+        ]
+    },
+    "94132": {
+        "id": 94132,
+        "type": "message",
+        "date": "2024-08-26T22:52:02",
+        "date_unixtime": "1724701922",
+        "from": "Sb",
+        "from_id": "user6512553342",
+        "reply_to_message_id": 41250,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://virtualbrest.ru/news129926.php"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://virtualbrest.ru/news129926.php"
+            }
+        ]
+    },
+    "94133": {
+        "id": 94133,
+        "type": "message",
+        "date": "2024-08-26T22:53:15",
+        "date_unixtime": "1724701995",
+        "edited": "2024-08-27T20:53:15",
+        "edited_unixtime": "1724781195",
+        "from": "Sb",
+        "from_id": "user6512553342",
+        "reply_to_message_id": 94110,
+        "text": "это 7 статья, остальные скинул если кто-то не заметил",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "это 7 статья, остальные скинул если кто-то не заметил"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Kris Romanyuk",
+                        "from_id": "user173177233",
+                        "date": "2024-08-27T20:53:15"
+                    }
+                ]
+            }
+        ]
+    },
+    "94156": {
+        "id": 94156,
+        "type": "message",
+        "date": "2024-08-27T01:00:43",
+        "date_unixtime": "1724709643",
+        "edited": "2024-08-28T00:37:04",
+        "edited_unixtime": "1724794624",
+        "from": "Anastasia 🌚",
+        "from_id": "user5279255919",
+        "reply_to_message_id": 94132,
+        "text": "А где похожее можно найти?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А где похожее можно найти?"
+            }
+        ]
+    },
+    "94157": {
+        "id": 94157,
+        "type": "message",
+        "date": "2024-08-27T01:04:31",
+        "date_unixtime": "1724709871",
+        "from": "Anastasia 🌚",
+        "from_id": "user5279255919",
+        "reply_to_message_id": 94132,
+        "text": "Это по родословной ?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это по родословной ?"
+            }
+        ]
+    },
+    "94159": {
+        "id": 94159,
+        "type": "message",
+        "date": "2024-08-27T02:22:04",
+        "date_unixtime": "1724714524",
+        "edited": "2024-08-27T02:22:30",
+        "edited_unixtime": "1724714550",
+        "from": "Sb",
+        "from_id": "user6512553342",
+        "reply_to_message_id": 94156,
+        "text": [
+            "это наверное к автору\n\n Если у кого-то есть какие-либо вопросы по поднятой мной теме, пожалуйста, прошу связаться со мной по эл. адресу: (",
+            {
+                "type": "email",
+                "text": "brest-bug@mail.ru"
+            },
+            ") или же позвонить по телефону +375 33 328-97-34 (МТС). Буду рад всегда ответить на любой вопрос.\n\nСпасибо всем, кто прочитал мою статью!\n\n(Мои статьи можете прочитать ",
+            {
+                "type": "link",
+                "text": "https://vk.com/wall188548858"
+            },
+            ")\n\nС большим уважением, брестчанин Александр Пащук"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "это наверное к автору\n\n Если у кого-то есть какие-либо вопросы по поднятой мной теме, пожалуйста, прошу связаться со мной по эл. адресу: ("
+            },
+            {
+                "type": "email",
+                "text": "brest-bug@mail.ru"
+            },
+            {
+                "type": "plain",
+                "text": ") или же позвонить по телефону +375 33 328-97-34 (МТС). Буду рад всегда ответить на любой вопрос.\n\nСпасибо всем, кто прочитал мою статью!\n\n(Мои статьи можете прочитать "
+            },
+            {
+                "type": "link",
+                "text": "https://vk.com/wall188548858"
+            },
+            {
+                "type": "plain",
+                "text": ")\n\nС большим уважением, брестчанин Александр Пащук"
+            }
+        ]
+    },
+    "94187": {
+        "id": 94187,
+        "type": "message",
+        "date": "2024-08-27T15:42:35",
+        "date_unixtime": "1724762555",
+        "edited": "2024-08-27T17:29:59",
+        "edited_unixtime": "1724768999",
+        "from": "ksenia",
+        "from_id": "user805895547",
+        "reply_to_message_id": 93861,
+        "text": "Я обычно отвечаю, что князю оболенскому сейчас очень смешно с того, что он поляк",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я обычно отвечаю, что князю оболенскому сейчас очень смешно с того, что он поляк"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "😁",
+                "recent": [
+                    {
+                        "from": "Ma din",
+                        "from_id": "user5019143861",
+                        "date": "2024-08-29T16:20:03"
+                    },
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-08-27T17:29:59"
+                    }
+                ]
+            }
+        ]
+    },
+    "94201": {
+        "id": 94201,
+        "type": "message",
+        "date": "2024-08-27T21:39:03",
+        "date_unixtime": "1724783943",
+        "edited": "2024-08-27T22:10:14",
+        "edited_unixtime": "1724785814",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 94187,
+        "text": "У Короткевича Андрей Белорецкий говорил \"Я родился, как говорили в те времена, с «польской» фамилией - хотя до сих пор не знаю, что в ней такого мазовецкого было\"",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У Короткевича Андрей Белорецкий говорил \"Я родился, как говорили в те времена, с «польской» фамилией - хотя до сих пор не знаю, что в ней такого мазовецкого было\""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤‍🔥",
+                "recent": [
+                    {
+                        "from": "Arciom Malinoŭski",
+                        "from_id": "user884889101",
+                        "date": "2024-08-28T15:20:28"
+                    },
+                    {
+                        "from": "ksenia",
+                        "from_id": "user805895547",
+                        "date": "2024-08-27T22:10:15"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "💯",
+                "recent": [
+                    {
+                        "from": "Игнатович А. Е.",
+                        "from_id": "user346646662",
+                        "date": "2024-08-27T22:58:54"
+                    }
+                ]
+            }
+        ]
+    },
+    "94253": {
+        "id": 94253,
+        "type": "message",
+        "date": "2024-08-28T16:31:02",
+        "date_unixtime": "1724851862",
+        "edited": "2024-08-28T16:46:16",
+        "edited_unixtime": "1724852776",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 41250,
+        "text": "НАРБ ф. 1440 оп. 3 \nдд. 924-925 Перевод книги немецкого автора Г. Поттгисера «Немецкая имперская железная дорога в восточном походе 1939–1944 гг.» издательство Курт Форвинкель, Некаргемюнд, 1960 г. и книги немецкого автора Х. Теске «Серебряные петлицы» , 1952 год. 1952 – 1960",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "НАРБ ф. 1440 оп. 3 \nдд. 924-925 Перевод книги немецкого автора Г. Поттгисера «Немецкая имперская железная дорога в восточном походе 1939–1944 гг.» издательство Курт Форвинкель, Некаргемюнд, 1960 г. и книги немецкого автора Х. Теске «Серебряные петлицы» , 1952 год. 1952 – 1960"
+            }
+        ]
+    },
+    "94254": {
+        "id": 94254,
+        "type": "message",
+        "date": "2024-08-28T16:45:56",
+        "date_unixtime": "1724852756",
+        "edited": "2024-08-28T17:13:27",
+        "edited_unixtime": "1724854407",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 41250,
+        "text": "ф. 1440 оп. 3 \nдд. 1190 и 1190 Документы подпольной комсомольско молодежной группы, действовавшей на железной дороге в период \nоккупации г. Минска (июль 1941 – июнь 1944 гг.) \n\nд. 1194 Справка Н.И. Эполетова и М.Е. Антонова (1983 г.) о деятельности подпольной комсомольско молодежной группы в районе Грушевского поселка г. Минска и списки участников подпольной группы",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ф. 1440 оп. 3 \nдд. 1190 и 1190 Документы подпольной комсомольско молодежной группы, действовавшей на железной дороге в период \nоккупации г. Минска (июль 1941 – июнь 1944 гг.) \n\nд. 1194 Справка Н.И. Эполетова и М.Е. Антонова (1983 г.) о деятельности подпольной комсомольско молодежной группы в районе Грушевского поселка г. Минска и списки участников подпольной группы"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "I D",
+                        "from_id": "user5726368881",
+                        "date": "2024-08-29T00:21:50"
+                    },
+                    {
+                        "from": "Наталья",
+                        "from_id": "user453926170",
+                        "date": "2024-08-28T17:30:06"
+                    },
+                    {
+                        "from": "Л",
+                        "from_id": "user1311507774",
+                        "date": "2024-08-28T17:13:27"
+                    }
+                ]
+            }
+        ]
+    },
+    "94262": {
+        "id": 94262,
+        "type": "message",
+        "date": "2024-08-28T17:28:46",
+        "date_unixtime": "1724855326",
+        "edited": "2024-08-28T17:49:29",
+        "edited_unixtime": "1724856569",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 41250,
+        "text": "НАРБ фонд 7 Опись 3\nдд. 1965-1989 Списик эвакуированных из БССР в разные области СССР\n\nТам же матералы по переселенцам в Калининградскую обл,, на Сахалин, Карелию, в Польшу и из Польши.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "НАРБ фонд 7 Опись 3\nдд. 1965-1989 Списик эвакуированных из БССР в разные области СССР\n\nТам же матералы по переселенцам в Калининградскую обл,, на Сахалин, Карелию, в Польшу и из Польши."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👌",
+                "recent": [
+                    {
+                        "from": "Nadejda",
+                        "from_id": "user122890090",
+                        "date": "2024-08-28T18:01:00"
+                    },
+                    {
+                        "from": "Grigory",
+                        "from_id": "user286320928",
+                        "date": "2024-08-28T17:49:29"
+                    }
+                ]
+            }
+        ]
+    },
+    "94437": {
+        "id": 94437,
+        "type": "message",
+        "date": "2024-08-30T17:51:07",
+        "date_unixtime": "1725029467",
+        "edited": "2024-08-30T17:55:35",
+        "edited_unixtime": "1725029735",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 720,
+        "height": 498,
+        "text": "1915г. Переселенцы из Минской и Могилевской губерний (участок Унгудул, ныне Иркутская обл)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "1915г. Переселенцы из Минской и Могилевской губерний (участок Унгудул, ныне Иркутская обл)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 11,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Юлия Гарипова",
+                        "from_id": "user874127522",
+                        "date": "2024-12-05T12:43:41"
+                    },
+                    {
+                        "from": ";",
+                        "from_id": "user5579643927",
+                        "date": "2024-08-31T10:57:52"
+                    },
+                    {
+                        "from": "Eka",
+                        "from_id": "user510598726",
+                        "date": "2024-08-30T23:30:32"
+                    }
+                ]
+            }
+        ]
+    },
+    "94438": {
+        "id": 94438,
+        "type": "message",
+        "date": "2024-08-30T17:55:30",
+        "date_unixtime": "1725029730",
+        "edited": "2024-08-30T18:11:38",
+        "edited_unixtime": "1725030698",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 719,
+        "height": 530,
+        "text": "Вяселле ў Пружанскім раёне. 1950г, Шарашова",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вяселле ў Пружанскім раёне. 1950г, Шарашова"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Aliaksandr R",
+                        "from_id": "user622497157",
+                        "date": "2024-09-05T21:44:42"
+                    },
+                    {
+                        "from": "Eka",
+                        "from_id": "user510598726",
+                        "date": "2024-08-30T23:30:28"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2024-08-31T01:39:57"
+                    }
+                ]
+            }
+        ]
+    },
+    "94673": {
+        "id": 94673,
+        "type": "message",
+        "date": "2024-08-31T15:43:15",
+        "date_unixtime": "1725108195",
+        "edited": "2024-08-31T16:39:23",
+        "edited_unixtime": "1725111563",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 794,
+        "height": 1280,
+        "text": [
+            "Никогда такого не было и вот опять.\n ",
+            {
+                "type": "bold",
+                "text": "Статистика оплаты труда сельскохозяйственных рабочих. Российская империя."
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Никогда такого не было и вот опять.\n "
+            },
+            {
+                "type": "bold",
+                "text": "Статистика оплаты труда сельскохозяйственных рабочих. Российская империя."
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Anastasia Nichiporovich",
+                        "from_id": "user251428128",
+                        "date": "2024-08-31T21:47:36"
+                    },
+                    {
+                        "from": "ХТО НІХТО",
+                        "from_id": "user425011945",
+                        "date": "2024-08-31T20:02:35"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-08-31T18:58:11"
+                    }
+                ]
+            }
+        ]
+    },
+    "96500": {
+        "id": 96500,
+        "type": "message",
+        "date": "2024-09-09T21:24:21",
+        "date_unixtime": "1725906261",
+        "edited": "2024-09-10T08:54:27",
+        "edited_unixtime": "1725947667",
+        "from": "Vi",
+        "from_id": "user472567162",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1624,
+        "height": 834,
+        "text": [
+            "Падкажыце калі ласка, можа хто ведае, што гэта за царква такая на мапе ? Пазначана як каменная. Нейкая могілкавая, прыпісаная да Забельскай?\n",
+            {
+                "type": "link",
+                "text": "https://orda.of.by/.map/?53.200094,27.476682&m=fit/12,gm/14,3v/13,1v/14"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Падкажыце калі ласка, можа хто ведае, што гэта за царква такая на мапе ? Пазначана як каменная. Нейкая могілкавая, прыпісаная да Забельскай?\n"
+            },
+            {
+                "type": "link",
+                "text": "https://orda.of.by/.map/?53.200094,27.476682&m=fit/12,gm/14,3v/13,1v/14"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Людмила",
+                        "from_id": "user5786807940",
+                        "date": "2024-09-10T08:54:28"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,1347 @@
+{
+    "90820": {
+        "id": 90820,
+        "type": "message",
+        "date": "2024-07-30T21:34:28",
+        "date_unixtime": "1722364468",
+        "edited": "2024-07-30T21:34:51",
+        "edited_unixtime": "1722364491",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "text": "Стол знаёмы, з шуфлядкай)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Стол знаёмы, з шуфлядкай)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 10,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Дарья 🔆",
+                        "from_id": "user899941329",
+                        "date": "2024-08-01T22:58:10"
+                    },
+                    {
+                        "from": "Ekaterina",
+                        "from_id": "user627667746",
+                        "date": "2024-08-01T02:50:15"
+                    },
+                    {
+                        "from": "Vital'",
+                        "from_id": "user292953215",
+                        "date": "2024-07-31T11:47:18"
+                    }
+                ]
+            }
+        ]
+    },
+    "90904": {
+        "id": 90904,
+        "type": "message",
+        "date": "2024-07-31T11:56:10",
+        "date_unixtime": "1722416170",
+        "edited": "2024-12-16T00:09:11",
+        "edited_unixtime": "1734296951",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 41250,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "236ed76f3a7c7d917bc1c91b556ee57ee7dc33c1.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 1146,
+        "height": 1599,
+        "text": "Волости Минской губернии 1892",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Волости Минской губернии 1892"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Eka",
+                        "from_id": "user835480479",
+                        "date": "2025-01-27T23:25:21"
+                    },
+                    {
+                        "from": "Анатолий Атнагулов",
+                        "from_id": "user1002589739",
+                        "date": "2024-12-16T00:09:11"
+                    }
+                ]
+            }
+        ]
+    },
+    "90905": {
+        "id": 90905,
+        "type": "message",
+        "date": "2024-07-31T12:01:01",
+        "date_unixtime": "1722416461",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 85818,
+        "text": "А подскажите, пожалуйста, какая информация по улицам там есть? Нашел улицу, где жили предки, что кроме названия там указывалось?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А подскажите, пожалуйста, какая информация по улицам там есть? Нашел улицу, где жили предки, что кроме названия там указывалось?"
+            }
+        ]
+    },
+    "90906": {
+        "id": 90906,
+        "type": "message",
+        "date": "2024-07-31T12:03:45",
+        "date_unixtime": "1722416625",
+        "edited": "2024-07-31T12:04:18",
+        "edited_unixtime": "1722416658",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 90905,
+        "text": "Информации совсем немного. Имя владельца, цена, небольшое описание владения. Вроде такого\n\n№483 Маевские Антон Алексеев и Екатерина Андреева. Деревянный дом, собственная земля. 200р. Пост.упр. 15 февр. 1900\n\nКазак Афанасий дер. дом и сарай 75р. 150 р.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Информации совсем немного. Имя владельца, цена, небольшое описание владения. Вроде такого\n\n№483 Маевские Антон Алексеев и Екатерина Андреева. Деревянный дом, собственная земля. 200р. Пост.упр. 15 февр. 1900\n\nКазак Афанасий дер. дом и сарай 75р. 150 р."
+            }
+        ]
+    },
+    "90907": {
+        "id": 90907,
+        "type": "message",
+        "date": "2024-07-31T12:04:45",
+        "date_unixtime": "1722416685",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 90906,
+        "text": "Спасибо! А сколько страниц всего?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо! А сколько страниц всего?"
+            }
+        ]
+    },
+    "90908": {
+        "id": 90908,
+        "type": "message",
+        "date": "2024-07-31T12:05:43",
+        "date_unixtime": "1722416743",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 90907,
+        "text": "К сожалению не пометил. Около 400, на сколько я помню.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "К сожалению не пометил. Около 400, на сколько я помню."
+            }
+        ]
+    },
+    "90909": {
+        "id": 90909,
+        "type": "message",
+        "date": "2024-07-31T12:05:55",
+        "date_unixtime": "1722416755",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 41250,
+        "text": "Мне это было бы интересно, хотелось бы узнать побольше про их дом, а также подтвердить легенду о владении фотоателье рядом с домом",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мне это было бы интересно, хотелось бы узнать побольше про их дом, а также подтвердить легенду о владении фотоателье рядом с домом"
+            }
+        ]
+    },
+    "90910": {
+        "id": 90910,
+        "type": "message",
+        "date": "2024-07-31T12:06:02",
+        "date_unixtime": "1722416762",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 90908,
+        "text": "Окей, спасибо",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Окей, спасибо"
+            }
+        ]
+    },
+    "90911": {
+        "id": 90911,
+        "type": "message",
+        "date": "2024-07-31T12:06:57",
+        "date_unixtime": "1722416817",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 89421,
+        "text": "А тут информация такая же? Тоже скудно?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А тут информация такая же? Тоже скудно?"
+            }
+        ]
+    },
+    "90912": {
+        "id": 90912,
+        "type": "message",
+        "date": "2024-07-31T12:08:25",
+        "date_unixtime": "1722416905",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 90911,
+        "text": "Да. Даже меньше. \n\n932/764 Козак Семен 30 рублей\n\nБыв. Мурашки Андрей Захарий. Ныне Довнар Иосиф.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да. Даже меньше. \n\n932/764 Козак Семен 30 рублей\n\nБыв. Мурашки Андрей Захарий. Ныне Довнар Иосиф."
+            }
+        ]
+    },
+    "90913": {
+        "id": 90913,
+        "type": "message",
+        "date": "2024-07-31T12:09:02",
+        "date_unixtime": "1722416942",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 41250,
+        "text": "Но лично для меня информация очень важная.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Но лично для меня информация очень важная."
+            }
+        ]
+    },
+    "90914": {
+        "id": 90914,
+        "type": "message",
+        "date": "2024-07-31T12:09:11",
+        "date_unixtime": "1722416951",
+        "edited": "2024-07-31T12:09:18",
+        "edited_unixtime": "1722416958",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 90912,
+        "text": "Спасибо еще раз!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо еще раз!"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user75433030",
+                        "date": "2024-07-31T12:09:18"
+                    }
+                ]
+            }
+        ]
+    },
+    "90915": {
+        "id": 90915,
+        "type": "message",
+        "date": "2024-07-31T12:09:43",
+        "date_unixtime": "1722416983",
+        "edited": "2024-07-31T12:10:01",
+        "edited_unixtime": "1722417001",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 90913,
+        "text": "Ну вот да, тоже важно мне, интересно узнать, где именно жили на улице, в каком доме и до какого периода",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну вот да, тоже важно мне, интересно узнать, где именно жили на улице, в каком доме и до какого периода"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "💯",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user75433030",
+                        "date": "2024-07-31T12:10:01"
+                    }
+                ]
+            }
+        ]
+    },
+    "90916": {
+        "id": 90916,
+        "type": "message",
+        "date": "2024-07-31T12:11:20",
+        "date_unixtime": "1722417080",
+        "edited": "2024-07-31T12:12:01",
+        "edited_unixtime": "1722417121",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 41250,
+        "text": "Плюс я увидел, что в 1900г. огромное урочище Добрые Мысли почти не делилось на улицы. Была выделена только ул. Грушевская.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Плюс я увидел, что в 1900г. огромное урочище Добрые Мысли почти не делилось на улицы. Была выделена только ул. Грушевская."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "K.",
+                        "from_id": "user1470689869",
+                        "date": "2024-07-31T12:12:01"
+                    }
+                ]
+            }
+        ]
+    },
+    "90917": {
+        "id": 90917,
+        "type": "message",
+        "date": "2024-07-31T12:11:55",
+        "date_unixtime": "1722417115",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 41250,
+        "text": "Мне бы такой документ еще по Бобруйску. Ну буду искать в его городской управе",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мне бы такой документ еще по Бобруйску. Ну буду искать в его городской управе"
+            }
+        ]
+    },
+    "90918": {
+        "id": 90918,
+        "type": "message",
+        "date": "2024-07-31T12:12:39",
+        "date_unixtime": "1722417159",
+        "edited": "2024-07-31T12:15:17",
+        "edited_unixtime": "1722417317",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 90916,
+        "text": "Ну и срез домовладельцев города - тоже неплохо. Особенно, если собирать информацию по одной фамилии на всей территории РИ",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну и срез домовладельцев города - тоже неплохо. Особенно, если собирать информацию по одной фамилии на всей территории РИ"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user75433030",
+                        "date": "2024-07-31T12:15:17"
+                    }
+                ]
+            }
+        ]
+    },
+    "90919": {
+        "id": 90919,
+        "type": "message",
+        "date": "2024-07-31T12:22:04",
+        "date_unixtime": "1722417724",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 41250,
+        "text": [
+            {
+                "type": "link",
+                "text": "http://elib.shpl.ru/ru/nodes/80842#mode/inspect/page/34/zoom/4"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "http://elib.shpl.ru/ru/nodes/80842#mode/inspect/page/34/zoom/4"
+            }
+        ]
+    },
+    "90920": {
+        "id": 90920,
+        "type": "message",
+        "date": "2024-07-31T12:24:00",
+        "date_unixtime": "1722417840",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 41250,
+        "text": "Особенно мне понравились хозяйственные ссылки в качестве доказательства тяготения Себежа, Невеля и Велижа к БССР. \n\nКоличество свиней и посевов льна",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Особенно мне понравились хозяйственные ссылки в качестве доказательства тяготения Себежа, Невеля и Велижа к БССР. \n\nКоличество свиней и посевов льна"
+            }
+        ]
+    },
+    "90921": {
+        "id": 90921,
+        "type": "message",
+        "date": "2024-07-31T12:24:06",
+        "date_unixtime": "1722417846",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 41250,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "3deb80a48df279e00c2302d2810258f527666243 (1).jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 1966,
+        "height": 2753,
+        "text": "",
+        "text_entities": []
+    },
+    "90922": {
+        "id": 90922,
+        "type": "message",
+        "date": "2024-07-31T12:24:07",
+        "date_unixtime": "1722417847",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 41250,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "3deb80a48df279e00c2302d2810258f527666243.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 1966,
+        "height": 2753,
+        "text": "",
+        "text_entities": []
+    },
+    "90923": {
+        "id": 90923,
+        "type": "message",
+        "date": "2024-07-31T12:40:58",
+        "date_unixtime": "1722418858",
+        "edited": "2024-07-31T12:41:23",
+        "edited_unixtime": "1722418883",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 41250,
+        "text": [
+            "Краткая история 10-го пехотного Новоингерманландского полка. Полк стоял в Вильно, Свенцянах, Ошмянах. Позже в Минске. Начиная с. 168 идет описание участия в подавлении восстания 1863г.\n\n",
+            {
+                "type": "link",
+                "text": "http://elib.shpl.ru/ru/nodes/48236-kratkaya-istoriya-10-go-pehotnogo-novoingermanlandskogo-polka-kaluga-1894#mode/inspect/page/173/zoom/4"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Краткая история 10-го пехотного Новоингерманландского полка. Полк стоял в Вильно, Свенцянах, Ошмянах. Позже в Минске. Начиная с. 168 идет описание участия в подавлении восстания 1863г.\n\n"
+            },
+            {
+                "type": "link",
+                "text": "http://elib.shpl.ru/ru/nodes/48236-kratkaya-istoriya-10-go-pehotnogo-novoingermanlandskogo-polka-kaluga-1894#mode/inspect/page/173/zoom/4"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "90925": {
+        "id": 90925,
+        "type": "message",
+        "date": "2024-07-31T14:01:12",
+        "date_unixtime": "1722423672",
+        "edited": "2024-07-31T14:01:53",
+        "edited_unixtime": "1722423713",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 41250,
+        "text": "Добрый день,\n\nрасскажите почему по-польски Дятлово писалось по-разному:  Djatlowo и Zdzieciol.\n\nИ было ли безопасно жителям Дятлово подписывать фото по-польски в 48-50 гг?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день,\n\nрасскажите почему по-польски Дятлово писалось по-разному:  Djatlowo и Zdzieciol.\n\nИ было ли безопасно жителям Дятлово подписывать фото по-польски в 48-50 гг?"
+            }
+        ]
+    },
+    "90926": {
+        "id": 90926,
+        "type": "message",
+        "date": "2024-07-31T14:03:58",
+        "date_unixtime": "1722423838",
+        "edited": "2024-07-31T14:06:17",
+        "edited_unixtime": "1722423977",
+        "from": "В",
+        "from_id": "user5050312544",
+        "reply_to_message_id": 90925,
+        "text": "ЗьдзЕцел - историческое название. Дятлово - это русифицированный вариант.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ЗьдзЕцел - историческое название. Дятлово - это русифицированный вариант."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-08-03T15:06:15"
+                    },
+                    {
+                        "from": "Яна",
+                        "from_id": "user1171558336",
+                        "date": "2024-07-31T21:04:39"
+                    },
+                    {
+                        "from": "Vasi Vasi",
+                        "from_id": "user7071190955",
+                        "date": "2024-07-31T14:14:46"
+                    }
+                ]
+            }
+        ]
+    },
+    "90928": {
+        "id": 90928,
+        "type": "message",
+        "date": "2024-07-31T14:18:13",
+        "date_unixtime": "1722424693",
+        "edited": "2024-07-31T17:24:28",
+        "edited_unixtime": "1722435868",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 41250,
+        "text": [
+            "Нашлась статья по теме :)\n\n",
+            {
+                "type": "link",
+                "text": "https://shtetlroutes.eu/ru/dzyatlava-cultural-heritage-card/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Нашлась статья по теме :)\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://shtetlroutes.eu/ru/dzyatlava-cultural-heritage-card/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Машп Либо",
+                        "from_id": "user374860965",
+                        "date": "2024-07-31T17:24:28"
+                    }
+                ]
+            }
+        ]
+    },
+    "90929": {
+        "id": 90929,
+        "type": "message",
+        "date": "2024-07-31T14:18:50",
+        "date_unixtime": "1722424730",
+        "edited": "2024-07-31T14:22:53",
+        "edited_unixtime": "1722424973",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 41250,
+        "text": "В разные времена город имел различные названия: \n \nЗдзецел или Здзяцел (старобелорусский: Здетел) – историческое белорусское название, встречается в документах времен Великого княжества Литовского; \nZdzięcioł – польское название; \nZietil – еврейское название на языке идиш; \nZietela – литовское название; \nДятлово – российское название; \nДзятлава – название города в современном белорусском языке",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В разные времена город имел различные названия: \n \nЗдзецел или Здзяцел (старобелорусский: Здетел) – историческое белорусское название, встречается в документах времен Великого княжества Литовского; \nZdzięcioł – польское название; \nZietil – еврейское название на языке идиш; \nZietela – литовское название; \nДятлово – российское название; \nДзятлава – название города в современном белорусском языке"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": ";",
+                        "from_id": "user5579643927",
+                        "date": "2024-07-31T17:02:29"
+                    },
+                    {
+                        "from": "Vasi Vasi",
+                        "from_id": "user7071190955",
+                        "date": "2024-07-31T14:22:53"
+                    }
+                ]
+            }
+        ]
+    },
+    "90989": {
+        "id": 90989,
+        "type": "message",
+        "date": "2024-07-31T20:20:07",
+        "date_unixtime": "1722446407",
+        "edited": "2024-07-31T20:24:38",
+        "edited_unixtime": "1722446678",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 41250,
+        "text": "Добрый! А может кто сориентирует в Фонде 1781 НИАБа много дел о строительстве и закрытии разных каплиц и костелов, а есть ли в этом фонде дела с планами, макетами этих каплиц для строительства?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый! А может кто сориентирует в Фонде 1781 НИАБа много дел о строительстве и закрытии разных каплиц и костелов, а есть ли в этом фонде дела с планами, макетами этих каплиц для строительства?"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤔",
+                "recent": [
+                    {
+                        "from": "Vasi Vasi",
+                        "from_id": "user7071190955",
+                        "date": "2024-07-31T21:44:17"
+                    }
+                ]
+            }
+        ]
+    },
+    "90990": {
+        "id": 90990,
+        "type": "message",
+        "date": "2024-07-31T20:26:04",
+        "date_unixtime": "1722446764",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 90989,
+        "text": "Здравствуйте! Ну если про XIX в. говорить, то лично мне графическая инфа в таких делах не попадалась, хотя я и не так много таких дел смотрел.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте! Ну если про XIX в. говорить, то лично мне графическая инфа в таких делах не попадалась, хотя я и не так много таких дел смотрел."
+            }
+        ]
+    },
+    "90991": {
+        "id": 90991,
+        "type": "message",
+        "date": "2024-07-31T20:26:50",
+        "date_unixtime": "1722446810",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 41250,
+        "text": "Думаю, если есть возможность проверить, то лучше лишний раз проверить 😊",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Думаю, если есть возможность проверить, то лучше лишний раз проверить 😊"
+            }
+        ]
+    },
+    "90992": {
+        "id": 90992,
+        "type": "message",
+        "date": "2024-07-31T20:28:00",
+        "date_unixtime": "1722446880",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 41250,
+        "text": "Там, скорее, план может быть в связи с тем, если костёл под православную церковь перестраивали. Но мне кажется, такое лучше искать в строительных отделениях губернских правлений, например.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Там, скорее, план может быть в связи с тем, если костёл под православную церковь перестраивали. Но мне кажется, такое лучше искать в строительных отделениях губернских правлений, например."
+            }
+        ]
+    },
+    "90993": {
+        "id": 90993,
+        "type": "message",
+        "date": "2024-07-31T20:29:27",
+        "date_unixtime": "1722446967",
+        "edited": "2024-07-31T20:30:56",
+        "edited_unixtime": "1722447056",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 90991,
+        "text": "Просто уже замечал такую тенденцию по другим фондам. Например, отдельно само дело о засушивания болот, и в другом фонде отдельно дело самого плана осушки",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Просто уже замечал такую тенденцию по другим фондам. Например, отдельно само дело о засушивания болот, и в другом фонде отдельно дело самого плана осушки"
+            }
+        ]
+    },
+    "90994": {
+        "id": 90994,
+        "type": "message",
+        "date": "2024-07-31T20:29:55",
+        "date_unixtime": "1722446995",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 41250,
+        "text": "Тут и логика сработала, что если есть дело о постройке каплицы «с предоставлением плана»",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тут и логика сработала, что если есть дело о постройке каплицы «с предоставлением плана»"
+            }
+        ]
+    },
+    "90995": {
+        "id": 90995,
+        "type": "message",
+        "date": "2024-07-31T20:30:03",
+        "date_unixtime": "1722447003",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 41250,
+        "text": "Значит должен быть и план",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Значит должен быть и план"
+            }
+        ]
+    },
+    "90996": {
+        "id": 90996,
+        "type": "message",
+        "date": "2024-07-31T20:30:38",
+        "date_unixtime": "1722447038",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 41250,
+        "text": "Ну если он в макулатуру случайно не попал в свое время )",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну если он в макулатуру случайно не попал в свое время )"
+            }
+        ]
+    },
+    "90997": {
+        "id": 90997,
+        "type": "message",
+        "date": "2024-07-31T20:31:11",
+        "date_unixtime": "1722447071",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 41250,
+        "text": "ну тут всё может быть очень по-разному. Не обязательно концы будут в разных фондах. Но лучше проверить все те дела, заголовки которых вдохновляют 😊",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ну тут всё может быть очень по-разному. Не обязательно концы будут в разных фондах. Но лучше проверить все те дела, заголовки которых вдохновляют 😊"
+            }
+        ]
+    },
+    "91070": {
+        "id": 91070,
+        "type": "message",
+        "date": "2024-08-01T23:43:25",
+        "date_unixtime": "1722545005",
+        "edited": "2024-08-01T23:43:53",
+        "edited_unixtime": "1722545033",
+        "from": "Victor",
+        "from_id": "user512489139",
+        "reply_to_message_id": 90929,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 714,
+        "height": 1280,
+        "text": "вот немного о Дятлово\n1929 Polish Business Directory - Nowogródek Province",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "вот немного о Дятлово\n1929 Polish Business Directory - Nowogródek Province"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-08-03T15:05:21"
+                    },
+                    {
+                        "from": "Julia Koleda",
+                        "from_id": "user454470533",
+                        "date": "2024-08-01T23:43:54"
+                    }
+                ]
+            }
+        ]
+    },
+    "91071": {
+        "id": 91071,
+        "type": "message",
+        "date": "2024-08-01T23:44:43",
+        "date_unixtime": "1722545083",
+        "edited": "2024-08-04T19:46:56",
+        "edited_unixtime": "1722790016",
+        "from": "Victor",
+        "from_id": "user512489139",
+        "reply_to_message_id": 41250,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Zdzięcioł.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 2946,
+        "height": 5281,
+        "text": "так наверное качественнее будет",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "так наверное качественнее будет"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Julia Koleda",
+                        "from_id": "user454470533",
+                        "date": "2024-08-04T19:46:56"
+                    }
+                ]
+            }
+        ]
+    },
+    "91553": {
+        "id": 91553,
+        "type": "message",
+        "date": "2024-08-07T13:35:41",
+        "date_unixtime": "1723026941",
+        "edited": "2024-08-07T13:44:43",
+        "edited_unixtime": "1723027483",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 41250,
+        "text": "Посмотрите какие я накопал воспоминания. И какое продолжение! Особенно характеристика хороша!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Посмотрите какие я накопал воспоминания. И какое продолжение! Особенно характеристика хороша!"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Grigory",
+                        "from_id": "user286320928",
+                        "date": "2024-08-07T14:01:47"
+                    },
+                    {
+                        "from": "Наталья",
+                        "from_id": "user453926170",
+                        "date": "2024-08-07T13:45:10"
+                    },
+                    {
+                        "from": "I D",
+                        "from_id": "user5726368881",
+                        "date": "2024-08-07T13:44:55"
+                    }
+                ]
+            }
+        ]
+    },
+    "91554": {
+        "id": 91554,
+        "type": "message",
+        "date": "2024-08-07T13:35:53",
+        "date_unixtime": "1723026953",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 41250,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 2626,
+        "height": 3542,
+        "text": "",
+        "text_entities": []
+    },
+    "91555": {
+        "id": 91555,
+        "type": "message",
+        "date": "2024-08-07T13:35:53",
+        "date_unixtime": "1723026953",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 41250,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "2.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 2570,
+        "height": 3486,
+        "text": "",
+        "text_entities": []
+    },
+    "91556": {
+        "id": 91556,
+        "type": "message",
+        "date": "2024-08-07T13:35:54",
+        "date_unixtime": "1723026954",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 41250,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Воспоминания.JPG",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 972,
+        "height": 817,
+        "text": "",
+        "text_entities": []
+    },
+    "91557": {
+        "id": 91557,
+        "type": "message",
+        "date": "2024-08-07T13:51:06",
+        "date_unixtime": "1723027866",
+        "from": "Наталья",
+        "from_id": "user453926170",
+        "reply_to_message_id": 91553,
+        "text": "Я начала с воспоминаний, почему-то ожидала, что за время пребывания в партизанском отряде он наоборот стал героем…🥲",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я начала с воспоминаний, почему-то ожидала, что за время пребывания в партизанском отряде он наоборот стал героем…🥲"
+            }
+        ]
+    },
+    "91558": {
+        "id": 91558,
+        "type": "message",
+        "date": "2024-08-07T13:53:40",
+        "date_unixtime": "1723028020",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 91557,
+        "text": "Трус и в мирное, и военное время остается трусом.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Трус и в мирное, и военное время остается трусом."
+            }
+        ]
+    },
+    "91610": {
+        "id": 91610,
+        "type": "message",
+        "date": "2024-08-08T07:05:57",
+        "date_unixtime": "1723089957",
+        "from": "Виктор Коротченко",
+        "from_id": "user5228470835",
+        "reply_to_message_id": 41250,
+        "text": "А вроде на белорусском трус - кролик?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А вроде на белорусском трус - кролик?"
+            }
+        ]
+    },
+    "91611": {
+        "id": 91611,
+        "type": "message",
+        "date": "2024-08-08T07:10:15",
+        "date_unixtime": "1723090215",
+        "from": "Наталья",
+        "from_id": "user453926170",
+        "reply_to_message_id": 91610,
+        "text": "Трусік😀",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Трусік😀"
+            }
+        ]
+    },
+    "91612": {
+        "id": 91612,
+        "type": "message",
+        "date": "2024-08-08T07:12:56",
+        "date_unixtime": "1723090376",
+        "from": "Виктор Коротченко",
+        "from_id": "user5228470835",
+        "reply_to_message_id": 41250,
+        "text": "А по поводу фамилии Трус можно набрать в поисковике: Брускина, Щербацевич, Трус. Совсем по-другому зазвучит...",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А по поводу фамилии Трус можно набрать в поисковике: Брускина, Щербацевич, Трус. Совсем по-другому зазвучит..."
+            }
+        ]
+    },
+    "91613": {
+        "id": 91613,
+        "type": "message",
+        "date": "2024-08-08T07:14:51",
+        "date_unixtime": "1723090491",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 41250,
+        "text": "Фамилия Трус, Трусевич от имени Петр, Пятрусь 😳",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Фамилия Трус, Трусевич от имени Петр, Пятрусь 😳"
+            }
+        ]
+    },
+    "91649": {
+        "id": 91649,
+        "type": "message",
+        "date": "2024-08-08T21:42:00",
+        "date_unixtime": "1723142520",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 41250,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://tochka.by/articles/life/naydeno_samoe_drevnee_kladbishche_v_belarusi_gde_ono_raspolozheno/"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://tochka.by/articles/life/naydeno_samoe_drevnee_kladbishche_v_belarusi_gde_ono_raspolozheno/"
+            }
+        ]
+    },
+    "91651": {
+        "id": 91651,
+        "type": "message",
+        "date": "2024-08-08T22:41:47",
+        "date_unixtime": "1723146107",
+        "from": "Tonia",
+        "from_id": "user1132506171",
+        "reply_to_message_id": 41250,
+        "text": "Здравствуйте,  никто не встречал такое название,  как хутор Масты , это вероятно Гомельской области?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте,  никто не встречал такое название,  как хутор Масты , это вероятно Гомельской области?"
+            }
+        ]
+    },
+    "91815": {
+        "id": 91815,
+        "type": "message",
+        "date": "2024-08-11T23:29:09",
+        "date_unixtime": "1723408149",
+        "edited": "2024-08-11T23:32:34",
+        "edited_unixtime": "1723408354",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "forwarded_from": "T.A",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 720,
+        "height": 472,
+        "text": "Паштоўка, 1912г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Паштоўка, 1912г."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Оксана",
+                        "from_id": "user1944196273",
+                        "date": "2024-12-18T15:46:21"
+                    },
+                    {
+                        "from": ";",
+                        "from_id": "user5579643927",
+                        "date": "2024-08-12T06:17:21"
+                    },
+                    {
+                        "from": "AV",
+                        "from_id": "user484872692",
+                        "date": "2024-08-12T04:40:47"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😍"
+            }
+        ]
+    },
+    "91891": {
+        "id": 91891,
+        "type": "message",
+        "date": "2024-08-12T13:14:54",
+        "date_unixtime": "1723457694",
+        "from": "D G",
+        "from_id": "user1057268081",
+        "reply_to_message_id": 41250,
+        "text": "Всем добрый день)\nВроде группу в чате определила верно))\nПодскажите, пожалуйста, встречался ли на территории РБ Курочинский (или похожий) с/с?\nМоя прабабушка родом из РБ, замуж вышла в г.Шахты в 1933 г\nИнформации по прабабушке не много, прям-таки очень мало\nВот в справке о браке обнаружила этот с/с - справка выданная Курочинским с/с, документ, который был предоставлен при заключении брака",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Всем добрый день)\nВроде группу в чате определила верно))\nПодскажите, пожалуйста, встречался ли на территории РБ Курочинский (или похожий) с/с?\nМоя прабабушка родом из РБ, замуж вышла в г.Шахты в 1933 г\nИнформации по прабабушке не много, прям-таки очень мало\nВот в справке о браке обнаружила этот с/с - справка выданная Курочинским с/с, документ, который был предоставлен при заключении брака"
+            }
+        ]
+    },
+    "91901": {
+        "id": 91901,
+        "type": "message",
+        "date": "2024-08-12T13:21:19",
+        "date_unixtime": "1723458079",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 91891,
+        "text": "Курочинский или Куринский?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Курочинский или Куринский?"
+            }
+        ]
+    },
+    "91941": {
+        "id": 91941,
+        "type": "message",
+        "date": "2024-08-12T13:35:40",
+        "date_unixtime": "1723458940",
+        "from": "D G",
+        "from_id": "user1057268081",
+        "reply_to_message_id": 91901,
+        "text": "Записан как Курочинский \nКуринский в Витебской области, да?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Записан как Курочинский \nКуринский в Витебской области, да?"
+            }
+        ]
+    },
+    "91946": {
+        "id": 91946,
+        "type": "message",
+        "date": "2024-08-12T13:36:53",
+        "date_unixtime": "1723459013",
+        "edited": "2024-08-12T13:40:17",
+        "edited_unixtime": "1723459217",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 41250,
+        "text": [
+            "Куринский сельсовет | Витебский Районный Исполнительный Комитет\n",
+            {
+                "type": "link",
+                "text": "https://vitebsk.vitebsk-region.gov.by/ru/kurinskiy-selsovet"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Куринский сельсовет | Витебский Районный Исполнительный Комитет\n"
+            },
+            {
+                "type": "link",
+                "text": "https://vitebsk.vitebsk-region.gov.by/ru/kurinskiy-selsovet"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "D G",
+                        "from_id": "user1057268081",
+                        "date": "2024-08-12T13:40:17"
+                    }
+                ]
+            }
+        ]
+    },
+    "91953": {
+        "id": 91953,
+        "type": "message",
+        "date": "2024-08-12T13:42:30",
+        "date_unixtime": "1723459350",
+        "edited": "2024-08-12T13:43:03",
+        "edited_unixtime": "1723459383",
+        "from": "D G",
+        "from_id": "user1057268081",
+        "reply_to_message_id": 41250,
+        "text": "Спасибо Вам большое!\nА где архив их? НИАБ Минска или в НИАБ Гродно тоже может быть ?\nЯ честно говоря не очень понимаю принцип распределение документов для хранения....\nИ ещё такой вопрос, правильно ли я понимаю, что какое-то время часть Витебской, Минской и Брестской области принадлежали Польше? И в таком случае архивные документы  могут быть в Польше ?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо Вам большое!\nА где архив их? НИАБ Минска или в НИАБ Гродно тоже может быть ?\nЯ честно говоря не очень понимаю принцип распределение документов для хранения....\nИ ещё такой вопрос, правильно ли я понимаю, что какое-то время часть Витебской, Минской и Брестской области принадлежали Польше? И в таком случае архивные документы  могут быть в Польше ?"
+            }
+        ]
+    },
+    "91964": {
+        "id": 91964,
+        "type": "message",
+        "date": "2024-08-12T13:59:53",
+        "date_unixtime": "1723460393",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 91953,
+        "text": "С метриками по данным НП,которые входят в Витебское третье благочиние, беда, я так понимаю. Из 10 приходов в НИАБе Минска только Козловичи и Островские и то не полные.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "С метриками по данным НП,которые входят в Витебское третье благочиние, беда, я так понимаю. Из 10 приходов в НИАБе Минска только Козловичи и Островские и то не полные."
+            }
+        ]
+    },
+    "91979": {
+        "id": 91979,
+        "type": "message",
+        "date": "2024-08-12T14:38:59",
+        "date_unixtime": "1723462739",
+        "from": "D G",
+        "from_id": "user1057268081",
+        "reply_to_message_id": 41250,
+        "text": "Эхххх куда не ткнусь везде беда...\nА помимо метрик ?))",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Эхххх куда не ткнусь везде беда...\nА помимо метрик ?))"
+            }
+        ]
+    },
+    "91981": {
+        "id": 91981,
+        "type": "message",
+        "date": "2024-08-12T14:43:57",
+        "date_unixtime": "1723463037",
+        "edited": "2024-08-12T14:46:58",
+        "edited_unixtime": "1723463218",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 91979,
+        "text": "Можно и помимо метрик. Похозяйственные книги. Могут быть как в сельсоветах, так и а архивах областных, также в НАРБе.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Можно и помимо метрик. Похозяйственные книги. Могут быть как в сельсоветах, так и а архивах областных, также в НАРБе."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Yulia S",
+                        "from_id": "user502425848",
+                        "date": "2024-08-20T17:23:44"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "D G",
+                        "from_id": "user1057268081",
+                        "date": "2024-08-12T14:46:58"
+                    }
+                ]
+            }
+        ]
+    },
+    "92056": {
+        "id": 92056,
+        "type": "message",
+        "date": "2024-08-12T17:56:55",
+        "date_unixtime": "1723474615",
+        "from": "Ma din",
+        "from_id": "user5019143861",
+        "reply_to_message_id": 91891,
+        "text": "Деревня Курочино есть в России",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Деревня Курочино есть в России"
+            }
+        ]
+    }
+}

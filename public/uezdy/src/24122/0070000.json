@@ -1,0 +1,107 @@
+{
+    "69282": {
+        "id": 69282,
+        "type": "message",
+        "date": "2024-01-19T00:34:07",
+        "date_unixtime": "1705613647",
+        "edited": "2024-01-19T13:20:25",
+        "edited_unixtime": "1705659625",
+        "from": "Olga",
+        "from_id": "user1117086057",
+        "reply_to_message_id": 24122,
+        "text": [
+            "Карты ",
+            {
+                "type": "link",
+                "text": "http://maps.mapywig.org/m/WIG_maps/series/025K/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Карты "
+            },
+            {
+                "type": "link",
+                "text": "http://maps.mapywig.org/m/WIG_maps/series/025K/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-01-19T13:20:26"
+                    }
+                ]
+            }
+        ]
+    },
+    "70150": {
+        "id": 70150,
+        "type": "message",
+        "date": "2024-01-22T02:58:35",
+        "date_unixtime": "1705881515",
+        "edited": "2024-01-22T03:11:16",
+        "edited_unixtime": "1705882276",
+        "from": "Алексей Билецкий",
+        "from_id": "user1133915357",
+        "forwarded_from": "Alla Savchuk",
+        "reply_to_message_id": 24122,
+        "text": [
+            "СПИСКИ БЕЖЕНЦЕВ ПЕРВОЙ МИРОВОЙ ВОЙНЫ | АДВЕКУ – поиск предков в Беларуси\n",
+            {
+                "type": "link",
+                "text": "http://adveku.by/spiski-bezhenczev-pervoj-mirovoj-vojny/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "СПИСКИ БЕЖЕНЦЕВ ПЕРВОЙ МИРОВОЙ ВОЙНЫ | АДВЕКУ – поиск предков в Беларуси\n"
+            },
+            {
+                "type": "link",
+                "text": "http://adveku.by/spiski-bezhenczev-pervoj-mirovoj-vojny/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Alexandra Sirenko",
+                        "from_id": "user950977599",
+                        "date": "2024-03-03T14:30:56"
+                    },
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2024-02-03T20:19:50"
+                    },
+                    {
+                        "from": "Ma din",
+                        "from_id": "user5019143861",
+                        "date": "2024-01-23T00:07:25"
+                    }
+                ]
+            }
+        ]
+    }
+}

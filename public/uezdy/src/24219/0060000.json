@@ -1,0 +1,55 @@
+{
+    "103162": {
+        "id": 103162,
+        "type": "message",
+        "date": "2024-11-11T17:41:31",
+        "date_unixtime": "1731336091",
+        "edited": "2024-11-11T21:11:34",
+        "edited_unixtime": "1731348694",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "hvojka",
+        "reply_to_message_id": 24219,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://t.me/slutskypavet"
+            },
+            "\nЗдравствуйте\nЯ создала генеалогическую группу Слуцкого уезда.\nНе знаю, будет ли там движ, но попробуем - и посмотрим."
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://t.me/slutskypavet"
+            },
+            {
+                "type": "plain",
+                "text": "\nЗдравствуйте\nЯ создала генеалогическую группу Слуцкого уезда.\nНе знаю, будет ли там движ, но попробуем - и посмотрим."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 13,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Natalia Lu",
+                        "from_id": "user219698220",
+                        "date": "2025-01-12T23:30:23"
+                    },
+                    {
+                        "from": "Елена Леонидовна Щека",
+                        "from_id": "user1984537320",
+                        "date": "2025-01-03T15:23:02"
+                    },
+                    {
+                        "from": "Arbores",
+                        "from_id": "user872011640",
+                        "date": "2024-12-11T18:36:04"
+                    }
+                ]
+            }
+        ]
+    }
+}

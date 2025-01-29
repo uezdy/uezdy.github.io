@@ -1,0 +1,34 @@
+{
+    "60207": {
+        "id": 60207,
+        "type": "message",
+        "date": "2023-10-28T15:21:18",
+        "date_unixtime": "1698495678",
+        "edited": "2023-10-28T15:21:45",
+        "edited_unixtime": "1698495705",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 60206,
+        "text": "Ага. Дочь Агаты Липницкой",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ага. Дочь Агаты Липницкой"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Андрей Беть",
+                        "from_id": "user518370584",
+                        "date": "2023-10-28T15:21:45"
+                    }
+                ]
+            }
+        ]
+    }
+}

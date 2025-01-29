@@ -1,0 +1,276 @@
+{
+    "91997": {
+        "id": 91997,
+        "type": "message",
+        "date": "2024-08-12T15:43:38",
+        "date_unixtime": "1723466618",
+        "edited": "2025-01-12T00:35:18",
+        "edited_unixtime": "1736631318",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 91995,
+        "text": [
+            "📋 Список инициатив:\n\n− ",
+            {
+                "type": "text_link",
+                "text": "Добавление пользовательских данных в базу db.zhnivo.com",
+                "href": "https://t.me/zhnivo/7864/8271"
+            },
+            "\n− ",
+            {
+                "type": "text_link",
+                "text": "Индексация списков населенных мест (СНМ) в проекте Жніво",
+                "href": "https://t.me/zhnivo/6/2425"
+            },
+            "\n− ",
+            {
+                "type": "text_link",
+                "text": "Индексация описей фондов НИАБ (Минск) и НИАБ (Гродно)",
+                "href": "https://forum.vgd.ru/post/468/118798/p3690535.htm"
+            },
+            "\n− ",
+            {
+                "type": "text_link",
+                "text": "Набор описей архивов Беларуси (Великія описи)",
+                "href": "https://t.me/velikie_by"
+            },
+            "\n− ",
+            {
+                "type": "text_link",
+                "text": "Индексация документов Крестьянского поземельного банка (КПБ) по Беларуси",
+                "href": "https://t.me/bykpb/1/4280"
+            },
+            "\n− ",
+            {
+                "type": "text_link",
+                "text": "Создание подробной описи Фонда 333, НИАБ (Минск) - ревизские сказки Минской губернии",
+                "href": "https://forum.vgd.ru/post/45/93243/p2043735.htm"
+            },
+            "\n− ",
+            {
+                "type": "text_link",
+                "text": "Создание подробной описи по фондам с ревизскими сказками Могилевской губернии",
+                "href": "https://forum.vgd.ru/post/6049/136744/p4288737.htm"
+            },
+            "\n− ",
+            {
+                "type": "text_link",
+                "text": "Выполнение заданий в проекте Грыц (hryc.by) для улучшения распознавания текста",
+                "href": "https://hryc.by/SearchCollaboration"
+            },
+            "\n− ",
+            {
+                "type": "text_link",
+                "text": "Индексация потеряшек Смоленской губернии",
+                "href": "https://t.me/uezdy/91995/97897"
+            },
+            "\n− ",
+            {
+                "type": "text_link",
+                "text": "Добавление информации о своих деревнях в Википедию",
+                "href": "https://t.me/uezdy/91995/103938"
+            },
+            "\n🆕 ",
+            {
+                "type": "text_link",
+                "text": "Создание электронного каталога мацев с переводами эпитафий с иврита",
+                "href": "https://t.me/uezdy/91995/109643"
+            },
+            "\n\nПолезная тема на ВГД от ",
+            {
+                "type": "bold",
+                "text": "A1enushka"
+            },
+            ": ",
+            {
+                "type": "text_link",
+                "text": "Кооперация форумчан, совместные поиски",
+                "href": "https://forum.vgd.ru/6049/129883/"
+            },
+            "\n\nА также ",
+            {
+                "type": "text_link",
+                "text": "локальные проекты",
+                "href": "https://t.me/uezdy/91995/92078"
+            },
+            " чатов по ",
+            {
+                "type": "text_link",
+                "text": "отдельным уездам",
+                "href": "https://t.me/uezdy/24219/51844"
+            },
+            "."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "📋 Список инициатив:\n\n− "
+            },
+            {
+                "type": "text_link",
+                "text": "Добавление пользовательских данных в базу db.zhnivo.com",
+                "href": "https://t.me/zhnivo/7864/8271"
+            },
+            {
+                "type": "plain",
+                "text": "\n− "
+            },
+            {
+                "type": "text_link",
+                "text": "Индексация списков населенных мест (СНМ) в проекте Жніво",
+                "href": "https://t.me/zhnivo/6/2425"
+            },
+            {
+                "type": "plain",
+                "text": "\n− "
+            },
+            {
+                "type": "text_link",
+                "text": "Индексация описей фондов НИАБ (Минск) и НИАБ (Гродно)",
+                "href": "https://forum.vgd.ru/post/468/118798/p3690535.htm"
+            },
+            {
+                "type": "plain",
+                "text": "\n− "
+            },
+            {
+                "type": "text_link",
+                "text": "Набор описей архивов Беларуси (Великія описи)",
+                "href": "https://t.me/velikie_by"
+            },
+            {
+                "type": "plain",
+                "text": "\n− "
+            },
+            {
+                "type": "text_link",
+                "text": "Индексация документов Крестьянского поземельного банка (КПБ) по Беларуси",
+                "href": "https://t.me/bykpb/1/4280"
+            },
+            {
+                "type": "plain",
+                "text": "\n− "
+            },
+            {
+                "type": "text_link",
+                "text": "Создание подробной описи Фонда 333, НИАБ (Минск) - ревизские сказки Минской губернии",
+                "href": "https://forum.vgd.ru/post/45/93243/p2043735.htm"
+            },
+            {
+                "type": "plain",
+                "text": "\n− "
+            },
+            {
+                "type": "text_link",
+                "text": "Создание подробной описи по фондам с ревизскими сказками Могилевской губернии",
+                "href": "https://forum.vgd.ru/post/6049/136744/p4288737.htm"
+            },
+            {
+                "type": "plain",
+                "text": "\n− "
+            },
+            {
+                "type": "text_link",
+                "text": "Выполнение заданий в проекте Грыц (hryc.by) для улучшения распознавания текста",
+                "href": "https://hryc.by/SearchCollaboration"
+            },
+            {
+                "type": "plain",
+                "text": "\n− "
+            },
+            {
+                "type": "text_link",
+                "text": "Индексация потеряшек Смоленской губернии",
+                "href": "https://t.me/uezdy/91995/97897"
+            },
+            {
+                "type": "plain",
+                "text": "\n− "
+            },
+            {
+                "type": "text_link",
+                "text": "Добавление информации о своих деревнях в Википедию",
+                "href": "https://t.me/uezdy/91995/103938"
+            },
+            {
+                "type": "plain",
+                "text": "\n🆕 "
+            },
+            {
+                "type": "text_link",
+                "text": "Создание электронного каталога мацев с переводами эпитафий с иврита",
+                "href": "https://t.me/uezdy/91995/109643"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nПолезная тема на ВГД от "
+            },
+            {
+                "type": "bold",
+                "text": "A1enushka"
+            },
+            {
+                "type": "plain",
+                "text": ": "
+            },
+            {
+                "type": "text_link",
+                "text": "Кооперация форумчан, совместные поиски",
+                "href": "https://forum.vgd.ru/6049/129883/"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nА также "
+            },
+            {
+                "type": "text_link",
+                "text": "локальные проекты",
+                "href": "https://t.me/uezdy/91995/92078"
+            },
+            {
+                "type": "plain",
+                "text": " чатов по "
+            },
+            {
+                "type": "text_link",
+                "text": "отдельным уездам",
+                "href": "https://t.me/uezdy/24219/51844"
+            },
+            {
+                "type": "plain",
+                "text": "."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 7,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Liron 🇮🇱🎗",
+                        "from_id": "user356060460",
+                        "date": "2024-12-16T15:36:00"
+                    },
+                    {
+                        "from": "Яська Гаспадар з-пад Вільні",
+                        "from_id": "user787777714",
+                        "date": "2024-11-19T20:04:36"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Яська Гаспадар з-пад Вільні",
+                        "from_id": "user787777714",
+                        "date": "2024-11-19T20:04:36"
+                    }
+                ]
+            }
+        ]
+    }
+}

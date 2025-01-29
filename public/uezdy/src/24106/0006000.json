@@ -1,0 +1,44 @@
+{
+    "24110": {
+        "id": 24110,
+        "type": "message",
+        "date": "2022-11-06T12:05:41",
+        "date_unixtime": "1667725541",
+        "edited": "2022-11-07T11:08:27",
+        "edited_unixtime": "1667808507",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 24106,
+        "text": "А куда все сообщения пропали",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А куда все сообщения пропали"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Lusia",
+                        "from_id": "user659677554",
+                        "date": "2022-12-19T08:20:09"
+                    },
+                    {
+                        "from": "Irena Irena",
+                        "from_id": "user5089851269",
+                        "date": "2022-11-10T14:46:08"
+                    },
+                    {
+                        "from": "Надзея",
+                        "from_id": "user553711532",
+                        "date": "2022-11-07T14:25:18"
+                    }
+                ]
+            }
+        ]
+    }
+}

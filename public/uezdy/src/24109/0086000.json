@@ -1,0 +1,2051 @@
+{
+    "84101": {
+        "id": 84101,
+        "type": "message",
+        "date": "2024-05-24T18:43:52",
+        "date_unixtime": "1716565432",
+        "from": "AnnaCheglakova",
+        "from_id": "user352855784",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "iurp-2007-52-38.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Татарское движение 1917-1918 год",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Татарское движение 1917-1918 год"
+            }
+        ]
+    },
+    "84136": {
+        "id": 84136,
+        "type": "message",
+        "date": "2024-05-25T08:45:23",
+        "date_unixtime": "1716615923",
+        "edited": "2024-05-28T22:39:40",
+        "edited_unixtime": "1716925180",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1877_SNM_Polshi_01.djvu",
+        "mime_type": "image/vnd.djvu+multipage",
+        "text": [
+            "------------ ",
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            " -----------\nЗаглавие: 1877. Список населённых мест городов, фольварков, колоний и прочих мест в Царстве Польском. Djvu. (на польском и русс. яз.)\nч. 1., Алфавитный указатель., 431 стр., 26,97 Мб.\nАвтор: Зимберг.\nЖанр: ",
+            {
+                "type": "hashtag",
+                "text": "#1877г"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Польша"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#СНМ"
+            },
+            "\nИздатель: Варшава. И.Ж.Алапина\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: ",
+            {
+                "type": "link",
+                "text": "https://clck.ru/3AqFYU"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "------------ "
+            },
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            {
+                "type": "plain",
+                "text": " -----------\nЗаглавие: 1877. Список населённых мест городов, фольварков, колоний и прочих мест в Царстве Польском. Djvu. (на польском и русс. яз.)\nч. 1., Алфавитный указатель., 431 стр., 26,97 Мб.\nАвтор: Зимберг.\nЖанр: "
+            },
+            {
+                "type": "hashtag",
+                "text": "#1877г"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Польша"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#СНМ"
+            },
+            {
+                "type": "plain",
+                "text": "\nИздатель: Варшава. И.Ж.Алапина\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: "
+            },
+            {
+                "type": "link",
+                "text": "https://clck.ru/3AqFYU"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Natallia",
+                        "from_id": "user987241871",
+                        "date": "2024-05-28T22:39:40"
+                    }
+                ]
+            }
+        ]
+    },
+    "84137": {
+        "id": 84137,
+        "type": "message",
+        "date": "2024-05-25T08:45:29",
+        "date_unixtime": "1716615929",
+        "edited": "2024-11-20T14:14:18",
+        "edited_unixtime": "1732101258",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1877_SNM_Polshi_02.djvu",
+        "mime_type": "image/vnd.djvu+multipage",
+        "text": [
+            "------------ ",
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            " -----------\nЗаглавие: 1877. Список населённых мест городов, фольварков, колоний и прочих мест в Царстве Польском. Djvu. (на польском и русс. яз.)\nч. 2., Алфавитный указатель., 404 стр., 22,02 Мб.\nАвтор: Зимберг.\nЖанр: ",
+            {
+                "type": "hashtag",
+                "text": "#1877г"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Польша"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#СНМ"
+            },
+            "\nИздатель: Варшава. И.Ж.Алапина\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: ",
+            {
+                "type": "link",
+                "text": "https://clck.ru/3AqFYU"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "------------ "
+            },
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            {
+                "type": "plain",
+                "text": " -----------\nЗаглавие: 1877. Список населённых мест городов, фольварков, колоний и прочих мест в Царстве Польском. Djvu. (на польском и русс. яз.)\nч. 2., Алфавитный указатель., 404 стр., 22,02 Мб.\nАвтор: Зимберг.\nЖанр: "
+            },
+            {
+                "type": "hashtag",
+                "text": "#1877г"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Польша"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#СНМ"
+            },
+            {
+                "type": "plain",
+                "text": "\nИздатель: Варшава. И.Ж.Алапина\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: "
+            },
+            {
+                "type": "link",
+                "text": "https://clck.ru/3AqFYU"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "84138": {
+        "id": 84138,
+        "type": "message",
+        "date": "2024-05-25T08:45:35",
+        "date_unixtime": "1716615935",
+        "edited": "2024-05-25T08:48:48",
+        "edited_unixtime": "1716616128",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1901_SNP_Korol_Polskogo_01.djvu",
+        "mime_type": "image/vnd.djvu+multipage",
+        "text": [
+            "------------ ",
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            " -----------\nЗаглавие: 1901-02. Список населенных мест Царства Польского. 1900, в 2-х томах. Djvu. (на польском языке).\n1901-02. Przewodnik po Krolestwie Polskiem.\nТом 1 (А - М), 401 стр., 88,64 Мб.\nАвтор: А.Бобинский и Я.М. Базивиез .\nЖанр: ",
+            {
+                "type": "hashtag",
+                "text": "#1902г"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Польша"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#СНМ"
+            },
+            "\nИздатель: Варшава.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: ",
+            {
+                "type": "link",
+                "text": "https://clck.ru/3AqGUA"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "------------ "
+            },
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            {
+                "type": "plain",
+                "text": " -----------\nЗаглавие: 1901-02. Список населенных мест Царства Польского. 1900, в 2-х томах. Djvu. (на польском языке).\n1901-02. Przewodnik po Krolestwie Polskiem.\nТом 1 (А - М), 401 стр., 88,64 Мб.\nАвтор: А.Бобинский и Я.М. Базивиез .\nЖанр: "
+            },
+            {
+                "type": "hashtag",
+                "text": "#1902г"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Польша"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#СНМ"
+            },
+            {
+                "type": "plain",
+                "text": "\nИздатель: Варшава.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: "
+            },
+            {
+                "type": "link",
+                "text": "https://clck.ru/3AqGUA"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2024-05-25T13:27:24"
+                    },
+                    {
+                        "from": "NinaEK",
+                        "from_id": "user1168230259",
+                        "date": "2024-05-25T09:09:05"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👌",
+                "recent": [
+                    {
+                        "from": "AnnaCheglakova",
+                        "from_id": "user352855784",
+                        "date": "2024-05-25T14:19:31"
+                    }
+                ]
+            }
+        ]
+    },
+    "84333": {
+        "id": 84333,
+        "type": "message",
+        "date": "2024-05-28T21:06:12",
+        "date_unixtime": "1716919572",
+        "edited": "2024-05-28T22:20:27",
+        "edited_unixtime": "1716924027",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "РГИА, ф.577, оп.10.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            {
+                "type": "bold",
+                "text": "РГИА"
+            },
+            "\nФонд  ",
+            {
+                "type": "bold",
+                "text": "577"
+            },
+            " ",
+            {
+                "type": "italic",
+                "text": "ГЛАВНОЕ ВЫКУПНОЕ УЧРЕЖДЕНИЕ МФ"
+            },
+            "\nОпись  ",
+            {
+                "type": "bold",
+                "text": "10"
+            },
+            " ",
+            {
+                "type": "italic",
+                "text": "1863-1893 гг. О выкупе земельных наделов временнообязанными крестьянами. Гродненская губ."
+            },
+            "\n1527 заголовков дел\n\n",
+            {
+                "type": "link",
+                "text": "https://fgurgia.ru/object/2840615"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "РГИА"
+            },
+            {
+                "type": "plain",
+                "text": "\nФонд  "
+            },
+            {
+                "type": "bold",
+                "text": "577"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "italic",
+                "text": "ГЛАВНОЕ ВЫКУПНОЕ УЧРЕЖДЕНИЕ МФ"
+            },
+            {
+                "type": "plain",
+                "text": "\nОпись  "
+            },
+            {
+                "type": "bold",
+                "text": "10"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "italic",
+                "text": "1863-1893 гг. О выкупе земельных наделов временнообязанными крестьянами. Гродненская губ."
+            },
+            {
+                "type": "plain",
+                "text": "\n1527 заголовков дел\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://fgurgia.ru/object/2840615"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Victor",
+                        "from_id": "user512489139",
+                        "date": "2024-05-29T07:58:06"
+                    },
+                    {
+                        "from": "AV",
+                        "from_id": "user484872692",
+                        "date": "2024-05-28T22:41:28"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Олег",
+                        "from_id": "user5577000596",
+                        "date": "2024-06-06T22:00:23"
+                    }
+                ]
+            }
+        ]
+    },
+    "84338": {
+        "id": 84338,
+        "type": "message",
+        "date": "2024-05-28T21:22:02",
+        "date_unixtime": "1716920522",
+        "edited": "2024-05-28T22:20:23",
+        "edited_unixtime": "1716924023",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 84333,
+        "text": [
+            "в настоящий момент 18 дел из этой описи доступны онлайн\n",
+            {
+                "type": "link",
+                "text": "https://www.prlib.ru/item/1097522?mode=full"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "в настоящий момент 18 дел из этой описи доступны онлайн\n"
+            },
+            {
+                "type": "link",
+                "text": "https://www.prlib.ru/item/1097522?mode=full"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-05-29T07:41:31"
+                    },
+                    {
+                        "from": "AV",
+                        "from_id": "user484872692",
+                        "date": "2024-05-28T22:41:28"
+                    },
+                    {
+                        "from": "Sb",
+                        "from_id": "user6512553342",
+                        "date": "2024-05-28T22:20:23"
+                    }
+                ]
+            }
+        ]
+    },
+    "84690": {
+        "id": 84690,
+        "type": "message",
+        "date": "2024-06-01T20:19:20",
+        "date_unixtime": "1717262360",
+        "edited": "2024-06-01T20:23:03",
+        "edited_unixtime": "1717262583",
+        "from": "L",
+        "from_id": "user99883653",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "LVIA 668-1-407.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            "LVIA 668-1-407 Список лиц, казненных в Виленской, Ковенской, Гродненской, Минской, Витебской, Могилевской и Августовской губерниях за участие в восстании 1863 г. \n\n",
+            {
+                "type": "link",
+                "text": "https://eais.archyvai.lt/repo-ext-api/inventories/attachments/848969"
+            },
+            "\n\n",
+            {
+                "type": "italic",
+                "text": "В литовском аисе в весьма неочевидном месте лежит вот это любопытное дело, поиском ищется плохо. Пусть будет здесь, если кто-то его тоже раньше не видел. PS на 15 кадре - Калиновский"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "LVIA 668-1-407 Список лиц, казненных в Виленской, Ковенской, Гродненской, Минской, Витебской, Могилевской и Августовской губерниях за участие в восстании 1863 г. \n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://eais.archyvai.lt/repo-ext-api/inventories/attachments/848969"
+            },
+            {
+                "type": "plain",
+                "text": "\n\n"
+            },
+            {
+                "type": "italic",
+                "text": "В литовском аисе в весьма неочевидном месте лежит вот это любопытное дело, поиском ищется плохо. Пусть будет здесь, если кто-то его тоже раньше не видел. PS на 15 кадре - Калиновский"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 13,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Наталья",
+                        "from_id": "user2081109985",
+                        "date": "2024-11-08T08:08:08"
+                    },
+                    {
+                        "from": "Natalia Lu",
+                        "from_id": "user219698220",
+                        "date": "2024-10-01T09:12:02"
+                    },
+                    {
+                        "from": "Aleś Piminaŭ",
+                        "from_id": "user5878633696",
+                        "date": "2024-06-05T12:59:28"
+                    }
+                ]
+            }
+        ]
+    },
+    "84691": {
+        "id": 84691,
+        "type": "message",
+        "date": "2024-06-01T20:40:27",
+        "date_unixtime": "1717263627",
+        "edited": "2024-06-03T18:36:38",
+        "edited_unixtime": "1717428998",
+        "from": "Victor",
+        "from_id": "user512489139",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Гісторыя каталіцкіх парафій.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Андрэй Вашкевіч, Дзяніс Нарэль\n\nПаміж Ласоснай і Чорнай Ганчай\nГісторыя каталіцкіх парафій у паўднёва-ўсходняй частцы Аўгустоўскай пушчы",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Андрэй Вашкевіч, Дзяніс Нарэль\n\nПаміж Ласоснай і Чорнай Ганчай\nГісторыя каталіцкіх парафій у паўднёва-ўсходняй частцы Аўгустоўскай пушчы"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2024-06-03T18:36:38"
+                    }
+                ]
+            }
+        ]
+    },
+    "84790": {
+        "id": 84790,
+        "type": "message",
+        "date": "2024-06-03T00:30:54",
+        "date_unixtime": "1717363854",
+        "edited": "2024-06-03T04:50:21",
+        "edited_unixtime": "1717379421",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Nik",
+        "reply_to_message_id": 24109,
+        "text": [
+            "Памяць: гісторыка-дакументальная хроніка Талачынскага раёна / Мінск: БелСЭ, 1988. - 654 c.\n",
+            {
+                "type": "bold",
+                "text": "Память"
+            },
+            ": ",
+            {
+                "type": "bold",
+                "text": "Толочинский"
+            },
+            " район\n\nВся книга, две версии на выбор:\n1-й файл (меньше) - со сжатием ",
+            {
+                "type": "text_link",
+                "text": "MRC",
+                "href": "https://en.wikipedia.org/wiki/Mixed_raster_content"
+            },
+            " и сглаживанием PreciseScan, без цветных вставок на весь лист (картины и фото)\n2-й файл (больше) - без MRC и сглаживания, с цветными вставками, качество 55%\n\nВ обоих файлах есть OCR-слой для поиска по тексту. Распознано в FineReader 16.\n\nГруппа: ",
+            {
+                "type": "mention",
+                "text": "@orsha_uezd"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Памяць: гісторыка-дакументальная хроніка Талачынскага раёна / Мінск: БелСЭ, 1988. - 654 c.\n"
+            },
+            {
+                "type": "bold",
+                "text": "Память"
+            },
+            {
+                "type": "plain",
+                "text": ": "
+            },
+            {
+                "type": "bold",
+                "text": "Толочинский"
+            },
+            {
+                "type": "plain",
+                "text": " район\n\nВся книга, две версии на выбор:\n1-й файл (меньше) - со сжатием "
+            },
+            {
+                "type": "text_link",
+                "text": "MRC",
+                "href": "https://en.wikipedia.org/wiki/Mixed_raster_content"
+            },
+            {
+                "type": "plain",
+                "text": " и сглаживанием PreciseScan, без цветных вставок на весь лист (картины и фото)\n2-й файл (больше) - без MRC и сглаживания, с цветными вставками, качество 55%\n\nВ обоих файлах есть OCR-слой для поиска по тексту. Распознано в FineReader 16.\n\nГруппа: "
+            },
+            {
+                "type": "mention",
+                "text": "@orsha_uezd"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Валентин Ш",
+                        "from_id": "user968736097",
+                        "date": "2024-06-09T14:07:35"
+                    },
+                    {
+                        "from": "Grigory",
+                        "from_id": "user286320928",
+                        "date": "2024-06-03T12:51:05"
+                    },
+                    {
+                        "from": "Алеся",
+                        "from_id": "user5126250394",
+                        "date": "2024-06-03T06:56:16"
+                    }
+                ]
+            }
+        ]
+    },
+    "84791": {
+        "id": 84791,
+        "type": "message",
+        "date": "2024-06-03T00:30:54",
+        "date_unixtime": "1717363854",
+        "edited": "2024-06-03T00:42:46",
+        "edited_unixtime": "1717364566",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Nik",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Tolochinskiy_Pamyat_1988_[MRC_PrecS].pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 9,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Валентин Ш",
+                        "from_id": "user968736097",
+                        "date": "2024-06-09T14:14:11"
+                    },
+                    {
+                        "from": "NinaEK",
+                        "from_id": "user1168230259",
+                        "date": "2024-06-03T22:59:20"
+                    },
+                    {
+                        "from": "Grigory",
+                        "from_id": "user286320928",
+                        "date": "2024-06-03T12:51:03"
+                    }
+                ]
+            }
+        ]
+    },
+    "84792": {
+        "id": 84792,
+        "type": "message",
+        "date": "2024-06-03T00:30:55",
+        "date_unixtime": "1717363855",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Nik",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Tolochinskiy_Pamyat_1988_[FR16_q55].pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    "84812": {
+        "id": 84812,
+        "type": "message",
+        "date": "2024-06-03T14:45:52",
+        "date_unixtime": "1717415152",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "Наталья Калинина",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 557,
+        "height": 906,
+        "text": "",
+        "text_entities": []
+    },
+    "84813": {
+        "id": 84813,
+        "type": "message",
+        "date": "2024-06-03T14:45:52",
+        "date_unixtime": "1717415152",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "Наталья Калинина",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Трубачев_О_Н_История_славянских_терминов_родства_и_некоторых_древнейших.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    "85148": {
+        "id": 85148,
+        "type": "message",
+        "date": "2024-06-06T19:30:34",
+        "date_unixtime": "1717691434",
+        "edited": "2024-06-07T10:52:22",
+        "edited_unixtime": "1717746742",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "forwarded_from": "K.",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "11.1.1032_shared.zip",
+        "mime_type": "application/zip",
+        "text": "1032 Тариф еврейского поголовного по Витебскому воеводству и по г. Витебск.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "1032 Тариф еврейского поголовного по Витебскому воеводству и по г. Витебск."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "Ізербун",
+                        "from_id": "user657807901",
+                        "date": "2024-06-07T10:52:22"
+                    }
+                ]
+            }
+        ]
+    },
+    "85149": {
+        "id": 85149,
+        "type": "message",
+        "date": "2024-06-06T19:30:47",
+        "date_unixtime": "1717691447",
+        "edited": "2024-06-12T05:38:40",
+        "edited_unixtime": "1718159920",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "forwarded_from": "K.",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "11.1.1028_shared.zip",
+        "mime_type": "application/zip",
+        "text": "1028 Тариф еврейского поголовного по Оршанскому повету",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "1028 Тариф еврейского поголовного по Оршанскому повету"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user75433030",
+                        "date": "2024-06-12T05:38:40"
+                    }
+                ]
+            }
+        ]
+    },
+    "85156": {
+        "id": 85156,
+        "type": "message",
+        "date": "2024-06-06T23:06:09",
+        "date_unixtime": "1717704369",
+        "edited": "2024-06-06T23:25:40",
+        "edited_unixtime": "1717705540",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Nik",
+        "reply_to_message_id": 24109,
+        "text": [
+            "Памяць: Орша, Аршанскі раён: гісторыка-дакументальныя хронікі гарадоў і раёнаў Беларусі: у 2 кн. / Мінск: БелСЭ, 1999-2000. - 384 + 528 c.\n",
+            {
+                "type": "bold",
+                "text": "Память"
+            },
+            ": ",
+            {
+                "type": "bold",
+                "text": "Орша, Оршанский"
+            },
+            " район\n\nОба тома, две версии на выбор:\n1-2 файл (меньше) - со сжатием ",
+            {
+                "type": "text_link",
+                "text": "MRC",
+                "href": "https://t.me/uezdy/35187/84795"
+            },
+            " и сглаживанием PreciseScan\n3-4 файл (больше) - без MRC и сглаживания, качество 55%\n\nВо всех файлах есть OCR-слой для поиска по тексту. Распознано в FineReader 16.\nПодробнее про сканирование: ",
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy/35187/84793"
+            },
+            "\n\nГруппа: ",
+            {
+                "type": "mention",
+                "text": "@orsha_uezd"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Памяць: Орша, Аршанскі раён: гісторыка-дакументальныя хронікі гарадоў і раёнаў Беларусі: у 2 кн. / Мінск: БелСЭ, 1999-2000. - 384 + 528 c.\n"
+            },
+            {
+                "type": "bold",
+                "text": "Память"
+            },
+            {
+                "type": "plain",
+                "text": ": "
+            },
+            {
+                "type": "bold",
+                "text": "Орша, Оршанский"
+            },
+            {
+                "type": "plain",
+                "text": " район\n\nОба тома, две версии на выбор:\n1-2 файл (меньше) - со сжатием "
+            },
+            {
+                "type": "text_link",
+                "text": "MRC",
+                "href": "https://t.me/uezdy/35187/84795"
+            },
+            {
+                "type": "plain",
+                "text": " и сглаживанием PreciseScan\n3-4 файл (больше) - без MRC и сглаживания, качество 55%\n\nВо всех файлах есть OCR-слой для поиска по тексту. Распознано в FineReader 16.\nПодробнее про сканирование: "
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy/35187/84793"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nГруппа: "
+            },
+            {
+                "type": "mention",
+                "text": "@orsha_uezd"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "AnnaCheglakova",
+                        "from_id": "user352855784",
+                        "date": "2024-06-07T13:15:17"
+                    },
+                    {
+                        "from": "Marina Yurochka",
+                        "from_id": "user6971824773",
+                        "date": "2024-06-07T09:39:52"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Валентин Ш",
+                        "from_id": "user968736097",
+                        "date": "2024-06-09T14:05:39"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "⚡"
+            }
+        ]
+    },
+    "85157": {
+        "id": 85157,
+        "type": "message",
+        "date": "2024-06-06T23:06:10",
+        "date_unixtime": "1717704370",
+        "edited": "2024-06-07T00:02:29",
+        "edited_unixtime": "1717707749",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Nik",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Orshanskiy_Tom-1_Pamyat_1999_[MRC_PrecS].pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Anna Petrova",
+                        "from_id": "user1970293221",
+                        "date": "2024-06-08T16:39:03"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "NinaEK",
+                        "from_id": "user1168230259",
+                        "date": "2024-06-09T22:48:26"
+                    },
+                    {
+                        "from": "Валентин Ш",
+                        "from_id": "user968736097",
+                        "date": "2024-06-09T14:06:02"
+                    }
+                ]
+            }
+        ]
+    },
+    "85158": {
+        "id": 85158,
+        "type": "message",
+        "date": "2024-06-06T23:06:10",
+        "date_unixtime": "1717704370",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Nik",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Orshanskiy_Tom-2_Pamyat_2000_[MRC_PrecS].pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    "85159": {
+        "id": 85159,
+        "type": "message",
+        "date": "2024-06-06T23:06:11",
+        "date_unixtime": "1717704371",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Nik",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Orshanskiy_Tom-1_Pamyat_1999_[FR16_q55].pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    "85160": {
+        "id": 85160,
+        "type": "message",
+        "date": "2024-06-06T23:06:11",
+        "date_unixtime": "1717704371",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Nik",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Orshanskiy_Tom-2_Pamyat_2000_[FR16_q55].pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    "85276": {
+        "id": 85276,
+        "type": "message",
+        "date": "2024-06-08T09:52:25",
+        "date_unixtime": "1717829545",
+        "edited": "2024-06-08T10:24:52",
+        "edited_unixtime": "1717831492",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1916_spisok_detei_bezhentcev_sirot_i_poteriannykh_roditeliami_vyp.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": [
+            "------------ ",
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            " -----------\nЗаглавие: 1916. Всероссийский союз городов. Список детей-беженцев, сирот и потерявших родителей. PDF.\nВыпуск 1 (январь)., 47 стр., 5,50 Мб.\nАвтор: Всероссийский Земский и Городской Союз помощи больным и раненым воинам.\nЖанр: ",
+            {
+                "type": "hashtag",
+                "text": "#1916г"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#ПМВ"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Генеалогия"
+            },
+            "\nИздатель: Москва.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: ",
+            {
+                "type": "link",
+                "text": "http://book-olds.ru/BookLibrary/00930-Velikaya-voyna-i-Beloe-dvizhenie/1916.-Vserossiyskiy-soyuz-gorodov.-Spisok-detey-bezhentsev-sirot-i-poteryavshih-roditeley.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "------------ "
+            },
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            {
+                "type": "plain",
+                "text": " -----------\nЗаглавие: 1916. Всероссийский союз городов. Список детей-беженцев, сирот и потерявших родителей. PDF.\nВыпуск 1 (январь)., 47 стр., 5,50 Мб.\nАвтор: Всероссийский Земский и Городской Союз помощи больным и раненым воинам.\nЖанр: "
+            },
+            {
+                "type": "hashtag",
+                "text": "#1916г"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#ПМВ"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Генеалогия"
+            },
+            {
+                "type": "plain",
+                "text": "\nИздатель: Москва.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: "
+            },
+            {
+                "type": "link",
+                "text": "http://book-olds.ru/BookLibrary/00930-Velikaya-voyna-i-Beloe-dvizhenie/1916.-Vserossiyskiy-soyuz-gorodov.-Spisok-detey-bezhentsev-sirot-i-poteryavshih-roditeley.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2024-06-08T10:24:52"
+                    }
+                ]
+            }
+        ]
+    },
+    "85290": {
+        "id": 85290,
+        "type": "message",
+        "date": "2024-06-08T12:03:18",
+        "date_unixtime": "1717837398",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 75471,
+        "text": "У нас тут павінна быць частка кніг. Збіралі",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У нас тут павінна быць частка кніг. Збіралі"
+            }
+        ]
+    },
+    "85295": {
+        "id": 85295,
+        "type": "message",
+        "date": "2024-06-08T16:31:00",
+        "date_unixtime": "1717853460",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1916_spisok_detei_bezhentcev_sirot_i_poteriannykh_roditeliami_vyp.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": [
+            "------------ ",
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            " -----------\nЗаглавие: 1916. Всероссийский союз городов. Список детей-беженцев, сирот и потерявших родителей. PDF.\nВыпуск 2 (март)., 72 стр., 9,10 Мб.\nАвтор: Всероссийский Земский и Городской Союз помощи больным и раненым воинам.\nЖанр: ",
+            {
+                "type": "hashtag",
+                "text": "#1916г"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#ПМВ"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Генеалогия"
+            },
+            "\nИздатель: Москва.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: ",
+            {
+                "type": "link",
+                "text": "http://book-olds.ru/BookLibrary/00930-Velikaya-voyna-i-Beloe-dvizhenie/1916.-Vserossiyskiy-soyuz-gorodov.-Spisok-detey-bezhentsev-sirot-i-poteryavshih-roditeley.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "------------ "
+            },
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            {
+                "type": "plain",
+                "text": " -----------\nЗаглавие: 1916. Всероссийский союз городов. Список детей-беженцев, сирот и потерявших родителей. PDF.\nВыпуск 2 (март)., 72 стр., 9,10 Мб.\nАвтор: Всероссийский Земский и Городской Союз помощи больным и раненым воинам.\nЖанр: "
+            },
+            {
+                "type": "hashtag",
+                "text": "#1916г"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#ПМВ"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Генеалогия"
+            },
+            {
+                "type": "plain",
+                "text": "\nИздатель: Москва.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: "
+            },
+            {
+                "type": "link",
+                "text": "http://book-olds.ru/BookLibrary/00930-Velikaya-voyna-i-Beloe-dvizhenie/1916.-Vserossiyskiy-soyuz-gorodov.-Spisok-detey-bezhentsev-sirot-i-poteryavshih-roditeley.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "85296": {
+        "id": 85296,
+        "type": "message",
+        "date": "2024-06-08T16:31:01",
+        "date_unixtime": "1717853461",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1916_spisok_detei_bezhentcev_sirot_i_poteriannykh_roditeliami_vyp.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": [
+            "------------ ",
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            " -----------\nЗаглавие: 1916. Всероссийский союз городов. Список детей-беженцев, сирот и потерявших родителей. PDF.\nВыпуск 3 (август)., 82 стр., 9,40 Мб.\nАвтор: Всероссийский Земский и Городской Союз помощи больным и раненым воинам.\nЖанр: ",
+            {
+                "type": "hashtag",
+                "text": "#1916г"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#ПМВ"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Генеалогия"
+            },
+            "\nИздатель: Москва.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: ",
+            {
+                "type": "link",
+                "text": "http://book-olds.ru/BookLibrary/00930-Velikaya-voyna-i-Beloe-dvizhenie/1916.-Vserossiyskiy-soyuz-gorodov.-Spisok-detey-bezhentsev-sirot-i-poteryavshih-roditeley.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "------------ "
+            },
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            {
+                "type": "plain",
+                "text": " -----------\nЗаглавие: 1916. Всероссийский союз городов. Список детей-беженцев, сирот и потерявших родителей. PDF.\nВыпуск 3 (август)., 82 стр., 9,40 Мб.\nАвтор: Всероссийский Земский и Городской Союз помощи больным и раненым воинам.\nЖанр: "
+            },
+            {
+                "type": "hashtag",
+                "text": "#1916г"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#ПМВ"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Генеалогия"
+            },
+            {
+                "type": "plain",
+                "text": "\nИздатель: Москва.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: "
+            },
+            {
+                "type": "link",
+                "text": "http://book-olds.ru/BookLibrary/00930-Velikaya-voyna-i-Beloe-dvizhenie/1916.-Vserossiyskiy-soyuz-gorodov.-Spisok-detey-bezhentsev-sirot-i-poteryavshih-roditeley.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "85351": {
+        "id": 85351,
+        "type": "message",
+        "date": "2024-06-09T21:09:30",
+        "date_unixtime": "1717956570",
+        "edited": "2024-06-09T21:14:16",
+        "edited_unixtime": "1717956856",
+        "from": "A.",
+        "from_id": "user853091369",
+        "forwarded_from": "A.",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "LVIA_604_1_10325_Рендзиновщина_Список_прихожан_1926.zip",
+        "mime_type": "application/zip",
+        "text": [
+            "LVIA ",
+            {
+                "type": "phone",
+                "text": "604-1-10325"
+            },
+            " Рендзиновщина. Список прихожан 1926 (Слонимский уезд).\nЦифровая копия и проиндексированный документ."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "LVIA "
+            },
+            {
+                "type": "phone",
+                "text": "604-1-10325"
+            },
+            {
+                "type": "plain",
+                "text": " Рендзиновщина. Список прихожан 1926 (Слонимский уезд).\nЦифровая копия и проиндексированный документ."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Sb",
+                        "from_id": "user6512553342",
+                        "date": "2024-06-11T13:44:10"
+                    },
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2024-06-09T22:24:23"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👏",
+                "recent": [
+                    {
+                        "from": "I D",
+                        "from_id": "user5726368881",
+                        "date": "2024-06-09T21:40:41"
+                    }
+                ]
+            }
+        ]
+    },
+    "85513": {
+        "id": 85513,
+        "type": "message",
+        "date": "2024-06-11T19:34:04",
+        "date_unixtime": "1718123644",
+        "edited": "2024-06-11T19:34:22",
+        "edited_unixtime": "1718123662",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Анищенко Могилевская губерния.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            {
+                "type": "bold",
+                "text": "НЕ ПОЛНОСТЬЮ."
+            },
+            " Выборочные страницы:\nЕ. К. АНИЩЕНКО И ДР.\nМОГИЛЕВСКАЯ ГУБЕРНИЯ: ГОСУДАРСТВЕННЫЕ, РЕЛИГИОЗНЫЕ И ОБЩЕСТВЕННЫЕ УЧРЕЖДЕНИЯ (1772 — 1917)\n2014"
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "НЕ ПОЛНОСТЬЮ."
+            },
+            {
+                "type": "plain",
+                "text": " Выборочные страницы:\nЕ. К. АНИЩЕНКО И ДР.\nМОГИЛЕВСКАЯ ГУБЕРНИЯ: ГОСУДАРСТВЕННЫЕ, РЕЛИГИОЗНЫЕ И ОБЩЕСТВЕННЫЕ УЧРЕЖДЕНИЯ (1772 — 1917)\n2014"
+            }
+        ]
+    },
+    "85514": {
+        "id": 85514,
+        "type": "message",
+        "date": "2024-06-11T19:35:04",
+        "date_unixtime": "1718123704",
+        "edited": "2024-06-11T19:35:18",
+        "edited_unixtime": "1718123718",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "ГАРАДСКОЕ САМАКІРАВАННЕ ч.1.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            {
+                "type": "bold",
+                "text": "НЕ ПОЛНОСТЬЮ."
+            },
+            " Выборочные страницы:\n\nГАРАДСКОЕ САМАКІРАВАННЕ НА ТЭРЫТОРЫІ БЕЛАРУСІ (КАНЕЦ XIV ― XVIII СТ.) : [У 2 Ч.] / С. П. СТРЭНКОЎСКІ. Ч. 1\n2013"
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "НЕ ПОЛНОСТЬЮ."
+            },
+            {
+                "type": "plain",
+                "text": " Выборочные страницы:\n\nГАРАДСКОЕ САМАКІРАВАННЕ НА ТЭРЫТОРЫІ БЕЛАРУСІ (КАНЕЦ XIV ― XVIII СТ.) : [У 2 Ч.] / С. П. СТРЭНКОЎСКІ. Ч. 1\n2013"
+            }
+        ]
+    },
+    "85515": {
+        "id": 85515,
+        "type": "message",
+        "date": "2024-06-11T19:35:40",
+        "date_unixtime": "1718123740",
+        "edited": "2024-06-11T19:58:22",
+        "edited_unixtime": "1718125102",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "ГАРАДСКОЕ САМАКІРАВАННЕ ч.2.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            {
+                "type": "bold",
+                "text": "НЕ ПОЛНОСТЬЮ."
+            },
+            " Выборочные страницы:\n\nГАРАДСКОЕ САМАКІРАВАННЕ НА ТЭРЫТОРЫІ БЕЛАРУСІ (КАНЕЦ XIV ― XVIII СТ.) : [У 2 Ч.] / С. П. СТРЭНКОЎСКІ. Ч. 2\n2013"
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "НЕ ПОЛНОСТЬЮ."
+            },
+            {
+                "type": "plain",
+                "text": " Выборочные страницы:\n\nГАРАДСКОЕ САМАКІРАВАННЕ НА ТЭРЫТОРЫІ БЕЛАРУСІ (КАНЕЦ XIV ― XVIII СТ.) : [У 2 Ч.] / С. П. СТРЭНКОЎСКІ. Ч. 2\n2013"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2024-06-11T19:58:22"
+                    }
+                ]
+            }
+        ]
+    },
+    "85589": {
+        "id": 85589,
+        "type": "message",
+        "date": "2024-06-12T18:49:32",
+        "date_unixtime": "1718207372",
+        "edited": "2024-06-12T20:48:23",
+        "edited_unixtime": "1718214503",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Nik",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Pravoslavnaya_tserkov_na_Vitebschine_1918_1991_Dokumenty_i_materialy.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            "Православная церковь на Витебщине (1918-1991). Документы и материалы / Коханко В.П. (сост.) / Минск: НАРБ, 2006. — 365 с.\n\nВ сборнике публикуются документы Государственного архива Витебской области и Зональных государственных архивов городов Глубокое, Орша и Полоцк, отражающие деятельность Русской православной церкви на Витебщине и государственную политику в отношении церкви в 1918-1991 годах.\n\nСборник проиллюстрирован копиями документов и фотодокументов. Большая часть документов публикуется впервые. \nКнига рассчитана на научных работников, студентов, аспирантов, краеведов, музейных работников и библиотекарей, всех, интересующихся историей церкви.\n\nГруппа: ",
+            {
+                "type": "mention",
+                "text": "@orsha_uezd"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Православная церковь на Витебщине (1918-1991). Документы и материалы / Коханко В.П. (сост.) / Минск: НАРБ, 2006. — 365 с.\n\nВ сборнике публикуются документы Государственного архива Витебской области и Зональных государственных архивов городов Глубокое, Орша и Полоцк, отражающие деятельность Русской православной церкви на Витебщине и государственную политику в отношении церкви в 1918-1991 годах.\n\nСборник проиллюстрирован копиями документов и фотодокументов. Большая часть документов публикуется впервые. \nКнига рассчитана на научных работников, студентов, аспирантов, краеведов, музейных работников и библиотекарей, всех, интересующихся историей церкви.\n\nГруппа: "
+            },
+            {
+                "type": "mention",
+                "text": "@orsha_uezd"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Euheniya Yanuschenko",
+                        "from_id": "user1441796024",
+                        "date": "2024-06-16T21:07:09"
+                    },
+                    {
+                        "from": "Anna Kozel",
+                        "from_id": "user227548826",
+                        "date": "2024-06-16T01:07:53"
+                    },
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-06-12T20:48:24"
+                    }
+                ]
+            }
+        ]
+    },
+    "85861": {
+        "id": 85861,
+        "type": "message",
+        "date": "2024-06-15T21:23:55",
+        "date_unixtime": "1718475835",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 591,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "85948": {
+        "id": 85948,
+        "type": "message",
+        "date": "2024-06-17T10:04:14",
+        "date_unixtime": "1718607854",
+        "edited": "2024-06-17T10:17:54",
+        "edited_unixtime": "1718608674",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "НИАБ КМФ-18_1_152.docx",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "text": "Внутренняя опись дела НИАБ КМФ-18-1-152\n\n\"Список привилегий, подтвержденных королем Польским Августом 2-м, 1697— 1706 гг.\" (150 л.)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Внутренняя опись дела НИАБ КМФ-18-1-152\n\n\"Список привилегий, подтвержденных королем Польским Августом 2-м, 1697— 1706 гг.\" (150 л.)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2024-06-17T17:26:07"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-06-17T12:22:36"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user75433030",
+                        "date": "2024-06-17T10:17:54"
+                    }
+                ]
+            }
+        ]
+    },
+    "85969": {
+        "id": 85969,
+        "type": "message",
+        "date": "2024-06-17T17:25:28",
+        "date_unixtime": "1718634328",
+        "edited": "2024-06-17T17:34:53",
+        "edited_unixtime": "1718634893",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 85861,
+        "text": [
+            "Содержание загрузили на ",
+            {
+                "type": "text_link",
+                "text": "сайт библиотеки",
+                "href": "https://csl.bas-net.by/news/one-news.asp?id=98408"
+            },
+            " под новостью: ",
+            {
+                "type": "text_link",
+                "text": "geneologiya-sbornik-24.pdf",
+                "href": "https://csl.bas-net.by/pdf/2024/06/geneologiya-sbornik-24.pdf"
+            },
+            "\n\nКак пишет ",
+            {
+                "type": "text_link",
+                "text": "Алексей",
+                "href": "https://t.me/zhnivo/657/7383"
+            },
+            ":\n",
+            {
+                "type": "blockquote",
+                "text": "14 июня поступил в Академкнигу для реализации (стоимость — 24,56 бел. руб.)",
+                "collapsed": false
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Содержание загрузили на "
+            },
+            {
+                "type": "text_link",
+                "text": "сайт библиотеки",
+                "href": "https://csl.bas-net.by/news/one-news.asp?id=98408"
+            },
+            {
+                "type": "plain",
+                "text": " под новостью: "
+            },
+            {
+                "type": "text_link",
+                "text": "geneologiya-sbornik-24.pdf",
+                "href": "https://csl.bas-net.by/pdf/2024/06/geneologiya-sbornik-24.pdf"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nКак пишет "
+            },
+            {
+                "type": "text_link",
+                "text": "Алексей",
+                "href": "https://t.me/zhnivo/657/7383"
+            },
+            {
+                "type": "plain",
+                "text": ":\n"
+            },
+            {
+                "type": "blockquote",
+                "text": "14 июня поступил в Академкнигу для реализации (стоимость — 24,56 бел. руб.)",
+                "collapsed": false
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "85970": {
+        "id": 85970,
+        "type": "message",
+        "date": "2024-06-17T17:44:54",
+        "date_unixtime": "1718635494",
+        "edited": "2024-06-17T18:01:30",
+        "edited_unixtime": "1718636490",
+        "from": "🤫🏍⛺",
+        "from_id": "user6213882374",
+        "reply_to_message_id": 85969,
+        "text": "Дзякую.\nЧакаем ў крамах бекнігі, бо там звычайна на 4-5 руб танней чым ў акадэм)))\nУ цэнтральнай кнігарні яшчэ не было ўдзень.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Дзякую.\nЧакаем ў крамах бекнігі, бо там звычайна на 4-5 руб танней чым ў акадэм)))\nУ цэнтральнай кнігарні яшчэ не было ўдзень."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Marina Yurochka",
+                        "from_id": "user6971824773",
+                        "date": "2024-06-17T18:09:28"
+                    },
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2024-06-17T18:01:30"
+                    }
+                ]
+            }
+        ]
+    },
+    "85971": {
+        "id": 85971,
+        "type": "message",
+        "date": "2024-06-17T18:10:04",
+        "date_unixtime": "1718637004",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 85970,
+        "text": "О, побач Белкнига, а я у Акадэм хаджу...",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "О, побач Белкнига, а я у Акадэм хаджу..."
+            }
+        ]
+    },
+    "86146": {
+        "id": 86146,
+        "type": "message",
+        "date": "2024-06-19T13:38:39",
+        "date_unixtime": "1718793519",
+        "edited": "2024-06-19T13:46:59",
+        "edited_unixtime": "1718794019",
+        "from": "Ex Ample",
+        "from_id": "user5543513851",
+        "forwarded_from": "Ex Ample",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць. Шаркаўшчынскі раён.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            {
+                "type": "bold",
+                "text": "ПАМЯЦЬ: Шаркаўшчынскі раён."
+            },
+            "\n",
+            {
+                "type": "italic",
+                "text": "Гісторыка-дакументальная хроніка Шаркаўшчынскага раёна."
+            },
+            "\n\n",
+            {
+                "type": "bold",
+                "text": "Рэдактары"
+            },
+            ": З.Г.Дзямешка, З.І.Малейка.\n",
+            {
+                "type": "bold",
+                "text": "Мастацкі рэдактар"
+            },
+            ": А.В.Лапін.\n",
+            {
+                "type": "bold",
+                "text": "Тэхнічны рэдактар"
+            },
+            ": А.І.Хомчанка.\n",
+            {
+                "type": "bold",
+                "text": "Карэктар"
+            },
+            ": А.П.Кірэева.\n",
+            {
+                "type": "bold",
+                "text": "Падрыхтоўка арыгінал-макета"
+            },
+            ": М.Э.Малярэвіч.\n\n",
+            {
+                "type": "underline",
+                "text": "Памяць: Гіст.-дакум. хроніка Шаркаўшчынскага раёна. - Мн.: БЕЛТА, 2004. - 512 с.: іл."
+            },
+            "\n\n🦆"
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "ПАМЯЦЬ: Шаркаўшчынскі раён."
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "italic",
+                "text": "Гісторыка-дакументальная хроніка Шаркаўшчынскага раёна."
+            },
+            {
+                "type": "plain",
+                "text": "\n\n"
+            },
+            {
+                "type": "bold",
+                "text": "Рэдактары"
+            },
+            {
+                "type": "plain",
+                "text": ": З.Г.Дзямешка, З.І.Малейка.\n"
+            },
+            {
+                "type": "bold",
+                "text": "Мастацкі рэдактар"
+            },
+            {
+                "type": "plain",
+                "text": ": А.В.Лапін.\n"
+            },
+            {
+                "type": "bold",
+                "text": "Тэхнічны рэдактар"
+            },
+            {
+                "type": "plain",
+                "text": ": А.І.Хомчанка.\n"
+            },
+            {
+                "type": "bold",
+                "text": "Карэктар"
+            },
+            {
+                "type": "plain",
+                "text": ": А.П.Кірэева.\n"
+            },
+            {
+                "type": "bold",
+                "text": "Падрыхтоўка арыгінал-макета"
+            },
+            {
+                "type": "plain",
+                "text": ": М.Э.Малярэвіч.\n\n"
+            },
+            {
+                "type": "underline",
+                "text": "Памяць: Гіст.-дакум. хроніка Шаркаўшчынскага раёна. - Мн.: БЕЛТА, 2004. - 512 с.: іл."
+            },
+            {
+                "type": "plain",
+                "text": "\n\n🦆"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 10,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Anna Petrova",
+                        "from_id": "user1970293221",
+                        "date": "2024-06-22T09:03:29"
+                    },
+                    {
+                        "from": "Euheniya Yanuschenko",
+                        "from_id": "user1441796024",
+                        "date": "2024-06-20T08:55:59"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user75433030",
+                        "date": "2024-06-19T16:53:08"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,4148 @@
+{
+    "68262": {
+        "id": 68262,
+        "type": "message",
+        "date": "2024-01-12T17:52:35",
+        "date_unixtime": "1705071155",
+        "edited": "2024-01-12T18:25:51",
+        "edited_unixtime": "1705073151",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 720,
+        "height": 1254,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Mariya",
+                        "from_id": "user5188945034",
+                        "date": "2024-01-16T19:09:10"
+                    },
+                    {
+                        "from": "Дарья 🔆",
+                        "from_id": "user899941329",
+                        "date": "2024-01-13T03:27:22"
+                    },
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-01-12T22:12:14"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥"
+            }
+        ]
+    },
+    "68272": {
+        "id": 68272,
+        "type": "message",
+        "date": "2024-01-12T18:11:33",
+        "date_unixtime": "1705072293",
+        "from": "Спадарыня Вольга",
+        "from_id": "user338289858",
+        "reply_to_message_id": 68262,
+        "text": "Как-то тоскливо выглядит. Тотальное христианство по ощущениям.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Как-то тоскливо выглядит. Тотальное христианство по ощущениям."
+            }
+        ]
+    },
+    "68273": {
+        "id": 68273,
+        "type": "message",
+        "date": "2024-01-12T18:12:43",
+        "date_unixtime": "1705072363",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 68272,
+        "text": "Ну. Был шанс \"расхристианизировать\" свои имена, как литовцы. Но у нас свой путь",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну. Был шанс \"расхристианизировать\" свои имена, как литовцы. Но у нас свой путь"
+            }
+        ]
+    },
+    "68274": {
+        "id": 68274,
+        "type": "message",
+        "date": "2024-01-12T18:13:54",
+        "date_unixtime": "1705072434",
+        "from": "Спадарыня Вольга",
+        "from_id": "user338289858",
+        "reply_to_message_id": 68273,
+        "text": "Это точно.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это точно."
+            }
+        ]
+    },
+    "68275": {
+        "id": 68275,
+        "type": "message",
+        "date": "2024-01-12T18:14:16",
+        "date_unixtime": "1705072456",
+        "from": "Спадарыня Вольга",
+        "from_id": "user338289858",
+        "reply_to_message_id": 41250,
+        "text": "Надо глубже 14 века копать похоже :)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Надо глубже 14 века копать похоже :)"
+            }
+        ]
+    },
+    "68277": {
+        "id": 68277,
+        "type": "message",
+        "date": "2024-01-12T18:27:12",
+        "date_unixtime": "1705073232",
+        "edited": "2024-01-14T09:05:30",
+        "edited_unixtime": "1705212330",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 68275,
+        "text": "Уже)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Уже)"
+            }
+        ]
+    },
+    "68279": {
+        "id": 68279,
+        "type": "message",
+        "date": "2024-01-12T18:27:51",
+        "date_unixtime": "1705073271",
+        "edited": "2024-01-12T22:13:16",
+        "edited_unixtime": "1705086796",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 720,
+        "height": 588,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Alenka",
+                        "from_id": "user1501888265",
+                        "date": "2024-12-05T08:08:10"
+                    },
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-01-12T22:13:16"
+                    }
+                ]
+            }
+        ]
+    },
+    "68281": {
+        "id": 68281,
+        "type": "message",
+        "date": "2024-01-12T18:28:02",
+        "date_unixtime": "1705073282",
+        "edited": "2024-01-12T18:54:00",
+        "edited_unixtime": "1705074840",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 720,
+        "height": 1190,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Alenka",
+                        "from_id": "user1501888265",
+                        "date": "2024-12-05T08:08:24"
+                    },
+                    {
+                        "from": "Яська Гаспадар з-пад Вільні",
+                        "from_id": "user787777714",
+                        "date": "2024-01-13T05:23:29"
+                    },
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-01-12T23:28:23"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤"
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍"
+            }
+        ]
+    },
+    "68343": {
+        "id": 68343,
+        "type": "message",
+        "date": "2024-01-12T19:53:33",
+        "date_unixtime": "1705078413",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 41250,
+        "text": "А по женским именам есть?\nБарвуха ?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А по женским именам есть?\nБарвуха ?"
+            }
+        ]
+    },
+    "68378": {
+        "id": 68378,
+        "type": "message",
+        "date": "2024-01-12T20:21:56",
+        "date_unixtime": "1705080116",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 68343,
+        "text": "Есть, сек",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Есть, сек"
+            }
+        ]
+    },
+    "68416": {
+        "id": 68416,
+        "type": "message",
+        "date": "2024-01-12T20:47:33",
+        "date_unixtime": "1705081653",
+        "edited": "2024-01-12T20:51:38",
+        "edited_unixtime": "1705081898",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 68343,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 719,
+        "height": 967,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-01-12T22:13:22"
+                    },
+                    {
+                        "from": "Спадарыня Вольга",
+                        "from_id": "user338289858",
+                        "date": "2024-01-12T21:46:55"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👌",
+                "recent": [
+                    {
+                        "from": "Дарья 🔆",
+                        "from_id": "user899941329",
+                        "date": "2024-01-13T03:29:55"
+                    }
+                ]
+            }
+        ]
+    },
+    "68451": {
+        "id": 68451,
+        "type": "message",
+        "date": "2024-01-12T22:15:08",
+        "date_unixtime": "1705086908",
+        "edited": "2024-01-12T23:32:35",
+        "edited_unixtime": "1705091555",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "text": [
+            {
+                "type": "bold",
+                "text": "Уніяты ў Смаргоні /1708г/"
+            },
+            "\n\nУ тым паселішчы была царква мясцовых жыхароў-уніятаў, пра што я даведаўся ад яго святара, калі прыйшоў на вячэрню, на якую, аднак, акрамя яго і царкоўнага старосты, ніхто не з’явіўся. Паголены святар наблізіўся да алтара і намаляванаму там святому шматкрат пакланіўся, адышоўшы ад яго, наблізіўся да другога, намаляванага злева, і яму выказаў такую ж пашану і, ціхенька мармычучы нешта, тым імшу скончыў."
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Уніяты ў Смаргоні /1708г/"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nУ тым паселішчы была царква мясцовых жыхароў-уніятаў, пра што я даведаўся ад яго святара, калі прыйшоў на вячэрню, на якую, аднак, акрамя яго і царкоўнага старосты, ніхто не з’явіўся. Паголены святар наблізіўся да алтара і намаляванаму там святому шматкрат пакланіўся, адышоўшы ад яго, наблізіўся да другога, намаляванага злева, і яму выказаў такую ж пашану і, ціхенька мармычучы нешта, тым імшу скончыў."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-01-12T23:32:35"
+                    }
+                ]
+            }
+        ]
+    },
+    "68893": {
+        "id": 68893,
+        "type": "message",
+        "date": "2024-01-15T15:27:34",
+        "date_unixtime": "1705321654",
+        "edited": "2024-01-15T15:28:17",
+        "edited_unixtime": "1705321697",
+        "from": "🤫🏍⛺",
+        "from_id": "user6213882374",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1080,
+        "height": 744,
+        "text": "З артыкула Дзьячкова А. У. \"Шклоўская раённая газета \"Прамень камунізму\" як крыніца па гісторыі Шклоўшчыны 1938-1939 гг. // Шклоў і Шклоўскі раён, зборнік навуковых артыкулаў, 2020 г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "З артыкула Дзьячкова А. У. \"Шклоўская раённая газета \"Прамень камунізму\" як крыніца па гісторыі Шклоўшчыны 1938-1939 гг. // Шклоў і Шклоўскі раён, зборнік навуковых артыкулаў, 2020 г."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Татьяна",
+                        "from_id": "user5278746251",
+                        "date": "2024-01-16T19:37:49"
+                    },
+                    {
+                        "from": "Дарья 🔆",
+                        "from_id": "user899941329",
+                        "date": "2024-01-16T01:58:27"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-01-15T23:18:05"
+                    }
+                ]
+            }
+        ]
+    },
+    "69806": {
+        "id": 69806,
+        "type": "message",
+        "date": "2024-01-21T12:26:02",
+        "date_unixtime": "1705829162",
+        "edited": "2024-01-21T12:28:46",
+        "edited_unixtime": "1705829326",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "forwarded_from": "Скарб: генеалогия в Беларуси",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 905,
+        "text": [
+            "Помним, что выходные - время искусства, а это порой включает в себя не только песни-пляски-стихи...\n\nно и тригонометрию с черчением. Умение делать чертежи и рисовать красивые планы.\n\nВот какой вам красивый проект мельницы и маслобойни из Пинска. Впечатляет, как симпатично и подробно сделан. Хоть прямо сейчас визуализируй. \n\nИсточник: Ф. 2001. Оп. 1. Д. 1722 (Госархив Брестской области)\n\n",
+            {
+                "type": "hashtag",
+                "text": "#генеалогия"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#источники"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Пинск"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Помним, что выходные - время искусства, а это порой включает в себя не только песни-пляски-стихи...\n\nно и тригонометрию с черчением. Умение делать чертежи и рисовать красивые планы.\n\nВот какой вам красивый проект мельницы и маслобойни из Пинска. Впечатляет, как симпатично и подробно сделан. Хоть прямо сейчас визуализируй. \n\nИсточник: Ф. 2001. Оп. 1. Д. 1722 (Госархив Брестской области)\n\n"
+            },
+            {
+                "type": "hashtag",
+                "text": "#генеалогия"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#источники"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Пинск"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 9,
+                "emoji": "❤‍🔥",
+                "recent": [
+                    {
+                        "from": "L",
+                        "from_id": "user5815411897",
+                        "date": "2024-01-23T23:51:08"
+                    },
+                    {
+                        "from": "Aliaksandr R",
+                        "from_id": "user622497157",
+                        "date": "2024-01-21T20:03:02"
+                    },
+                    {
+                        "from": "AV",
+                        "from_id": "user484872692",
+                        "date": "2024-01-21T18:20:46"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "🔥"
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍"
+            }
+        ]
+    },
+    "69807": {
+        "id": 69807,
+        "type": "message",
+        "date": "2024-01-21T12:26:03",
+        "date_unixtime": "1705829163",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "forwarded_from": "Скарб: генеалогия в Беларуси",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 905,
+        "text": "",
+        "text_entities": []
+    },
+    "69808": {
+        "id": 69808,
+        "type": "message",
+        "date": "2024-01-21T12:26:03",
+        "date_unixtime": "1705829163",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "forwarded_from": "Скарб: генеалогия в Беларуси",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 905,
+        "text": "",
+        "text_entities": []
+    },
+    "69810": {
+        "id": 69810,
+        "type": "message",
+        "date": "2024-01-21T13:17:40",
+        "date_unixtime": "1705832260",
+        "edited": "2024-01-21T13:19:52",
+        "edited_unixtime": "1705832392",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69806,
+        "text": "Выходные время творчества а Вы о работе напоминаете.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Выходные время творчества а Вы о работе напоминаете."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😁",
+                "recent": [
+                    {
+                        "from": "Audoсcia",
+                        "from_id": "user1846341469",
+                        "date": "2024-01-21T13:19:53"
+                    }
+                ]
+            }
+        ]
+    },
+    "69811": {
+        "id": 69811,
+        "type": "message",
+        "date": "2024-01-21T13:25:00",
+        "date_unixtime": "1705832700",
+        "edited": "2024-01-21T13:25:20",
+        "edited_unixtime": "1705832720",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69810,
+        "text": "Да. Масло себя само не собьет)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да. Масло себя само не собьет)"
+            }
+        ]
+    },
+    "69812": {
+        "id": 69812,
+        "type": "message",
+        "date": "2024-01-21T13:28:22",
+        "date_unixtime": "1705832902",
+        "edited": "2024-02-26T07:27:12",
+        "edited_unixtime": "1708921632",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69811,
+        "text": "Так оно не сложно бьётся и даже  интересно было, сольки только не забыть добавить. \nНо сегодня это уже не делают.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так оно не сложно бьётся и даже  интересно было, сольки только не забыть добавить. \nНо сегодня это уже не делают."
+            }
+        ]
+    },
+    "69813": {
+        "id": 69813,
+        "type": "message",
+        "date": "2024-01-21T13:30:30",
+        "date_unixtime": "1705833030",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69812,
+        "text": "Мы, по детству, не особо любили помогать бабушкам в этом деле)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мы, по детству, не особо любили помогать бабушкам в этом деле)"
+            }
+        ]
+    },
+    "69814": {
+        "id": 69814,
+        "type": "message",
+        "date": "2024-01-21T13:33:25",
+        "date_unixtime": "1705833205",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69813,
+        "text": "Маслобойка в прошлом. На смену ручному труду пришли новые технологии. Например стиральная машина типа бочка с вертикальной загрузкой и переливным шлангом.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Маслобойка в прошлом. На смену ручному труду пришли новые технологии. Например стиральная машина типа бочка с вертикальной загрузкой и переливным шлангом."
+            }
+        ]
+    },
+    "69816": {
+        "id": 69816,
+        "type": "message",
+        "date": "2024-01-21T13:36:08",
+        "date_unixtime": "1705833368",
+        "edited": "2024-01-21T13:38:37",
+        "edited_unixtime": "1705833517",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69814,
+        "text": "Мои были консерваторами. Бочка, крестовина, рука - и да пребудет с вами сила. Мб поэтому я как-то равнодушен к сливочному маслу 😁",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мои были консерваторами. Бочка, крестовина, рука - и да пребудет с вами сила. Мб поэтому я как-то равнодушен к сливочному маслу 😁"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "😁",
+                "recent": [
+                    {
+                        "from": "Aliaksandr R",
+                        "from_id": "user622497157",
+                        "date": "2024-01-21T20:03:54"
+                    },
+                    {
+                        "from": "Mariya",
+                        "from_id": "user5188945034",
+                        "date": "2024-01-21T18:02:01"
+                    },
+                    {
+                        "from": "Яна",
+                        "from_id": "user1171558336",
+                        "date": "2024-01-21T14:27:39"
+                    }
+                ]
+            }
+        ]
+    },
+    "69817": {
+        "id": 69817,
+        "type": "message",
+        "date": "2024-01-21T13:39:54",
+        "date_unixtime": "1705833594",
+        "edited": "2024-01-21T13:43:07",
+        "edited_unixtime": "1705833787",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 600,
+        "height": 800,
+        "text": "А у нас была такая",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А у нас была такая"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 7,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-01-21T22:18:27"
+                    },
+                    {
+                        "from": "Audoсcia",
+                        "from_id": "user1846341469",
+                        "date": "2024-01-21T14:54:28"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "rå øl",
+                        "from_id": "user5013402907",
+                        "date": "2024-01-21T17:14:46"
+                    }
+                ]
+            }
+        ]
+    },
+    "69818": {
+        "id": 69818,
+        "type": "message",
+        "date": "2024-01-21T13:40:51",
+        "date_unixtime": "1705833651",
+        "edited": "2024-01-21T13:40:55",
+        "edited_unixtime": "1705833655",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69817,
+        "text": "Ну. Бочка и крестовина на палке",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну. Бочка и крестовина на палке"
+            }
+        ]
+    },
+    "69819": {
+        "id": 69819,
+        "type": "message",
+        "date": "2024-01-21T13:42:10",
+        "date_unixtime": "1705833730",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 69817,
+        "text": "Тоже такая была. Сидишь телевизор смотришь и только руки меняешь.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тоже такая была. Сидишь телевизор смотришь и только руки меняешь."
+            }
+        ]
+    },
+    "69820": {
+        "id": 69820,
+        "type": "message",
+        "date": "2024-01-21T13:42:38",
+        "date_unixtime": "1705833758",
+        "edited": "2024-01-21T20:04:12",
+        "edited_unixtime": "1705856652",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 69818,
+        "text": "Тут на палке не крестовина а круг",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тут на палке не крестовина а круг"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Aliaksandr R",
+                        "from_id": "user622497157",
+                        "date": "2024-01-21T20:04:12"
+                    }
+                ]
+            }
+        ]
+    },
+    "69821": {
+        "id": 69821,
+        "type": "message",
+        "date": "2024-01-21T13:42:44",
+        "date_unixtime": "1705833764",
+        "edited": "2024-01-21T13:43:14",
+        "edited_unixtime": "1705833794",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69818,
+        "text": "Да, только вместо крестовины круг с отверстиями",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, только вместо крестовины круг с отверстиями"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-01-21T13:46:23"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2024-01-21T13:43:14"
+                    }
+                ]
+            }
+        ]
+    },
+    "69822": {
+        "id": 69822,
+        "type": "message",
+        "date": "2024-01-21T13:43:39",
+        "date_unixtime": "1705833819",
+        "edited": "2024-01-21T13:43:50",
+        "edited_unixtime": "1705833830",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69821,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 719,
+        "height": 726,
+        "text": "У нас примерно так было, только лопасти пошире",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У нас примерно так было, только лопасти пошире"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Андрей Беть",
+                        "from_id": "user518370584",
+                        "date": "2024-01-21T13:56:38"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2024-01-21T13:44:15"
+                    },
+                    {
+                        "from": "Darya",
+                        "from_id": "user353969106",
+                        "date": "2024-01-21T13:43:50"
+                    }
+                ]
+            }
+        ]
+    },
+    "69823": {
+        "id": 69823,
+        "type": "message",
+        "date": "2024-01-21T13:43:42",
+        "date_unixtime": "1705833822",
+        "edited": "2024-01-21T13:44:02",
+        "edited_unixtime": "1705833842",
+        "from": "Darya",
+        "from_id": "user353969106",
+        "reply_to_message_id": 41250,
+        "text": "Сижу смотрю, наверное, прикуплю себе маслобоечку))",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сижу смотрю, наверное, прикуплю себе маслобоечку))"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-01-21T16:00:55"
+                    },
+                    {
+                        "from": "ა",
+                        "from_id": "user1164475893",
+                        "date": "2024-01-21T13:44:18"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😁",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2024-01-21T13:44:02"
+                    }
+                ]
+            }
+        ]
+    },
+    "69824": {
+        "id": 69824,
+        "type": "message",
+        "date": "2024-01-21T13:43:58",
+        "date_unixtime": "1705833838",
+        "edited": "2024-01-21T13:44:01",
+        "edited_unixtime": "1705833841",
+        "from": "Darya",
+        "from_id": "user353969106",
+        "reply_to_message_id": 41250,
+        "text": "Давно хотела, и тут вы",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Давно хотела, и тут вы"
+            }
+        ]
+    },
+    "69825": {
+        "id": 69825,
+        "type": "message",
+        "date": "2024-01-21T13:44:08",
+        "date_unixtime": "1705833848",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69819,
+        "text": "Точно)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Точно)"
+            }
+        ]
+    },
+    "69826": {
+        "id": 69826,
+        "type": "message",
+        "date": "2024-01-21T13:44:48",
+        "date_unixtime": "1705833888",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 69822,
+        "text": "В разных деревнях разной конструкции были",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В разных деревнях разной конструкции были"
+            }
+        ]
+    },
+    "69827": {
+        "id": 69827,
+        "type": "message",
+        "date": "2024-01-21T13:45:30",
+        "date_unixtime": "1705833930",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 69825,
+        "text": "А потом думаешь что блин нельзя чтоли было в магазине купить",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А потом думаешь что блин нельзя чтоли было в магазине купить"
+            }
+        ]
+    },
+    "69828": {
+        "id": 69828,
+        "type": "message",
+        "date": "2024-01-21T13:45:40",
+        "date_unixtime": "1705833940",
+        "from": "Alena Rusakovich",
+        "from_id": "user455467923",
+        "reply_to_message_id": 69817,
+        "text": "И у моих в деревне. Именно такая🤗",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И у моих в деревне. Именно такая🤗"
+            }
+        ]
+    },
+    "69829": {
+        "id": 69829,
+        "type": "message",
+        "date": "2024-01-21T13:45:53",
+        "date_unixtime": "1705833953",
+        "edited": "2024-01-21T13:46:41",
+        "edited_unixtime": "1705834001",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69826,
+        "text": "Ну у нас с Анатолем не так уж и далеко деревни друг от друга находились в масштабах Беларуси. Км 70",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну у нас с Анатолем не так уж и далеко деревни друг от друга находились в масштабах Беларуси. Км 70"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "ა",
+                        "from_id": "user1164475893",
+                        "date": "2024-01-21T13:46:41"
+                    }
+                ]
+            }
+        ]
+    },
+    "69830": {
+        "id": 69830,
+        "type": "message",
+        "date": "2024-01-21T13:47:36",
+        "date_unixtime": "1705834056",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 41250,
+        "text": "А зима время заготовки дров",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А зима время заготовки дров"
+            }
+        ]
+    },
+    "69831": {
+        "id": 69831,
+        "type": "message",
+        "date": "2024-01-21T13:47:37",
+        "date_unixtime": "1705834057",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 41250,
+        "text": "Ну видишь в одной деревне такая в другой такая. Могли и в одной деревне у одного хозяина быть с крестовиной у второго кругляшок",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну видишь в одной деревне такая в другой такая. Могли и в одной деревне у одного хозяина быть с крестовиной у второго кругляшок"
+            }
+        ]
+    },
+    "69832": {
+        "id": 69832,
+        "type": "message",
+        "date": "2024-01-21T13:48:02",
+        "date_unixtime": "1705834082",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69829,
+        "text": "Так что можно на двоих )))",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так что можно на двоих )))"
+            }
+        ]
+    },
+    "69833": {
+        "id": 69833,
+        "type": "message",
+        "date": "2024-01-21T13:48:40",
+        "date_unixtime": "1705834120",
+        "edited": "2024-01-21T13:49:12",
+        "edited_unixtime": "1705834152",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69830,
+        "text": "Мой дед охотился и тулупы шил. До сих пор помню запах шкурок, которые он на печи сушил",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мой дед охотился и тулупы шил. До сих пор помню запах шкурок, которые он на печи сушил"
+            }
+        ]
+    },
+    "69834": {
+        "id": 69834,
+        "type": "message",
+        "date": "2024-01-21T13:49:16",
+        "date_unixtime": "1705834156",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69833,
+        "text": "Так и это тоже. И мы охотились и зимой и летом",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так и это тоже. И мы охотились и зимой и летом"
+            }
+        ]
+    },
+    "69835": {
+        "id": 69835,
+        "type": "message",
+        "date": "2024-01-21T13:49:48",
+        "date_unixtime": "1705834188",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 41250,
+        "text": "И кошки зимой плели",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И кошки зимой плели"
+            }
+        ]
+    },
+    "69836": {
+        "id": 69836,
+        "type": "message",
+        "date": "2024-01-21T13:50:29",
+        "date_unixtime": "1705834229",
+        "edited": "2024-01-21T13:51:12",
+        "edited_unixtime": "1705834272",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69834,
+        "text": "Летом косьба/сено, заготовка/сушка мха на конопатку, пчёлы + своя мастерская была, верстаки - шкафы, сундуки",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Летом косьба/сено, заготовка/сушка мха на конопатку, пчёлы + своя мастерская была, верстаки - шкафы, сундуки"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Дарья 🔆",
+                        "from_id": "user899941329",
+                        "date": "2024-01-22T23:15:27"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-01-21T22:19:48"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2024-01-21T13:53:05"
+                    }
+                ]
+            }
+        ]
+    },
+    "69838": {
+        "id": 69838,
+        "type": "message",
+        "date": "2024-01-21T13:51:18",
+        "date_unixtime": "1705834278",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69836,
+        "text": "И дялки, много дялок",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И дялки, много дялок"
+            }
+        ]
+    },
+    "69839": {
+        "id": 69839,
+        "type": "message",
+        "date": "2024-01-21T13:51:30",
+        "date_unixtime": "1705834290",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69838,
+        "text": "Это детям на прополку)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это детям на прополку)"
+            }
+        ]
+    },
+    "69840": {
+        "id": 69840,
+        "type": "message",
+        "date": "2024-01-21T13:51:42",
+        "date_unixtime": "1705834302",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "text": "Если вы не про лес",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Если вы не про лес"
+            }
+        ]
+    },
+    "69841": {
+        "id": 69841,
+        "type": "message",
+        "date": "2024-01-21T13:52:20",
+        "date_unixtime": "1705834340",
+        "edited": "2024-01-21T13:53:19",
+        "edited_unixtime": "1705834399",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 41250,
+        "text": "Так не только полоть, прорежать , собирать и сдавать",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так не только полоть, прорежать , собирать и сдавать"
+            }
+        ]
+    },
+    "69842": {
+        "id": 69842,
+        "type": "message",
+        "date": "2024-01-21T13:53:29",
+        "date_unixtime": "1705834409",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 69838,
+        "text": "Это закон летом бураки полоть",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это закон летом бураки полоть"
+            }
+        ]
+    },
+    "69843": {
+        "id": 69843,
+        "type": "message",
+        "date": "2024-01-21T13:54:15",
+        "date_unixtime": "1705834455",
+        "edited": "2024-01-21T13:54:38",
+        "edited_unixtime": "1705834478",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69842,
+        "text": "И редька и купуста",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И редька и купуста"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "💯",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2024-01-21T13:54:38"
+                    }
+                ]
+            }
+        ]
+    },
+    "69844": {
+        "id": 69844,
+        "type": "message",
+        "date": "2024-01-21T13:54:29",
+        "date_unixtime": "1705834469",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 69836,
+        "text": "В 30 года раскулачили бы как зажиточных",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В 30 года раскулачили бы как зажиточных"
+            }
+        ]
+    },
+    "69845": {
+        "id": 69845,
+        "type": "message",
+        "date": "2024-01-21T13:54:50",
+        "date_unixtime": "1705834490",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69844,
+        "text": "В Польше не особо кулачили)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В Польше не особо кулачили)"
+            }
+        ]
+    },
+    "69846": {
+        "id": 69846,
+        "type": "message",
+        "date": "2024-01-21T13:55:08",
+        "date_unixtime": "1705834508",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69841,
+        "text": "А бровар у вас был?)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А бровар у вас был?)"
+            }
+        ]
+    },
+    "69848": {
+        "id": 69848,
+        "type": "message",
+        "date": "2024-01-21T13:56:38",
+        "date_unixtime": "1705834598",
+        "edited": "2024-09-01T17:54:53",
+        "edited_unixtime": "1725202493",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 69845,
+        "text": "В Польше это да",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В Польше это да"
+            }
+        ]
+    },
+    "69849": {
+        "id": 69849,
+        "type": "message",
+        "date": "2024-01-21T13:56:48",
+        "date_unixtime": "1705834608",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69846,
+        "text": "Вось чаго не было таго не было\nУ Дубрава спіртзавод быу́",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вось чаго не было таго не было\nУ Дубрава спіртзавод быу́"
+            }
+        ]
+    },
+    "69851": {
+        "id": 69851,
+        "type": "message",
+        "date": "2024-01-21T13:58:01",
+        "date_unixtime": "1705834681",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69829,
+        "text": "У меня ещё и Раковский с/с",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У меня ещё и Раковский с/с"
+            }
+        ]
+    },
+    "69852": {
+        "id": 69852,
+        "type": "message",
+        "date": "2024-01-21T14:03:19",
+        "date_unixtime": "1705834999",
+        "edited": "2024-01-21T14:03:40",
+        "edited_unixtime": "1705835020",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69849,
+        "text": "У нас был) Ходили местные дежурить по ночам. И чисто для себя - не в продажу",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У нас был) Ходили местные дежурить по ночам. И чисто для себя - не в продажу"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "ა",
+                        "from_id": "user1164475893",
+                        "date": "2024-01-21T14:04:34"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2024-01-21T14:03:40"
+                    }
+                ]
+            }
+        ]
+    },
+    "69853": {
+        "id": 69853,
+        "type": "message",
+        "date": "2024-01-21T14:05:23",
+        "date_unixtime": "1705835123",
+        "from": "🤫🏍⛺",
+        "from_id": "user6213882374",
+        "reply_to_message_id": 69849,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 721,
+        "text": "Гэткі? :)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Гэткі? :)"
+            }
+        ]
+    },
+    "69854": {
+        "id": 69854,
+        "type": "message",
+        "date": "2024-01-21T14:05:23",
+        "date_unixtime": "1705835123",
+        "from": "🤫🏍⛺",
+        "from_id": "user6213882374",
+        "reply_to_message_id": 69849,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 721,
+        "text": "",
+        "text_entities": []
+    },
+    "69855": {
+        "id": 69855,
+        "type": "message",
+        "date": "2024-01-21T14:05:24",
+        "date_unixtime": "1705835124",
+        "from": "🤫🏍⛺",
+        "from_id": "user6213882374",
+        "reply_to_message_id": 69849,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 721,
+        "text": "",
+        "text_entities": []
+    },
+    "69856": {
+        "id": 69856,
+        "type": "message",
+        "date": "2024-01-21T14:06:08",
+        "date_unixtime": "1705835168",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 41250,
+        "text": "Похож ))",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Похож ))"
+            }
+        ]
+    },
+    "69857": {
+        "id": 69857,
+        "type": "message",
+        "date": "2024-01-21T14:06:49",
+        "date_unixtime": "1705835209",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 41250,
+        "text": "И рыбу там ловили",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И рыбу там ловили"
+            }
+        ]
+    },
+    "69858": {
+        "id": 69858,
+        "type": "message",
+        "date": "2024-01-21T14:08:08",
+        "date_unixtime": "1705835288",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 69855,
+        "text": "Шикарный",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Шикарный"
+            }
+        ]
+    },
+    "69859": {
+        "id": 69859,
+        "type": "message",
+        "date": "2024-01-21T14:09:40",
+        "date_unixtime": "1705835380",
+        "from": "🤫🏍⛺",
+        "from_id": "user6213882374",
+        "reply_to_message_id": 69858,
+        "text": ":) на пачатку 2000х там яшчэ на сцяне ў кабінеце Ленін, здаецца  пэнзалем пісаны вісеў...",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": ":) на пачатку 2000х там яшчэ на сцяне ў кабінеце Ленін, здаецца  пэнзалем пісаны вісеў..."
+            }
+        ]
+    },
+    "69860": {
+        "id": 69860,
+        "type": "message",
+        "date": "2024-01-21T14:11:44",
+        "date_unixtime": "1705835504",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 41250,
+        "text": "А сейчас что там?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А сейчас что там?"
+            }
+        ]
+    },
+    "69861": {
+        "id": 69861,
+        "type": "message",
+        "date": "2024-01-21T14:13:52",
+        "date_unixtime": "1705835632",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69856,
+        "text": "На млын похож",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На млын похож"
+            }
+        ]
+    },
+    "69862": {
+        "id": 69862,
+        "type": "message",
+        "date": "2024-01-21T14:16:01",
+        "date_unixtime": "1705835761",
+        "edited": "2024-01-21T14:28:01",
+        "edited_unixtime": "1705836481",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 387,
+        "height": 408,
+        "text": "Вот бровар",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вот бровар"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Aliaksandr R",
+                        "from_id": "user622497157",
+                        "date": "2024-01-21T20:06:18"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👀",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2024-01-21T14:28:01"
+                    }
+                ]
+            }
+        ]
+    },
+    "69863": {
+        "id": 69863,
+        "type": "message",
+        "date": "2024-01-21T14:17:05",
+        "date_unixtime": "1705835825",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69862,
+        "text": "Так может воскресить? Или работает?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так может воскресить? Или работает?"
+            }
+        ]
+    },
+    "69864": {
+        "id": 69864,
+        "type": "message",
+        "date": "2024-01-21T14:17:22",
+        "date_unixtime": "1705835842",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69863,
+        "text": "Этот не работает",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Этот не работает"
+            }
+        ]
+    },
+    "69865": {
+        "id": 69865,
+        "type": "message",
+        "date": "2024-01-21T14:17:57",
+        "date_unixtime": "1705835877",
+        "edited": "2024-01-21T20:06:28",
+        "edited_unixtime": "1705856788",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "text": "Товарищ майор",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Товарищ майор"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😁",
+                "recent": [
+                    {
+                        "from": "Aliaksandr R",
+                        "from_id": "user622497157",
+                        "date": "2024-01-21T20:06:28"
+                    }
+                ]
+            }
+        ]
+    },
+    "69867": {
+        "id": 69867,
+        "type": "message",
+        "date": "2024-01-21T14:19:09",
+        "date_unixtime": "1705835949",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69865,
+        "text": "Не зовите. Лучше на даоих",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Не зовите. Лучше на даоих"
+            }
+        ]
+    },
+    "69870": {
+        "id": 69870,
+        "type": "message",
+        "date": "2024-01-21T14:30:32",
+        "date_unixtime": "1705836632",
+        "from": "🤫🏍⛺",
+        "from_id": "user6213882374",
+        "reply_to_message_id": 69860,
+        "text": "Выкупил частник. Крышу обновил и на этом всё. Стоит.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Выкупил частник. Крышу обновил и на этом всё. Стоит."
+            }
+        ]
+    },
+    "69872": {
+        "id": 69872,
+        "type": "message",
+        "date": "2024-01-21T14:57:42",
+        "date_unixtime": "1705838262",
+        "edited": "2024-01-21T15:00:07",
+        "edited_unixtime": "1705838407",
+        "from": "Audoсcia",
+        "from_id": "user1846341469",
+        "reply_to_message_id": 69827,
+        "text": "Здаць малако па 3 кап. і купіць масла па 3 р.? Яшчэ і знайдзі, купі добрае",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здаць малако па 3 кап. і купіць масла па 3 р.? Яшчэ і знайдзі, купі добрае"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤‍🔥",
+                "recent": [
+                    {
+                        "from": "ა",
+                        "from_id": "user1164475893",
+                        "date": "2024-01-21T15:00:07"
+                    }
+                ]
+            }
+        ]
+    },
+    "69873": {
+        "id": 69873,
+        "type": "message",
+        "date": "2024-01-21T15:06:45",
+        "date_unixtime": "1705838805",
+        "edited": "2024-01-21T15:06:58",
+        "edited_unixtime": "1705838818",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 41250,
+        "text": "А в Минской школе кипяченое молоко с плевкой ((( после всего этого.\nНикогда не пил.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А в Минской школе кипяченое молоко с плевкой ((( после всего этого.\nНикогда не пил."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "💯",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2024-01-21T15:06:58"
+                    }
+                ]
+            }
+        ]
+    },
+    "69874": {
+        "id": 69874,
+        "type": "message",
+        "date": "2024-01-21T15:08:01",
+        "date_unixtime": "1705838881",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69872,
+        "text": "А лепш зарабіць грошай і купіць аліўкавае)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А лепш зарабіць грошай і купіць аліўкавае)"
+            }
+        ]
+    },
+    "69876": {
+        "id": 69876,
+        "type": "message",
+        "date": "2024-01-21T15:10:42",
+        "date_unixtime": "1705839042",
+        "edited": "2024-01-21T15:11:15",
+        "edited_unixtime": "1705839075",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69874,
+        "text": "Аліу́кавае на барадзінскі не намажыш",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Аліу́кавае на барадзінскі не намажыш"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "💯",
+                "recent": [
+                    {
+                        "from": "Дарья 🔆",
+                        "from_id": "user899941329",
+                        "date": "2024-01-22T23:17:17"
+                    },
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-01-21T15:12:07"
+                    },
+                    {
+                        "from": "Audoсcia",
+                        "from_id": "user1846341469",
+                        "date": "2024-01-21T15:11:15"
+                    }
+                ]
+            }
+        ]
+    },
+    "69877": {
+        "id": 69877,
+        "type": "message",
+        "date": "2024-01-21T15:11:08",
+        "date_unixtime": "1705839068",
+        "from": "Audoсcia",
+        "from_id": "user1846341469",
+        "reply_to_message_id": 69874,
+        "text": "А раней яго прадавалі? Я ж пра колішнія часы",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А раней яго прадавалі? Я ж пра колішнія часы"
+            }
+        ]
+    },
+    "69878": {
+        "id": 69878,
+        "type": "message",
+        "date": "2024-01-21T15:11:44",
+        "date_unixtime": "1705839104",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69877,
+        "text": "А) Тады так",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А) Тады так"
+            }
+        ]
+    },
+    "69879": {
+        "id": 69879,
+        "type": "message",
+        "date": "2024-01-21T15:12:01",
+        "date_unixtime": "1705839121",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69876,
+        "text": "І на дранік не паложыш",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "І на дранік не паложыш"
+            }
+        ]
+    },
+    "69880": {
+        "id": 69880,
+        "type": "message",
+        "date": "2024-01-21T15:12:38",
+        "date_unixtime": "1705839158",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69879,
+        "text": "І у́ бліны з бульбы",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "І у́ бліны з бульбы"
+            }
+        ]
+    },
+    "69881": {
+        "id": 69881,
+        "type": "message",
+        "date": "2024-01-21T15:13:06",
+        "date_unixtime": "1705839186",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69880,
+        "text": "О. У вас таксама градацыя бліноў ішла)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "О. У вас таксама градацыя бліноў ішла)"
+            }
+        ]
+    },
+    "69882": {
+        "id": 69882,
+        "type": "message",
+        "date": "2024-01-21T15:13:43",
+        "date_unixtime": "1705839223",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "text": "У нас толькі наадварот было. Быў блін звычайны і мучны)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У нас толькі наадварот было. Быў блін звычайны і мучны)"
+            }
+        ]
+    },
+    "69883": {
+        "id": 69883,
+        "type": "message",
+        "date": "2024-01-21T15:13:43",
+        "date_unixtime": "1705839223",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 41250,
+        "text": "А каша на патэльні з бульбы ды у печцы, з коркай )",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А каша на патэльні з бульбы ды у печцы, з коркай )"
+            }
+        ]
+    },
+    "69884": {
+        "id": 69884,
+        "type": "message",
+        "date": "2024-01-21T15:14:00",
+        "date_unixtime": "1705839240",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69883,
+        "text": "З салам і цыбулькай)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "З салам і цыбулькай)"
+            }
+        ]
+    },
+    "69885": {
+        "id": 69885,
+        "type": "message",
+        "date": "2024-01-21T15:14:17",
+        "date_unixtime": "1705839257",
+        "from": "Audoсcia",
+        "from_id": "user1846341469",
+        "reply_to_message_id": 41250,
+        "text": "Так, я яшчэ без абеду. астанавіцеся))",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так, я яшчэ без абеду. астанавіцеся))"
+            }
+        ]
+    },
+    "69886": {
+        "id": 69886,
+        "type": "message",
+        "date": "2024-01-21T15:14:34",
+        "date_unixtime": "1705839274",
+        "edited": "2024-01-21T15:20:23",
+        "edited_unixtime": "1705839623",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69885,
+        "text": "А кішку спрабавалі?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А кішку спрабавалі?"
+            }
+        ]
+    },
+    "69887": {
+        "id": 69887,
+        "type": "message",
+        "date": "2024-01-21T15:15:29",
+        "date_unixtime": "1705839329",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69886,
+        "text": "Кравянка з  грэчкай",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Кравянка з  грэчкай"
+            }
+        ]
+    },
+    "69888": {
+        "id": 69888,
+        "type": "message",
+        "date": "2024-01-21T15:17:17",
+        "date_unixtime": "1705839437",
+        "edited": "2024-01-21T22:54:27",
+        "edited_unixtime": "1705866867",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69887,
+        "text": "Нее. Тая ж бабка, толькі запіхвалася ў кішку, з кавалкамі сала. Падавалася да стала са смятанай",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Нее. Тая ж бабка, толькі запіхвалася ў кішку, з кавалкамі сала. Падавалася да стала са смятанай"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Mosesova Anzhelika",
+                        "from_id": "user365407622",
+                        "date": "2024-01-21T22:54:27"
+                    }
+                ]
+            }
+        ]
+    },
+    "69889": {
+        "id": 69889,
+        "type": "message",
+        "date": "2024-01-21T15:17:57",
+        "date_unixtime": "1705839477",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "text": "На патэльні ў печцы гатавалася",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На патэльні ў печцы гатавалася"
+            }
+        ]
+    },
+    "69890": {
+        "id": 69890,
+        "type": "message",
+        "date": "2024-01-21T15:17:59",
+        "date_unixtime": "1705839479",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69888,
+        "text": "Не. У нас так не рабілі",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Не. У нас так не рабілі"
+            }
+        ]
+    },
+    "69891": {
+        "id": 69891,
+        "type": "message",
+        "date": "2024-01-21T15:18:53",
+        "date_unixtime": "1705839533",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "text": "А кравянкай з грэчкай я на Палессі частаваўся. На Століншчыне",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А кравянкай з грэчкай я на Палессі частаваўся. На Століншчыне"
+            }
+        ]
+    },
+    "69893": {
+        "id": 69893,
+        "type": "message",
+        "date": "2024-01-21T15:20:04",
+        "date_unixtime": "1705839604",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 69891,
+        "text": "Кашанка гэта",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Кашанка гэта"
+            }
+        ]
+    },
+    "69894": {
+        "id": 69894,
+        "type": "message",
+        "date": "2024-01-21T15:20:26",
+        "date_unixtime": "1705839626",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 41250,
+        "text": "Сёння кроу́ выліывюць, няма Каму рабіць прысмакі",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сёння кроу́ выліывюць, няма Каму рабіць прысмакі"
+            }
+        ]
+    },
+    "69895": {
+        "id": 69895,
+        "type": "message",
+        "date": "2024-01-21T15:20:34",
+        "date_unixtime": "1705839634",
+        "edited": "2024-01-21T15:26:04",
+        "edited_unixtime": "1705839964",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 69886,
+        "text": "Гэта ж так смачна!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Гэта ж так смачна!"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-01-21T15:26:05"
+                    }
+                ]
+            }
+        ]
+    },
+    "69896": {
+        "id": 69896,
+        "type": "message",
+        "date": "2024-01-21T15:20:55",
+        "date_unixtime": "1705839655",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69893,
+        "text": "Гэта у Польшчы, а у нас кравянка",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Гэта у Польшчы, а у нас кравянка"
+            }
+        ]
+    },
+    "69897": {
+        "id": 69897,
+        "type": "message",
+        "date": "2024-01-21T15:21:22",
+        "date_unixtime": "1705839682",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 41250,
+        "text": "Не. Кравянка без кашы , а з ёй -кашанка",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Не. Кравянка без кашы , а з ёй -кашанка"
+            }
+        ]
+    },
+    "69898": {
+        "id": 69898,
+        "type": "message",
+        "date": "2024-01-21T15:22:41",
+        "date_unixtime": "1705839761",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69897,
+        "text": "У нас аднолькава называлі",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У нас аднолькава называлі"
+            }
+        ]
+    },
+    "69899": {
+        "id": 69899,
+        "type": "message",
+        "date": "2024-01-21T15:23:41",
+        "date_unixtime": "1705839821",
+        "edited": "2024-01-21T15:25:34",
+        "edited_unixtime": "1705839934",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 41250,
+        "text": "А як бы не называлі - смачна!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А як бы не называлі - смачна!"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "ა",
+                        "from_id": "user1164475893",
+                        "date": "2024-01-21T15:25:34"
+                    }
+                ]
+            }
+        ]
+    },
+    "69900": {
+        "id": 69900,
+        "type": "message",
+        "date": "2024-01-21T15:25:07",
+        "date_unixtime": "1705839907",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69893,
+        "text": "Я та і частаваўся аднойчы, а ўжо назву запомніць ..",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я та і частаваўся аднойчы, а ўжо назву запомніць .."
+            }
+        ]
+    },
+    "69901": {
+        "id": 69901,
+        "type": "message",
+        "date": "2024-01-21T15:25:34",
+        "date_unixtime": "1705839934",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69894,
+        "text": "Цяппр свінню не гадуюць)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Цяппр свінню не гадуюць)"
+            }
+        ]
+    },
+    "69902": {
+        "id": 69902,
+        "type": "message",
+        "date": "2024-01-21T15:26:58",
+        "date_unixtime": "1705840018",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69895,
+        "text": "Так точна. Самы вялікі плюс, што яе ў духоўцы можна зрабіць, а не толькі на пячной пліце",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так точна. Самы вялікі плюс, што яе ў духоўцы можна зрабіць, а не толькі на пячной пліце"
+            }
+        ]
+    },
+    "69903": {
+        "id": 69903,
+        "type": "message",
+        "date": "2024-01-21T15:27:43",
+        "date_unixtime": "1705840063",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "text": "Так-с, цяпер павольна пераходзім  да падзелу на два лагеры.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так-с, цяпер павольна пераходзім  да падзелу на два лагеры."
+            }
+        ]
+    },
+    "69904": {
+        "id": 69904,
+        "type": "message",
+        "date": "2024-01-21T15:28:26",
+        "date_unixtime": "1705840106",
+        "edited": "2024-01-21T15:29:04",
+        "edited_unixtime": "1705840144",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "text": [
+            {
+                "type": "strikethrough",
+                "text": "Глыбокае ці Рагачоў? "
+            },
+            " Мачанка ці поліўка? Ці можа ў вас неяк па-іншаму?"
+        ],
+        "text_entities": [
+            {
+                "type": "strikethrough",
+                "text": "Глыбокае ці Рагачоў? "
+            },
+            {
+                "type": "plain",
+                "text": " Мачанка ці поліўка? Ці можа ў вас неяк па-іншаму?"
+            }
+        ]
+    },
+    "69905": {
+        "id": 69905,
+        "type": "message",
+        "date": "2024-01-21T15:28:31",
+        "date_unixtime": "1705840111",
+        "edited": "2024-01-21T15:45:19",
+        "edited_unixtime": "1705841119",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 69903,
+        "text": "Галоўнае,  не пачаць абмяркоўваць дранікі",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Галоўнае,  не пачаць абмяркоўваць дранікі"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😁",
+                "recent": [
+                    {
+                        "from": "Audoсcia",
+                        "from_id": "user1846341469",
+                        "date": "2024-01-21T15:59:22"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👌",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2024-01-21T15:45:19"
+                    }
+                ]
+            }
+        ]
+    },
+    "69906": {
+        "id": 69906,
+        "type": "message",
+        "date": "2024-01-21T15:28:35",
+        "date_unixtime": "1705840115",
+        "edited": "2024-01-21T15:29:39",
+        "edited_unixtime": "1705840179",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69901,
+        "text": "Так. Са свечкай трэба шукаць. А закалоць і разабраць ніхто у́жо амаль не  можа.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так. Са свечкай трэба шукаць. А закалоць і разабраць ніхто у́жо амаль не  можа."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2024-01-21T15:45:28"
+                    },
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-01-21T15:29:39"
+                    }
+                ]
+            }
+        ]
+    },
+    "69907": {
+        "id": 69907,
+        "type": "message",
+        "date": "2024-01-21T15:29:20",
+        "date_unixtime": "1705840160",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69905,
+        "text": "Без мукі",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Без мукі"
+            }
+        ]
+    },
+    "69909": {
+        "id": 69909,
+        "type": "message",
+        "date": "2024-01-21T15:29:59",
+        "date_unixtime": "1705840199",
+        "edited": "2024-01-21T15:30:12",
+        "edited_unixtime": "1705840212",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69904,
+        "text": "Мачанка",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мачанка"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🤝",
+                "recent": [
+                    {
+                        "from": "Marina Yurochka",
+                        "from_id": "user6971824773",
+                        "date": "2024-01-21T15:46:24"
+                    },
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-01-21T15:30:12"
+                    }
+                ]
+            }
+        ]
+    },
+    "69910": {
+        "id": 69910,
+        "type": "message",
+        "date": "2024-01-21T15:31:17",
+        "date_unixtime": "1705840277",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69909,
+        "text": "Халаднік белы ці чырвоны?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Халаднік белы ці чырвоны?"
+            }
+        ]
+    },
+    "69911": {
+        "id": 69911,
+        "type": "message",
+        "date": "2024-01-21T15:31:17",
+        "date_unixtime": "1705840277",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69907,
+        "text": "Я зацірку рабіу́",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я зацірку рабіу́"
+            }
+        ]
+    },
+    "69912": {
+        "id": 69912,
+        "type": "message",
+        "date": "2024-01-21T15:31:40",
+        "date_unixtime": "1705840300",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 69911,
+        "text": "З мукі і вады?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "З мукі і вады?"
+            }
+        ]
+    },
+    "69913": {
+        "id": 69913,
+        "type": "message",
+        "date": "2024-01-21T15:31:51",
+        "date_unixtime": "1705840311",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69912,
+        "text": "Малака ж",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Малака ж"
+            }
+        ]
+    },
+    "69914": {
+        "id": 69914,
+        "type": "message",
+        "date": "2024-01-21T15:31:53",
+        "date_unixtime": "1705840313",
+        "edited": "2024-01-21T15:32:00",
+        "edited_unixtime": "1705840320",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69910,
+        "text": "Чырвоны.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Чырвоны."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🤝",
+                "recent": [
+                    {
+                        "from": "Marina Yurochka",
+                        "from_id": "user6971824773",
+                        "date": "2024-01-21T15:32:08"
+                    },
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-01-21T15:32:00"
+                    }
+                ]
+            }
+        ]
+    },
+    "69915": {
+        "id": 69915,
+        "type": "message",
+        "date": "2024-01-21T15:32:11",
+        "date_unixtime": "1705840331",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69912,
+        "text": "І яйцо",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "І яйцо"
+            }
+        ]
+    },
+    "69916": {
+        "id": 69916,
+        "type": "message",
+        "date": "2024-01-21T15:32:20",
+        "date_unixtime": "1705840340",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 69913,
+        "text": "А што ў малако?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А што ў малако?"
+            }
+        ]
+    },
+    "69917": {
+        "id": 69917,
+        "type": "message",
+        "date": "2024-01-21T15:32:50",
+        "date_unixtime": "1705840370",
+        "edited": "2024-01-21T15:59:49",
+        "edited_unixtime": "1705841989",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 69915,
+        "text": "Нене. Мука , трошкі вады і соль.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Нене. Мука , трошкі вады і соль."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Audoсcia",
+                        "from_id": "user1846341469",
+                        "date": "2024-01-21T15:59:49"
+                    }
+                ]
+            }
+        ]
+    },
+    "69918": {
+        "id": 69918,
+        "type": "message",
+        "date": "2024-01-21T15:32:53",
+        "date_unixtime": "1705840373",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69916,
+        "text": "А) вада, мука, яйко і крышыш у малако",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А) вада, мука, яйко і крышыш у малако"
+            }
+        ]
+    },
+    "69919": {
+        "id": 69919,
+        "type": "message",
+        "date": "2024-01-21T15:32:56",
+        "date_unixtime": "1705840376",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69916,
+        "text": "І залівау́ малаком",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "І залівау́ малаком"
+            }
+        ]
+    },
+    "69921": {
+        "id": 69921,
+        "type": "message",
+        "date": "2024-01-21T15:33:24",
+        "date_unixtime": "1705840404",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 41250,
+        "text": "Паспрабуйце без яйка. Здзівіцеся",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Паспрабуйце без яйка. Здзівіцеся"
+            }
+        ]
+    },
+    "69922": {
+        "id": 69922,
+        "type": "message",
+        "date": "2024-01-21T15:33:36",
+        "date_unixtime": "1705840416",
+        "edited": "2024-01-21T19:16:42",
+        "edited_unixtime": "1705853802",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 41250,
+        "text": "Смачна есці",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Смачна есці"
+            }
+        ]
+    },
+    "69923": {
+        "id": 69923,
+        "type": "message",
+        "date": "2024-01-21T15:34:00",
+        "date_unixtime": "1705840440",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "text": "Я б малака кіслага папіў",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я б малака кіслага папіў"
+            }
+        ]
+    },
+    "69924": {
+        "id": 69924,
+        "type": "message",
+        "date": "2024-01-21T15:34:22",
+        "date_unixtime": "1705840462",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "text": "25 год не піў.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "25 год не піў."
+            }
+        ]
+    },
+    "69925": {
+        "id": 69925,
+        "type": "message",
+        "date": "2024-01-21T15:34:38",
+        "date_unixtime": "1705840478",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69923,
+        "text": "З бабкай",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "З бабкай"
+            }
+        ]
+    },
+    "69926": {
+        "id": 69926,
+        "type": "message",
+        "date": "2024-01-21T15:34:53",
+        "date_unixtime": "1705840493",
+        "edited": "2024-01-21T15:35:41",
+        "edited_unixtime": "1705840541",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69925,
+        "text": "Можна і адному",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Можна і адному"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🤣",
+                "recent": [
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-01-21T22:23:33"
+                    },
+                    {
+                        "from": "Audoсcia",
+                        "from_id": "user1846341469",
+                        "date": "2024-01-21T16:00:02"
+                    },
+                    {
+                        "from": "Marina Yurochka",
+                        "from_id": "user6971824773",
+                        "date": "2024-01-21T15:37:49"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥"
+            }
+        ]
+    },
+    "69927": {
+        "id": 69927,
+        "type": "message",
+        "date": "2024-01-21T15:35:10",
+        "date_unixtime": "1705840510",
+        "edited": "2024-01-21T15:35:50",
+        "edited_unixtime": "1705840550",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "text": "Са смажанай бульбай)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Са смажанай бульбай)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "ა",
+                        "from_id": "user1164475893",
+                        "date": "2024-01-21T15:35:50"
+                    }
+                ]
+            }
+        ]
+    },
+    "69928": {
+        "id": 69928,
+        "type": "message",
+        "date": "2024-01-21T15:37:26",
+        "date_unixtime": "1705840646",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69925,
+        "text": "А бабка самая смачная назаўтра ў патэльню заліць малаком і разагрэць",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А бабка самая смачная назаўтра ў патэльню заліць малаком і разагрэць"
+            }
+        ]
+    },
+    "69929": {
+        "id": 69929,
+        "type": "message",
+        "date": "2024-01-21T15:37:37",
+        "date_unixtime": "1705840657",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 41250,
+        "text": "Мы Ау́доццю згубілі",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мы Ау́доццю згубілі"
+            }
+        ]
+    },
+    "69930": {
+        "id": 69930,
+        "type": "message",
+        "date": "2024-01-21T15:37:58",
+        "date_unixtime": "1705840678",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "text": "Есці пайшла",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Есці пайшла"
+            }
+        ]
+    },
+    "69932": {
+        "id": 69932,
+        "type": "message",
+        "date": "2024-01-21T15:38:07",
+        "date_unixtime": "1705840687",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 69925,
+        "text": "Эх....",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Эх...."
+            }
+        ]
+    },
+    "69933": {
+        "id": 69933,
+        "type": "message",
+        "date": "2024-01-21T15:38:27",
+        "date_unixtime": "1705840707",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69928,
+        "text": "На зау́тра можно і расол",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На зау́тра можно і расол"
+            }
+        ]
+    },
+    "69934": {
+        "id": 69934,
+        "type": "message",
+        "date": "2024-01-21T15:38:53",
+        "date_unixtime": "1705840733",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69933,
+        "text": "Выключна ў выхадныя дні",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Выключна ў выхадныя дні"
+            }
+        ]
+    },
+    "69935": {
+        "id": 69935,
+        "type": "message",
+        "date": "2024-01-21T15:39:49",
+        "date_unixtime": "1705840789",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 41250,
+        "text": "Што не кажы а у́се было смачна",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Што не кажы а у́се было смачна"
+            }
+        ]
+    },
+    "69936": {
+        "id": 69936,
+        "type": "message",
+        "date": "2024-01-21T15:40:34",
+        "date_unixtime": "1705840834",
+        "edited": "2024-01-21T15:40:55",
+        "edited_unixtime": "1705840855",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69935,
+        "text": "Вось нешта і сумна стала",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вось нешта і сумна стала"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "💯",
+                "recent": [
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-01-21T22:23:57"
+                    },
+                    {
+                        "from": "Marina Yurochka",
+                        "from_id": "user6971824773",
+                        "date": "2024-01-21T15:43:03"
+                    },
+                    {
+                        "from": "ა",
+                        "from_id": "user1164475893",
+                        "date": "2024-01-21T15:40:55"
+                    }
+                ]
+            }
+        ]
+    },
+    "69937": {
+        "id": 69937,
+        "type": "message",
+        "date": "2024-01-21T15:40:48",
+        "date_unixtime": "1705840848",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "text": "Забыліся пра цюпу",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Забыліся пра цюпу"
+            }
+        ]
+    },
+    "69938": {
+        "id": 69938,
+        "type": "message",
+        "date": "2024-01-21T15:41:23",
+        "date_unixtime": "1705840883",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69937,
+        "text": "?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "?"
+            }
+        ]
+    },
+    "69939": {
+        "id": 69939,
+        "type": "message",
+        "date": "2024-01-21T15:41:55",
+        "date_unixtime": "1705840915",
+        "edited": "2024-01-21T15:43:15",
+        "edited_unixtime": "1705840995",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69938,
+        "text": "Хлеб ці булка крышыцца ў салодкае малако ці ваду\nЛыжкай пасёрбаць сайдзёт",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Хлеб ці булка крышыцца ў салодкае малако ці ваду\nЛыжкай пасёрбаць сайдзёт"
+            }
+        ]
+    },
+    "69940": {
+        "id": 69940,
+        "type": "message",
+        "date": "2024-01-21T15:43:30",
+        "date_unixtime": "1705841010",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69939,
+        "text": "У нас такого не было.\nБатон Маладзечанскі, укусны укусны, і з малаком і так",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У нас такого не было.\nБатон Маладзечанскі, укусны укусны, і з малаком і так"
+            }
+        ]
+    },
+    "69943": {
+        "id": 69943,
+        "type": "message",
+        "date": "2024-01-21T15:44:07",
+        "date_unixtime": "1705841047",
+        "edited": "2024-01-21T15:44:21",
+        "edited_unixtime": "1705841061",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 41250,
+        "text": "Тата казаў -\"цірі-бацірі, а таты-ма\"...  зацірка заціркай, а хлеба няма...",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тата казаў -\"цірі-бацірі, а таты-ма\"...  зацірка заціркай, а хлеба няма..."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Audoсcia",
+                        "from_id": "user1846341469",
+                        "date": "2024-01-21T16:01:21"
+                    },
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-01-21T15:44:21"
+                    }
+                ]
+            }
+        ]
+    },
+    "69944": {
+        "id": 69944,
+        "type": "message",
+        "date": "2024-01-21T15:44:14",
+        "date_unixtime": "1705841054",
+        "edited": "2024-01-21T15:45:20",
+        "edited_unixtime": "1705841120",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69940,
+        "text": "А ў нас лічылася, што самы смачны хлеб вілейскі, а смаргонскі хлеб дзед свіням аддаваў. У краму прыязджалі на калёсах, ён буханак 40 у 2 мяхі скідваў і вёз дахаты",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А ў нас лічылася, што самы смачны хлеб вілейскі, а смаргонскі хлеб дзед свіням аддаваў. У краму прыязджалі на калёсах, ён буханак 40 у 2 мяхі скідваў і вёз дахаты"
+            }
+        ]
+    },
+    "69946": {
+        "id": 69946,
+        "type": "message",
+        "date": "2024-01-21T15:46:21",
+        "date_unixtime": "1705841181",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 41250,
+        "text": "Мадзечанскі хлеб і батон і зараз укусны. Асабліва свежы, гарачы. У мінску такого няма.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мадзечанскі хлеб і батон і зараз укусны. Асабліва свежы, гарачы. У мінску такого няма."
+            }
+        ]
+    },
+    "69947": {
+        "id": 69947,
+        "type": "message",
+        "date": "2024-01-21T15:47:20",
+        "date_unixtime": "1705841240",
+        "edited": "2024-01-21T15:47:30",
+        "edited_unixtime": "1705841250",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 69923,
+        "text": "А я 2 года назад пил",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А я 2 года назад пил"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-01-21T15:47:30"
+                    }
+                ]
+            }
+        ]
+    },
+    "69948": {
+        "id": 69948,
+        "type": "message",
+        "date": "2024-01-21T15:47:56",
+        "date_unixtime": "1705841276",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69944,
+        "text": "Я на ласапедзе з ау́талау́кі вазіу́. А потом матаблок купілі",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я на ласапедзе з ау́талау́кі вазіу́. А потом матаблок купілі"
+            }
+        ]
+    },
+    "69949": {
+        "id": 69949,
+        "type": "message",
+        "date": "2024-01-21T15:49:35",
+        "date_unixtime": "1705841375",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69946,
+        "text": "Бабуля бульбяны пякла, чорны-чорны, як вугаль. Луску адрэжаш (а ён як пластылін рэзаўся), зверху кумпячок, каліўца цыбулкі і панёсся на двор, пакуль не злавілі",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Бабуля бульбяны пякла, чорны-чорны, як вугаль. Луску адрэжаш (а ён як пластылін рэзаўся), зверху кумпячок, каліўца цыбулкі і панёсся на двор, пакуль не злавілі"
+            }
+        ]
+    },
+    "69950": {
+        "id": 69950,
+        "type": "message",
+        "date": "2024-01-21T15:49:40",
+        "date_unixtime": "1705841380",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 69906,
+        "text": "У меня батька был спец по заколки свиней я все в округе звали свиней калоть.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У меня батька был спец по заколки свиней я все в округе звали свиней калоть."
+            }
+        ]
+    },
+    "69951": {
+        "id": 69951,
+        "type": "message",
+        "date": "2024-01-21T15:49:58",
+        "date_unixtime": "1705841398",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 41250,
+        "text": "У свиней ещё уши вкусные",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У свиней ещё уши вкусные"
+            }
+        ]
+    },
+    "69952": {
+        "id": 69952,
+        "type": "message",
+        "date": "2024-01-21T15:50:12",
+        "date_unixtime": "1705841412",
+        "edited": "2024-01-21T18:56:18",
+        "edited_unixtime": "1705852578",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69951,
+        "text": "И мозги",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И мозги"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Андрей Беть",
+                        "from_id": "user518370584",
+                        "date": "2024-01-21T18:56:18"
+                    }
+                ]
+            }
+        ]
+    },
+    "69953": {
+        "id": 69953,
+        "type": "message",
+        "date": "2024-01-21T15:51:28",
+        "date_unixtime": "1705841488",
+        "edited": "2024-01-21T15:51:42",
+        "edited_unixtime": "1705841502",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69949,
+        "text": "Трэба даганяць Ау́доццю",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Трэба даганяць Ау́доццю"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "😁",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2024-01-21T16:09:25"
+                    },
+                    {
+                        "from": "Audoсcia",
+                        "from_id": "user1846341469",
+                        "date": "2024-01-21T16:01:53"
+                    },
+                    {
+                        "from": "Marina Yurochka",
+                        "from_id": "user6971824773",
+                        "date": "2024-01-21T15:51:48"
+                    }
+                ]
+            }
+        ]
+    },
+    "69954": {
+        "id": 69954,
+        "type": "message",
+        "date": "2024-01-21T15:51:44",
+        "date_unixtime": "1705841504",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 41250,
+        "text": "Так. Зараз і мяне згубілі. Пайшла есці. Недзе ёсць кравяначка, нажаль з Камароўкі, а не ўласнаруч бабулей зробленая...",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так. Зараз і мяне згубілі. Пайшла есці. Недзе ёсць кравяначка, нажаль з Камароўкі, а не ўласнаруч бабулей зробленая..."
+            }
+        ]
+    },
+    "69955": {
+        "id": 69955,
+        "type": "message",
+        "date": "2024-01-21T15:52:24",
+        "date_unixtime": "1705841544",
+        "edited": "2024-01-21T15:56:18",
+        "edited_unixtime": "1705841778",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "text": "І застаўся я адзін. Бо ўжо пад’еўшы",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "І застаўся я адзін. Бо ўжо пад’еўшы"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🤣",
+                "recent": [
+                    {
+                        "from": "Audoсcia",
+                        "from_id": "user1846341469",
+                        "date": "2024-01-21T16:02:08"
+                    },
+                    {
+                        "from": "Marina Yurochka",
+                        "from_id": "user6971824773",
+                        "date": "2024-01-21T15:56:18"
+                    }
+                ]
+            }
+        ]
+    },
+    "69956": {
+        "id": 69956,
+        "type": "message",
+        "date": "2024-01-21T15:57:22",
+        "date_unixtime": "1705841842",
+        "edited": "2024-01-21T16:09:19",
+        "edited_unixtime": "1705842559",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 41250,
+        "text": "Трэба ехаці у Радашкавічы́ ці у́ Красная у́ мясны фальварак, кау́баса пальцам піханая смвчнвя, свінная ці курыная",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Трэба ехаці у Радашкавічы́ ці у́ Красная у́ мясны фальварак, кау́баса пальцам піханая смвчнвя, свінная ці курыная"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2024-01-21T16:09:19"
+                    }
+                ]
+            }
+        ]
+    },
+    "69958": {
+        "id": 69958,
+        "type": "message",
+        "date": "2024-01-21T16:00:33",
+        "date_unixtime": "1705842033",
+        "edited": "2024-01-21T16:00:41",
+        "edited_unixtime": "1705842041",
+        "from": "Audoсcia",
+        "from_id": "user1846341469",
+        "reply_to_message_id": 69930,
+        "text": "Амаль што))",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Амаль што))"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😁",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-01-21T16:00:41"
+                    }
+                ]
+            }
+        ]
+    },
+    "69959": {
+        "id": 69959,
+        "type": "message",
+        "date": "2024-01-21T16:00:59",
+        "date_unixtime": "1705842059",
+        "edited": "2024-01-22T10:43:39",
+        "edited_unixtime": "1705909419",
+        "from": "Audoсcia",
+        "from_id": "user1846341469",
+        "reply_to_message_id": 69939,
+        "text": "Ня ведаю такога)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ня ведаю такога)"
+            }
+        ]
+    },
+    "69960": {
+        "id": 69960,
+        "type": "message",
+        "date": "2024-01-21T16:01:27",
+        "date_unixtime": "1705842087",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "text": "Недаўна даведаўся, што па-руску кажуць \"тюря\"",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Недаўна даведаўся, што па-руску кажуць \"тюря\""
+            }
+        ]
+    },
+    "69961": {
+        "id": 69961,
+        "type": "message",
+        "date": "2024-01-21T16:01:55",
+        "date_unixtime": "1705842115",
+        "edited": "2024-01-21T16:04:43",
+        "edited_unixtime": "1705842283",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 41250,
+        "text": "Паўбывав бы?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Паўбывав бы?"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😁",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2024-01-21T16:08:05"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤯",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-01-21T16:04:43"
+                    }
+                ]
+            }
+        ]
+    },
+    "69963": {
+        "id": 69963,
+        "type": "message",
+        "date": "2024-01-21T16:04:04",
+        "date_unixtime": "1705842244",
+        "edited": "2024-01-21T22:25:43",
+        "edited_unixtime": "1705865143",
+        "from": "Audoсcia",
+        "from_id": "user1846341469",
+        "reply_to_message_id": 41250,
+        "text": "А мы ў дзяцінстве агуркі і памідоры з цукрам елі. 😛 Так бабуля навучыла.   салат, калі што, рабілі звычайны)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А мы ў дзяцінстве агуркі і памідоры з цукрам елі. 😛 Так бабуля навучыла.   салат, калі што, рабілі звычайны)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-01-21T22:25:43"
+                    }
+                ]
+            }
+        ]
+    },
+    "69964": {
+        "id": 69964,
+        "type": "message",
+        "date": "2024-01-21T16:06:07",
+        "date_unixtime": "1705842367",
+        "edited": "2024-01-21T16:06:16",
+        "edited_unixtime": "1705842376",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69963,
+        "text": "Ну звычайная страва была, малодзенькая звараная бульба з  бруснічным варэннем",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну звычайная страва была, малодзенькая звараная бульба з  бруснічным варэннем"
+            }
+        ]
+    },
+    "69965": {
+        "id": 69965,
+        "type": "message",
+        "date": "2024-01-21T16:06:36",
+        "date_unixtime": "1705842396",
+        "from": "Audoсcia",
+        "from_id": "user1846341469",
+        "reply_to_message_id": 41250,
+        "text": "О, не))",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "О, не))"
+            }
+        ]
+    },
+    "69966": {
+        "id": 69966,
+        "type": "message",
+        "date": "2024-01-21T16:08:25",
+        "date_unixtime": "1705842505",
+        "edited": "2024-01-21T16:10:08",
+        "edited_unixtime": "1705842608",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69965,
+        "text": "Бо вы не спрабавалі. Я потым у ІКЕІ нешта падобнае еў",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Бо вы не спрабавалі. Я потым у ІКЕІ нешта падобнае еў"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤔",
+                "recent": [
+                    {
+                        "from": "Audoсcia",
+                        "from_id": "user1846341469",
+                        "date": "2024-01-21T16:10:08"
+                    }
+                ]
+            }
+        ]
+    },
+    "69967": {
+        "id": 69967,
+        "type": "message",
+        "date": "2024-01-21T16:08:55",
+        "date_unixtime": "1705842535",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 69952,
+        "text": "Ага если правильно приготовить",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ага если правильно приготовить"
+            }
+        ]
+    },
+    "69968": {
+        "id": 69968,
+        "type": "message",
+        "date": "2024-01-21T16:10:22",
+        "date_unixtime": "1705842622",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 41250,
+        "text": "Батька был спец по разделке свиней а я спецом стал. По овцам.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Батька был спец по разделке свиней а я спецом стал. По овцам."
+            }
+        ]
+    },
+    "69969": {
+        "id": 69969,
+        "type": "message",
+        "date": "2024-01-21T16:11:11",
+        "date_unixtime": "1705842671",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69967,
+        "text": "Да пожарить и всё)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да пожарить и всё)"
+            }
+        ]
+    },
+    "69970": {
+        "id": 69970,
+        "type": "message",
+        "date": "2024-01-21T16:11:36",
+        "date_unixtime": "1705842696",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69968,
+        "text": "А я по баранам",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А я по баранам"
+            }
+        ]
+    },
+    "69974": {
+        "id": 69974,
+        "type": "message",
+        "date": "2024-01-21T16:18:18",
+        "date_unixtime": "1705843098",
+        "edited": "2024-01-21T16:18:34",
+        "edited_unixtime": "1705843114",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 69970,
+        "text": "И по баранам тоже. И зарежу и шкуру сниму и разделаю. А еще деликатес это бараньи яйца.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И по баранам тоже. И зарежу и шкуру сниму и разделаю. А еще деликатес это бараньи яйца."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤔",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-01-21T16:18:34"
+                    }
+                ]
+            }
+        ]
+    },
+    "69975": {
+        "id": 69975,
+        "type": "message",
+        "date": "2024-01-21T16:19:17",
+        "date_unixtime": "1705843157",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 41250,
+        "text": "Что Александр не пробовал?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Что Александр не пробовал?"
+            }
+        ]
+    },
+    "69976": {
+        "id": 69976,
+        "type": "message",
+        "date": "2024-01-21T16:19:32",
+        "date_unixtime": "1705843172",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "text": "Яйца? Только куриные",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Яйца? Только куриные"
+            }
+        ]
+    },
+    "69977": {
+        "id": 69977,
+        "type": "message",
+        "date": "2024-01-21T16:19:56",
+        "date_unixtime": "1705843196",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 41250,
+        "text": "Так бараньи тоже жарят",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так бараньи тоже жарят"
+            }
+        ]
+    },
+    "69978": {
+        "id": 69978,
+        "type": "message",
+        "date": "2024-01-21T16:20:21",
+        "date_unixtime": "1705843221",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 41250,
+        "text": "Вы что их выбрасывали?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вы что их выбрасывали?"
+            }
+        ]
+    },
+    "69979": {
+        "id": 69979,
+        "type": "message",
+        "date": "2024-01-21T16:21:12",
+        "date_unixtime": "1705843272",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "text": "Вот как-то с головы вылетело, куда мы их девали. Свиням может отдавали",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вот как-то с головы вылетело, куда мы их девали. Свиням может отдавали"
+            }
+        ]
+    },
+    "69980": {
+        "id": 69980,
+        "type": "message",
+        "date": "2024-01-21T16:21:16",
+        "date_unixtime": "1705843276",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 69954,
+        "text": "Эх сейчас бы кровяночки да чарачку самагончика",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Эх сейчас бы кровяночки да чарачку самагончика"
+            }
+        ]
+    },
+    "69981": {
+        "id": 69981,
+        "type": "message",
+        "date": "2024-01-21T16:21:30",
+        "date_unixtime": "1705843290",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 69979,
+        "text": "Странно",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Странно"
+            }
+        ]
+    },
+    "69982": {
+        "id": 69982,
+        "type": "message",
+        "date": "2024-01-21T16:22:05",
+        "date_unixtime": "1705843325",
+        "edited": "2024-01-21T16:22:17",
+        "edited_unixtime": "1705843337",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 69980,
+        "text": "Хлебнага...",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Хлебнага..."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2024-01-21T16:22:17"
+                    }
+                ]
+            }
+        ]
+    },
+    "69983": {
+        "id": 69983,
+        "type": "message",
+        "date": "2024-01-21T16:22:07",
+        "date_unixtime": "1705843327",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 69979,
+        "text": "Такой деликатес отдавали.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Такой деликатес отдавали."
+            }
+        ]
+    },
+    "69984": {
+        "id": 69984,
+        "type": "message",
+        "date": "2024-01-21T16:22:45",
+        "date_unixtime": "1705843365",
+        "edited": "2024-01-21T16:45:11",
+        "edited_unixtime": "1705844711",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "text": "Вот хоть убейте, никогда не любил самогон.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вот хоть убейте, никогда не любил самогон."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "ა",
+                        "from_id": "user1164475893",
+                        "date": "2024-01-21T16:45:11"
+                    }
+                ]
+            }
+        ]
+    },
+    "69985": {
+        "id": 69985,
+        "type": "message",
+        "date": "2024-01-21T16:23:02",
+        "date_unixtime": "1705843382",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 69982,
+        "text": "Эх самагоначка есть а кровяночки нет",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Эх самагоначка есть а кровяночки нет"
+            }
+        ]
+    },
+    "69986": {
+        "id": 69986,
+        "type": "message",
+        "date": "2024-01-21T16:23:28",
+        "date_unixtime": "1705843408",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69985,
+        "text": "Сам напхай.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сам напхай."
+            }
+        ]
+    },
+    "69987": {
+        "id": 69987,
+        "type": "message",
+        "date": "2024-01-21T16:23:33",
+        "date_unixtime": "1705843413",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 69982,
+        "text": "Найлепшыя ўспаміны з \"бульбы\". Духмяны, смачны, мягкі...",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Найлепшыя ўспаміны з \"бульбы\". Духмяны, смачны, мягкі..."
+            }
+        ]
+    },
+    "69988": {
+        "id": 69988,
+        "type": "message",
+        "date": "2024-01-21T16:23:33",
+        "date_unixtime": "1705843413",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 69984,
+        "text": "Ну самагон самагону рознь.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну самагон самагону рознь."
+            }
+        ]
+    },
+    "69989": {
+        "id": 69989,
+        "type": "message",
+        "date": "2024-01-21T16:24:46",
+        "date_unixtime": "1705843486",
+        "edited": "2024-01-21T16:24:55",
+        "edited_unixtime": "1705843495",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 69987,
+        "text": "Я сам гоню сахар дрожи и вада. Але потом настаиваю на траве Зубровка. После и голова не болит и похмелья нет.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я сам гоню сахар дрожи и вада. Але потом настаиваю на траве Зубровка. После и голова не болит и похмелья нет."
+            }
+        ]
+    },
+    "69990": {
+        "id": 69990,
+        "type": "message",
+        "date": "2024-01-21T16:24:50",
+        "date_unixtime": "1705843490",
+        "edited": "2024-01-21T17:05:21",
+        "edited_unixtime": "1705845921",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69988,
+        "text": "У нас в принципе непьющие в родне. А после определенного возраста и вовсе не притрагиваются к спиртному.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У нас в принципе непьющие в родне. А после определенного возраста и вовсе не притрагиваются к спиртному."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Audoсcia",
+                        "from_id": "user1846341469",
+                        "date": "2024-01-21T17:05:21"
+                    }
+                ]
+            }
+        ]
+    },
+    "69991": {
+        "id": 69991,
+        "type": "message",
+        "date": "2024-01-21T16:25:12",
+        "date_unixtime": "1705843512",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 69990,
+        "text": "Тогда да",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тогда да"
+            }
+        ]
+    },
+    "69992": {
+        "id": 69992,
+        "type": "message",
+        "date": "2024-01-21T16:25:57",
+        "date_unixtime": "1705843557",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69991,
+        "text": "Сам уже ни капли года три. И так алкоголь никогда не нравился, а тут и вовсе противен стал.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сам уже ни капли года три. И так алкоголь никогда не нравился, а тут и вовсе противен стал."
+            }
+        ]
+    },
+    "69993": {
+        "id": 69993,
+        "type": "message",
+        "date": "2024-01-21T16:26:10",
+        "date_unixtime": "1705843570",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 69986,
+        "text": "Легко сказать. Где кровь свежую взять да кишки? Гречка то есть в магазине",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Легко сказать. Где кровь свежую взять да кишки? Гречка то есть в магазине"
+            }
+        ]
+    },
+    "69994": {
+        "id": 69994,
+        "type": "message",
+        "date": "2024-01-21T16:26:26",
+        "date_unixtime": "1705843586",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 69992,
+        "text": "Ясно",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ясно"
+            }
+        ]
+    },
+    "69995": {
+        "id": 69995,
+        "type": "message",
+        "date": "2024-01-21T16:28:08",
+        "date_unixtime": "1705843688",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 69994,
+        "text": "Думаю, это с ферментами что-то. Молоко тоже не прет, хотя всю жизнь его любил. И такое у всех дядек, дедов и тд",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Думаю, это с ферментами что-то. Молоко тоже не прет, хотя всю жизнь его любил. И такое у всех дядек, дедов и тд"
+            }
+        ]
+    },
+    "69996": {
+        "id": 69996,
+        "type": "message",
+        "date": "2024-01-21T16:29:32",
+        "date_unixtime": "1705843772",
+        "edited": "2024-01-21T16:29:51",
+        "edited_unixtime": "1705843791",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "text": "Самое интересное мы почти все бросали курить где-то к годам 30. Раз и всё. Из 9 человек только мой отец не бросил. Хз что это такое",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Самое интересное мы почти все бросали курить где-то к годам 30. Раз и всё. Из 9 человек только мой отец не бросил. Хз что это такое"
+            }
+        ]
+    },
+    "69997": {
+        "id": 69997,
+        "type": "message",
+        "date": "2024-01-21T16:31:19",
+        "date_unixtime": "1705843879",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 41250,
+        "text": "Организм сам о здоровье заботится",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Организм сам о здоровье заботится"
+            }
+        ]
+    },
+    "69998": {
+        "id": 69998,
+        "type": "message",
+        "date": "2024-01-21T16:33:41",
+        "date_unixtime": "1705844021",
+        "edited": "2024-01-21T16:46:00",
+        "edited_unixtime": "1705844760",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 69989,
+        "text": "Трэба аб’ядноўваць шэрагі 😄 у каго кравянка, у каго-бабка, у каго-самагонка. Нехта ж і гуркі сам робіць...  Зараз не, зразумела,  але з цягам часу!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Трэба аб’ядноўваць шэрагі 😄 у каго кравянка, у каго-бабка, у каго-самагонка. Нехта ж і гуркі сам робіць...  Зараз не, зразумела,  але з цягам часу!"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2024-01-21T17:52:12"
+                    },
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-01-21T16:46:00"
+                    }
+                ]
+            }
+        ]
+    },
+    "69999": {
+        "id": 69999,
+        "type": "message",
+        "date": "2024-01-21T16:49:38",
+        "date_unixtime": "1705844978",
+        "edited": "2024-01-21T17:52:39",
+        "edited_unixtime": "1705848759",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 69964,
+        "text": "Ну дык за хлеу́ не далека ляцець",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну дык за хлеу́ не далека ляцець"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤣",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2024-01-21T17:52:39"
+                    }
+                ]
+            }
+        ]
+    }
+}

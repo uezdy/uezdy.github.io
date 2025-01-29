@@ -1,0 +1,642 @@
+{
+    "86516": {
+        "id": 86516,
+        "type": "message",
+        "date": "2024-06-23T15:52:23",
+        "date_unixtime": "1719147143",
+        "from": "В В",
+        "from_id": "user770204124",
+        "reply_to_message_id": 86379,
+        "text": "Там нет ссылки на документы, или эти три листика и есть?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Там нет ссылки на документы, или эти три листика и есть?"
+            }
+        ]
+    },
+    "86518": {
+        "id": 86518,
+        "type": "message",
+        "date": "2024-06-23T16:44:43",
+        "date_unixtime": "1719150283",
+        "from": "Sb",
+        "from_id": "user6512553342",
+        "reply_to_message_id": 24122,
+        "text": [
+            {
+                "type": "text_link",
+                "text": "Архивные документы из фондов Центрального архива Министерства обороны Российской Федерации, посвященные Белорусской стратегической наступательной операции Красной Армии «Багратион».",
+                "href": "https://histrf.ru/read/documents/arhivnye-dokumenty-iz-fondov-centralnogo-arhiva-ministerstva-oborony-rossiyskoy-federacii-posvyashchennye-belorusskoy-strategicheskoy-nastupatelnoy-operacii-krasnoy-armii-bagration"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "text_link",
+                "text": "Архивные документы из фондов Центрального архива Министерства обороны Российской Федерации, посвященные Белорусской стратегической наступательной операции Красной Армии «Багратион».",
+                "href": "https://histrf.ru/read/documents/arhivnye-dokumenty-iz-fondov-centralnogo-arhiva-ministerstva-oborony-rossiyskoy-federacii-posvyashchennye-belorusskoy-strategicheskoy-nastupatelnoy-operacii-krasnoy-armii-bagration"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "86519": {
+        "id": 86519,
+        "type": "message",
+        "date": "2024-06-23T16:50:50",
+        "date_unixtime": "1719150650",
+        "edited": "2024-06-23T17:13:07",
+        "edited_unixtime": "1719151987",
+        "from": "Sb",
+        "from_id": "user6512553342",
+        "reply_to_message_id": 86516,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://tvrgomel.by/news/ministerstvo-oborony-rossii-opublikovalo-dokumenty-o-22-iyunya-1941-goda-v-belarusi?ysclid=lxrlvd7cid376561557"
+            },
+            "\n\n",
+            {
+                "type": "link",
+                "text": "https://june22-83.mil.ru/"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://tvrgomel.by/news/ministerstvo-oborony-rossii-opublikovalo-dokumenty-o-22-iyunya-1941-goda-v-belarusi?ysclid=lxrlvd7cid376561557"
+            },
+            {
+                "type": "plain",
+                "text": "\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://june22-83.mil.ru/"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Anna Petrova",
+                        "from_id": "user1970293221",
+                        "date": "2024-06-26T23:26:52"
+                    },
+                    {
+                        "from": "В В",
+                        "from_id": "user770204124",
+                        "date": "2024-06-23T17:13:07"
+                    }
+                ]
+            }
+        ]
+    },
+    "86528": {
+        "id": 86528,
+        "type": "message",
+        "date": "2024-06-23T18:58:30",
+        "date_unixtime": "1719158310",
+        "edited": "2024-06-23T20:20:29",
+        "edited_unixtime": "1719163229",
+        "from": "Татьяна химия репетитор",
+        "from_id": "user1008077263",
+        "forwarded_from": "Клуб генеаголиков : генеалогия краеведение история",
+        "reply_to_message_id": 24122,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1024,
+        "height": 703,
+        "text": [
+            {
+                "type": "hashtag",
+                "text": "#история"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#беларусь"
+            },
+            "\n",
+            {
+                "type": "bold",
+                "text": "Как жила и выглядела Белоруссия времен Российской Империи? 20 раскрашенных фотографий XIX–XX веков. "
+            },
+            "\n👀 ",
+            {
+                "type": "link",
+                "text": "https://dzen.ru/a/ZkkuwFjlr0WMenq1"
+            },
+            "\n",
+            {
+                "type": "bold",
+                "text": "Нелегкая жизнь белорусских крестьян в начале XX века. Белорусское крестьянство в цветных фотографиях. "
+            },
+            "\n👀 ",
+            {
+                "type": "link",
+                "text": "https://dzen.ru/a/ZE1-xRv67xCPFTA8"
+            },
+            "\n\n",
+            {
+                "type": "hashtag",
+                "text": "#ретрофотографии"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Клуб Генеаголиков: статьи, видео и подкасты по истории",
+                "href": "https://t.me/Geneaholic"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "hashtag",
+                "text": "#история"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#беларусь"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "bold",
+                "text": "Как жила и выглядела Белоруссия времен Российской Империи? 20 раскрашенных фотографий XIX–XX веков. "
+            },
+            {
+                "type": "plain",
+                "text": "\n👀 "
+            },
+            {
+                "type": "link",
+                "text": "https://dzen.ru/a/ZkkuwFjlr0WMenq1"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "bold",
+                "text": "Нелегкая жизнь белорусских крестьян в начале XX века. Белорусское крестьянство в цветных фотографиях. "
+            },
+            {
+                "type": "plain",
+                "text": "\n👀 "
+            },
+            {
+                "type": "link",
+                "text": "https://dzen.ru/a/ZE1-xRv67xCPFTA8"
+            },
+            {
+                "type": "plain",
+                "text": "\n\n"
+            },
+            {
+                "type": "hashtag",
+                "text": "#ретрофотографии"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Клуб Генеаголиков: статьи, видео и подкасты по истории",
+                "href": "https://t.me/Geneaholic"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 7,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Irina Vyzovich",
+                        "from_id": "user1382123458",
+                        "date": "2025-01-05T17:11:09"
+                    },
+                    {
+                        "from": "Olga Zhuravskaya",
+                        "from_id": "user1625076934",
+                        "date": "2024-10-04T04:17:01"
+                    },
+                    {
+                        "from": "Anna Pervykh",
+                        "from_id": "user1016543163",
+                        "date": "2024-07-05T06:32:03"
+                    }
+                ]
+            }
+        ]
+    },
+    "86867": {
+        "id": 86867,
+        "type": "message",
+        "date": "2024-06-26T23:17:46",
+        "date_unixtime": "1719433066",
+        "edited": "2024-06-26T23:59:33",
+        "edited_unixtime": "1719435573",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 24122,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 969,
+        "height": 531,
+        "text": [
+            "🛠 ",
+            {
+                "type": "bold",
+                "text": "Скрипт"
+            },
+            " для ",
+            {
+                "type": "link",
+                "text": "Heritage.StatueOfLiberty.org"
+            },
+            " (пассажиры США)\n\nБаза данных ",
+            {
+                "type": "bold",
+                "text": "The Statue of Liberty"
+            },
+            " содержит около 65 миллионов записей о прибытии людей в Америку через порт Нью-Йорка в период с 1820 по 1957 год.\nЧтобы просматривать результаты, нужно зарегистрироваться.\n\nЧто делает скрипт:\n- Добавляет кнопку \"Original\" для скачивания сканов в максимальном качестве (бесплатно). Если увидите ошибку \"Not Found\", попробуйте в конце адреса ",
+            {
+                "type": "code",
+                "text": ".tif"
+            },
+            " заменить на ",
+            {
+                "type": "code",
+                "text": ".jpg"
+            },
+            "\n- Кнопка \"Full Image\" открывает прямую ссылку на изображение (в обычном качестве)\n- На карточке пассажира заменяет Sample-фон на нормальный \n- Разблокирует правую кнопку мыши\n- Скрывает блоки о покупке\n\n",
+            {
+                "type": "bold",
+                "text": "Инструкция"
+            },
+            " по установке:\n1. Установить расширение ",
+            {
+                "type": "text_link",
+                "text": "Tampermonkey",
+                "href": "https://www.tampermonkey.net/index.php?locale=ru"
+            },
+            ". Если ваш браузер - Chrome, Яндекс или Opera, то ",
+            {
+                "type": "text_link",
+                "text": "отсюда",
+                "href": "https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo"
+            },
+            ". Для Firefox - ",
+            {
+                "type": "text_link",
+                "text": "здесь",
+                "href": "https://addons.mozilla.org/ru/firefox/addon/tampermonkey/"
+            },
+            ", а для Edge - ",
+            {
+                "type": "text_link",
+                "text": "тут",
+                "href": "https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd"
+            },
+            "\n2. Зайти ",
+            {
+                "type": "text_link",
+                "text": "на эту страницу",
+                "href": "https://greasyfork.org/ru/scripts/498993-statueofliberty-helper"
+            },
+            " и нажать \"Установить этот скрипт\"\n3. Включить ",
+            {
+                "type": "text_link",
+                "text": "Режим разработчика",
+                "href": "https://forum.vgd.ru/post/3/16693/p4987426.htm#pp4987426"
+            },
+            " в настройках браузера - Управление расширениями"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "🛠 "
+            },
+            {
+                "type": "bold",
+                "text": "Скрипт"
+            },
+            {
+                "type": "plain",
+                "text": " для "
+            },
+            {
+                "type": "link",
+                "text": "Heritage.StatueOfLiberty.org"
+            },
+            {
+                "type": "plain",
+                "text": " (пассажиры США)\n\nБаза данных "
+            },
+            {
+                "type": "bold",
+                "text": "The Statue of Liberty"
+            },
+            {
+                "type": "plain",
+                "text": " содержит около 65 миллионов записей о прибытии людей в Америку через порт Нью-Йорка в период с 1820 по 1957 год.\nЧтобы просматривать результаты, нужно зарегистрироваться.\n\nЧто делает скрипт:\n- Добавляет кнопку \"Original\" для скачивания сканов в максимальном качестве (бесплатно). Если увидите ошибку \"Not Found\", попробуйте в конце адреса "
+            },
+            {
+                "type": "code",
+                "text": ".tif"
+            },
+            {
+                "type": "plain",
+                "text": " заменить на "
+            },
+            {
+                "type": "code",
+                "text": ".jpg"
+            },
+            {
+                "type": "plain",
+                "text": "\n- Кнопка \"Full Image\" открывает прямую ссылку на изображение (в обычном качестве)\n- На карточке пассажира заменяет Sample-фон на нормальный \n- Разблокирует правую кнопку мыши\n- Скрывает блоки о покупке\n\n"
+            },
+            {
+                "type": "bold",
+                "text": "Инструкция"
+            },
+            {
+                "type": "plain",
+                "text": " по установке:\n1. Установить расширение "
+            },
+            {
+                "type": "text_link",
+                "text": "Tampermonkey",
+                "href": "https://www.tampermonkey.net/index.php?locale=ru"
+            },
+            {
+                "type": "plain",
+                "text": ". Если ваш браузер - Chrome, Яндекс или Opera, то "
+            },
+            {
+                "type": "text_link",
+                "text": "отсюда",
+                "href": "https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo"
+            },
+            {
+                "type": "plain",
+                "text": ". Для Firefox - "
+            },
+            {
+                "type": "text_link",
+                "text": "здесь",
+                "href": "https://addons.mozilla.org/ru/firefox/addon/tampermonkey/"
+            },
+            {
+                "type": "plain",
+                "text": ", а для Edge - "
+            },
+            {
+                "type": "text_link",
+                "text": "тут",
+                "href": "https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd"
+            },
+            {
+                "type": "plain",
+                "text": "\n2. Зайти "
+            },
+            {
+                "type": "text_link",
+                "text": "на эту страницу",
+                "href": "https://greasyfork.org/ru/scripts/498993-statueofliberty-helper"
+            },
+            {
+                "type": "plain",
+                "text": " и нажать \"Установить этот скрипт\"\n3. Включить "
+            },
+            {
+                "type": "text_link",
+                "text": "Режим разработчика",
+                "href": "https://forum.vgd.ru/post/3/16693/p4987426.htm#pp4987426"
+            },
+            {
+                "type": "plain",
+                "text": " в настройках браузера - Управление расширениями"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 18,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Pavel",
+                        "from_id": "user1354985288",
+                        "date": "2024-12-09T01:34:31"
+                    },
+                    {
+                        "from": "Alexey K",
+                        "from_id": "user558796556",
+                        "date": "2024-11-06T01:09:11"
+                    },
+                    {
+                        "from": "Оксана",
+                        "from_id": "user1352894747",
+                        "date": "2024-08-27T17:35:46"
+                    }
+                ]
+            }
+        ]
+    },
+    "87007": {
+        "id": 87007,
+        "type": "message",
+        "date": "2024-06-27T17:21:47",
+        "date_unixtime": "1719498107",
+        "edited": "2024-06-27T17:42:46",
+        "edited_unixtime": "1719499366",
+        "from": "L",
+        "from_id": "user99883653",
+        "reply_to_message_id": 85758,
+        "text": [
+            "Добавлены следующие дела: \n\n",
+            {
+                "type": "pre",
+                "text": "LVIA 567-1-1924 сборная солянка по округу\n- Гусинское Оршанского уезда\n- Залесское Дисненского уезда\n- Плешковское Полоцкого уезда - только часть А и Б\n- Никитинское Пружанского уезда\n- Чижевичское Слуцкого уезда - только часть А\n- Любашевское Слуцкого уезда - только часть В\n- Рашкутанское Свенцянского уезда\n- Хальчанское Гомельского уезда - только части А и Б\n- Поколюбичское Гомельского уезда - только части А и Б\n- Новоалександровское Ковенской губернии\n- Рудне-Маримоновское Гомельского уезда - только листы о бюджете училища\n- Рыбакское Слонимского уезда - только лист о бюджете училища\n- Бруновишское Поневежского уезда - только части А и Б\n- Хоминское Гомельского уезда - часть Б отсутствует\n- Глыбовское Гомельского уезда - только часть А\n- Барсуковское (Обуховское) Оршанского уезда - только часть В\n- Могилевское еврейское Могилевского уезда\n- Болотнянское Рогачевского уезда\n\nLVIA 567-1-1919 об обследовании начальных училищ Минской губернии\n- 4-е Минское 2-х классное мужское приходское - часть А и Б\n- 1-е Минское 2-х классное еврейское народное с женской сменой\n\nLVIA 567-8-1045 о мужских народных училищах Речицкого у.\n- Юревичское\n- Холмечское\n- Лоевское\n- Брагинское\n\nLVIA 567-8-1046 о мужских приходских училищах Речицкого у.\n- Речицкое одноклассное мужское\n- 2-ое Речицкое 2-х классное мужское\n- 1-ое Речицкое 2-х классное мужское\n\nLVIA 567-8-1048 о женских приходских училищах Речицкого у.\n- Речицкое\n\nLVIA 567-8-1049 о женских народных училищах Речицкого у.\n- Юревичское\n- Холмечское\n\nLVIA 567-8-1050 о сельских училищах МНП Речицкого у.\n- Савичское\n- Остроглядское\n- Радинское\n- Казимировское\n- Хойникское МНП\n- Хойникское народное",
+                "language": ""
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добавлены следующие дела: \n\n"
+            },
+            {
+                "type": "pre",
+                "text": "LVIA 567-1-1924 сборная солянка по округу\n- Гусинское Оршанского уезда\n- Залесское Дисненского уезда\n- Плешковское Полоцкого уезда - только часть А и Б\n- Никитинское Пружанского уезда\n- Чижевичское Слуцкого уезда - только часть А\n- Любашевское Слуцкого уезда - только часть В\n- Рашкутанское Свенцянского уезда\n- Хальчанское Гомельского уезда - только части А и Б\n- Поколюбичское Гомельского уезда - только части А и Б\n- Новоалександровское Ковенской губернии\n- Рудне-Маримоновское Гомельского уезда - только листы о бюджете училища\n- Рыбакское Слонимского уезда - только лист о бюджете училища\n- Бруновишское Поневежского уезда - только части А и Б\n- Хоминское Гомельского уезда - часть Б отсутствует\n- Глыбовское Гомельского уезда - только часть А\n- Барсуковское (Обуховское) Оршанского уезда - только часть В\n- Могилевское еврейское Могилевского уезда\n- Болотнянское Рогачевского уезда\n\nLVIA 567-1-1919 об обследовании начальных училищ Минской губернии\n- 4-е Минское 2-х классное мужское приходское - часть А и Б\n- 1-е Минское 2-х классное еврейское народное с женской сменой\n\nLVIA 567-8-1045 о мужских народных училищах Речицкого у.\n- Юревичское\n- Холмечское\n- Лоевское\n- Брагинское\n\nLVIA 567-8-1046 о мужских приходских училищах Речицкого у.\n- Речицкое одноклассное мужское\n- 2-ое Речицкое 2-х классное мужское\n- 1-ое Речицкое 2-х классное мужское\n\nLVIA 567-8-1048 о женских приходских училищах Речицкого у.\n- Речицкое\n\nLVIA 567-8-1049 о женских народных училищах Речицкого у.\n- Юревичское\n- Холмечское\n\nLVIA 567-8-1050 о сельских училищах МНП Речицкого у.\n- Савичское\n- Остроглядское\n- Радинское\n- Казимировское\n- Хойникское МНП\n- Хойникское народное",
+                "language": ""
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 13,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Andrei",
+                        "from_id": "user692382724",
+                        "date": "2024-07-29T13:09:46"
+                    },
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-07-11T11:10:12"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 7,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Sb",
+                        "from_id": "user6512553342",
+                        "date": "2024-12-20T09:09:09"
+                    }
+                ]
+            }
+        ]
+    },
+    "87956": {
+        "id": 87956,
+        "type": "message",
+        "date": "2024-07-05T08:37:06",
+        "date_unixtime": "1720157826",
+        "edited": "2024-08-16T09:09:49",
+        "edited_unixtime": "1723788589",
+        "from": "Dmitry Tichy",
+        "from_id": "user5253829267",
+        "reply_to_message_id": 24122,
+        "text": [
+            "Выпись из метрических книг Юревичской волости Речицкого уезда Гомельской губ. на граждан родившихся в 1900 году\n",
+            {
+                "type": "link",
+                "text": "https://dapamoznik.blogspot.com/2024/07/1900.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Выпись из метрических книг Юревичской волости Речицкого уезда Гомельской губ. на граждан родившихся в 1900 году\n"
+            },
+            {
+                "type": "link",
+                "text": "https://dapamoznik.blogspot.com/2024/07/1900.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "87957": {
+        "id": 87957,
+        "type": "message",
+        "date": "2024-07-05T08:37:16",
+        "date_unixtime": "1720157836",
+        "edited": "2024-07-05T11:48:29",
+        "edited_unixtime": "1720169309",
+        "from": "Dmitry Tichy",
+        "from_id": "user5253829267",
+        "reply_to_message_id": 24122,
+        "text": [
+            "Выпись из метрических книг Юревичской волости Речицкого уезда Гомельской губ. на граждан родившихся в 1902 году\n",
+            {
+                "type": "link",
+                "text": "https://dapamoznik.blogspot.com/2024/07/1902.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Выпись из метрических книг Юревичской волости Речицкого уезда Гомельской губ. на граждан родившихся в 1902 году\n"
+            },
+            {
+                "type": "link",
+                "text": "https://dapamoznik.blogspot.com/2024/07/1902.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ізербун",
+                        "from_id": "user657807901",
+                        "date": "2024-07-10T03:40:54"
+                    },
+                    {
+                        "from": "Euheniya Yanuschenko",
+                        "from_id": "user1441796024",
+                        "date": "2024-07-05T18:41:13"
+                    },
+                    {
+                        "from": "Людмила",
+                        "from_id": "user5786807940",
+                        "date": "2024-07-05T11:48:29"
+                    }
+                ]
+            }
+        ]
+    },
+    "88515": {
+        "id": 88515,
+        "type": "message",
+        "date": "2024-07-09T23:51:42",
+        "date_unixtime": "1720558302",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 24122,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://collection.ethnomuseum.ru/entity/OBJECT?page=4&query=%D1%81%D0%B5%D1%80%D0%B6%D0%BF%D1%83%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8&fbclid=IwZXh0bgNhZW0CMTEAAR1Gmc3l7a9F5sosFPR58uDsbo7m2jtkJRP8oSAFif1pCkdc5khUuThQjVQ_aem_LbOGHFuzW1BekMeUP-ZutA"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://collection.ethnomuseum.ru/entity/OBJECT?page=4&query=%D1%81%D0%B5%D1%80%D0%B6%D0%BF%D1%83%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8&fbclid=IwZXh0bgNhZW0CMTEAAR1Gmc3l7a9F5sosFPR58uDsbo7m2jtkJRP8oSAFif1pCkdc5khUuThQjVQ_aem_LbOGHFuzW1BekMeUP-ZutA"
+            }
+        ]
+    }
+}

@@ -1,0 +1,203 @@
+{
+    "111032": {
+        "id": 111032,
+        "type": "message",
+        "date": "2025-01-20T22:09:21",
+        "date_unixtime": "1737400161",
+        "edited": "2025-01-20T23:37:52",
+        "edited_unixtime": "1737405472",
+        "from": "Anastasia Nichiporovich",
+        "from_id": "user251428128",
+        "reply_to_message_id": 24122,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://rgis.mosreg.ru/v3/#/?tab=burial-place"
+            },
+            "\n\nБаза захоронений Московской области, которая активно пополняется. Вдруг, кому-то пригодится."
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://rgis.mosreg.ru/v3/#/?tab=burial-place"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nБаза захоронений Московской области, которая активно пополняется. Вдруг, кому-то пригодится."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Марина",
+                        "from_id": "user1874881112",
+                        "date": "2025-01-23T00:25:05"
+                    },
+                    {
+                        "from": "Алина Селезнёва",
+                        "from_id": "user139022095",
+                        "date": "2025-01-21T13:24:18"
+                    },
+                    {
+                        "from": "Lyaka",
+                        "from_id": "user144064657",
+                        "date": "2025-01-21T09:59:50"
+                    }
+                ]
+            }
+        ]
+    },
+    "111162": {
+        "id": 111162,
+        "type": "message",
+        "date": "2025-01-22T12:21:31",
+        "date_unixtime": "1737537691",
+        "edited": "2025-01-23T05:15:48",
+        "edited_unixtime": "1737598548",
+        "from": "P",
+        "from_id": "user201810877",
+        "forwarded_from": "Genotek",
+        "reply_to_message_id": 24122,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1024,
+        "height": 1280,
+        "text": [
+            {
+                "type": "bold",
+                "text": "Хотите вдохнуть новую жизнь в старые фотографии?"
+            },
+            "\n\nНаш Telegram-бот поможет улучшить качество ваших снимков, восстановить их цвет, убрать дефекты и добавить яркие оттенки в черно-белые фотографии! Загрузите фото ваших близких и увидите, как они заиграют новыми красками!\n\nПревратите прошлое в настоящее — попробуйте прямо сейчас!\n\n",
+            {
+                "type": "mention",
+                "text": "@Genotek_PhotoEnhance_bot"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Хотите вдохнуть новую жизнь в старые фотографии?"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nНаш Telegram-бот поможет улучшить качество ваших снимков, восстановить их цвет, убрать дефекты и добавить яркие оттенки в черно-белые фотографии! Загрузите фото ваших близких и увидите, как они заиграют новыми красками!\n\nПревратите прошлое в настоящее — попробуйте прямо сейчас!\n\n"
+            },
+            {
+                "type": "mention",
+                "text": "@Genotek_PhotoEnhance_bot"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Katya Makarevich",
+                        "from_id": "user521432070",
+                        "date": "2025-01-26T23:14:25"
+                    },
+                    {
+                        "from": "Helena Pozharitckaia",
+                        "from_id": "user956631283",
+                        "date": "2025-01-25T19:09:57"
+                    },
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2025-01-23T10:41:56"
+                    },
+                    {
+                        "from": "Y M",
+                        "from_id": "user5035576209",
+                        "date": "2025-01-23T05:15:48"
+                    }
+                ]
+            }
+        ]
+    },
+    "111163": {
+        "id": 111163,
+        "type": "message",
+        "date": "2025-01-22T12:21:31",
+        "date_unixtime": "1737537691",
+        "from": "P",
+        "from_id": "user201810877",
+        "forwarded_from": "Genotek",
+        "reply_to_message_id": 24122,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1024,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "111164": {
+        "id": 111164,
+        "type": "message",
+        "date": "2025-01-22T12:21:32",
+        "date_unixtime": "1737537692",
+        "from": "P",
+        "from_id": "user201810877",
+        "forwarded_from": "Genotek",
+        "reply_to_message_id": 24122,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1024,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "111165": {
+        "id": 111165,
+        "type": "message",
+        "date": "2025-01-22T12:21:32",
+        "date_unixtime": "1737537692",
+        "from": "P",
+        "from_id": "user201810877",
+        "forwarded_from": "Genotek",
+        "reply_to_message_id": 24122,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1024,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "111166": {
+        "id": 111166,
+        "type": "message",
+        "date": "2025-01-22T12:21:33",
+        "date_unixtime": "1737537693",
+        "from": "P",
+        "from_id": "user201810877",
+        "forwarded_from": "Genotek",
+        "reply_to_message_id": 24122,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1024,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "111167": {
+        "id": 111167,
+        "type": "message",
+        "date": "2025-01-22T12:21:33",
+        "date_unixtime": "1737537693",
+        "from": "P",
+        "from_id": "user201810877",
+        "forwarded_from": "Genotek",
+        "reply_to_message_id": 24122,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1024,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "82052": {
+        "id": 82052,
+        "type": "message",
+        "date": "2024-05-08T15:32:14",
+        "date_unixtime": "1715171534",
+        "edited": "2024-05-08T15:33:30",
+        "edited_unixtime": "1715171610",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Tacciana",
+        "reply_to_message_id": 24219,
+        "text": [
+            "Чат по Лидскому уезду \n",
+            {
+                "type": "link",
+                "text": "https://t.me/Lidski_Pavet"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Чат по Лидскому уезду \n"
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/Lidski_Pavet"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "ХТО НІХТО",
+                        "from_id": "user425011945",
+                        "date": "2024-06-27T14:36:08"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2024-05-08T15:33:30"
+                    }
+                ]
+            }
+        ]
+    }
+}

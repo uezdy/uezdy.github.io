@@ -1,0 +1,80 @@
+{
+    "93887": {
+        "id": 93887,
+        "type": "message",
+        "date": "2024-08-25T21:48:38",
+        "date_unixtime": "1724611718",
+        "edited": "2024-08-25T23:13:17",
+        "edited_unixtime": "1724616797",
+        "from": "Алеся",
+        "from_id": "user5126250394",
+        "reply_to_message_id": 24122,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://youtu.be/sUXKQWIL3zs?feature=shared"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://youtu.be/sUXKQWIL3zs?feature=shared"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👌",
+                "recent": [
+                    {
+                        "from": "Euheniya Yanuschenko",
+                        "from_id": "user1441796024",
+                        "date": "2024-09-05T14:06:14"
+                    },
+                    {
+                        "from": "Anna Nebyshynets",
+                        "from_id": "user466424040",
+                        "date": "2024-08-27T16:01:58"
+                    },
+                    {
+                        "from": "Татьяна",
+                        "from_id": "user503981537",
+                        "date": "2024-08-26T07:49:18"
+                    }
+                ]
+            }
+        ]
+    },
+    "94228": {
+        "id": 94228,
+        "type": "message",
+        "date": "2024-08-28T11:30:15",
+        "date_unixtime": "1724833815",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 24122,
+        "text": [
+            "Метрычная кніга запісаў аб хрышчэнні і шлюбе Самахвалавіцкай царквы Мінскага павета. Рукапіс (1779 - 1830)\n",
+            {
+                "type": "link",
+                "text": "https://elib.nlb.by:8070/viewer/?markID=BY-NLB-br0000964797&fileID=6756001"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Метрычная кніга запісаў аб хрышчэнні і шлюбе Самахвалавіцкай царквы Мінскага павета. Рукапіс (1779 - 1830)\n"
+            },
+            {
+                "type": "link",
+                "text": "https://elib.nlb.by:8070/viewer/?markID=BY-NLB-br0000964797&fileID=6756001"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    }
+}

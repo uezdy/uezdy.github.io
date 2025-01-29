@@ -1,0 +1,19 @@
+{
+    "35212": {
+        "id": 35212,
+        "type": "message",
+        "date": "2023-02-23T21:28:52",
+        "date_unixtime": "1677176932",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "forwarded_from": "YN",
+        "reply_to_message_id": 35211,
+        "text": "апошнюю ён гадоў 5-6 рыхтаваў",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "апошнюю ён гадоў 5-6 рыхтаваў"
+            }
+        ]
+    }
+}

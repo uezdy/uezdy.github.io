@@ -1,0 +1,710 @@
+{
+    "54432": {
+        "id": 54432,
+        "type": "message",
+        "date": "2023-08-13T16:33:03",
+        "date_unixtime": "1691933583",
+        "edited": "2023-08-13T16:36:23",
+        "edited_unixtime": "1691933783",
+        "from": "Victor",
+        "from_id": "user512489139",
+        "reply_to_message_id": 24122,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://pbc.gda.pl/dlibra/plain-content?id=13263"
+            },
+            "\nСписок погибших во время осенней кампании 1939 года в Польше\n\n\n",
+            {
+                "type": "link",
+                "text": "https://katyn.miejscapamieci.gov.pl/page/strona-glowna/ksiegi-cmentarne.php"
+            },
+            "\nСписки польских военных кладбищ в Катыни, Медном, Харькове"
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://pbc.gda.pl/dlibra/plain-content?id=13263"
+            },
+            {
+                "type": "plain",
+                "text": "\nСписок погибших во время осенней кампании 1939 года в Польше\n\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://katyn.miejscapamieci.gov.pl/page/strona-glowna/ksiegi-cmentarne.php"
+            },
+            {
+                "type": "plain",
+                "text": "\nСписки польских военных кладбищ в Катыни, Медном, Харькове"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Дмитрий",
+                        "from_id": "user6122626194",
+                        "date": "2023-08-13T16:36:23"
+                    }
+                ]
+            }
+        ]
+    },
+    "54647": {
+        "id": 54647,
+        "type": "message",
+        "date": "2023-08-15T17:14:07",
+        "date_unixtime": "1692108847",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 24122,
+        "text": "На что полезное в Insta подписаться?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На что полезное в Insta подписаться?"
+            }
+        ]
+    },
+    "54648": {
+        "id": 54648,
+        "type": "message",
+        "date": "2023-08-15T17:16:34",
+        "date_unixtime": "1692108994",
+        "edited": "2023-08-15T19:51:13",
+        "edited_unixtime": "1692118273",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 24122,
+        "text": "На Билецкого",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На Билецкого"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2023-08-15T19:51:13"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Viktoriya Belka",
+                        "from_id": "user478325908",
+                        "date": "2024-05-29T19:48:54"
+                    }
+                ]
+            }
+        ]
+    },
+    "54650": {
+        "id": 54650,
+        "type": "message",
+        "date": "2023-08-15T17:21:56",
+        "date_unixtime": "1692109316",
+        "edited": "2023-08-15T17:29:20",
+        "edited_unixtime": "1692109760",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 24122,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://instagram.com/histby?igshid=MzRlODBiNWFlZA=="
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://instagram.com/histby?igshid=MzRlODBiNWFlZA=="
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Aааа",
+                        "from_id": "user827854131",
+                        "date": "2024-03-26T21:00:33"
+                    },
+                    {
+                        "from": "Julia Koleda",
+                        "from_id": "user454470533",
+                        "date": "2023-08-15T17:29:20"
+                    }
+                ]
+            }
+        ]
+    },
+    "54651": {
+        "id": 54651,
+        "type": "message",
+        "date": "2023-08-15T17:24:36",
+        "date_unixtime": "1692109476",
+        "edited": "2023-08-15T17:31:29",
+        "edited_unixtime": "1692109889",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 24122,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://instagram.com/vse_o_predkah?igshid=MzRlODBiNWFlZA=="
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://instagram.com/vse_o_predkah?igshid=MzRlODBiNWFlZA=="
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Aааа",
+                        "from_id": "user827854131",
+                        "date": "2024-03-26T21:00:32"
+                    },
+                    {
+                        "from": "Елена Золотуха",
+                        "from_id": "user5050590968",
+                        "date": "2023-08-15T19:02:33"
+                    },
+                    {
+                        "from": "Julia Koleda",
+                        "from_id": "user454470533",
+                        "date": "2023-08-15T17:31:29"
+                    }
+                ]
+            }
+        ]
+    },
+    "54652": {
+        "id": 54652,
+        "type": "message",
+        "date": "2023-08-15T17:29:45",
+        "date_unixtime": "1692109785",
+        "edited": "2023-08-15T17:31:50",
+        "edited_unixtime": "1692109910",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 24122,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://instagram.com/travelbelarus?igshid=MzRlODBiNWFlZA=="
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://instagram.com/travelbelarus?igshid=MzRlODBiNWFlZA=="
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Aааа",
+                        "from_id": "user827854131",
+                        "date": "2024-03-26T21:00:28"
+                    },
+                    {
+                        "from": "Елена Золотуха",
+                        "from_id": "user5050590968",
+                        "date": "2023-08-15T19:02:34"
+                    },
+                    {
+                        "from": "Julia Koleda",
+                        "from_id": "user454470533",
+                        "date": "2023-08-15T17:31:50"
+                    }
+                ]
+            }
+        ]
+    },
+    "54653": {
+        "id": 54653,
+        "type": "message",
+        "date": "2023-08-15T17:30:35",
+        "date_unixtime": "1692109835",
+        "edited": "2023-08-15T17:32:26",
+        "edited_unixtime": "1692109946",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 24122,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://instagram.com/belarus360_tt?igshid=MzRlODBiNWFlZA=="
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://instagram.com/belarus360_tt?igshid=MzRlODBiNWFlZA=="
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Aааа",
+                        "from_id": "user827854131",
+                        "date": "2024-03-26T21:00:32"
+                    },
+                    {
+                        "from": "Julia Koleda",
+                        "from_id": "user454470533",
+                        "date": "2023-08-15T17:32:26"
+                    }
+                ]
+            }
+        ]
+    },
+    "54655": {
+        "id": 54655,
+        "type": "message",
+        "date": "2023-08-15T17:33:47",
+        "date_unixtime": "1692110027",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 54648,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://instagram.com/aliakseibiletski?igshid=MzRlODBiNWFlZA=="
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://instagram.com/aliakseibiletski?igshid=MzRlODBiNWFlZA=="
+            }
+        ]
+    },
+    "54665": {
+        "id": 54665,
+        "type": "message",
+        "date": "2023-08-15T18:21:56",
+        "date_unixtime": "1692112916",
+        "edited": "2023-08-15T18:53:42",
+        "edited_unixtime": "1692114822",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24122,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://www.instagram.com/dzed_jankiel_/"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://www.instagram.com/dzed_jankiel_/"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Aааа",
+                        "from_id": "user827854131",
+                        "date": "2024-03-26T21:00:26"
+                    },
+                    {
+                        "from": "Audoсcia",
+                        "from_id": "user1846341469",
+                        "date": "2023-08-16T16:22:07"
+                    },
+                    {
+                        "from": "Julia Koleda",
+                        "from_id": "user454470533",
+                        "date": "2023-08-15T18:53:42"
+                    }
+                ]
+            }
+        ]
+    },
+    "54666": {
+        "id": 54666,
+        "type": "message",
+        "date": "2023-08-15T18:26:03",
+        "date_unixtime": "1692113163",
+        "edited": "2023-08-15T18:54:07",
+        "edited_unixtime": "1692114847",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24122,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://www.instagram.com/past__perfect__/"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://www.instagram.com/past__perfect__/"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Aааа",
+                        "from_id": "user827854131",
+                        "date": "2024-03-26T21:00:25"
+                    },
+                    {
+                        "from": "Julia Koleda",
+                        "from_id": "user454470533",
+                        "date": "2023-08-15T18:54:07"
+                    }
+                ]
+            }
+        ]
+    },
+    "55152": {
+        "id": 55152,
+        "type": "message",
+        "date": "2023-08-20T21:45:51",
+        "date_unixtime": "1692557151",
+        "edited": "2023-09-01T08:38:37",
+        "edited_unixtime": "1693546717",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 24122,
+        "text": [
+            "Сейчас попалось в ФБ\nОздамичи в Столинском районе Брестской области\n\n",
+            {
+                "type": "link",
+                "text": "https://www.facebook.com/ozdamicze"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сейчас попалось в ФБ\nОздамичи в Столинском районе Брестской области\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://www.facebook.com/ozdamicze"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "55153": {
+        "id": 55153,
+        "type": "message",
+        "date": "2023-08-20T21:48:45",
+        "date_unixtime": "1692557325",
+        "edited": "2023-08-23T18:57:23",
+        "edited_unixtime": "1692806243",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 24122,
+        "text": [
+            "И ещё рекомендую\n\nСЭТ\n",
+            {
+                "type": "link",
+                "text": "https://www.facebook.com/set.ethno.by"
+            },
+            "\n\nСтрой\n",
+            {
+                "type": "link",
+                "text": "https://www.facebook.com/groups/1462571943970639"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И ещё рекомендую\n\nСЭТ\n"
+            },
+            {
+                "type": "link",
+                "text": "https://www.facebook.com/set.ethno.by"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nСтрой\n"
+            },
+            {
+                "type": "link",
+                "text": "https://www.facebook.com/groups/1462571943970639"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "55855": {
+        "id": 55855,
+        "type": "message",
+        "date": "2023-09-06T14:47:46",
+        "date_unixtime": "1694000866",
+        "edited": "2023-09-06T20:29:22",
+        "edited_unixtime": "1694021362",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "ПЕТЕРГЕН • Петербургский генеалогический портал",
+        "reply_to_message_id": 24122,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1262,
+        "height": 574,
+        "text": [
+            "А Вы знаете, что отсканировано 51-томное издание Дворянства России авторства Н.Ф. Иконникова (La noblesse de Russie. 2 ed.)?\n\nПорядок действий, чтобы загрузить файлы с портала Петерген:\n\n- на странице Российского национального каталога и библиотеки «Генеалогия» ",
+            {
+                "type": "link",
+                "text": "http://petergen.com/rusgen"
+            },
+            " в секции «ПОИСК ИЗДАНИЙ» в поле «Название, автор» набрать без кавычек «Иконников» и нажать кнопку «Искать издания»;\n\n- во второй строке результата справа нажать синюю кнопку «Серия 20707», которая откроет в хронологическом порядке список 54 изданий этой серии.\n\n- для загрузки файла нажмите справа на кнопке бирюзового цвета «Получить сведения» гиперссылку «Файл ...»."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А Вы знаете, что отсканировано 51-томное издание Дворянства России авторства Н.Ф. Иконникова (La noblesse de Russie. 2 ed.)?\n\nПорядок действий, чтобы загрузить файлы с портала Петерген:\n\n- на странице Российского национального каталога и библиотеки «Генеалогия» "
+            },
+            {
+                "type": "link",
+                "text": "http://petergen.com/rusgen"
+            },
+            {
+                "type": "plain",
+                "text": " в секции «ПОИСК ИЗДАНИЙ» в поле «Название, автор» набрать без кавычек «Иконников» и нажать кнопку «Искать издания»;\n\n- во второй строке результата справа нажать синюю кнопку «Серия 20707», которая откроет в хронологическом порядке список 54 изданий этой серии.\n\n- для загрузки файла нажмите справа на кнопке бирюзового цвета «Получить сведения» гиперссылку «Файл ...»."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "OK",
+                        "from_id": "user1713459198",
+                        "date": "2023-09-13T12:09:36"
+                    },
+                    {
+                        "from": "Лена",
+                        "from_id": "user1918841697",
+                        "date": "2023-09-07T16:14:21"
+                    },
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2023-09-06T20:29:22"
+                    }
+                ]
+            }
+        ]
+    },
+    "55856": {
+        "id": 55856,
+        "type": "message",
+        "date": "2023-09-06T14:47:47",
+        "date_unixtime": "1694000867",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "ПЕТЕРГЕН • Петербургский генеалогический портал",
+        "reply_to_message_id": 24122,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 489,
+        "text": "",
+        "text_entities": []
+    },
+    "55857": {
+        "id": 55857,
+        "type": "message",
+        "date": "2023-09-06T14:47:47",
+        "date_unixtime": "1694000867",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "ПЕТЕРГЕН • Петербургский генеалогический портал",
+        "reply_to_message_id": 24122,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 896,
+        "height": 587,
+        "text": "",
+        "text_entities": []
+    },
+    "55858": {
+        "id": 55858,
+        "type": "message",
+        "date": "2023-09-06T14:48:31",
+        "date_unixtime": "1694000911",
+        "edited": "2023-09-06T15:19:18",
+        "edited_unixtime": "1694002758",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 55855,
+        "text": [
+            "Или ещё проще. Скачать прямо отсюда: ",
+            {
+                "type": "link",
+                "text": "https://dspace.spbu.ru/simple-search?filterquery=Ikonnikov,+Nicolas&filtername=author&filtertype=equals"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Или ещё проще. Скачать прямо отсюда: "
+            },
+            {
+                "type": "link",
+                "text": "https://dspace.spbu.ru/simple-search?filterquery=Ikonnikov,+Nicolas&filtername=author&filtertype=equals"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Лена",
+                        "from_id": "user1918841697",
+                        "date": "2023-09-07T16:14:34"
+                    },
+                    {
+                        "from": "Ks Arche",
+                        "from_id": "user1705348657",
+                        "date": "2023-09-06T15:47:25"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤔",
+                "recent": [
+                    {
+                        "from": "Arthur",
+                        "from_id": "user166336815",
+                        "date": "2024-01-17T06:24:45"
+                    }
+                ]
+            }
+        ]
+    },
+    "56083": {
+        "id": 56083,
+        "type": "message",
+        "date": "2023-09-09T11:40:54",
+        "date_unixtime": "1694248854",
+        "edited": "2023-09-09T13:49:10",
+        "edited_unixtime": "1694256550",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "De facto. Беларуская навука",
+        "reply_to_message_id": 24122,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 194,
+        "height": 259,
+        "text": [
+            {
+                "type": "bold",
+                "text": "Нацыянальны гістарычны музей"
+            },
+            " выклаў у ",
+            {
+                "type": "text_link",
+                "text": "свабодны доступ усе нумары часопіса \"Беларускі музей\"",
+                "href": "http://www.histmuseum.by/by/research/navuka1/?fbclid=IwAR2GrTI5WBrij3b6pYKBi2IaVJbKjItylm-1qJoyeJa1Y4ToOSsXPCi5q2Q"
+            },
+            ". Паколькі гэты часопіс практычна не распаўсюджваўся, то навіна сапраўды радуе!"
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Нацыянальны гістарычны музей"
+            },
+            {
+                "type": "plain",
+                "text": " выклаў у "
+            },
+            {
+                "type": "text_link",
+                "text": "свабодны доступ усе нумары часопіса \"Беларускі музей\"",
+                "href": "http://www.histmuseum.by/by/research/navuka1/?fbclid=IwAR2GrTI5WBrij3b6pYKBi2IaVJbKjItylm-1qJoyeJa1Y4ToOSsXPCi5q2Q"
+            },
+            {
+                "type": "plain",
+                "text": ". Паколькі гэты часопіс практычна не распаўсюджваўся, то навіна сапраўды радуе!"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Наталья Спасская",
+                        "from_id": "user1487544921",
+                        "date": "2023-09-19T08:27:16"
+                    },
+                    {
+                        "from": "Victor",
+                        "from_id": "user512489139",
+                        "date": "2023-09-09T23:52:34"
+                    },
+                    {
+                        "from": "Алексей Билецкий",
+                        "from_id": "user1133915357",
+                        "date": "2023-09-09T13:56:51"
+                    }
+                ]
+            }
+        ]
+    }
+}

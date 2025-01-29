@@ -1,0 +1,86 @@
+{
+    "88933": {
+        "id": 88933,
+        "type": "message",
+        "date": "2024-07-14T19:13:24",
+        "date_unixtime": "1720973604",
+        "edited": "2024-07-14T19:14:13",
+        "edited_unixtime": "1720973653",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 24219,
+        "text": [
+            "Две новые группы по Витебской губернии:\n- Невельский уезд ",
+            {
+                "type": "link",
+                "text": "https://t.me/nevely"
+            },
+            "\n- Велижский уезд ",
+            {
+                "type": "link",
+                "text": "https://t.me/velizhsk"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Две новые группы по Витебской губернии:\n- Невельский уезд "
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/nevely"
+            },
+            {
+                "type": "plain",
+                "text": "\n- Велижский уезд "
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/velizhsk"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "MikhailR Kubasov",
+                        "from_id": "user918899531",
+                        "date": "2024-07-15T08:05:27"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-07-16T17:32:38"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Euheniya Yanuschenko",
+                        "from_id": "user1441796024",
+                        "date": "2024-07-16T12:12:05"
+                    }
+                ]
+            }
+        ]
+    }
+}

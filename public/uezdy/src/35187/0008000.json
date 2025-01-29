@@ -1,0 +1,21 @@
+{
+    "35202": {
+        "id": 35202,
+        "type": "message",
+        "date": "2023-02-23T21:28:48",
+        "date_unixtime": "1677176928",
+        "edited": "2024-06-06T19:32:50",
+        "edited_unixtime": "1717691570",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "forwarded_from": "YN",
+        "reply_to_message_id": 35187,
+        "text": "рано ещё 😊",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "рано ещё 😊"
+            }
+        ]
+    }
+}

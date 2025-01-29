@@ -1,0 +1,3476 @@
+{
+    "70039": {
+        "id": 70039,
+        "type": "message",
+        "date": "2024-01-21T18:20:42",
+        "date_unixtime": "1705850442",
+        "edited": "2024-01-21T19:22:29",
+        "edited_unixtime": "1705854149",
+        "from": "Игорь",
+        "from_id": "user108706246",
+        "reply_to_message_id": 70007,
+        "text": "Гаплогруппа \"N\" не поменялась, а субклад уточнился вплоть до терминального",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Гаплогруппа \"N\" не поменялась, а субклад уточнился вплоть до терминального"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-01-21T19:22:29"
+                    }
+                ]
+            }
+        ]
+    },
+    "70054": {
+        "id": 70054,
+        "type": "message",
+        "date": "2024-01-21T19:21:42",
+        "date_unixtime": "1705854102",
+        "edited": "2024-01-21T21:11:18",
+        "edited_unixtime": "1705860678",
+        "from": "Vitaly Khor Vitaut",
+        "from_id": "user7511581",
+        "reply_to_message_id": 70039,
+        "text": "ага, да, субклады меняются",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ага, да, субклады меняются"
+            }
+        ]
+    },
+    "70291": {
+        "id": 70291,
+        "type": "message",
+        "date": "2024-01-23T11:14:46",
+        "date_unixtime": "1705997686",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 63414,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 668,
+        "height": 774,
+        "text": "В лаборатории Familytreedna увеличились сроки обработки тестов, возможно и у тестов MH аналогичные задержки.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В лаборатории Familytreedna увеличились сроки обработки тестов, возможно и у тестов MH аналогичные задержки."
+            }
+        ]
+    },
+    "70292": {
+        "id": 70292,
+        "type": "message",
+        "date": "2024-01-23T11:15:57",
+        "date_unixtime": "1705997757",
+        "from": "Игорь",
+        "from_id": "user108706246",
+        "reply_to_message_id": 70291,
+        "text": "Да же при сроке фф от 2до 4 недель иногда делали за 5 дней",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да же при сроке фф от 2до 4 недель иногда делали за 5 дней"
+            }
+        ]
+    },
+    "70294": {
+        "id": 70294,
+        "type": "message",
+        "date": "2024-01-23T11:20:44",
+        "date_unixtime": "1705998044",
+        "edited": "2024-01-23T11:21:05",
+        "edited_unixtime": "1705998065",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 63414,
+        "text": "По Big Y, народ в тематических группах ждет уже по 10 или больше недель. Сторожили пишут что нехарактерные задержки. Мой Big Y уже 8-ю неделю обрабатывается.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "По Big Y, народ в тематических группах ждет уже по 10 или больше недель. Сторожили пишут что нехарактерные задержки. Мой Big Y уже 8-ю неделю обрабатывается."
+            }
+        ]
+    },
+    "70297": {
+        "id": 70297,
+        "type": "message",
+        "date": "2024-01-23T11:25:48",
+        "date_unixtime": "1705998348",
+        "edited": "2024-01-23T11:26:21",
+        "edited_unixtime": "1705998381",
+        "from": "Игорь",
+        "from_id": "user108706246",
+        "reply_to_message_id": 70294,
+        "text": "биг был всегда не менее 8 недель",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "биг был всегда не менее 8 недель"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "Александр Папин",
+                        "from_id": "user698870737",
+                        "date": "2024-02-03T11:31:32"
+                    },
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-01-23T11:26:21"
+                    }
+                ]
+            }
+        ]
+    },
+    "70298": {
+        "id": 70298,
+        "type": "message",
+        "date": "2024-01-23T11:26:32",
+        "date_unixtime": "1705998392",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 63414,
+        "text": "Я не спорю, написал для ждущих результатов :)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я не спорю, написал для ждущих результатов :)"
+            }
+        ]
+    },
+    "70304": {
+        "id": 70304,
+        "type": "message",
+        "date": "2024-01-23T12:07:59",
+        "date_unixtime": "1706000879",
+        "edited": "2024-01-23T12:13:38",
+        "edited_unixtime": "1706001218",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 69644,
+        "text": "в FTDNA такой тест на один SNP 39$ стоит, сделали за 6 недель",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "в FTDNA такой тест на один SNP 39$ стоит, сделали за 6 недель"
+            }
+        ]
+    },
+    "70308": {
+        "id": 70308,
+        "type": "message",
+        "date": "2024-01-23T12:24:57",
+        "date_unixtime": "1706001897",
+        "from": "Vitaly Khor Vitaut",
+        "from_id": "user7511581",
+        "reply_to_message_id": 70297,
+        "text": "мой посчитали за 33 дня)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "мой посчитали за 33 дня)"
+            }
+        ]
+    },
+    "70326": {
+        "id": 70326,
+        "type": "message",
+        "date": "2024-01-23T14:03:23",
+        "date_unixtime": "1706007803",
+        "edited": "2024-01-23T14:04:29",
+        "edited_unixtime": "1706007869",
+        "from": "Dmytro Donskyi",
+        "from_id": "user96275956",
+        "reply_to_message_id": 69718,
+        "text": "з FTDNA колись завантажував...\n\n> There is not enough information in your source data to determine haplogroups",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "з FTDNA колись завантажував...\n\n> There is not enough information in your source data to determine haplogroups"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤔",
+                "recent": [
+                    {
+                        "from": "Vital'",
+                        "from_id": "user292953215",
+                        "date": "2024-01-23T14:04:29"
+                    }
+                ]
+            }
+        ]
+    },
+    "70333": {
+        "id": 70333,
+        "type": "message",
+        "date": "2024-01-23T14:12:46",
+        "date_unixtime": "1706008366",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 63414,
+        "text": [
+            "Если тест делали на FTDNA (FF), то можно подождать пока там отобразится гаплогруппа. А можно и сюда аутосомный тест загрузить ",
+            {
+                "type": "link",
+                "text": "https://cladefinder.yseq.net/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Если тест делали на FTDNA (FF), то можно подождать пока там отобразится гаплогруппа. А можно и сюда аутосомный тест загрузить "
+            },
+            {
+                "type": "link",
+                "text": "https://cladefinder.yseq.net/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "70356": {
+        "id": 70356,
+        "type": "message",
+        "date": "2024-01-23T14:31:17",
+        "date_unixtime": "1706009477",
+        "from": "Dmytro Donskyi",
+        "from_id": "user96275956",
+        "reply_to_message_id": 63414,
+        "text": "Та вже є на FTDNA. :) Просто хотілося побачити, як на генотеці буде :)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Та вже є на FTDNA. :) Просто хотілося побачити, як на генотеці буде :)"
+            }
+        ]
+    },
+    "70361": {
+        "id": 70361,
+        "type": "message",
+        "date": "2024-01-23T14:38:07",
+        "date_unixtime": "1706009887",
+        "edited": "2024-01-23T14:38:40",
+        "edited_unixtime": "1706009920",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 63414,
+        "text": [
+            "У меня, из FTDNA Y-111 / Генотек / ",
+            {
+                "type": "link",
+                "text": "cladefinder.yseq.net"
+            },
+            " пока самый лучший вариант - это ",
+            {
+                "type": "link",
+                "text": "cladefinder.yseq.net"
+            },
+            "."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У меня, из FTDNA Y-111 / Генотек / "
+            },
+            {
+                "type": "link",
+                "text": "cladefinder.yseq.net"
+            },
+            {
+                "type": "plain",
+                "text": " пока самый лучший вариант - это "
+            },
+            {
+                "type": "link",
+                "text": "cladefinder.yseq.net"
+            },
+            {
+                "type": "plain",
+                "text": "."
+            }
+        ]
+    },
+    "70370": {
+        "id": 70370,
+        "type": "message",
+        "date": "2024-01-23T14:41:23",
+        "date_unixtime": "1706010083",
+        "from": "Dmytro Donskyi",
+        "from_id": "user96275956",
+        "reply_to_message_id": 70333,
+        "text": "> unable to determine clade due to no positive SNPs",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "> unable to determine clade due to no positive SNPs"
+            }
+        ]
+    },
+    "70375": {
+        "id": 70375,
+        "type": "message",
+        "date": "2024-01-23T14:42:42",
+        "date_unixtime": "1706010162",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 63414,
+        "text": "С myheritage",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "С myheritage"
+            }
+        ]
+    },
+    "70376": {
+        "id": 70376,
+        "type": "message",
+        "date": "2024-01-23T14:43:19",
+        "date_unixtime": "1706010199",
+        "from": "Dmytro Donskyi",
+        "from_id": "user96275956",
+        "reply_to_message_id": 70375,
+        "text": "а, може там якась своя магія",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "а, може там якась своя магія"
+            }
+        ]
+    },
+    "70605": {
+        "id": 70605,
+        "type": "message",
+        "date": "2024-01-24T13:54:43",
+        "date_unixtime": "1706093683",
+        "from": "Ирина Чихалова",
+        "from_id": "user1160537389",
+        "reply_to_message_id": 63414,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1176,
+        "height": 1027,
+        "text": "Здравствуйте 👋\nмой 🧬 🐳 КИТ\n KX4701720\n\nВстречаются ли у кого из Белорусов Литовцы в крови?)\nУ меня говорят от туда из Беларуси Литовцы тянутся... 🤔",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте 👋\nмой 🧬 🐳 КИТ\n KX4701720\n\nВстречаются ли у кого из Белорусов Литовцы в крови?)\nУ меня говорят от туда из Беларуси Литовцы тянутся... 🤔"
+            }
+        ]
+    },
+    "70606": {
+        "id": 70606,
+        "type": "message",
+        "date": "2024-01-24T14:08:07",
+        "date_unixtime": "1706094487",
+        "edited": "2024-01-24T14:40:11",
+        "edited_unixtime": "1706096411",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 63414,
+        "text": "Вы лучше на myheritage посмотрите, есть ли реальные литовцы. Сомневаюсь что в Литве genotek пользуются. А так да, часто можно увидеть совпадения с литовцами и латышами, особенно у тех кто жил рядом.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вы лучше на myheritage посмотрите, есть ли реальные литовцы. Сомневаюсь что в Литве genotek пользуются. А так да, часто можно увидеть совпадения с литовцами и латышами, особенно у тех кто жил рядом."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Darya",
+                        "from_id": "user353969106",
+                        "date": "2024-01-24T14:40:11"
+                    }
+                ]
+            }
+        ]
+    },
+    "70607": {
+        "id": 70607,
+        "type": "message",
+        "date": "2024-01-24T14:12:17",
+        "date_unixtime": "1706094737",
+        "edited": "2024-01-24T14:14:33",
+        "edited_unixtime": "1706094873",
+        "from": "Sviatlana",
+        "from_id": "user380543352",
+        "reply_to_message_id": 63414,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1079,
+        "height": 1280,
+        "text": "Прямо литовцы?)\nНо вообще белорусы делят с жителями стран Балтии балтское наследие, так что у меня вот такое соотношение майхеритейдж выдал, у предков с отцовской и материнской линии примерно то же самое.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Прямо литовцы?)\nНо вообще белорусы делят с жителями стран Балтии балтское наследие, так что у меня вот такое соотношение майхеритейдж выдал, у предков с отцовской и материнской линии примерно то же самое."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Alenа",
+                        "from_id": "user1469281708",
+                        "date": "2024-01-24T17:20:04"
+                    },
+                    {
+                        "from": "Яна",
+                        "from_id": "user1171558336",
+                        "date": "2024-01-24T14:39:39"
+                    },
+                    {
+                        "from": "Ирина Чихалова",
+                        "from_id": "user1160537389",
+                        "date": "2024-01-24T14:14:33"
+                    }
+                ]
+            }
+        ]
+    },
+    "70609": {
+        "id": 70609,
+        "type": "message",
+        "date": "2024-01-24T15:58:09",
+        "date_unixtime": "1706101089",
+        "from": "Juliosia",
+        "from_id": "user5367559954",
+        "reply_to_message_id": 63414,
+        "text": "Мне генацек і МН увогуле рознае паказваюць",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мне генацек і МН увогуле рознае паказваюць"
+            }
+        ]
+    },
+    "70610": {
+        "id": 70610,
+        "type": "message",
+        "date": "2024-01-24T16:02:59",
+        "date_unixtime": "1706101379",
+        "edited": "2024-01-24T19:57:24",
+        "edited_unixtime": "1706115444",
+        "from": "Juliosia",
+        "from_id": "user5367559954",
+        "reply_to_message_id": 63414,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1069,
+        "height": 644,
+        "text": "Во",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Во"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Александр Папин",
+                        "from_id": "user698870737",
+                        "date": "2024-02-03T11:34:31"
+                    },
+                    {
+                        "from": "Ирина Чихалова",
+                        "from_id": "user1160537389",
+                        "date": "2024-01-24T19:57:24"
+                    }
+                ]
+            }
+        ]
+    },
+    "70611": {
+        "id": 70611,
+        "type": "message",
+        "date": "2024-01-24T16:06:30",
+        "date_unixtime": "1706101590",
+        "edited": "2024-01-24T16:54:14",
+        "edited_unixtime": "1706104454",
+        "from": "Александр Мироненко",
+        "from_id": "user529970725",
+        "reply_to_message_id": 70607,
+        "text": "У меня Майзеритадж упорно выдает 1% эскимосского наследия. Раскопал причину: есть совпаденка, указавшая себя инуиткой. Но вот только ее бабушка носит чисто инуитскую фамилию Ivanoff.\n\nТак что их определитель сделан довольно криворуко.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У меня Майзеритадж упорно выдает 1% эскимосского наследия. Раскопал причину: есть совпаденка, указавшая себя инуиткой. Но вот только ее бабушка носит чисто инуитскую фамилию Ivanoff.\n\nТак что их определитель сделан довольно криворуко."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "😁",
+                "recent": [
+                    {
+                        "from": "Ирина Чихалова",
+                        "from_id": "user1160537389",
+                        "date": "2024-01-24T19:57:33"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2024-01-24T16:54:14"
+                    }
+                ]
+            }
+        ]
+    },
+    "70612": {
+        "id": 70612,
+        "type": "message",
+        "date": "2024-01-24T16:10:23",
+        "date_unixtime": "1706101823",
+        "edited": "2024-01-24T19:58:07",
+        "edited_unixtime": "1706115487",
+        "from": "Juliosia",
+        "from_id": "user5367559954",
+        "reply_to_message_id": 63414,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 924,
+        "height": 370,
+        "text": "У мужа ўвогуле цікава",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У мужа ўвогуле цікава"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ирина Чихалова",
+                        "from_id": "user1160537389",
+                        "date": "2024-01-24T19:58:07"
+                    }
+                ]
+            }
+        ]
+    },
+    "70613": {
+        "id": 70613,
+        "type": "message",
+        "date": "2024-01-24T16:10:24",
+        "date_unixtime": "1706101824",
+        "edited": "2024-01-24T16:13:43",
+        "edited_unixtime": "1706102023",
+        "from": "Андрей",
+        "from_id": "user292453604",
+        "reply_to_message_id": 70611,
+        "text": "вы зря иронизируете, Иванов - очень даже инуитская/эскимосская фамилия (или любого другого не христианского народа РИ в традиции которого не было фамилий)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "вы зря иронизируете, Иванов - очень даже инуитская/эскимосская фамилия (или любого другого не христианского народа РИ в традиции которого не было фамилий)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-01-25T15:55:36"
+                    },
+                    {
+                        "from": "Ирина Чихалова",
+                        "from_id": "user1160537389",
+                        "date": "2024-01-24T19:58:31"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "***",
+                        "from_id": "user432428532",
+                        "date": "2024-01-24T16:13:43"
+                    }
+                ]
+            }
+        ]
+    },
+    "70623": {
+        "id": 70623,
+        "type": "message",
+        "date": "2024-01-24T16:12:12",
+        "date_unixtime": "1706101932",
+        "from": "Sviatlana",
+        "from_id": "user380543352",
+        "reply_to_message_id": 70613,
+        "text": "Вот да, только собралась написать. Тем более, что это и замужняя фамилия может быть у бабули.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вот да, только собралась написать. Тем более, что это и замужняя фамилия может быть у бабули."
+            }
+        ]
+    },
+    "70624": {
+        "id": 70624,
+        "type": "message",
+        "date": "2024-01-24T16:14:48",
+        "date_unixtime": "1706102088",
+        "from": "Александр Мироненко",
+        "from_id": "user529970725",
+        "reply_to_message_id": 70613,
+        "text": "У меня с этой инуиткой может быть общий предок (занесло Иванова ветром на Аляску). Но это не значит, что у меня в предках экскимосы.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У меня с этой инуиткой может быть общий предок (занесло Иванова ветром на Аляску). Но это не значит, что у меня в предках экскимосы."
+            }
+        ]
+    },
+    "70625": {
+        "id": 70625,
+        "type": "message",
+        "date": "2024-01-24T16:17:07",
+        "date_unixtime": "1706102227",
+        "from": "Александр Мироненко",
+        "from_id": "user529970725",
+        "reply_to_message_id": 63414,
+        "text": "Вот буряты у меня точно были поколений 5-6 назад, по бабушке это ещё было видно. И да, буряты в тех местах носят фамилии крёстных - Ладыженские, Бухгольцы.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вот буряты у меня точно были поколений 5-6 назад, по бабушке это ещё было видно. И да, буряты в тех местах носят фамилии крёстных - Ладыженские, Бухгольцы."
+            }
+        ]
+    },
+    "70626": {
+        "id": 70626,
+        "type": "message",
+        "date": "2024-01-24T16:17:07",
+        "date_unixtime": "1706102227",
+        "from": "Андрей",
+        "from_id": "user292453604",
+        "reply_to_message_id": 70624,
+        "text": "ну тут вопрос насколько она инуитка и на сколько реально совпадение",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ну тут вопрос насколько она инуитка и на сколько реально совпадение"
+            }
+        ]
+    },
+    "70627": {
+        "id": 70627,
+        "type": "message",
+        "date": "2024-01-24T16:31:50",
+        "date_unixtime": "1706103110",
+        "from": "Александр Мироненко",
+        "from_id": "user529970725",
+        "reply_to_message_id": 70626,
+        "text": "Ну, остальные ее бабушки-дедушки носили откровенно неевропейские имена, так что она почти чистая инуитка. Что не делает меня эскимосом даже на 1%  :)   Тут сама методика имеет изъяны.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну, остальные ее бабушки-дедушки носили откровенно неевропейские имена, так что она почти чистая инуитка. Что не делает меня эскимосом даже на 1%  :)   Тут сама методика имеет изъяны."
+            }
+        ]
+    },
+    "70628": {
+        "id": 70628,
+        "type": "message",
+        "date": "2024-01-24T16:37:11",
+        "date_unixtime": "1706103431",
+        "from": "Sviatlana",
+        "from_id": "user380543352",
+        "reply_to_message_id": 70627,
+        "text": "Насчёт методики - соглашусь, конечно.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Насчёт методики - соглашусь, конечно."
+            }
+        ]
+    },
+    "70629": {
+        "id": 70629,
+        "type": "message",
+        "date": "2024-01-24T16:40:44",
+        "date_unixtime": "1706103644",
+        "from": "Andrei",
+        "from_id": "user448787412",
+        "reply_to_message_id": 63414,
+        "text": "да не один разу уже обсуждалось, что на эти этнические распределения смотреть бесполезно",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "да не один разу уже обсуждалось, что на эти этнические распределения смотреть бесполезно"
+            }
+        ]
+    },
+    "70630": {
+        "id": 70630,
+        "type": "message",
+        "date": "2024-01-24T16:47:58",
+        "date_unixtime": "1706104078",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 63414,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 623,
+        "height": 1280,
+        "text": "Так выглядаюць на мапе супадзенцы па mt у маёй матулі",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так выглядаюць на мапе супадзенцы па mt у маёй матулі"
+            }
+        ]
+    },
+    "70631": {
+        "id": 70631,
+        "type": "message",
+        "date": "2024-01-24T16:47:59",
+        "date_unixtime": "1706104079",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 63414,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 623,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "70632": {
+        "id": 70632,
+        "type": "message",
+        "date": "2024-01-24T16:47:59",
+        "date_unixtime": "1706104079",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 63414,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 623,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "70633": {
+        "id": 70633,
+        "type": "message",
+        "date": "2024-01-24T16:50:34",
+        "date_unixtime": "1706104234",
+        "from": "Игорь",
+        "from_id": "user108706246",
+        "reply_to_message_id": 70630,
+        "text": "редкие мутации тест можно сказать бесполезный",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "редкие мутации тест можно сказать бесполезный"
+            }
+        ]
+    },
+    "70634": {
+        "id": 70634,
+        "type": "message",
+        "date": "2024-01-24T17:07:33",
+        "date_unixtime": "1706105253",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 63414,
+        "text": "І ніводнага чалавека на тэрыторыі Беларусі.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "І ніводнага чалавека на тэрыторыі Беларусі."
+            }
+        ]
+    },
+    "70635": {
+        "id": 70635,
+        "type": "message",
+        "date": "2024-01-24T17:16:52",
+        "date_unixtime": "1706105812",
+        "from": "Andrei",
+        "from_id": "user448787412",
+        "reply_to_message_id": 70634,
+        "text": "просто мало кто mt делает",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "просто мало кто mt делает"
+            }
+        ]
+    },
+    "70636": {
+        "id": 70636,
+        "type": "message",
+        "date": "2024-01-24T18:08:05",
+        "date_unixtime": "1706108885",
+        "from": "Vitaly Khor Vitaut",
+        "from_id": "user7511581",
+        "reply_to_message_id": 70630,
+        "text": "Якая гаплогруппа ў вашей матулі?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Якая гаплогруппа ў вашей матулі?"
+            }
+        ]
+    },
+    "70641": {
+        "id": 70641,
+        "type": "message",
+        "date": "2024-01-24T19:30:35",
+        "date_unixtime": "1706113835",
+        "from": "Vitaly Khor Vitaut",
+        "from_id": "user7511581",
+        "reply_to_message_id": 63414,
+        "text": [
+            "Кто-то уже регил свой субклад здесь ",
+            {
+                "type": "link",
+                "text": "https://www.genetichomeland.com/"
+            },
+            " ?"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Кто-то уже регил свой субклад здесь "
+            },
+            {
+                "type": "link",
+                "text": "https://www.genetichomeland.com/"
+            },
+            {
+                "type": "plain",
+                "text": " ?"
+            }
+        ]
+    },
+    "70656": {
+        "id": 70656,
+        "type": "message",
+        "date": "2024-01-24T22:10:16",
+        "date_unixtime": "1706123416",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 70636,
+        "text": "V (mt)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "V (mt)"
+            }
+        ]
+    },
+    "70657": {
+        "id": 70657,
+        "type": "message",
+        "date": "2024-01-24T22:14:56",
+        "date_unixtime": "1706123696",
+        "from": "Игорь",
+        "from_id": "user108706246",
+        "reply_to_message_id": 70656,
+        "text": "mitofull только одну букву дал в результате ? или это старый мито ?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "mitofull только одну букву дал в результате ? или это старый мито ?"
+            }
+        ]
+    },
+    "70658": {
+        "id": 70658,
+        "type": "message",
+        "date": "2024-01-24T22:17:01",
+        "date_unixtime": "1706123821",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 70657,
+        "text": "😳 одну. А что такое старый? 2016 год, если об этом речь",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "😳 одну. А что такое старый? 2016 год, если об этом речь"
+            }
+        ]
+    },
+    "70660": {
+        "id": 70660,
+        "type": "message",
+        "date": "2024-01-25T00:58:02",
+        "date_unixtime": "1706133482",
+        "from": "Pavel",
+        "from_id": "user1354985288",
+        "reply_to_message_id": 70657,
+        "text": [
+            "Закачайте на ",
+            {
+                "type": "link",
+                "text": "yfull.com"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Закачайте на "
+            },
+            {
+                "type": "link",
+                "text": "yfull.com"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "70661": {
+        "id": 70661,
+        "type": "message",
+        "date": "2024-01-25T01:03:13",
+        "date_unixtime": "1706133793",
+        "from": "Dmytro Donskyi",
+        "from_id": "user96275956",
+        "reply_to_message_id": 70660,
+        "text": "мені yfull те саме показав, що і FTDNA. там якийсь прикол в тому, що база мтДНК не оновлюється з 2016 року",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "мені yfull те саме показав, що і FTDNA. там якийсь прикол в тому, що база мтДНК не оновлюється з 2016 року"
+            }
+        ]
+    },
+    "70662": {
+        "id": 70662,
+        "type": "message",
+        "date": "2024-01-25T01:16:54",
+        "date_unixtime": "1706134614",
+        "from": "Pavel",
+        "from_id": "user1354985288",
+        "reply_to_message_id": 63414,
+        "text": "Обновляется регулярно с каждым апдейтом\nУ меня насколько разных міто родни есть, и периодически движение идёт.\n\nПо ходу у вас в мито не накопилось необходимых мутаций для ветвления митодерева. Такое тоже бывает. Игрек в этом плане более информативен.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Обновляется регулярно с каждым апдейтом\nУ меня насколько разных міто родни есть, и периодически движение идёт.\n\nПо ходу у вас в мито не накопилось необходимых мутаций для ветвления митодерева. Такое тоже бывает. Игрек в этом плане более информативен."
+            }
+        ]
+    },
+    "70663": {
+        "id": 70663,
+        "type": "message",
+        "date": "2024-01-25T07:16:39",
+        "date_unixtime": "1706156199",
+        "edited": "2024-01-25T07:16:48",
+        "edited_unixtime": "1706156208",
+        "from": "Игорь",
+        "from_id": "user108706246",
+        "reply_to_message_id": 70660,
+        "text": "Тоже абсолютно бесполезно, только еще минус 25 уе",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тоже абсолютно бесполезно, только еще минус 25 уе"
+            }
+        ]
+    },
+    "70669": {
+        "id": 70669,
+        "type": "message",
+        "date": "2024-01-25T10:24:54",
+        "date_unixtime": "1706167494",
+        "edited": "2024-01-25T10:31:59",
+        "edited_unixtime": "1706167919",
+        "from": "Алена",
+        "from_id": "user1617817551",
+        "reply_to_message_id": 70605,
+        "text": "Меня генотек посчитпл сначала как белоруску с литовскими генами(немного), но потом у них был пересчет примерно год назад, обозначил как 100% беларуску. У нас с Вами небольшое совпадение, но с большим снипом",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Меня генотек посчитпл сначала как белоруску с литовскими генами(немного), но потом у них был пересчет примерно год назад, обозначил как 100% беларуску. У нас с Вами небольшое совпадение, но с большим снипом"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ирина Чихалова",
+                        "from_id": "user1160537389",
+                        "date": "2024-01-25T10:31:59"
+                    }
+                ]
+            }
+        ]
+    },
+    "70670": {
+        "id": 70670,
+        "type": "message",
+        "date": "2024-01-25T10:25:02",
+        "date_unixtime": "1706167502",
+        "edited": "2024-01-25T10:32:16",
+        "edited_unixtime": "1706167936",
+        "from": "Алена",
+        "from_id": "user1617817551",
+        "reply_to_message_id": 63414,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 574,
+        "height": 1280,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤝",
+                "recent": [
+                    {
+                        "from": "Ирина Чихалова",
+                        "from_id": "user1160537389",
+                        "date": "2024-01-25T10:32:16"
+                    }
+                ]
+            }
+        ]
+    },
+    "70671": {
+        "id": 70671,
+        "type": "message",
+        "date": "2024-01-25T10:26:15",
+        "date_unixtime": "1706167575",
+        "edited": "2024-01-25T10:27:32",
+        "edited_unixtime": "1706167652",
+        "from": "Алена",
+        "from_id": "user1617817551",
+        "reply_to_message_id": 63414,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 574,
+        "height": 1280,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ирина Чихалова",
+                        "from_id": "user1160537389",
+                        "date": "2024-01-25T10:36:07"
+                    },
+                    {
+                        "from": "Darya",
+                        "from_id": "user353969106",
+                        "date": "2024-01-25T10:27:32"
+                    }
+                ]
+            }
+        ]
+    },
+    "70672": {
+        "id": 70672,
+        "type": "message",
+        "date": "2024-01-25T10:26:49",
+        "date_unixtime": "1706167609",
+        "from": "Алена",
+        "from_id": "user1617817551",
+        "reply_to_message_id": 63414,
+        "text": "Май Херитейдж определяет меня вот так👆",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Май Херитейдж определяет меня вот так👆"
+            }
+        ]
+    },
+    "70674": {
+        "id": 70674,
+        "type": "message",
+        "date": "2024-01-25T10:38:56",
+        "date_unixtime": "1706168336",
+        "edited": "2024-01-25T10:44:39",
+        "edited_unixtime": "1706168679",
+        "from": "Ирина Чихалова",
+        "from_id": "user1160537389",
+        "reply_to_message_id": 70669,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1176,
+        "height": 761,
+        "text": "🤔✍️",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "🤔✍️"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Игорь",
+                        "from_id": "user108706246",
+                        "date": "2024-01-25T10:44:39"
+                    }
+                ]
+            }
+        ]
+    },
+    "70675": {
+        "id": 70675,
+        "type": "message",
+        "date": "2024-01-25T10:48:53",
+        "date_unixtime": "1706168933",
+        "edited": "2024-01-25T10:49:21",
+        "edited_unixtime": "1706168961",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 70605,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1052,
+        "height": 57,
+        "text": "У меня по 8 тестам (4 группы), есть небольшие совпадения с Вами. Вероятно кто-то из предков жил на Витебщине.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У меня по 8 тестам (4 группы), есть небольшие совпадения с Вами. Вероятно кто-то из предков жил на Витебщине."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤‍🔥",
+                "recent": [
+                    {
+                        "from": "Ирина Чихалова",
+                        "from_id": "user1160537389",
+                        "date": "2024-01-25T10:49:21"
+                    }
+                ]
+            }
+        ]
+    },
+    "70677": {
+        "id": 70677,
+        "type": "message",
+        "date": "2024-01-25T10:54:33",
+        "date_unixtime": "1706169273",
+        "from": "Ирина Чихалова",
+        "from_id": "user1160537389",
+        "reply_to_message_id": 70675,
+        "text": "Мой дед из Коровичей, Витебская область)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мой дед из Коровичей, Витебская область)"
+            }
+        ]
+    },
+    "70678": {
+        "id": 70678,
+        "type": "message",
+        "date": "2024-01-25T10:57:36",
+        "date_unixtime": "1706169456",
+        "from": "Алена",
+        "from_id": "user1617817551",
+        "reply_to_message_id": 70675,
+        "text": "Интересно, а как это Вы посчитали? У меня только одно совпадение выдает по 5 хромосоме🤔",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Интересно, а как это Вы посчитали? У меня только одно совпадение выдает по 5 хромосоме🤔"
+            }
+        ]
+    },
+    "70679": {
+        "id": 70679,
+        "type": "message",
+        "date": "2024-01-25T10:57:54",
+        "date_unixtime": "1706169474",
+        "edited": "2024-01-25T11:06:08",
+        "edited_unixtime": "1706169968",
+        "from": "Ольга🥕Нутрициолог",
+        "from_id": "user347564211",
+        "reply_to_message_id": 70677,
+        "text": "Здравствуйте! Можно вклинюсь, просто увидела ваше сообщение, мой прадед тоже из Коровичей. У меня Чернявские.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте! Можно вклинюсь, просто увидела ваше сообщение, мой прадед тоже из Коровичей. У меня Чернявские."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤‍🔥",
+                "recent": [
+                    {
+                        "from": "Ирина Чихалова",
+                        "from_id": "user1160537389",
+                        "date": "2024-01-25T11:06:08"
+                    }
+                ]
+            }
+        ]
+    },
+    "70680": {
+        "id": 70680,
+        "type": "message",
+        "date": "2024-01-25T11:01:27",
+        "date_unixtime": "1706169687",
+        "from": "Алена",
+        "from_id": "user1617817551",
+        "reply_to_message_id": 63414,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 574,
+        "height": 1280,
+        "text": "Коровичи- Соловье(моя бабушка отткда) 100км",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Коровичи- Соловье(моя бабушка отткда) 100км"
+            }
+        ]
+    },
+    "70681": {
+        "id": 70681,
+        "type": "message",
+        "date": "2024-01-25T11:02:24",
+        "date_unixtime": "1706169744",
+        "from": "Алена",
+        "from_id": "user1617817551",
+        "reply_to_message_id": 70679,
+        "text": "Лучший друг моего деда Чернявский Леонид Ефимович. Беларусь-большая деревня)))",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Лучший друг моего деда Чернявский Леонид Ефимович. Беларусь-большая деревня)))"
+            }
+        ]
+    },
+    "70682": {
+        "id": 70682,
+        "type": "message",
+        "date": "2024-01-25T11:03:00",
+        "date_unixtime": "1706169780",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 70678,
+        "text": "Это из инструмента GEDmatch 3D Chromosome Browser, написал в личные сообщения. В Коровичах и рядом никого не было :(",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это из инструмента GEDmatch 3D Chromosome Browser, написал в личные сообщения. В Коровичах и рядом никого не было :("
+            }
+        ]
+    },
+    "70683": {
+        "id": 70683,
+        "type": "message",
+        "date": "2024-01-25T11:03:21",
+        "date_unixtime": "1706169801",
+        "from": "Ирина Чихалова",
+        "from_id": "user1160537389",
+        "reply_to_message_id": 70679,
+        "text": [
+            "У нас фамилия ",
+            {
+                "type": "italic",
+                "text": "Ветиорец"
+            },
+            "...\nЕсть предложение, что изначально была Витеорец... \n",
+            {
+                "type": "italic",
+                "text": "Вите-"
+            },
+            " (Витебск)\n",
+            {
+                "type": "italic",
+                "text": "орец- "
+            },
+            "окончание означало как территориальная принадлежность"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У нас фамилия "
+            },
+            {
+                "type": "italic",
+                "text": "Ветиорец"
+            },
+            {
+                "type": "plain",
+                "text": "...\nЕсть предложение, что изначально была Витеорец... \n"
+            },
+            {
+                "type": "italic",
+                "text": "Вите-"
+            },
+            {
+                "type": "plain",
+                "text": " (Витебск)\n"
+            },
+            {
+                "type": "italic",
+                "text": "орец- "
+            },
+            {
+                "type": "plain",
+                "text": "окончание означало как территориальная принадлежность"
+            }
+        ]
+    },
+    "70684": {
+        "id": 70684,
+        "type": "message",
+        "date": "2024-01-25T11:07:00",
+        "date_unixtime": "1706170020",
+        "from": "Алена",
+        "from_id": "user1617817551",
+        "reply_to_message_id": 70682,
+        "text": "А, это Виталий! А я думала Ирина))",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А, это Виталий! А я думала Ирина))"
+            }
+        ]
+    },
+    "70685": {
+        "id": 70685,
+        "type": "message",
+        "date": "2024-01-25T11:08:55",
+        "date_unixtime": "1706170135",
+        "edited": "2024-01-25T11:35:32",
+        "edited_unixtime": "1706171732",
+        "from": "Ольга🥕Нутрициолог",
+        "from_id": "user347564211",
+        "reply_to_message_id": 70681,
+        "text": "У меня Иосиф Станиславович, родился в Коровичах, а проживал потом в Лощино. Я никак не могла   Коровичи найти, находила Караевичи, там тоже Чернявские были)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У меня Иосиф Станиславович, родился в Коровичах, а проживал потом в Лощино. Я никак не могла   Коровичи найти, находила Караевичи, там тоже Чернявские были)"
+            }
+        ]
+    },
+    "70686": {
+        "id": 70686,
+        "type": "message",
+        "date": "2024-01-25T11:09:28",
+        "date_unixtime": "1706170168",
+        "edited": "2024-01-25T11:13:14",
+        "edited_unixtime": "1706170394",
+        "from": "Алена",
+        "from_id": "user1617817551",
+        "reply_to_message_id": 70684,
+        "text": "Господи, все напутала🙈 это Виталий пишет Ирине. Я тут вообще не при чем! Прошу прощения!😅",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Господи, все напутала🙈 это Виталий пишет Ирине. Я тут вообще не при чем! Прошу прощения!😅"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤗",
+                "recent": [
+                    {
+                        "from": "Vital'",
+                        "from_id": "user292953215",
+                        "date": "2024-01-25T11:13:14"
+                    }
+                ]
+            }
+        ]
+    },
+    "70687": {
+        "id": 70687,
+        "type": "message",
+        "date": "2024-01-25T11:13:26",
+        "date_unixtime": "1706170406",
+        "edited": "2024-01-25T16:33:59",
+        "edited_unixtime": "1706189639",
+        "from": "Ирина Чихалова",
+        "from_id": "user1160537389",
+        "reply_to_message_id": 63414,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 859,
+        "height": 1280,
+        "text": "Мама и Бабушка русские...\nПрабабушка тоже, но была повторно замужем за белорусом с фамилией Дробыш...\nИ он то и познакомил Бабушку с Дедом белорусом)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мама и Бабушка русские...\nПрабабушка тоже, но была повторно замужем за белорусом с фамилией Дробыш...\nИ он то и познакомил Бабушку с Дедом белорусом)"
+            }
+        ]
+    },
+    "71227": {
+        "id": 71227,
+        "type": "message",
+        "date": "2024-01-28T20:28:18",
+        "date_unixtime": "1706462898",
+        "from": "Ирина Чихалова",
+        "from_id": "user1160537389",
+        "reply_to_message_id": 63414,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 408,
+        "height": 531,
+        "text": [
+            "Что мы нашли...! Шок...😂 \n\nVahaduo: интерпретация ДНК-теста\n",
+            {
+                "type": "link",
+                "text": "https://dzen.ru/a/ZG8AyCjgaj5aVSfX"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Что мы нашли...! Шок...😂 \n\nVahaduo: интерпретация ДНК-теста\n"
+            },
+            {
+                "type": "link",
+                "text": "https://dzen.ru/a/ZG8AyCjgaj5aVSfX"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "71228": {
+        "id": 71228,
+        "type": "message",
+        "date": "2024-01-28T20:28:19",
+        "date_unixtime": "1706462899",
+        "from": "Ирина Чихалова",
+        "from_id": "user1160537389",
+        "reply_to_message_id": 63414,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 423,
+        "height": 525,
+        "text": "",
+        "text_entities": []
+    },
+    "71229": {
+        "id": 71229,
+        "type": "message",
+        "date": "2024-01-28T20:28:19",
+        "date_unixtime": "1706462899",
+        "from": "Ирина Чихалова",
+        "from_id": "user1160537389",
+        "reply_to_message_id": 63414,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1176,
+        "height": 902,
+        "text": "",
+        "text_entities": []
+    },
+    "71276": {
+        "id": 71276,
+        "type": "message",
+        "date": "2024-01-29T18:07:27",
+        "date_unixtime": "1706540847",
+        "edited": "2024-01-29T18:07:30",
+        "edited_unixtime": "1706540850",
+        "from": ".",
+        "from_id": "user680284117",
+        "reply_to_message_id": 63414,
+        "text": "Где можно сделать тест в Беларуси? И сколько по стоимости?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Где можно сделать тест в Беларуси? И сколько по стоимости?"
+            }
+        ]
+    },
+    "71277": {
+        "id": 71277,
+        "type": "message",
+        "date": "2024-01-29T18:08:04",
+        "date_unixtime": "1706540884",
+        "from": "Игорь",
+        "from_id": "user108706246",
+        "reply_to_message_id": 71276,
+        "text": "цель теста ?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "цель теста ?"
+            }
+        ]
+    },
+    "71278": {
+        "id": 71278,
+        "type": "message",
+        "date": "2024-01-29T18:08:32",
+        "date_unixtime": "1706540912",
+        "edited": "2024-01-29T18:09:19",
+        "edited_unixtime": "1706540959",
+        "from": ".",
+        "from_id": "user680284117",
+        "reply_to_message_id": 63414,
+        "text": "Определить потенциальных родственников и узнать на сколько % я, условно, белорус",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Определить потенциальных родственников и узнать на сколько % я, условно, белорус"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👀",
+                "recent": [
+                    {
+                        "from": "Alexei C",
+                        "from_id": "user360967629",
+                        "date": "2024-06-01T01:29:42"
+                    },
+                    {
+                        "from": "Pavel",
+                        "from_id": "user1354985288",
+                        "date": "2024-01-29T18:09:19"
+                    }
+                ]
+            }
+        ]
+    },
+    "71279": {
+        "id": 71279,
+        "type": "message",
+        "date": "2024-01-29T18:09:57",
+        "date_unixtime": "1706540997",
+        "from": "Игорь",
+        "from_id": "user108706246",
+        "reply_to_message_id": 71278,
+        "text": "в Беларуси наверное нигде, только иностранные компании, на сколько беларус это гадание на кофейной гуще, ответа такого не даст никто",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "в Беларуси наверное нигде, только иностранные компании, на сколько беларус это гадание на кофейной гуще, ответа такого не даст никто"
+            }
+        ]
+    },
+    "71280": {
+        "id": 71280,
+        "type": "message",
+        "date": "2024-01-29T18:10:30",
+        "date_unixtime": "1706541030",
+        "edited": "2024-02-12T06:38:09",
+        "edited_unixtime": "1707709089",
+        "from": ".",
+        "from_id": "user680284117",
+        "reply_to_message_id": 63414,
+        "text": "Я видел, что написано было, на 70% русский, на 20% француз и т.д",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я видел, что написано было, на 70% русский, на 20% француз и т.д"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ольга Влади",
+                        "from_id": "user1659770550",
+                        "date": "2024-02-12T06:38:09"
+                    }
+                ]
+            }
+        ]
+    },
+    "71281": {
+        "id": 71281,
+        "type": "message",
+        "date": "2024-01-29T18:10:56",
+        "date_unixtime": "1706541056",
+        "from": ".",
+        "from_id": "user680284117",
+        "reply_to_message_id": 63414,
+        "text": "А Вы как тесты сделали? Давно что ли? Или где-то в иностранных компаниях",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А Вы как тесты сделали? Давно что ли? Или где-то в иностранных компаниях"
+            }
+        ]
+    },
+    "71282": {
+        "id": 71282,
+        "type": "message",
+        "date": "2024-01-29T18:11:30",
+        "date_unixtime": "1706541090",
+        "from": "Игорь",
+        "from_id": "user108706246",
+        "reply_to_message_id": 71281,
+        "text": "заказать из иностранных можно и сейчас",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "заказать из иностранных можно и сейчас"
+            }
+        ]
+    },
+    "71283": {
+        "id": 71283,
+        "type": "message",
+        "date": "2024-01-29T18:11:48",
+        "date_unixtime": "1706541108",
+        "edited": "2024-01-29T18:11:57",
+        "edited_unixtime": "1706541117",
+        "from": ".",
+        "from_id": "user680284117",
+        "reply_to_message_id": 63414,
+        "text": "Я имею ввиду, находясь в Беларуси сделать тест",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я имею ввиду, находясь в Беларуси сделать тест"
+            }
+        ]
+    },
+    "71284": {
+        "id": 71284,
+        "type": "message",
+        "date": "2024-01-29T18:12:01",
+        "date_unixtime": "1706541121",
+        "from": "Pavel",
+        "from_id": "user1354985288",
+        "reply_to_message_id": 71278,
+        "text": "Чем больше вводных данных - тем точнее ответ\nКто жив из старшего поколения, каков бюджет,  насколько хорошо проработала генеалогия?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Чем больше вводных данных - тем точнее ответ\nКто жив из старшего поколения, каков бюджет,  насколько хорошо проработала генеалогия?"
+            }
+        ]
+    },
+    "71285": {
+        "id": 71285,
+        "type": "message",
+        "date": "2024-01-29T18:12:02",
+        "date_unixtime": "1706541122",
+        "from": "Игорь",
+        "from_id": "user108706246",
+        "reply_to_message_id": 71283,
+        "text": "да именно так",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "да именно так"
+            }
+        ]
+    },
+    "71286": {
+        "id": 71286,
+        "type": "message",
+        "date": "2024-01-29T18:12:23",
+        "date_unixtime": "1706541143",
+        "from": ".",
+        "from_id": "user680284117",
+        "reply_to_message_id": 63414,
+        "text": "По некоторым линиям до 11 поколения",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "По некоторым линиям до 11 поколения"
+            }
+        ]
+    },
+    "71287": {
+        "id": 71287,
+        "type": "message",
+        "date": "2024-01-29T18:13:30",
+        "date_unixtime": "1706541210",
+        "from": ".",
+        "from_id": "user680284117",
+        "reply_to_message_id": 63414,
+        "text": "Какая минимальная цена теста, что он покажет? Чем отличается от дорогого теста?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Какая минимальная цена теста, что он покажет? Чем отличается от дорогого теста?"
+            }
+        ]
+    },
+    "71288": {
+        "id": 71288,
+        "type": "message",
+        "date": "2024-01-29T18:14:33",
+        "date_unixtime": "1706541273",
+        "from": ".",
+        "from_id": "user680284117",
+        "reply_to_message_id": 63414,
+        "text": "И если существует много тестов, как он покажет потенциальных родственников? Если только они там же делали этот тест?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И если существует много тестов, как он покажет потенциальных родственников? Если только они там же делали этот тест?"
+            }
+        ]
+    },
+    "71289": {
+        "id": 71289,
+        "type": "message",
+        "date": "2024-01-29T18:14:46",
+        "date_unixtime": "1706541286",
+        "from": "Pavel",
+        "from_id": "user1354985288",
+        "reply_to_message_id": 71287,
+        "text": "Писать долго - можно созвониться - так быстрее получите ответ",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Писать долго - можно созвониться - так быстрее получите ответ"
+            }
+        ]
+    },
+    "71290": {
+        "id": 71290,
+        "type": "message",
+        "date": "2024-01-29T18:38:40",
+        "date_unixtime": "1706542720",
+        "edited": "2024-01-29T19:02:17",
+        "edited_unixtime": "1706544137",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 63414,
+        "text": [
+            "Если кратко.\n\nВарианты аутосомных ДНК тестов в Беларуси (на сегодняшний день):\n\n",
+            {
+                "type": "link",
+                "text": "myheritage.com"
+            },
+            "  - 39$ (+17$ доставка через shopfans), самый популярный в РБ\n",
+            {
+                "type": "link",
+                "text": "genotek.ru"
+            },
+            " - 6999 рос. руб (~80$), видимо самый популярный в РФ\n",
+            {
+                "type": "link",
+                "text": "familytreedna.com"
+            },
+            " - 79$ (+17$ доставка через shopfans), есть возможность апгрейдить тест до очень точной гаплогруппы\n",
+            {
+                "type": "link",
+                "text": "23andme.com"
+            },
+            " - 119$ (+17$ доставка через shopfans, нюансы с возвратом теста) самый популярный в мире/США?\n",
+            {
+                "type": "link",
+                "text": "ancestry.com"
+            },
+            " - 99$ (скорее всего +17$ доставка через shopfans) самый популярный в мире/США?\n\nРезультаты тестов можно перезаливать между компаниями, но есть нюансы и ограничения."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Если кратко.\n\nВарианты аутосомных ДНК тестов в Беларуси (на сегодняшний день):\n\n"
+            },
+            {
+                "type": "link",
+                "text": "myheritage.com"
+            },
+            {
+                "type": "plain",
+                "text": "  - 39$ (+17$ доставка через shopfans), самый популярный в РБ\n"
+            },
+            {
+                "type": "link",
+                "text": "genotek.ru"
+            },
+            {
+                "type": "plain",
+                "text": " - 6999 рос. руб (~80$), видимо самый популярный в РФ\n"
+            },
+            {
+                "type": "link",
+                "text": "familytreedna.com"
+            },
+            {
+                "type": "plain",
+                "text": " - 79$ (+17$ доставка через shopfans), есть возможность апгрейдить тест до очень точной гаплогруппы\n"
+            },
+            {
+                "type": "link",
+                "text": "23andme.com"
+            },
+            {
+                "type": "plain",
+                "text": " - 119$ (+17$ доставка через shopfans, нюансы с возвратом теста) самый популярный в мире/США?\n"
+            },
+            {
+                "type": "link",
+                "text": "ancestry.com"
+            },
+            {
+                "type": "plain",
+                "text": " - 99$ (скорее всего +17$ доставка через shopfans) самый популярный в мире/США?\n\nРезультаты тестов можно перезаливать между компаниями, но есть нюансы и ограничения."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Александр Мироненко",
+                        "from_id": "user529970725",
+                        "date": "2024-01-30T00:17:06"
+                    },
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-01-29T20:00:57"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Ирина Чихалова",
+                        "from_id": "user1160537389",
+                        "date": "2024-01-29T20:07:08"
+                    }
+                ]
+            }
+        ]
+    },
+    "71291": {
+        "id": 71291,
+        "type": "message",
+        "date": "2024-01-29T18:59:02",
+        "date_unixtime": "1706543942",
+        "from": "Vitaly Khor Vitaut",
+        "from_id": "user7511581",
+        "reply_to_message_id": 71290,
+        "text": [
+            "поспорю про самый популярный - ",
+            {
+                "type": "link",
+                "text": "ancestry.com"
+            },
+            " 20+ млн"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "поспорю про самый популярный - "
+            },
+            {
+                "type": "link",
+                "text": "ancestry.com"
+            },
+            {
+                "type": "plain",
+                "text": " 20+ млн"
+            }
+        ]
+    },
+    "71292": {
+        "id": 71292,
+        "type": "message",
+        "date": "2024-01-29T19:00:59",
+        "date_unixtime": "1706544059",
+        "edited": "2024-02-01T19:01:18",
+        "edited_unixtime": "1706803278",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 63414,
+        "text": "Я поэтому вопросик и поставил :) На gedmatch в основном 23andMe тесты у меня в аккаунтах. Дополнил пост выше,",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я поэтому вопросик и поставил :) На gedmatch в основном 23andMe тесты у меня в аккаунтах. Дополнил пост выше,"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "⚡",
+                "recent": [
+                    {
+                        "from": "Vitaly Khor Vitaut",
+                        "from_id": "user7511581",
+                        "date": "2024-02-01T19:01:19"
+                    }
+                ]
+            }
+        ]
+    },
+    "71340": {
+        "id": 71340,
+        "type": "message",
+        "date": "2024-01-30T00:13:33",
+        "date_unixtime": "1706562813",
+        "edited": "2025-01-04T21:32:41",
+        "edited_unixtime": "1736015561",
+        "from": "Александр Мироненко",
+        "from_id": "user529970725",
+        "reply_to_message_id": 71280,
+        "text": "Эта разбивка по этносами - рекламная замануха от тестирующих компаний. По факту она на грани шарлатанства, т.к. делает очень примерные выводы на основе ещё более примерных данных. Бумажная генеалогия гораздо точнее.\n\nВот найти 4-5-юродных совпаденцев сдавших в той же фирме - в принципе реально, я пару таких случаев знаю.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Эта разбивка по этносами - рекламная замануха от тестирующих компаний. По факту она на грани шарлатанства, т.к. делает очень примерные выводы на основе ещё более примерных данных. Бумажная генеалогия гораздо точнее.\n\nВот найти 4-5-юродных совпаденцев сдавших в той же фирме - в принципе реально, я пару таких случаев знаю."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤔",
+                "recent": [
+                    {
+                        "from": "Детидетей",
+                        "from_id": "user668121919",
+                        "date": "2025-01-04T21:32:41"
+                    }
+                ]
+            }
+        ]
+    },
+    "71341": {
+        "id": 71341,
+        "type": "message",
+        "date": "2024-01-30T00:14:22",
+        "date_unixtime": "1706562862",
+        "from": "G B",
+        "from_id": "user1462701472",
+        "reply_to_message_id": 71292,
+        "text": "Моя родственница сдавала в генотеке, загрузила этот в тест в гедматч, и у меня в совпадениях она выведена как 23andMe. Вот так)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Моя родственница сдавала в генотеке, загрузила этот в тест в гедматч, и у меня в совпадениях она выведена как 23andMe. Вот так)"
+            }
+        ]
+    },
+    "71345": {
+        "id": 71345,
+        "type": "message",
+        "date": "2024-01-30T00:23:52",
+        "date_unixtime": "1706563432",
+        "from": "Dmytro Donskyi",
+        "from_id": "user96275956",
+        "reply_to_message_id": 71341,
+        "text": "коли закидуєш - можна вибрати який хочеш сервіс",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "коли закидуєш - можна вибрати який хочеш сервіс"
+            }
+        ]
+    },
+    "71412": {
+        "id": 71412,
+        "type": "message",
+        "date": "2024-01-31T14:25:28",
+        "date_unixtime": "1706700328",
+        "from": "Juliosia",
+        "from_id": "user5367559954",
+        "reply_to_message_id": 63414,
+        "text": "Марыю Сысаву ніхто не ведае? У мяне на генацеке супала, там дзед цікавы ў яе з Пухаўшчыны.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Марыю Сысаву ніхто не ведае? У мяне на генацеке супала, там дзед цікавы ў яе з Пухаўшчыны."
+            }
+        ]
+    },
+    "71450": {
+        "id": 71450,
+        "type": "message",
+        "date": "2024-02-01T07:34:55",
+        "date_unixtime": "1706762095",
+        "edited": "2024-02-01T07:50:20",
+        "edited_unixtime": "1706763020",
+        "from": "Александр Папин",
+        "from_id": "user698870737",
+        "reply_to_message_id": 71290,
+        "text": "Данные на январь 2024:\n23andMe 14 000 000 \nFTDNA 1 574 253 \nAncestry 23 000 000 \nMyHeritage 7 800 000 \nLiving DNA 300 000",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Данные на январь 2024:\n23andMe 14 000 000 \nFTDNA 1 574 253 \nAncestry 23 000 000 \nMyHeritage 7 800 000 \nLiving DNA 300 000"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-03-12T21:22:06"
+                    },
+                    {
+                        "from": "Leon",
+                        "from_id": "user1876891660",
+                        "date": "2024-02-01T18:31:15"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-02-01T12:23:26"
+                    }
+                ]
+            }
+        ]
+    },
+    "71451": {
+        "id": 71451,
+        "type": "message",
+        "date": "2024-02-01T07:36:33",
+        "date_unixtime": "1706762193",
+        "from": "Александр Папин",
+        "from_id": "user698870737",
+        "reply_to_message_id": 63414,
+        "text": "Генотек скрывает цифры, к сожалению",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Генотек скрывает цифры, к сожалению"
+            }
+        ]
+    },
+    "71452": {
+        "id": 71452,
+        "type": "message",
+        "date": "2024-02-01T07:43:36",
+        "date_unixtime": "1706762616",
+        "from": "Александр Папин",
+        "from_id": "user698870737",
+        "reply_to_message_id": 63414,
+        "text": "Только недавно узнал, оказывается, термин \"ДНК-генеалогия\" псевдонаучный, правильно Генетическая генеалогия. Это как астрология/астрономия, расология/расоведение, родоведение/генеалогия. Чёрт ногу сломит.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Только недавно узнал, оказывается, термин \"ДНК-генеалогия\" псевдонаучный, правильно Генетическая генеалогия. Это как астрология/астрономия, расология/расоведение, родоведение/генеалогия. Чёрт ногу сломит."
+            }
+        ]
+    },
+    "71456": {
+        "id": 71456,
+        "type": "message",
+        "date": "2024-02-01T11:20:51",
+        "date_unixtime": "1706775651",
+        "from": "Андрей",
+        "from_id": "user292453604",
+        "reply_to_message_id": 71452,
+        "text": "ну до анализа РНК наука пока не дошла, поэтому сгодится и ДНК-генеалогия, ничего \"псевдонаучного\" в этом термине нет. Т.к. сейчас анализируют именно ДНК",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ну до анализа РНК наука пока не дошла, поэтому сгодится и ДНК-генеалогия, ничего \"псевдонаучного\" в этом термине нет. Т.к. сейчас анализируют именно ДНК"
+            }
+        ]
+    },
+    "71457": {
+        "id": 71457,
+        "type": "message",
+        "date": "2024-02-01T11:21:47",
+        "date_unixtime": "1706775707",
+        "from": "Dmytro Donskyi",
+        "from_id": "user96275956",
+        "reply_to_message_id": 63414,
+        "text": "23andMe шось тріщить по швах",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "23andMe шось тріщить по швах"
+            }
+        ]
+    },
+    "71458": {
+        "id": 71458,
+        "type": "message",
+        "date": "2024-02-01T11:26:48",
+        "date_unixtime": "1706776008",
+        "edited": "2024-02-01T11:27:59",
+        "edited_unixtime": "1706776079",
+        "from": "Александр Папин",
+        "from_id": "user698870737",
+        "reply_to_message_id": 71456,
+        "text": "Тут суть в терминологии, то, о чем вы говорите, существует и называется Генетическая генеалогия, это устоявшийся термин. Да, там анализируется ДНК, здесь нет никакого противоречия. Термин ДНК-генеалогия очень красив и понятен, но во-первых избыточен, так как уже есть другой, а во-вторых был введен и дискредетирован Клёсовым в попытках доказать его различные хотелки: арийское происхождение русского народа и отрицание выхода людей из Африки.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тут суть в терминологии, то, о чем вы говорите, существует и называется Генетическая генеалогия, это устоявшийся термин. Да, там анализируется ДНК, здесь нет никакого противоречия. Термин ДНК-генеалогия очень красив и понятен, но во-первых избыточен, так как уже есть другой, а во-вторых был введен и дискредетирован Клёсовым в попытках доказать его различные хотелки: арийское происхождение русского народа и отрицание выхода людей из Африки."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Pavel",
+                        "from_id": "user1354985288",
+                        "date": "2024-02-02T09:53:06"
+                    },
+                    {
+                        "from": "Leon",
+                        "from_id": "user1876891660",
+                        "date": "2024-02-01T18:30:18"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤯",
+                "recent": [
+                    {
+                        "from": "Андрей",
+                        "from_id": "user292453604",
+                        "date": "2024-02-01T11:27:59"
+                    }
+                ]
+            }
+        ]
+    },
+    "71459": {
+        "id": 71459,
+        "type": "message",
+        "date": "2024-02-01T11:37:21",
+        "date_unixtime": "1706776641",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 71457,
+        "text": "Чаму?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Чаму?"
+            }
+        ]
+    },
+    "71460": {
+        "id": 71460,
+        "type": "message",
+        "date": "2024-02-01T11:38:50",
+        "date_unixtime": "1706776730",
+        "edited": "2024-02-01T11:44:19",
+        "edited_unixtime": "1706777059",
+        "from": "Dmytro Donskyi",
+        "from_id": "user96275956",
+        "reply_to_message_id": 71459,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 711,
+        "height": 241,
+        "text": "акції в ціні впали сильно, спроби перезапустити бізнес виявилися марними",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "акції в ціні впали сильно, спроби перезапустити бізнес виявилися марними"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "Pavel",
+                        "from_id": "user1354985288",
+                        "date": "2024-02-02T09:53:19"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤔",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-02-01T11:44:19"
+                    }
+                ]
+            }
+        ]
+    },
+    "71462": {
+        "id": 71462,
+        "type": "message",
+        "date": "2024-02-01T11:44:45",
+        "date_unixtime": "1706777085",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 71460,
+        "text": "Дзякуй, буду мець на ўвазе",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Дзякуй, буду мець на ўвазе"
+            }
+        ]
+    },
+    "71463": {
+        "id": 71463,
+        "type": "message",
+        "date": "2024-02-01T11:45:30",
+        "date_unixtime": "1706777130",
+        "edited": "2024-02-01T11:58:02",
+        "edited_unixtime": "1706777882",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 71459,
+        "text": [
+            "Вот еще статья по этой теме ",
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy/35187/71423"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вот еще статья по этой теме "
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy/35187/71423"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-02-01T11:58:02"
+                    }
+                ]
+            }
+        ]
+    },
+    "71504": {
+        "id": 71504,
+        "type": "message",
+        "date": "2024-02-01T14:34:14",
+        "date_unixtime": "1706787254",
+        "from": "Игорь",
+        "from_id": "user108706246",
+        "reply_to_message_id": 71460,
+        "text": "надо брать на низах )))",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "надо брать на низах )))"
+            }
+        ]
+    },
+    "71505": {
+        "id": 71505,
+        "type": "message",
+        "date": "2024-02-01T14:34:55",
+        "date_unixtime": "1706787295",
+        "from": "Dmytro Donskyi",
+        "from_id": "user96275956",
+        "reply_to_message_id": 71504,
+        "text": "та питання ж не в торгівлі акціями, а в функціонуванні сервіса",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "та питання ж не в торгівлі акціями, а в функціонуванні сервіса"
+            }
+        ]
+    },
+    "71506": {
+        "id": 71506,
+        "type": "message",
+        "date": "2024-02-01T14:35:43",
+        "date_unixtime": "1706787343",
+        "from": "Игорь",
+        "from_id": "user108706246",
+        "reply_to_message_id": 71505,
+        "text": "ну неужели Сергей жене не поможет",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ну неужели Сергей жене не поможет"
+            }
+        ]
+    },
+    "71507": {
+        "id": 71507,
+        "type": "message",
+        "date": "2024-02-01T14:36:20",
+        "date_unixtime": "1706787380",
+        "from": "Dmytro Donskyi",
+        "from_id": "user96275956",
+        "reply_to_message_id": 71506,
+        "text": "я б ще з півроку не поспішав купляти там тест. :)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "я б ще з півроку не поспішав купляти там тест. :)"
+            }
+        ]
+    },
+    "71508": {
+        "id": 71508,
+        "type": "message",
+        "date": "2024-02-01T14:37:06",
+        "date_unixtime": "1706787426",
+        "from": "Игорь",
+        "from_id": "user108706246",
+        "reply_to_message_id": 71507,
+        "text": "потом будет за 200",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "потом будет за 200"
+            }
+        ]
+    },
+    "71509": {
+        "id": 71509,
+        "type": "message",
+        "date": "2024-02-01T14:37:30",
+        "date_unixtime": "1706787450",
+        "from": "Dmytro Donskyi",
+        "from_id": "user96275956",
+        "reply_to_message_id": 71508,
+        "text": "за 200 хай шукають дурників",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "за 200 хай шукають дурників"
+            }
+        ]
+    },
+    "71510": {
+        "id": 71510,
+        "type": "message",
+        "date": "2024-02-01T14:39:08",
+        "date_unixtime": "1706787548",
+        "edited": "2024-02-01T14:39:26",
+        "edited_unixtime": "1706787566",
+        "from": "Игорь",
+        "from_id": "user108706246",
+        "reply_to_message_id": 71509,
+        "text": "новые матчи все равно периодически появляются, но много там сейчас топовых совпаденцев очень давно туда не логинились и не отвечают",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "новые матчи все равно периодически появляются, но много там сейчас топовых совпаденцев очень давно туда не логинились и не отвечают"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Dmytro Donskyi",
+                        "from_id": "user96275956",
+                        "date": "2024-02-01T14:39:26"
+                    }
+                ]
+            }
+        ]
+    },
+    "71538": {
+        "id": 71538,
+        "type": "message",
+        "date": "2024-02-01T18:31:48",
+        "date_unixtime": "1706801508",
+        "from": "Leon",
+        "from_id": "user1876891660",
+        "reply_to_message_id": 71450,
+        "text": "А можно источник этих цифр увидеть?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А можно источник этих цифр увидеть?"
+            }
+        ]
+    },
+    "71540": {
+        "id": 71540,
+        "type": "message",
+        "date": "2024-02-01T18:56:11",
+        "date_unixtime": "1706802971",
+        "from": "Александр Папин",
+        "from_id": "user698870737",
+        "reply_to_message_id": 63414,
+        "text": "Там большая сводная таблица была, забейте прям в поисковике, наверное, найдете",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Там большая сводная таблица была, забейте прям в поисковике, наверное, найдете"
+            }
+        ]
+    },
+    "71541": {
+        "id": 71541,
+        "type": "message",
+        "date": "2024-02-01T18:56:49",
+        "date_unixtime": "1706803009",
+        "edited": "2024-02-01T18:57:09",
+        "edited_unixtime": "1706803029",
+        "from": "Александр Папин",
+        "from_id": "user698870737",
+        "reply_to_message_id": 63414,
+        "text": "Только там цифры с запятыми были, по-американски, типа 1,000,000",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Только там цифры с запятыми были, по-американски, типа 1,000,000"
+            }
+        ]
+    },
+    "71542": {
+        "id": 71542,
+        "type": "message",
+        "date": "2024-02-01T19:02:15",
+        "date_unixtime": "1706803335",
+        "from": "Vitaly Khor Vitaut",
+        "from_id": "user7511581",
+        "reply_to_message_id": 71341,
+        "text": "Генотек использует формат 23andMe.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Генотек использует формат 23andMe."
+            }
+        ]
+    },
+    "71581": {
+        "id": 71581,
+        "type": "message",
+        "date": "2024-02-01T23:05:40",
+        "date_unixtime": "1706817940",
+        "from": "Juliosia",
+        "from_id": "user5367559954",
+        "reply_to_message_id": 63414,
+        "text": "А нехта рабіў апгрэйд днк тэста да тэста здароўя? Ёсць там цікавае што?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А нехта рабіў апгрэйд днк тэста да тэста здароўя? Ёсць там цікавае што?"
+            }
+        ]
+    },
+    "71584": {
+        "id": 71584,
+        "type": "message",
+        "date": "2024-02-01T23:15:43",
+        "date_unixtime": "1706818543",
+        "edited": "2024-02-04T00:17:57",
+        "edited_unixtime": "1706995077",
+        "from": "Vitaly Khor Vitaut",
+        "from_id": "user7511581",
+        "reply_to_message_id": 71581,
+        "text": "ну я, але для здароўя лепш зрабіць дэталевы  біяхімічны аналіз крыві )",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ну я, але для здароўя лепш зрабіць дэталевы  біяхімічны аналіз крыві )"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Pavel",
+                        "from_id": "user1354985288",
+                        "date": "2024-02-04T00:17:57"
+                    }
+                ]
+            }
+        ]
+    },
+    "71587": {
+        "id": 71587,
+        "type": "message",
+        "date": "2024-02-01T23:16:55",
+        "date_unixtime": "1706818615",
+        "edited": "2024-02-01T23:17:02",
+        "edited_unixtime": "1706818622",
+        "from": "Juliosia",
+        "from_id": "user5367559954",
+        "reply_to_message_id": 71584,
+        "text": "Гэта для бягучага стану, а там жа генетычныя захворванні, як я разумею?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Гэта для бягучага стану, а там жа генетычныя захворванні, як я разумею?"
+            }
+        ]
+    },
+    "71588": {
+        "id": 71588,
+        "type": "message",
+        "date": "2024-02-01T23:17:16",
+        "date_unixtime": "1706818636",
+        "from": "Vitaly Khor Vitaut",
+        "from_id": "user7511581",
+        "reply_to_message_id": 71587,
+        "text": "так",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "так"
+            }
+        ]
+    },
+    "71589": {
+        "id": 71589,
+        "type": "message",
+        "date": "2024-02-01T23:17:53",
+        "date_unixtime": "1706818673",
+        "from": "Juliosia",
+        "from_id": "user5367559954",
+        "reply_to_message_id": 71584,
+        "text": "У мяне ў бабулі прагрэсуе альцгеймер зараз, напрыклад. Мне біяхімія тут нічога не скажа.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У мяне ў бабулі прагрэсуе альцгеймер зараз, напрыклад. Мне біяхімія тут нічога не скажа."
+            }
+        ]
+    },
+    "71591": {
+        "id": 71591,
+        "type": "message",
+        "date": "2024-02-01T23:18:33",
+        "date_unixtime": "1706818713",
+        "from": "Juliosia",
+        "from_id": "user5367559954",
+        "reply_to_message_id": 63414,
+        "text": "Ці давежаюся я пра тое, ці ёсць у мяне схільнасць да такога?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ці давежаюся я пра тое, ці ёсць у мяне схільнасць да такога?"
+            }
+        ]
+    },
+    "71595": {
+        "id": 71595,
+        "type": "message",
+        "date": "2024-02-01T23:36:33",
+        "date_unixtime": "1706819793",
+        "edited": "2024-02-18T09:22:41",
+        "edited_unixtime": "1708237361",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 71591,
+        "text": "Тэарэтычна, так. Спадчынная схільнасць можа быць трыгерам. Але калі развіваць свой інтэлект, то спадчыннасць можна знівіляваць",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тэарэтычна, так. Спадчынная схільнасць можа быць трыгерам. Але калі развіваць свой інтэлект, то спадчыннасць можна знівіляваць"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Leon",
+                        "from_id": "user1876891660",
+                        "date": "2024-02-18T09:22:41"
+                    }
+                ]
+            }
+        ]
+    },
+    "71596": {
+        "id": 71596,
+        "type": "message",
+        "date": "2024-02-01T23:44:26",
+        "date_unixtime": "1706820266",
+        "from": "Juliosia",
+        "from_id": "user5367559954",
+        "reply_to_message_id": 71595,
+        "text": "Кажуць мовы трэба вучыць",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Кажуць мовы трэба вучыць"
+            }
+        ]
+    },
+    "71597": {
+        "id": 71597,
+        "type": "message",
+        "date": "2024-02-01T23:45:29",
+        "date_unixtime": "1706820329",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 71596,
+        "text": "Так. Усё, што стварае новыя нейронныя сувязі",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так. Усё, што стварае новыя нейронныя сувязі"
+            }
+        ]
+    },
+    "71638": {
+        "id": 71638,
+        "type": "message",
+        "date": "2024-02-02T09:41:24",
+        "date_unixtime": "1706856084",
+        "from": "Katya Makarevich",
+        "from_id": "user521432070",
+        "reply_to_message_id": 63414,
+        "text": "Есть же 23and me с описанием предрасположенности к болезням, да?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Есть же 23and me с описанием предрасположенности к болезням, да?"
+            }
+        ]
+    },
+    "71706": {
+        "id": 71706,
+        "type": "message",
+        "date": "2024-02-02T14:39:14",
+        "date_unixtime": "1706873954",
+        "edited": "2024-02-03T11:31:17",
+        "edited_unixtime": "1706949077",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 70294,
+        "text": "Для статистики. Familytreedna сделали Big Y за 9 недель, mtDNA за 3 недель. Комплекты MH (США), отправленный в ноябре, за 2 месяца дошли до лаборатории.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Для статистики. Familytreedna сделали Big Y за 9 недель, mtDNA за 3 недель. Комплекты MH (США), отправленный в ноябре, за 2 месяца дошли до лаборатории."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Александр Папин",
+                        "from_id": "user698870737",
+                        "date": "2024-02-03T11:31:17"
+                    }
+                ]
+            }
+        ]
+    },
+    "71707": {
+        "id": 71707,
+        "type": "message",
+        "date": "2024-02-02T14:59:59",
+        "date_unixtime": "1706875199",
+        "from": "Игорь",
+        "from_id": "user108706246",
+        "reply_to_message_id": 71706,
+        "text": "черная пятницы это в ноябре было ?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "черная пятницы это в ноябре было ?"
+            }
+        ]
+    },
+    "71708": {
+        "id": 71708,
+        "type": "message",
+        "date": "2024-02-02T15:01:31",
+        "date_unixtime": "1706875291",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 71707,
+        "text": "24.11",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "24.11"
+            }
+        ]
+    },
+    "71709": {
+        "id": 71709,
+        "type": "message",
+        "date": "2024-02-02T15:02:47",
+        "date_unixtime": "1706875367",
+        "from": "Игорь",
+        "from_id": "user108706246",
+        "reply_to_message_id": 63414,
+        "text": "2 месяца до лаборатории и 9 недель тест как-то не складывается, если сейчас начало февраля",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "2 месяца до лаборатории и 9 недель тест как-то не складывается, если сейчас начало февраля"
+            }
+        ]
+    },
+    "71710": {
+        "id": 71710,
+        "type": "message",
+        "date": "2024-02-02T15:03:58",
+        "date_unixtime": "1706875438",
+        "edited": "2024-02-02T15:04:07",
+        "edited_unixtime": "1706875447",
+        "from": "🤫🏍⛺",
+        "from_id": "user6213882374",
+        "reply_to_message_id": 71709,
+        "text": "Так речь о разных тестах :)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так речь о разных тестах :)"
+            }
+        ]
+    },
+    "71711": {
+        "id": 71711,
+        "type": "message",
+        "date": "2024-02-02T15:04:56",
+        "date_unixtime": "1706875496",
+        "edited": "2024-02-02T15:40:33",
+        "edited_unixtime": "1706877633",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 63414,
+        "text": "Речь про тесты двух разных компаний. Тест MH был из РБ 21-го ноября отправлен (куплен в октябре). А Familytreedna уже был в лаборатории, я апгрейдил.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Речь про тесты двух разных компаний. Тест MH был из РБ 21-го ноября отправлен (куплен в октябре). А Familytreedna уже был в лаборатории, я апгрейдил."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Игорь",
+                        "from_id": "user108706246",
+                        "date": "2024-02-02T15:40:33"
+                    }
+                ]
+            }
+        ]
+    },
+    "71728": {
+        "id": 71728,
+        "type": "message",
+        "date": "2024-02-02T15:52:13",
+        "date_unixtime": "1706878333",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 63414,
+        "text": "А никто случайно в последнее время тесты со слюной не отправлял за рубеж? Что-то мой один застрял на бел. таможне, 10 дней в статусе \"Принято в обработку\". \nВ конце июля 2023 слюну и сухую кровь выпустили буквально за минуту по статусам. Сразу в \"Завершение таможенного контроля\". И через 1-2 дня сразу отправляли",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А никто случайно в последнее время тесты со слюной не отправлял за рубеж? Что-то мой один застрял на бел. таможне, 10 дней в статусе \"Принято в обработку\". \nВ конце июля 2023 слюну и сухую кровь выпустили буквально за минуту по статусам. Сразу в \"Завершение таможенного контроля\". И через 1-2 дня сразу отправляли"
+            }
+        ]
+    },
+    "71731": {
+        "id": 71731,
+        "type": "message",
+        "date": "2024-02-02T15:56:23",
+        "date_unixtime": "1706878583",
+        "edited": "2024-02-02T15:57:05",
+        "edited_unixtime": "1706878625",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 63414,
+        "text": "А на почте опять пришлось целый квест проходить, отправлял AncestryDNA. Снова вопросы, а что это такое, медикаменты нельзя и т.п. Хотя уже третий раз из того же отделения шлю, даже с той же работницей) \nПочему-то в этот раз она долго не могла выбрать, какой код ТН ВЭД написать. Я даже не знал, что это такое.\nВ описании товара указывал \"plastic tube with water\", чтобы не сильно врать. Одна такая посылка уже дошла без проблем",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А на почте опять пришлось целый квест проходить, отправлял AncestryDNA. Снова вопросы, а что это такое, медикаменты нельзя и т.п. Хотя уже третий раз из того же отделения шлю, даже с той же работницей) \nПочему-то в этот раз она долго не могла выбрать, какой код ТН ВЭД написать. Я даже не знал, что это такое.\nВ описании товара указывал \"plastic tube with water\", чтобы не сильно врать. Одна такая посылка уже дошла без проблем"
+            }
+        ]
+    },
+    "71737": {
+        "id": 71737,
+        "type": "message",
+        "date": "2024-02-02T16:06:44",
+        "date_unixtime": "1706879204",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 63414,
+        "text": "Все от сотрудника зависит. У меня первый раз тоже ТН ВЭД спрашивала, а потом искала. Я сказал - пластиковая трубка, она не сразу, но нашла в справочнике.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Все от сотрудника зависит. У меня первый раз тоже ТН ВЭД спрашивала, а потом искала. Я сказал - пластиковая трубка, она не сразу, но нашла в справочнике."
+            }
+        ]
+    },
+    "71738": {
+        "id": 71738,
+        "type": "message",
+        "date": "2024-02-02T16:09:17",
+        "date_unixtime": "1706879357",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 63414,
+        "text": "Наверно правильно это штука \"Тупфер\" называется. Но пластиковая трубка не так страшно будет звучать для работников почты :) Может кто-то знает номер ТН ВЭД, так сразу его говорить (в шпаргалке написать).",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Наверно правильно это штука \"Тупфер\" называется. Но пластиковая трубка не так страшно будет звучать для работников почты :) Может кто-то знает номер ТН ВЭД, так сразу его говорить (в шпаргалке написать)."
+            }
+        ]
+    },
+    "71739": {
+        "id": 71739,
+        "type": "message",
+        "date": "2024-02-02T16:09:30",
+        "date_unixtime": "1706879370",
+        "edited": "2024-02-02T16:15:38",
+        "edited_unixtime": "1706879738",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 63414,
+        "text": [
+            "Кажется, вот подходящий ВЭД: ",
+            {
+                "type": "code",
+                "text": "3926 90 970 9"
+            },
+            "\nОписание: Изделия прочие из пластмасс и изделия из прочих материалов товарных позиций 3901 - 3914, прочие"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Кажется, вот подходящий ВЭД: "
+            },
+            {
+                "type": "code",
+                "text": "3926 90 970 9"
+            },
+            {
+                "type": "plain",
+                "text": "\nОписание: Изделия прочие из пластмасс и изделия из прочих материалов товарных позиций 3901 - 3914, прочие"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Vital'",
+                        "from_id": "user292953215",
+                        "date": "2024-02-02T16:09:39"
+                    }
+                ]
+            }
+        ]
+    },
+    "71740": {
+        "id": 71740,
+        "type": "message",
+        "date": "2024-02-02T16:09:42",
+        "date_unixtime": "1706879382",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 71738,
+        "text": "Туба или тубус вабщэта",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Туба или тубус вабщэта"
+            }
+        ]
+    },
+    "71742": {
+        "id": 71742,
+        "type": "message",
+        "date": "2024-02-02T16:10:28",
+        "date_unixtime": "1706879428",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 63414,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1322,
+        "height": 198,
+        "text": "",
+        "text_entities": []
+    },
+    "71743": {
+        "id": 71743,
+        "type": "message",
+        "date": "2024-02-02T16:13:44",
+        "date_unixtime": "1706879624",
+        "edited": "2024-02-02T16:14:51",
+        "edited_unixtime": "1706879691",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 71739,
+        "text": "Как я понял, под этот код пишут все пластиковые пробирки. Примеры таких товаров:\n- пластиковая пробирка для сбора анализов при проведения клинических исследований, не для ветеринарии\n- пробирка пластиковая, стерильная с крышкой, внутри ватный тампон, 16/110 мм, для лабораторного использования, не для медицины не для ветеринарии\n- пробирка 2,0 мл, градуированная\n- пробирка для культивирования клеток, пригодна для центрифугирования\n- пробирка типа Falcon 50 мл, коническая",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Как я понял, под этот код пишут все пластиковые пробирки. Примеры таких товаров:\n- пластиковая пробирка для сбора анализов при проведения клинических исследований, не для ветеринарии\n- пробирка пластиковая, стерильная с крышкой, внутри ватный тампон, 16/110 мм, для лабораторного использования, не для медицины не для ветеринарии\n- пробирка 2,0 мл, градуированная\n- пробирка для культивирования клеток, пригодна для центрифугирования\n- пробирка типа Falcon 50 мл, коническая"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "Vital'",
+                        "from_id": "user292953215",
+                        "date": "2024-02-02T16:14:51"
+                    }
+                ]
+            }
+        ]
+    },
+    "71744": {
+        "id": 71744,
+        "type": "message",
+        "date": "2024-02-02T16:14:02",
+        "date_unixtime": "1706879642",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 63414,
+        "text": "Единственное, она же не пустая, а с материалом внутри) Но таких позиций в классификаторах не находится",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Единственное, она же не пустая, а с материалом внутри) Но таких позиций в классификаторах не находится"
+            }
+        ]
+    },
+    "71746": {
+        "id": 71746,
+        "type": "message",
+        "date": "2024-02-02T16:21:51",
+        "date_unixtime": "1706880111",
+        "edited": "2024-02-02T16:24:48",
+        "edited_unixtime": "1706880288",
+        "from": "Vitaly Khor Vitaut",
+        "from_id": "user7511581",
+        "reply_to_message_id": 63414,
+        "text": "У меня один раз из 10 спросили про код ТНВЭД, т.к. я отметил что посылка не подарок со стоимостью 1 бакс., те же platistic tubes with water. без алкоголя. заняло около 30-40 минут, вместо обычных 15 мин. отправлял в конце 2022-начале 2023.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У меня один раз из 10 спросили про код ТНВЭД, т.к. я отметил что посылка не подарок со стоимостью 1 бакс., те же platistic tubes with water. без алкоголя. заняло около 30-40 минут, вместо обычных 15 мин. отправлял в конце 2022-начале 2023."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2024-02-02T16:24:48"
+                    }
+                ]
+            }
+        ]
+    },
+    "71747": {
+        "id": 71747,
+        "type": "message",
+        "date": "2024-02-02T16:27:28",
+        "date_unixtime": "1706880448",
+        "edited": "2024-02-02T16:28:29",
+        "edited_unixtime": "1706880509",
+        "from": "Dmytro Donskyi",
+        "from_id": "user96275956",
+        "reply_to_message_id": 63414,
+        "text": "з України останні рази взагалі рекомендованим листом відправляв, жодних декларацій",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "з України останні рази взагалі рекомендованим листом відправляв, жодних декларацій"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2024-02-02T16:28:29"
+                    }
+                ]
+            }
+        ]
+    },
+    "71748": {
+        "id": 71748,
+        "type": "message",
+        "date": "2024-02-02T16:28:10",
+        "date_unixtime": "1706880490",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 63414,
+        "text": [
+            "Странно, я как раз отправлял как подарок, но этот код зачем-то спросили) Может, какие-то новые правила, или сотрудница просто не в курсе была.\nНашел еще такое обсуждение: ",
+            {
+                "type": "link",
+                "text": "https://forum.tks.ru/showthread.php?t=242334"
+            },
+            "\nТам упоминают другой код - ",
+            {
+                "type": "phone",
+                "text": "3001902000"
+            },
+            ", но он как раз в дереве Фармацевтической продукции, что может вызвать подозрения: ",
+            {
+                "type": "link",
+                "text": "https://www.tws.by/tws/tnved/code/4909"
+            },
+            "\nВ общем ладно, жду, потом отпишусь)"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Странно, я как раз отправлял как подарок, но этот код зачем-то спросили) Может, какие-то новые правила, или сотрудница просто не в курсе была.\nНашел еще такое обсуждение: "
+            },
+            {
+                "type": "link",
+                "text": "https://forum.tks.ru/showthread.php?t=242334"
+            },
+            {
+                "type": "plain",
+                "text": "\nТам упоминают другой код - "
+            },
+            {
+                "type": "phone",
+                "text": "3001902000"
+            },
+            {
+                "type": "plain",
+                "text": ", но он как раз в дереве Фармацевтической продукции, что может вызвать подозрения: "
+            },
+            {
+                "type": "link",
+                "text": "https://www.tws.by/tws/tnved/code/4909"
+            },
+            {
+                "type": "plain",
+                "text": "\nВ общем ладно, жду, потом отпишусь)"
+            }
+        ]
+    },
+    "71749": {
+        "id": 71749,
+        "type": "message",
+        "date": "2024-02-02T16:29:29",
+        "date_unixtime": "1706880569",
+        "from": "Dmytro Donskyi",
+        "from_id": "user96275956",
+        "reply_to_message_id": 63414,
+        "text": "чогось я думаю незалежно від країни на митниці чхати хотіли на ці коди, вони в курсі, що там йде на ту саму адресу",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "чогось я думаю незалежно від країни на митниці чхати хотіли на ці коди, вони в курсі, що там йде на ту саму адресу"
+            }
+        ]
+    },
+    "71978": {
+        "id": 71978,
+        "type": "message",
+        "date": "2024-02-04T00:17:23",
+        "date_unixtime": "1706995043",
+        "edited": "2024-02-04T02:28:05",
+        "edited_unixtime": "1707002885",
+        "from": "Dmytro Donskyi",
+        "from_id": "user96275956",
+        "reply_to_message_id": 63414,
+        "text": "Comparing Kit FE9721750 (Dmytro Donskyi) [Ancestry] and Kit YN8813180 (Dmytro Donskyi) [FTDNA]\n\nTotal Half-Match segments (HIR) 3583.4cM (99.884 Pct)\n\nото за 2 роки мене поміняло",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Comparing Kit FE9721750 (Dmytro Donskyi) [Ancestry] and Kit YN8813180 (Dmytro Donskyi) [FTDNA]\n\nTotal Half-Match segments (HIR) 3583.4cM (99.884 Pct)\n\nото за 2 роки мене поміняло"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "😁",
+                "recent": [
+                    {
+                        "from": "Anastasia Nichiporovich",
+                        "from_id": "user251428128",
+                        "date": "2024-02-04T12:11:04"
+                    },
+                    {
+                        "from": "Александр Папин",
+                        "from_id": "user698870737",
+                        "date": "2024-02-04T02:28:05"
+                    }
+                ]
+            }
+        ]
+    },
+    "71979": {
+        "id": 71979,
+        "type": "message",
+        "date": "2024-02-04T00:21:33",
+        "date_unixtime": "1706995293",
+        "edited": "2024-02-04T01:52:33",
+        "edited_unixtime": "1707000753",
+        "from": "Pavel",
+        "from_id": "user1354985288",
+        "reply_to_message_id": 71728,
+        "text": "Тоже 14 дней на обработке было.\nСейчас больше недели полёта",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тоже 14 дней на обработке было.\nСейчас больше недели полёта"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Дарья",
+                        "from_id": "user423502458",
+                        "date": "2024-02-04T07:57:28"
+                    },
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2024-02-04T01:52:33"
+                    }
+                ]
+            }
+        ]
+    },
+    "71980": {
+        "id": 71980,
+        "type": "message",
+        "date": "2024-02-04T00:43:01",
+        "date_unixtime": "1706996581",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 71978,
+        "text": "В гедматче есть такая штука как \"Combine multiple kits into 1 superkit\", вот можете как раз это и сделать со своими двумя комплектами :) Достаточно купить Tier 1 на месяц",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В гедматче есть такая штука как \"Combine multiple kits into 1 superkit\", вот можете как раз это и сделать со своими двумя комплектами :) Достаточно купить Tier 1 на месяц"
+            }
+        ]
+    },
+    "71981": {
+        "id": 71981,
+        "type": "message",
+        "date": "2024-02-04T00:43:40",
+        "date_unixtime": "1706996620",
+        "from": "Dmytro Donskyi",
+        "from_id": "user96275956",
+        "reply_to_message_id": 71980,
+        "text": "а коли 1 місяць закінчиться, той суперкіт не перетвориться на гарбуза? :)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "а коли 1 місяць закінчиться, той суперкіт не перетвориться на гарбуза? :)"
+            }
+        ]
+    },
+    "71982": {
+        "id": 71982,
+        "type": "message",
+        "date": "2024-02-04T00:44:03",
+        "date_unixtime": "1706996643",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 63414,
+        "text": "Не",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Не"
+            }
+        ]
+    },
+    "71983": {
+        "id": 71983,
+        "type": "message",
+        "date": "2024-02-04T00:44:12",
+        "date_unixtime": "1706996652",
+        "from": "Dmytro Donskyi",
+        "from_id": "user96275956",
+        "reply_to_message_id": 71982,
+        "text": "ОК, дякую",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ОК, дякую"
+            }
+        ]
+    },
+    "71984": {
+        "id": 71984,
+        "type": "message",
+        "date": "2024-02-04T00:44:27",
+        "date_unixtime": "1706996667",
+        "edited": "2024-02-04T00:44:42",
+        "edited_unixtime": "1706996682",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 63414,
+        "text": "Я так купил тариф и перенес с других аккаунтов киты в один. Стало удобней.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я так купил тариф и перенес с других аккаунтов киты в один. Стало удобней."
+            }
+        ]
+    },
+    "71985": {
+        "id": 71985,
+        "type": "message",
+        "date": "2024-02-04T00:44:49",
+        "date_unixtime": "1706996689",
+        "from": "Dmytro Donskyi",
+        "from_id": "user96275956",
+        "reply_to_message_id": 71982,
+        "text": "а може ще й можна додаткові ДНК файли завантажувати більше 5 і вони не видаляться?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "а може ще й можна додаткові ДНК файли завантажувати більше 5 і вони не видаляться?"
+            }
+        ]
+    },
+    "71986": {
+        "id": 71986,
+        "type": "message",
+        "date": "2024-02-04T00:45:16",
+        "date_unixtime": "1706996716",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 63414,
+        "text": "Так. Все останется в одном аккаунте :)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так. Все останется в одном аккаунте :)"
+            }
+        ]
+    },
+    "71987": {
+        "id": 71987,
+        "type": "message",
+        "date": "2024-02-04T00:45:49",
+        "date_unixtime": "1706996749",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 63414,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 819,
+        "height": 108,
+        "text": "",
+        "text_entities": []
+    },
+    "71988": {
+        "id": 71988,
+        "type": "message",
+        "date": "2024-02-04T00:53:45",
+        "date_unixtime": "1706997225",
+        "edited": "2024-02-04T00:56:42",
+        "edited_unixtime": "1706997402",
+        "from": "Dmytro Donskyi",
+        "from_id": "user96275956",
+        "reply_to_message_id": 63414,
+        "text": "круто, дякую!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "круто, дякую!"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Vital'",
+                        "from_id": "user292953215",
+                        "date": "2024-02-04T00:56:42"
+                    }
+                ]
+            }
+        ]
+    },
+    "71989": {
+        "id": 71989,
+        "type": "message",
+        "date": "2024-02-04T01:00:23",
+        "date_unixtime": "1706997623",
+        "edited": "2024-02-04T08:09:55",
+        "edited_unixtime": "1707023395",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 63414,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://youtu.be/JJ0o6lDHmek?feature=shared"
+            },
+            "    не магу пакінуць вас без кроплі днк-гумару на ноч."
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://youtu.be/JJ0o6lDHmek?feature=shared"
+            },
+            {
+                "type": "plain",
+                "text": "    не магу пакінуць вас без кроплі днк-гумару на ноч."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ольга",
+                        "from_id": "user1277242985",
+                        "date": "2024-02-13T15:04:44"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-02-04T08:09:55"
+                    }
+                ]
+            }
+        ]
+    },
+    "72196": {
+        "id": 72196,
+        "type": "message",
+        "date": "2024-02-06T17:15:07",
+        "date_unixtime": "1707228907",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 71979,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 628,
+        "height": 153,
+        "text": "Спасибо, что поделились) Получилось аналогично, две недели посылка отлеживалась перед отправкой",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо, что поделились) Получилось аналогично, две недели посылка отлеживалась перед отправкой"
+            }
+        ]
+    }
+}

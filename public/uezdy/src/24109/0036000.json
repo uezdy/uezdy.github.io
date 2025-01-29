@@ -1,0 +1,3029 @@
+{
+    "34035": {
+        "id": 34035,
+        "type": "message",
+        "date": "2023-02-16T16:26:07",
+        "date_unixtime": "1676553967",
+        "edited": "2023-02-16T16:27:15",
+        "edited_unixtime": "1676554035",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "ukaz_tserkov.xlsx",
+        "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "text": [
+            "Единый межфондовый указатель метрических книг ",
+            {
+                "type": "underline",
+                "text": "церквей"
+            },
+            ", хранящихся в Национальном историческом архиве Беларуси в г. Гродно"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Единый межфондовый указатель метрических книг "
+            },
+            {
+                "type": "underline",
+                "text": "церквей"
+            },
+            {
+                "type": "plain",
+                "text": ", хранящихся в Национальном историческом архиве Беларуси в г. Гродно"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Natalia Lu",
+                        "from_id": "user219698220",
+                        "date": "2024-09-30T23:13:30"
+                    },
+                    {
+                        "from": "Alena",
+                        "from_id": "user262554096",
+                        "date": "2023-07-10T01:15:19"
+                    },
+                    {
+                        "from": "Надежда",
+                        "from_id": "user1234364502",
+                        "date": "2023-04-06T12:01:21"
+                    }
+                ]
+            }
+        ]
+    },
+    "34036": {
+        "id": 34036,
+        "type": "message",
+        "date": "2023-02-16T16:26:25",
+        "date_unixtime": "1676553985",
+        "edited": "2023-02-16T16:33:11",
+        "edited_unixtime": "1676554391",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 24109,
+        "text": [
+            "Файлы выше взяты со страницы: ",
+            {
+                "type": "link",
+                "text": "https://archives.gov.by/home/genealogiya/metricheskie-knigi"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Файлы выше взяты со страницы: "
+            },
+            {
+                "type": "link",
+                "text": "https://archives.gov.by/home/genealogiya/metricheskie-knigi"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Надежда",
+                        "from_id": "user1234364502",
+                        "date": "2023-02-20T08:35:20"
+                    },
+                    {
+                        "from": "Anna Kozel",
+                        "from_id": "user227548826",
+                        "date": "2023-02-16T18:02:17"
+                    },
+                    {
+                        "from": "I D",
+                        "from_id": "user5726368881",
+                        "date": "2023-02-16T17:51:47"
+                    }
+                ]
+            }
+        ]
+    },
+    "34277": {
+        "id": 34277,
+        "type": "message",
+        "date": "2023-02-17T19:33:08",
+        "date_unixtime": "1676651588",
+        "edited": "2023-02-17T20:29:41",
+        "edited_unixtime": "1676654981",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць_Гісторыка_дакументальныя_хронікі_гарадоў_і_раёнаў_Беларусі.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Слуцкий район. Слуцк  Книга 1 - 2000. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Слуцкий район. Слуцк  Книга 1 - 2000. Памяць."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Alena",
+                        "from_id": "user262554096",
+                        "date": "2023-07-10T01:15:39"
+                    },
+                    {
+                        "from": "I D",
+                        "from_id": "user5726368881",
+                        "date": "2023-03-27T23:17:31"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user1515478552",
+                        "date": "2023-03-06T08:03:58"
+                    }
+                ]
+            }
+        ]
+    },
+    "34278": {
+        "id": 34278,
+        "type": "message",
+        "date": "2023-02-17T19:33:08",
+        "date_unixtime": "1676651588",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць_Гісторыка_дакументальныя_хронікі_гарадоў_і_раёнаў_Беларусі.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Слуцкий район. Слуцк  Книга 2 - 2001. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Слуцкий район. Слуцк  Книга 2 - 2001. Памяць."
+            }
+        ]
+    },
+    "34279": {
+        "id": 34279,
+        "type": "message",
+        "date": "2023-02-17T19:33:09",
+        "date_unixtime": "1676651589",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць_Гісторыка_дакументальныя_хронікі_гарадоў_і_раёнаў_Беларусі.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Слуцкий район. Слуцк  Книга 3 - 2015. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Слуцкий район. Слуцк  Книга 3 - 2015. Памяць."
+            }
+        ]
+    },
+    "34280": {
+        "id": 34280,
+        "type": "message",
+        "date": "2023-02-17T19:33:09",
+        "date_unixtime": "1676651589",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Krypskiy_1999.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            {
+                "type": "bold",
+                "text": "Память. Крупский район"
+            },
+            ". Памяць.\nза книгу спасибо Eka."
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Память. Крупский район"
+            },
+            {
+                "type": "plain",
+                "text": ". Памяць.\nза книгу спасибо Eka."
+            }
+        ]
+    },
+    "34281": {
+        "id": 34281,
+        "type": "message",
+        "date": "2023-02-17T19:33:46",
+        "date_unixtime": "1676651626",
+        "edited": "2023-02-17T20:31:16",
+        "edited_unixtime": "1676655076",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Sennenskiy_2003.djvu",
+        "mime_type": "image/vnd.djvu+multipage",
+        "text": "Память. Сенненский район. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Сенненский район. Памяць."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Sergey Fedosenkov",
+                        "from_id": "user989610685",
+                        "date": "2024-12-27T08:12:34"
+                    },
+                    {
+                        "from": "I P",
+                        "from_id": "user999240181",
+                        "date": "2023-02-20T12:20:00"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Alena",
+                        "from_id": "user262554096",
+                        "date": "2023-07-09T21:04:10"
+                    }
+                ]
+            }
+        ]
+    },
+    "34282": {
+        "id": 34282,
+        "type": "message",
+        "date": "2023-02-17T19:33:46",
+        "date_unixtime": "1676651626",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Tolochinskiy_1988.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Толочинский район. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Толочинский район. Памяць."
+            }
+        ]
+    },
+    "34283": {
+        "id": 34283,
+        "type": "message",
+        "date": "2023-02-17T19:33:47",
+        "date_unixtime": "1676651627",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць_Гісторыка_дакументальныя_хронікі_гарадоў_і_раёнаў_Беларусі.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Бешенковичский район. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Бешенковичский район. Памяць."
+            }
+        ]
+    },
+    "34284": {
+        "id": 34284,
+        "type": "message",
+        "date": "2023-02-17T19:33:47",
+        "date_unixtime": "1676651627",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Память_Дубровенский_район,_книга_1.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Дубровенский район\nКнига 1. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Дубровенский район\nКнига 1. Памяць."
+            }
+        ]
+    },
+    "34285": {
+        "id": 34285,
+        "type": "message",
+        "date": "2023-02-17T19:34:14",
+        "date_unixtime": "1676651654",
+        "edited": "2023-02-17T20:34:26",
+        "edited_unixtime": "1676655266",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць_Гісторыка_дакументальныя_хронікі_гарадоў_і_раёнаў_Беларусі.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Гомельский район - 1998. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Гомельский район - 1998. Памяць."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "I P",
+                        "from_id": "user999240181",
+                        "date": "2023-02-20T12:20:03"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Vajšund",
+                        "from_id": "user6591066264",
+                        "date": "2024-05-06T12:31:26"
+                    },
+                    {
+                        "from": "Alena",
+                        "from_id": "user262554096",
+                        "date": "2023-07-09T21:03:10"
+                    }
+                ]
+            }
+        ]
+    },
+    "34286": {
+        "id": 34286,
+        "type": "message",
+        "date": "2023-02-17T19:34:15",
+        "date_unixtime": "1676651655",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць_Гісторыка_дакументальныя_хронікі_гарадоў_і_раёнаў_Беларусі.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Житковичский раён. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Житковичский раён. Памяць."
+            }
+        ]
+    },
+    "34287": {
+        "id": 34287,
+        "type": "message",
+        "date": "2023-02-17T19:34:15",
+        "date_unixtime": "1676651655",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць_Гісторыка_дакументальныя_хронікі_гарадоў_і_раёнаў_Беларусі.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Калинковичский район - 1999. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Калинковичский район - 1999. Памяць."
+            }
+        ]
+    },
+    "34288": {
+        "id": 34288,
+        "type": "message",
+        "date": "2023-02-17T19:34:16",
+        "date_unixtime": "1676651656",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць_Гісторыка_дакументальныя_хронікі_гарадоў_і_раёнаў_Беларусі.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Кормянский район - 2003. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Кормянский район - 2003. Памяць."
+            }
+        ]
+    },
+    "34289": {
+        "id": 34289,
+        "type": "message",
+        "date": "2023-02-17T19:34:16",
+        "date_unixtime": "1676651656",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць_Гісторыка_дакументальныя_хронікі_гарадоў_і_раёнаў_Беларусі.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Рогачевский район - 1994. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Рогачевский район - 1994. Памяць."
+            }
+        ]
+    },
+    "34290": {
+        "id": 34290,
+        "type": "message",
+        "date": "2023-02-17T19:34:17",
+        "date_unixtime": "1676651657",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Память_Добрушский_район_т_1_стр_62_70.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Добрушский район. Памяць",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Добрушский район. Памяць"
+            }
+        ]
+    },
+    "34291": {
+        "id": 34291,
+        "type": "message",
+        "date": "2023-02-17T19:34:17",
+        "date_unixtime": "1676651657",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць_Гісторыка_дакументальныя_хронікі_гарадоў_і_раёнаў_Беларусі.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Петриковский район - 1995. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Петриковский район - 1995. Памяць."
+            }
+        ]
+    },
+    "34292": {
+        "id": 34292,
+        "type": "message",
+        "date": "2023-02-17T19:34:18",
+        "date_unixtime": "1676651658",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць_Гісторыка_дакументальныя_хронікі_гарадоў_і_раёнаў_Беларусі.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Мозырь и Мозырский район - 1997. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Мозырь и Мозырский район - 1997. Памяць."
+            }
+        ]
+    },
+    "34294": {
+        "id": 34294,
+        "type": "message",
+        "date": "2023-02-17T19:35:04",
+        "date_unixtime": "1676651704",
+        "edited": "2023-02-17T20:36:29",
+        "edited_unixtime": "1676655389",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Goretsky_1996.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Горецкий район. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Горецкий район. Памяць."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Alena",
+                        "from_id": "user262554096",
+                        "date": "2023-07-09T21:01:57"
+                    },
+                    {
+                        "from": "I P",
+                        "from_id": "user999240181",
+                        "date": "2023-02-20T12:20:07"
+                    },
+                    {
+                        "from": "tikr 1",
+                        "from_id": "user1633348757",
+                        "date": "2023-02-19T17:24:23"
+                    }
+                ]
+            }
+        ]
+    },
+    "34295": {
+        "id": 34295,
+        "type": "message",
+        "date": "2023-02-17T19:35:04",
+        "date_unixtime": "1676651704",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Bykhovsky_1990.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Быховский район. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Быховский район. Памяць."
+            }
+        ]
+    },
+    "34296": {
+        "id": 34296,
+        "type": "message",
+        "date": "2023-02-17T19:35:05",
+        "date_unixtime": "1676651705",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць_Гісторыка_дакументальныя_хронікі_гарадоў_і_раёнаў_Беларусі.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Кличевский район - 1995. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Кличевский район - 1995. Памяць."
+            }
+        ]
+    },
+    "34297": {
+        "id": 34297,
+        "type": "message",
+        "date": "2023-02-17T19:35:05",
+        "date_unixtime": "1676651705",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць_Гісторыка_дакументальныя_хронікі_гарадоў_і_раёнаў_Беларусі.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Шкловский район - 1998. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Шкловский район - 1998. Памяць."
+            }
+        ]
+    },
+    "34298": {
+        "id": 34298,
+        "type": "message",
+        "date": "2023-02-17T19:35:06",
+        "date_unixtime": "1676651706",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць_Гісторыка_дакументальныя_хронікі_гарадоў_і_раёнаў_Беларусі.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Бобруйский район - 1998. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Бобруйский район - 1998. Памяць."
+            }
+        ]
+    },
+    "34299": {
+        "id": 34299,
+        "type": "message",
+        "date": "2023-02-17T19:35:06",
+        "date_unixtime": "1676651706",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць_Гісторыка_дакументальныя_хронікі_гарадоў_і_раёнаў_Беларусі.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Осиповичский район - 2002. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Осиповичский район - 2002. Памяць."
+            }
+        ]
+    },
+    "34300": {
+        "id": 34300,
+        "type": "message",
+        "date": "2023-02-17T19:35:07",
+        "date_unixtime": "1676651707",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць_Гісторыка_дакументальныя_хронікі_гарадоў_і_раёнаў_Беларусі.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Кричевский район - 2004. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Кричевский район - 2004. Памяць."
+            }
+        ]
+    },
+    "34301": {
+        "id": 34301,
+        "type": "message",
+        "date": "2023-02-17T19:35:35",
+        "date_unixtime": "1676651735",
+        "edited": "2023-02-17T20:32:36",
+        "edited_unixtime": "1676655156",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Baranovichskiy_2000.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Барановичский район. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Барановичский район. Памяць."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Alena",
+                        "from_id": "user262554096",
+                        "date": "2023-07-09T21:03:29"
+                    },
+                    {
+                        "from": "tikr 1",
+                        "from_id": "user1633348757",
+                        "date": "2023-02-19T17:24:51"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "I P",
+                        "from_id": "user999240181",
+                        "date": "2023-02-20T12:20:11"
+                    }
+                ]
+            }
+        ]
+    },
+    "34302": {
+        "id": 34302,
+        "type": "message",
+        "date": "2023-02-17T19:35:36",
+        "date_unixtime": "1676651736",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Berezovsky_1987.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Берёзовский раён. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Берёзовский раён. Памяць."
+            }
+        ]
+    },
+    "34303": {
+        "id": 34303,
+        "type": "message",
+        "date": "2023-02-17T19:35:36",
+        "date_unixtime": "1676651736",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Brestskiy_1998.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Брестский район. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Брестский район. Памяць."
+            }
+        ]
+    },
+    "34304": {
+        "id": 34304,
+        "type": "message",
+        "date": "2023-02-17T19:35:37",
+        "date_unixtime": "1676651737",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Gantsevichsky_1999.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Ганцевичский район. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Ганцевичский район. Памяць."
+            }
+        ]
+    },
+    "34305": {
+        "id": 34305,
+        "type": "message",
+        "date": "2023-02-17T19:35:37",
+        "date_unixtime": "1676651737",
+        "edited": "2023-02-17T22:58:39",
+        "edited_unixtime": "1676663919",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць_Гісторыка_дакументальныя_хронікі_гарадоў_і_раёнаў_Беларусі.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Дрогичинский район - 1997. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Дрогичинский район - 1997. Памяць."
+            }
+        ]
+    },
+    "34306": {
+        "id": 34306,
+        "type": "message",
+        "date": "2023-02-17T19:35:38",
+        "date_unixtime": "1676651738",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Zhabinkovsky_1999.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Жабинковский район. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Жабинковский район. Памяць."
+            }
+        ]
+    },
+    "34307": {
+        "id": 34307,
+        "type": "message",
+        "date": "2023-02-17T19:35:38",
+        "date_unixtime": "1676651738",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Ivanovsky_2000.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Ивановский район. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Ивановский район. Памяць."
+            }
+        ]
+    },
+    "34308": {
+        "id": 34308,
+        "type": "message",
+        "date": "2023-02-17T19:35:39",
+        "date_unixtime": "1676651739",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Ivatsevichskiy_1997.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Ивацевичский район. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Ивацевичский район. Памяць."
+            }
+        ]
+    },
+    "34309": {
+        "id": 34309,
+        "type": "message",
+        "date": "2023-02-17T19:35:39",
+        "date_unixtime": "1676651739",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Kamenetsky_1997.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Каменецкий район. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Каменецкий район. Памяць."
+            }
+        ]
+    },
+    "34310": {
+        "id": 34310,
+        "type": "message",
+        "date": "2023-02-17T19:35:44",
+        "date_unixtime": "1676651744",
+        "edited": "2023-02-17T20:44:03",
+        "edited_unixtime": "1676655843",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Luninetskiy_1995.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Лунинецкий район. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Лунинецкий район. Памяць."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "I P",
+                        "from_id": "user999240181",
+                        "date": "2023-02-20T12:20:15"
+                    },
+                    {
+                        "from": "tikr 1",
+                        "from_id": "user1633348757",
+                        "date": "2023-02-19T17:24:55"
+                    },
+                    {
+                        "from": "N.Y.",
+                        "from_id": "user1841363435",
+                        "date": "2023-02-17T20:44:03"
+                    }
+                ]
+            }
+        ]
+    },
+    "34311": {
+        "id": 34311,
+        "type": "message",
+        "date": "2023-02-17T19:35:44",
+        "date_unixtime": "1676651744",
+        "edited": "2023-02-17T20:46:24",
+        "edited_unixtime": "1676655984",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Lyakhavitskyi_1989.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Ляховичский район. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Ляховичский район. Памяць."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Яська Гаспадар з-пад Вільні",
+                        "from_id": "user787777714",
+                        "date": "2024-05-30T13:11:30"
+                    },
+                    {
+                        "from": "I P",
+                        "from_id": "user999240181",
+                        "date": "2023-02-20T12:20:18"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Alena",
+                        "from_id": "user262554096",
+                        "date": "2023-07-09T21:03:40"
+                    }
+                ]
+            }
+        ]
+    },
+    "34312": {
+        "id": 34312,
+        "type": "message",
+        "date": "2023-02-17T19:35:45",
+        "date_unixtime": "1676651745",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Maloritsky_1998.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Малоритский район. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Малоритский район. Памяць."
+            }
+        ]
+    },
+    "34313": {
+        "id": 34313,
+        "type": "message",
+        "date": "2023-02-17T19:35:45",
+        "date_unixtime": "1676651745",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Pinsky_2003.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Пинский район. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Пинский район. Памяць."
+            }
+        ]
+    },
+    "34314": {
+        "id": 34314,
+        "type": "message",
+        "date": "2023-02-17T19:35:46",
+        "date_unixtime": "1676651746",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Pruzhansky_1992.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Пружанский район. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Пружанский район. Памяць."
+            }
+        ]
+    },
+    "34315": {
+        "id": 34315,
+        "type": "message",
+        "date": "2023-02-17T19:35:46",
+        "date_unixtime": "1676651746",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Stolinskiy_2003.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Столинский район. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Столинский район. Памяць."
+            }
+        ]
+    },
+    "34316": {
+        "id": 34316,
+        "type": "message",
+        "date": "2023-02-17T19:35:47",
+        "date_unixtime": "1676651747",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць_Гісторыка_дакументальныя_хронікі_гарадоў_і_раёнаў_Беларусі.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Брест. Книга 1 - 1997. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Брест. Книга 1 - 1997. Памяць."
+            }
+        ]
+    },
+    "34317": {
+        "id": 34317,
+        "type": "message",
+        "date": "2023-02-17T19:35:47",
+        "date_unixtime": "1676651747",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць_Гісторыка_дакументальныя_хронікі_гарадоў_і_раёнаў_Беларусі.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Брест. Книга 2 - 2001. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Брест. Книга 2 - 2001. Памяць."
+            }
+        ]
+    },
+    "34318": {
+        "id": 34318,
+        "type": "message",
+        "date": "2023-02-17T19:35:48",
+        "date_unixtime": "1676651748",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць_Гісторыка_дакументальныя_хронікі_гарадоў_і_раёнаў_Беларусі.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Пинск - 1998. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Пинск - 1998. Памяць."
+            }
+        ]
+    },
+    "34319": {
+        "id": 34319,
+        "type": "message",
+        "date": "2023-02-17T19:35:53",
+        "date_unixtime": "1676651753",
+        "edited": "2023-02-17T19:41:06",
+        "edited_unixtime": "1676652066",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Kobrinskiy_Pamyat_2002.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            {
+                "type": "bold",
+                "text": "Память. Кобринский район"
+            },
+            ". Памяць."
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Память. Кобринский район"
+            },
+            {
+                "type": "plain",
+                "text": ". Памяць."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 7,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Яська Гаспадар з-пад Вільні",
+                        "from_id": "user787777714",
+                        "date": "2024-05-30T13:11:29"
+                    },
+                    {
+                        "from": "I P",
+                        "from_id": "user999240181",
+                        "date": "2023-02-20T12:20:21"
+                    },
+                    {
+                        "from": "tikr 1",
+                        "from_id": "user1633348757",
+                        "date": "2023-02-19T17:25:16"
+                    }
+                ]
+            }
+        ]
+    },
+    "34347": {
+        "id": 34347,
+        "type": "message",
+        "date": "2023-02-17T19:52:03",
+        "date_unixtime": "1676652723",
+        "edited": "2023-02-17T20:22:06",
+        "edited_unixtime": "1676654526",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "text": [
+            "Книги \"Памяць/Память\", все вместе, что есть, описание на двух языках для поиска. сгруппированы по областям\nПриветы и Благодарности 😍:\n",
+            {
+                "type": "bold",
+                "text": "Victor"
+            },
+            " ",
+            {
+                "type": "mention",
+                "text": "@victor_voronovich"
+            },
+            "\n",
+            {
+                "type": "bold",
+                "text": "Kanstantsin Miranovich"
+            },
+            " ",
+            {
+                "type": "mention",
+                "text": "@kanstantsin_miranovich"
+            },
+            "\n",
+            {
+                "type": "bold",
+                "text": "Александр МойДом"
+            },
+            " ",
+            {
+                "type": "mention",
+                "text": "@MD_Oren"
+            },
+            "\n",
+            {
+                "type": "bold",
+                "text": "Сергей Шаппо"
+            },
+            " ",
+            {
+                "type": "mention",
+                "text": "@shappo"
+            },
+            "\n",
+            {
+                "type": "bold",
+                "text": "Eka"
+            },
+            " ",
+            {
+                "type": "mention",
+                "text": "@KatarzinaF"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Книги \"Памяць/Память\", все вместе, что есть, описание на двух языках для поиска. сгруппированы по областям\nПриветы и Благодарности 😍:\n"
+            },
+            {
+                "type": "bold",
+                "text": "Victor"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "mention",
+                "text": "@victor_voronovich"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "bold",
+                "text": "Kanstantsin Miranovich"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "mention",
+                "text": "@kanstantsin_miranovich"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "bold",
+                "text": "Александр МойДом"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "mention",
+                "text": "@MD_Oren"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "bold",
+                "text": "Сергей Шаппо"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "mention",
+                "text": "@shappo"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "bold",
+                "text": "Eka"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "mention",
+                "text": "@KatarzinaF"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 14,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Екатерина",
+                        "from_id": "user1202146950",
+                        "date": "2025-01-26T23:33:32"
+                    },
+                    {
+                        "from": "Виктория",
+                        "from_id": "user1069039166",
+                        "date": "2024-04-26T19:50:19"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Яська Гаспадар з-пад Вільні",
+                        "from_id": "user787777714",
+                        "date": "2024-05-30T13:11:27"
+                    }
+                ]
+            }
+        ]
+    },
+    "34352": {
+        "id": 34352,
+        "type": "message",
+        "date": "2023-02-17T20:33:25",
+        "date_unixtime": "1676655205",
+        "edited": "2023-02-17T20:34:07",
+        "edited_unixtime": "1676655247",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Подольский_Хронология_издания_серии_книг_Память_в_РБ.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Обобщающая статья о серии книг \"Память\", некоторые из которых выложены в этой библиотеке. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Обобщающая статья о серии книг \"Память\", некоторые из которых выложены в этой библиотеке. Памяць."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Alena",
+                        "from_id": "user262554096",
+                        "date": "2023-07-09T20:54:42"
+                    },
+                    {
+                        "from": "tikr 1",
+                        "from_id": "user1633348757",
+                        "date": "2023-02-19T17:25:41"
+                    },
+                    {
+                        "from": "maria_roos_petersburg",
+                        "from_id": "user5455800208",
+                        "date": "2023-02-18T08:54:57"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😁"
+            }
+        ]
+    },
+    "34353": {
+        "id": 34353,
+        "type": "message",
+        "date": "2023-02-17T20:37:25",
+        "date_unixtime": "1676655445",
+        "edited": "2023-02-17T20:54:40",
+        "edited_unixtime": "1676656480",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Опись РГИА Ф.823 оп.2.zip",
+        "mime_type": "application/zip",
+        "text": [
+            "Опись РГИА Ф.823 оп.2\nКанцелярия митрополитов греко-униатских церквей\nРаздел I. Дела Архива западнорусских униатских митрополитов.\nРаздел II. Копии метрических книг Брестской и Луцкой униатских епархий. (с.1175-1276, файл 0595)\nОглавление к разделу II по уездам сс. 1628—1629, файл 0822\nИсточник:\n",
+            {
+                "type": "link",
+                "text": "https://fgurgia.ru/object/441117#2846687"
+            },
+            "\n",
+            {
+                "type": "link",
+                "text": "https://fgurgia.ru/imageViewer/img?url=mZaTmpGekprCx83MoM3Rj5uZ2ZyKjY2akYuvnpiaws7ZmoeLwtGPm5nZkJ2VmpyLws3Hy8nJx8jZnouLjcLOysfH2YyajZaek8LO"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Опись РГИА Ф.823 оп.2\nКанцелярия митрополитов греко-униатских церквей\nРаздел I. Дела Архива западнорусских униатских митрополитов.\nРаздел II. Копии метрических книг Брестской и Луцкой униатских епархий. (с.1175-1276, файл 0595)\nОглавление к разделу II по уездам сс. 1628—1629, файл 0822\nИсточник:\n"
+            },
+            {
+                "type": "link",
+                "text": "https://fgurgia.ru/object/441117#2846687"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "link",
+                "text": "https://fgurgia.ru/imageViewer/img?url=mZaTmpGekprCx83MoM3Rj5uZ2ZyKjY2akYuvnpiaws7ZmoeLwtGPm5nZkJ2VmpyLws3Hy8nJx8jZnouLjcLOysfH2YyajZaek8LO"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Яська Гаспадар з-пад Вільні",
+                        "from_id": "user787777714",
+                        "date": "2024-05-30T13:12:00"
+                    },
+                    {
+                        "from": "Alena",
+                        "from_id": "user262554096",
+                        "date": "2023-07-10T01:17:55"
+                    },
+                    {
+                        "from": "Чысты Гуманітарый",
+                        "from_id": "user453928472",
+                        "date": "2023-02-23T14:12:55"
+                    }
+                ]
+            }
+        ]
+    },
+    "34361": {
+        "id": 34361,
+        "type": "message",
+        "date": "2023-02-17T21:53:00",
+        "date_unixtime": "1676659980",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 34301,
+        "text": "По Дрогичинскому файл дефектный. Не открывается.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "По Дрогичинскому файл дефектный. Не открывается."
+            }
+        ]
+    },
+    "34362": {
+        "id": 34362,
+        "type": "message",
+        "date": "2023-02-17T22:13:24",
+        "date_unixtime": "1676661204",
+        "edited": "2023-02-17T22:16:02",
+        "edited_unixtime": "1676661362",
+        "from": "Victor",
+        "from_id": "user512489139",
+        "reply_to_message_id": 34361,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць_Гісторыка_дакументальныя_хронікі_гарадоў_і_раёнаў_Беларусі.pdf",
+        "mime_type": "application/pdf",
+        "text": "можно и обновить\nПамять. Дрогичинский район - 1997",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "можно и обновить\nПамять. Дрогичинский район - 1997"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "tikr 1",
+                        "from_id": "user1633348757",
+                        "date": "2023-02-19T17:28:02"
+                    },
+                    {
+                        "from": "DEN",
+                        "from_id": "user1702495111",
+                        "date": "2023-02-17T22:43:09"
+                    },
+                    {
+                        "from": "N.Y.",
+                        "from_id": "user1841363435",
+                        "date": "2023-02-17T22:16:02"
+                    }
+                ]
+            }
+        ]
+    },
+    "34366": {
+        "id": 34366,
+        "type": "message",
+        "date": "2023-02-17T22:47:59",
+        "date_unixtime": "1676663279",
+        "edited": "2023-02-17T22:48:15",
+        "edited_unixtime": "1676663295",
+        "from": null,
+        "from_id": "user1351040624",
+        "reply_to_message_id": 24109,
+        "text": "А ці ёсць Памяць па Вілейскаму ці Радашковічскаму районах?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А ці ёсць Памяць па Вілейскаму ці Радашковічскаму районах?"
+            }
+        ]
+    },
+    "34367": {
+        "id": 34367,
+        "type": "message",
+        "date": "2023-02-17T22:50:27",
+        "date_unixtime": "1676663427",
+        "edited": "2023-08-28T17:38:27",
+        "edited_unixtime": "1693233507",
+        "from": "Юлия",
+        "from_id": "user1260328130",
+        "reply_to_message_id": 24109,
+        "text": "А есть книга Память  по Городокскому району?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А есть книга Память  по Городокскому району?"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "P",
+                        "from_id": "user201810877",
+                        "date": "2023-08-28T17:38:27"
+                    }
+                ]
+            }
+        ]
+    },
+    "34372": {
+        "id": 34372,
+        "type": "message",
+        "date": "2023-02-17T23:26:21",
+        "date_unixtime": "1676665581",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "reply_to_message_id": 24109,
+        "text": "Есть подписанные фото Баранович и Пружан.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Есть подписанные фото Баранович и Пружан."
+            }
+        ]
+    },
+    "34373": {
+        "id": 34373,
+        "type": "message",
+        "date": "2023-02-17T23:26:21",
+        "date_unixtime": "1676665581",
+        "edited": "2023-02-17T23:31:31",
+        "edited_unixtime": "1676665891",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": [
+            "1914-1918. Альбом с фотографиями и открытками из русской кампании Питера Августа Бека. Бек был мастером шахмат по профессии и служил на фронте с 1914 по 1918 год. Он умер вскоре после окончания войны от малярии в сочетании с менингитом, который он заразился на Припятских болотах в России. (несколько фото, открытки вроде бы Русского периода, но подписаны по немецкому). ",
+            {
+                "type": "hashtag",
+                "text": "#ПМВ"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Германия"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "1914-1918. Альбом с фотографиями и открытками из русской кампании Питера Августа Бека. Бек был мастером шахмат по профессии и служил на фронте с 1914 по 1918 год. Он умер вскоре после окончания войны от малярии в сочетании с менингитом, который он заразился на Припятских болотах в России. (несколько фото, открытки вроде бы Русского периода, но подписаны по немецкому). "
+            },
+            {
+                "type": "hashtag",
+                "text": "#ПМВ"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Германия"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Alena",
+                        "from_id": "user262554096",
+                        "date": "2023-07-10T01:18:58"
+                    },
+                    {
+                        "from": "Виктория Савич",
+                        "from_id": "user1245099187",
+                        "date": "2023-02-20T16:08:11"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2023-02-18T00:41:07"
+                    }
+                ]
+            }
+        ]
+    },
+    "34374": {
+        "id": 34374,
+        "type": "message",
+        "date": "2023-02-17T23:26:21",
+        "date_unixtime": "1676665581",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    "34375": {
+        "id": 34375,
+        "type": "message",
+        "date": "2023-02-17T23:26:22",
+        "date_unixtime": "1676665582",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    "34376": {
+        "id": 34376,
+        "type": "message",
+        "date": "2023-02-17T23:26:22",
+        "date_unixtime": "1676665582",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    "34377": {
+        "id": 34377,
+        "type": "message",
+        "date": "2023-02-17T23:26:23",
+        "date_unixtime": "1676665583",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    "34378": {
+        "id": 34378,
+        "type": "message",
+        "date": "2023-02-17T23:26:23",
+        "date_unixtime": "1676665583",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    "34379": {
+        "id": 34379,
+        "type": "message",
+        "date": "2023-02-17T23:26:23",
+        "date_unixtime": "1676665583",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    "34387": {
+        "id": 34387,
+        "type": "message",
+        "date": "2023-02-18T07:24:52",
+        "date_unixtime": "1676694292",
+        "edited": "2023-06-02T00:30:18",
+        "edited_unixtime": "1685655018",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1914_1918_Альбом_с_фотографиями_и_открытками_из_русской_кампании.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            "------------- ",
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            " -----------\nЗаглавие: 1914-1918. Альбом с фотографиями и открытками из русской кампании Питера Августа Бека. Бек был шахматистом по профессии и служил на фронте с 1914 по 1918 год. Он умер вскоре после окончания войны от малярии в сочетании с менингитом, который он заразился на Припятских болотах в России., 52 стр., 23,00 Мб., PDF.\nАвтор: П.А.Бек.\nЖанр: ",
+            {
+                "type": "hashtag",
+                "text": "#1918г"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Германия"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#ПМВ"
+            },
+            "\nИздатель: Германия.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: ",
+            {
+                "type": "link",
+                "text": "https://book-olds.ru/BookLibrary/00930-Armii-Troystvennogo-Soyuza/1914-1918.-Albom-s-fotografiyami-i-otkryitkami-iz-russkoy-kampanii-Pitera-Avgusta-Beka.html"
+            },
+            "\n------------- ",
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            " -----------"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "------------- "
+            },
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            {
+                "type": "plain",
+                "text": " -----------\nЗаглавие: 1914-1918. Альбом с фотографиями и открытками из русской кампании Питера Августа Бека. Бек был шахматистом по профессии и служил на фронте с 1914 по 1918 год. Он умер вскоре после окончания войны от малярии в сочетании с менингитом, который он заразился на Припятских болотах в России., 52 стр., 23,00 Мб., PDF.\nАвтор: П.А.Бек.\nЖанр: "
+            },
+            {
+                "type": "hashtag",
+                "text": "#1918г"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Германия"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#ПМВ"
+            },
+            {
+                "type": "plain",
+                "text": "\nИздатель: Германия.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: "
+            },
+            {
+                "type": "link",
+                "text": "https://book-olds.ru/BookLibrary/00930-Armii-Troystvennogo-Soyuza/1914-1918.-Albom-s-fotografiyami-i-otkryitkami-iz-russkoy-kampanii-Pitera-Avgusta-Beka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n------------- "
+            },
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            {
+                "type": "plain",
+                "text": " -----------"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Katya Makarevich",
+                        "from_id": "user521432070",
+                        "date": "2023-06-02T00:30:18"
+                    }
+                ]
+            }
+        ]
+    },
+    "34486": {
+        "id": 34486,
+        "type": "message",
+        "date": "2023-02-19T08:19:10",
+        "date_unixtime": "1676783950",
+        "edited": "2023-02-19T09:42:00",
+        "edited_unixtime": "1676788920",
+        "from": null,
+        "from_id": "user337706595",
+        "reply_to_message_id": 24109,
+        "text": "Книга память Речицкий район может быть есть у кого-нибудь?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Книга память Речицкий район может быть есть у кого-нибудь?"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Рита",
+                        "from_id": "user1225367405",
+                        "date": "2023-05-11T08:44:10"
+                    },
+                    {
+                        "from": "Anna Kozel",
+                        "from_id": "user227548826",
+                        "date": "2023-02-19T09:42:00"
+                    }
+                ]
+            }
+        ]
+    },
+    "34487": {
+        "id": 34487,
+        "type": "message",
+        "date": "2023-02-19T09:42:43",
+        "date_unixtime": "1676788963",
+        "from": "Anna Kozel",
+        "from_id": "user227548826",
+        "reply_to_message_id": 24109,
+        "text": "И Дриссенский если можно.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И Дриссенский если можно."
+            }
+        ]
+    },
+    "34500": {
+        "id": 34500,
+        "type": "message",
+        "date": "2023-02-19T11:02:12",
+        "date_unixtime": "1676793732",
+        "edited": "2023-02-19T11:58:02",
+        "edited_unixtime": "1676797082",
+        "from": "Ізербун",
+        "from_id": "user657807901",
+        "reply_to_message_id": 24109,
+        "text": "И Светлогорский, пожалуйста.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И Светлогорский, пожалуйста."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "🐒",
+                        "from_id": "user1262081028",
+                        "date": "2023-02-19T11:58:02"
+                    }
+                ]
+            }
+        ]
+    },
+    "34501": {
+        "id": 34501,
+        "type": "message",
+        "date": "2023-02-19T11:17:31",
+        "date_unixtime": "1676794651",
+        "edited": "2023-02-19T12:28:30",
+        "edited_unixtime": "1676798910",
+        "from": "I D",
+        "from_id": "user5726368881",
+        "reply_to_message_id": 24109,
+        "text": "Борисовский! 😁",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Борисовский! 😁"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ирина Бадьина",
+                        "from_id": "user233333536",
+                        "date": "2023-03-16T08:19:01"
+                    },
+                    {
+                        "from": "Mila",
+                        "from_id": "user741369269",
+                        "date": "2023-02-19T12:28:30"
+                    }
+                ]
+            }
+        ]
+    },
+    "34502": {
+        "id": 34502,
+        "type": "message",
+        "date": "2023-02-19T11:21:43",
+        "date_unixtime": "1676794903",
+        "edited": "2024-04-25T12:11:43",
+        "edited_unixtime": "1714036303",
+        "from": "Paval Hadzinski",
+        "from_id": "user111398048",
+        "reply_to_message_id": 24109,
+        "text": "Калі пайшла такая п’янка: і Вілейскі мо ёсьць у кагосьці",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Калі пайшла такая п’янка: і Вілейскі мо ёсьць у кагосьці"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ольга",
+                        "from_id": "user415713686",
+                        "date": "2024-04-25T12:11:43"
+                    }
+                ]
+            }
+        ]
+    },
+    "34504": {
+        "id": 34504,
+        "type": "message",
+        "date": "2023-02-19T11:39:12",
+        "date_unixtime": "1676795952",
+        "edited": "2023-02-19T11:50:02",
+        "edited_unixtime": "1676796602",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 985,
+        "text": [
+            "11 ноября 1915. Барановичи, Оккупация ) ",
+            {
+                "type": "hashtag",
+                "text": "#ПМВ"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Германия"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "11 ноября 1915. Барановичи, Оккупация ) "
+            },
+            {
+                "type": "hashtag",
+                "text": "#ПМВ"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Германия"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🙏",
+                "recent": [
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2023-02-19T19:27:55"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2023-02-19T11:50:02"
+                    }
+                ]
+            }
+        ]
+    },
+    "34518": {
+        "id": 34518,
+        "type": "message",
+        "date": "2023-02-19T12:29:13",
+        "date_unixtime": "1676798953",
+        "edited": "2023-02-19T23:39:11",
+        "edited_unixtime": "1676839151",
+        "from": "Mila",
+        "from_id": "user741369269",
+        "reply_to_message_id": 24109,
+        "text": "Березенский мб у кого-то есть?🙏",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Березенский мб у кого-то есть?🙏"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "D.M.",
+                        "from_id": "user572729336",
+                        "date": "2023-02-19T23:39:11"
+                    }
+                ]
+            }
+        ]
+    },
+    "34526": {
+        "id": 34526,
+        "type": "message",
+        "date": "2023-02-19T17:32:32",
+        "date_unixtime": "1676817152",
+        "from": "tikr 1",
+        "from_id": "user1633348757",
+        "reply_to_message_id": 34367,
+        "text": "Городокский район заказывала по межбиблиотечному каталогу из Минска в Брест, хотелось бы в эл. виде",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Городокский район заказывала по межбиблиотечному каталогу из Минска в Брест, хотелось бы в эл. виде"
+            }
+        ]
+    },
+    "34591": {
+        "id": 34591,
+        "type": "message",
+        "date": "2023-02-20T00:39:46",
+        "date_unixtime": "1676842786",
+        "edited": "2023-02-20T00:47:04",
+        "edited_unixtime": "1676843224",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Valancin_Holubieu_Sielskaja_abscyna_u_Bielarusi_XVI_XVIII_stst.pdf",
+        "mime_type": "application/pdf",
+        "text": "В. Ф. Голубеў \" СЕЛЬСКАЯ АБШЧЫНА Ў БЕЛАРУСІ ХVІ-ХVIII стст. \" Беларуская навука, 2008 г. / Голубев \"Сельская община в Беларуси в ХVІ-ХVIII вв.\"\n(Язык белорусский).\n\nДадзеная манаграфія – гэта першае даследаванне становішча сялянскай абшчыны ва ўсіх відах феад альнага землеўладання на тэрыторыі Беларусі ў ХVІ-ХVIII стст. Паказана становішча абшчыны ў розных рэгіёнах Беларусі, вызначаны агульныя тэнд энцыі і асаблівасц і развіцця ў дзяржаўных, прыватных і царкоўных уладаннях. Разгледжаны асноўныя функцыі грамады як інстытута сялянскай самаарганізацыі, службовых асоб грамады, яе адносіны з землеўласнікамі.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В. Ф. Голубеў \" СЕЛЬСКАЯ АБШЧЫНА Ў БЕЛАРУСІ ХVІ-ХVIII стст. \" Беларуская навука, 2008 г. / Голубев \"Сельская община в Беларуси в ХVІ-ХVIII вв.\"\n(Язык белорусский).\n\nДадзеная манаграфія – гэта першае даследаванне становішча сялянскай абшчыны ва ўсіх відах феад альнага землеўладання на тэрыторыі Беларусі ў ХVІ-ХVIII стст. Паказана становішча абшчыны ў розных рэгіёнах Беларусі, вызначаны агульныя тэнд энцыі і асаблівасц і развіцця ў дзяржаўных, прыватных і царкоўных уладаннях. Разгледжаны асноўныя функцыі грамады як інстытута сялянскай самаарганізацыі, службовых асоб грамады, яе адносіны з землеўласнікамі."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 8,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "L",
+                        "from_id": "user99883653",
+                        "date": "2024-09-20T00:47:40"
+                    },
+                    {
+                        "from": "ХТО НІХТО",
+                        "from_id": "user425011945",
+                        "date": "2024-03-13T18:41:09"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-03-13T15:46:30"
+                    }
+                ]
+            }
+        ]
+    },
+    "34681": {
+        "id": 34681,
+        "type": "message",
+        "date": "2023-02-20T21:19:55",
+        "date_unixtime": "1676917195",
+        "edited": "2023-02-20T21:24:36",
+        "edited_unixtime": "1676917476",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1024,
+        "height": 742,
+        "text": [
+            "1918. Минск оккупация, конка на Захарьевской улице. ",
+            {
+                "type": "hashtag",
+                "text": "#ПМВ"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Минск"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Германия"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "1918. Минск оккупация, конка на Захарьевской улице. "
+            },
+            {
+                "type": "hashtag",
+                "text": "#ПМВ"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Минск"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Германия"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 8,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "ИринаП",
+                        "from_id": "user5277890033",
+                        "date": "2023-03-06T14:36:07"
+                    },
+                    {
+                        "from": "Ізербун",
+                        "from_id": "user657807901",
+                        "date": "2023-02-25T22:34:54"
+                    },
+                    {
+                        "from": "S",
+                        "from_id": "user5894458397",
+                        "date": "2023-02-20T22:43:31"
+                    }
+                ]
+            }
+        ]
+    },
+    "34917": {
+        "id": 34917,
+        "type": "message",
+        "date": "2023-02-22T11:26:32",
+        "date_unixtime": "1677054392",
+        "edited": "2023-02-22T15:55:28",
+        "edited_unixtime": "1677070528",
+        "from": "Alena",
+        "from_id": "user5267069615",
+        "reply_to_message_id": 24109,
+        "text": [
+            "Беларусь\n",
+            {
+                "type": "link",
+                "text": "https://www.geno-dbase.ru/storage/Russian_Empire_2/Belarus/"
+            },
+            "\nОписание пленок по Беларуси через ссылку: ",
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/post/1883/76911/p3384839.htm#pp3384839"
+            },
+            "\nА также читаем \"шапку\" раздела \"Беларусь у мормонов\": ",
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/post/1883/76911/p2181063.htm#pp2181063"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Беларусь\n"
+            },
+            {
+                "type": "link",
+                "text": "https://www.geno-dbase.ru/storage/Russian_Empire_2/Belarus/"
+            },
+            {
+                "type": "plain",
+                "text": "\nОписание пленок по Беларуси через ссылку: "
+            },
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/post/1883/76911/p3384839.htm#pp3384839"
+            },
+            {
+                "type": "plain",
+                "text": "\nА также читаем \"шапку\" раздела \"Беларусь у мормонов\": "
+            },
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/post/1883/76911/p2181063.htm#pp2181063"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Елена Суханова",
+                        "from_id": "user311241859",
+                        "date": "2024-08-15T16:40:16"
+                    },
+                    {
+                        "from": "Надежда",
+                        "from_id": "user1234364502",
+                        "date": "2023-04-06T12:06:27"
+                    },
+                    {
+                        "from": "Evgeniy Shabanov",
+                        "from_id": "user387659235",
+                        "date": "2023-02-28T17:03:52"
+                    }
+                ]
+            }
+        ]
+    },
+    "34947": {
+        "id": 34947,
+        "type": "message",
+        "date": "2023-02-22T16:00:25",
+        "date_unixtime": "1677070825",
+        "edited": "2023-02-28T17:04:51",
+        "edited_unixtime": "1677593091",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "image_2023-02-22_17-00-17.png",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/png",
+        "width": 966,
+        "height": 899,
+        "text": [
+            "Народонаселение и языки Европы. 1907 г.\nИздание товарищеста А.Ф. Маркса в С-Петербурге (Российская империя, 1907г.)\nИсточник\n",
+            {
+                "type": "link",
+                "text": "https://commons.wikimedia.org/wiki/File:Народонаселеніе_и_языки_ЕВРОПЫ_1907_С-П._РИ..jpg"
+            },
+            "\n",
+            {
+                "type": "link",
+                "text": "http://periskop.livejournal.com/596220.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Народонаселение и языки Европы. 1907 г.\nИздание товарищеста А.Ф. Маркса в С-Петербурге (Российская империя, 1907г.)\nИсточник\n"
+            },
+            {
+                "type": "link",
+                "text": "https://commons.wikimedia.org/wiki/File:Народонаселеніе_и_языки_ЕВРОПЫ_1907_С-П._РИ..jpg"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "link",
+                "text": "http://periskop.livejournal.com/596220.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Evgeniy Shabanov",
+                        "from_id": "user387659235",
+                        "date": "2023-02-28T17:04:52"
+                    }
+                ]
+            }
+        ]
+    },
+    "35277": {
+        "id": 35277,
+        "type": "message",
+        "date": "2023-02-23T21:48:55",
+        "date_unixtime": "1677178135",
+        "edited": "2023-02-23T22:28:08",
+        "edited_unixtime": "1677180488",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 30655,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Seczys_E_Szlachta_guberni_augustowskiej,_lubelskiej_i_radomskiej.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": [
+            "Szlachta guberni augustowskiej, lubelskiej i radomskiej wylegitymowana w Królestwie Polskim w latach 1836–1861 / Oprac. E. Sęczys. Warszawa: Naczelna Dyrekcja Archiwów Państwowych, 2018. 522 s.\n\nКрыніца: ",
+            {
+                "type": "link",
+                "text": "https://www.archiwa.gov.pl/wp-content/uploads/2022/03/Szlachta_guberni_augustowskiej_PDF.pdf"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Szlachta guberni augustowskiej, lubelskiej i radomskiej wylegitymowana w Królestwie Polskim w latach 1836–1861 / Oprac. E. Sęczys. Warszawa: Naczelna Dyrekcja Archiwów Państwowych, 2018. 522 s.\n\nКрыніца: "
+            },
+            {
+                "type": "link",
+                "text": "https://www.archiwa.gov.pl/wp-content/uploads/2022/03/Szlachta_guberni_augustowskiej_PDF.pdf"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Olga",
+                        "from_id": "user1117086057",
+                        "date": "2023-02-23T22:28:08"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Alena",
+                        "from_id": "user262554096",
+                        "date": "2023-07-10T02:20:43"
+                    }
+                ]
+            }
+        ]
+    },
+    "35318": {
+        "id": 35318,
+        "type": "message",
+        "date": "2023-02-24T00:17:57",
+        "date_unixtime": "1677187077",
+        "edited": "2023-07-10T02:21:19",
+        "edited_unixtime": "1688944879",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Байбурин_А_Советский_паспорт_История,_структура,_практики_2017.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": [
+            {
+                "type": "italic",
+                "text": "Байбурин А.К."
+            },
+            " Советский паспорт: история – структура – практики. СПб.: Издательство Европейского университета в Санкт-Петербурге, 2017. 488 с."
+        ],
+        "text_entities": [
+            {
+                "type": "italic",
+                "text": "Байбурин А.К."
+            },
+            {
+                "type": "plain",
+                "text": " Советский паспорт: история – структура – практики. СПб.: Издательство Европейского университета в Санкт-Петербурге, 2017. 488 с."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Alena",
+                        "from_id": "user262554096",
+                        "date": "2023-07-10T02:21:19"
+                    }
+                ]
+            }
+        ]
+    },
+    "35518": {
+        "id": 35518,
+        "type": "message",
+        "date": "2023-02-25T02:01:13",
+        "date_unixtime": "1677279673",
+        "edited": "2023-02-25T02:12:17",
+        "edited_unixtime": "1677280337",
+        "from": "Olga",
+        "from_id": "user1117086057",
+        "reply_to_message_id": 24109,
+        "text": "„…Witam , ostatnio w poszukiwaniach na temat Powstania Styczniowego na Litwie ,natknęłam się na taką oto listę  pt: \"Kobiety zamieszane w powstaniu 1863 r. na Litwie\" ,może tu Ktoś poszukuje informacji na temat przodków, zamieszkałych na Litwie w okresie Powstania Styczniowego ?…“",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "„…Witam , ostatnio w poszukiwaniach na temat Powstania Styczniowego na Litwie ,natknęłam się na taką oto listę  pt: \"Kobiety zamieszane w powstaniu 1863 r. na Litwie\" ,może tu Ktoś poszukuje informacji na temat przodków, zamieszkałych na Litwie w okresie Powstania Styczniowego ?…“"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 7,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "rå øl",
+                        "from_id": "user5013402907",
+                        "date": "2024-01-01T20:38:26"
+                    },
+                    {
+                        "from": "Наталья Спасская",
+                        "from_id": "user1487544921",
+                        "date": "2023-09-22T22:43:09"
+                    },
+                    {
+                        "from": "Чысты Гуманітарый",
+                        "from_id": "user453928472",
+                        "date": "2023-03-12T10:24:20"
+                    }
+                ]
+            }
+        ]
+    },
+    "35519": {
+        "id": 35519,
+        "type": "message",
+        "date": "2023-02-25T02:01:13",
+        "date_unixtime": "1677279673",
+        "from": "Olga",
+        "from_id": "user1117086057",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "LVIA_F1248_ap1_b622.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    "35520": {
+        "id": 35520,
+        "type": "message",
+        "date": "2023-02-25T07:44:41",
+        "date_unixtime": "1677300281",
+        "edited": "2023-02-25T09:20:31",
+        "edited_unixtime": "1677306031",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 35518,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 953,
+        "height": 178,
+        "text": "Ці не Францішка Багушэвіча сваячка",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ці не Францішка Багушэвіча сваячка"
+            }
+        ]
+    },
+    "35550": {
+        "id": 35550,
+        "type": "message",
+        "date": "2023-02-25T22:30:01",
+        "date_unixtime": "1677353401",
+        "edited": "2023-02-25T22:51:37",
+        "edited_unixtime": "1677354697",
+        "from": "Olga",
+        "from_id": "user1117086057",
+        "reply_to_message_id": 35520,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://www.facebook.com/groups/oshmyany/permalink/1879754795702673/?fs=e&s=cl"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://www.facebook.com/groups/oshmyany/permalink/1879754795702673/?fs=e&s=cl"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2023-02-25T22:51:37"
+                    }
+                ]
+            }
+        ]
+    },
+    "35729": {
+        "id": 35729,
+        "type": "message",
+        "date": "2023-02-26T19:00:01",
+        "date_unixtime": "1677427201",
+        "edited": "2023-02-26T19:11:01",
+        "edited_unixtime": "1677427861",
+        "from": "Victor",
+        "from_id": "user512489139",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Liseychikov_Dzyanis_Liseychykau_Svyatar_u_belaruskim_socyume_prasapagrafiya.pdf",
+        "mime_type": "application/pdf",
+        "text": "Дзяніс Лісейчыкаў. Святар у беларускім соцыуме: прасапаграфія ўніяцкага духавенства 1596―1839 гг.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Дзяніс Лісейчыкаў. Святар у беларускім соцыуме: прасапаграфія ўніяцкага духавенства 1596―1839 гг."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 9,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Яська Гаспадар з-пад Вільні",
+                        "from_id": "user787777714",
+                        "date": "2024-05-24T18:56:43"
+                    },
+                    {
+                        "from": "В В",
+                        "from_id": "user770204124",
+                        "date": "2023-10-29T16:07:49"
+                    },
+                    {
+                        "from": "Любовь",
+                        "from_id": "user1745829524",
+                        "date": "2023-10-23T22:55:00"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍"
+            }
+        ]
+    },
+    "35738": {
+        "id": 35738,
+        "type": "message",
+        "date": "2023-02-26T19:11:26",
+        "date_unixtime": "1677427886",
+        "edited": "2023-02-26T19:21:47",
+        "edited_unixtime": "1677428507",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 35729,
+        "text": "Там геаграфічны паказальнік разгорнуты.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Там геаграфічны паказальнік разгорнуты."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Victor",
+                        "from_id": "user512489139",
+                        "date": "2023-02-26T19:21:47"
+                    }
+                ]
+            }
+        ]
+    },
+    "35850": {
+        "id": 35850,
+        "type": "message",
+        "date": "2023-02-27T15:04:38",
+        "date_unixtime": "1677499478",
+        "edited": "2023-02-27T15:52:35",
+        "edited_unixtime": "1677502355",
+        "from": "Evita",
+        "from_id": "user66187238",
+        "forwarded_from": "Мамкин генеалог | Генеалогия | Личный опыт",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Иные сведения справочник ЗАГС.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": [
+            "В ",
+            {
+                "type": "text_link",
+                "text": "соседнем чате",
+                "href": "https://t.me/+cRFdP-zRUGoyNTQ6"
+            },
+            " поделились сылкой на важный справочник. \n\nВ какие года какие именно \"иные сведения\" вносилось в актовые записи.\n\nИх можно (нужно) перечислить при запросе справки в ЗАГС.\n\n///\nБольше ссылок на базы и источники собираем в нашем канале ",
+            {
+                "type": "link",
+                "text": "https://t.me/+OUyN7j_MOdw4YWU6"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В "
+            },
+            {
+                "type": "text_link",
+                "text": "соседнем чате",
+                "href": "https://t.me/+cRFdP-zRUGoyNTQ6"
+            },
+            {
+                "type": "plain",
+                "text": " поделились сылкой на важный справочник. \n\nВ какие года какие именно \"иные сведения\" вносилось в актовые записи.\n\nИх можно (нужно) перечислить при запросе справки в ЗАГС.\n\n///\nБольше ссылок на базы и источники собираем в нашем канале "
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/+OUyN7j_MOdw4YWU6"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Aliaksandr R",
+                        "from_id": "user622497157",
+                        "date": "2024-01-14T09:18:35"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Natalia Lu",
+                        "from_id": "user219698220",
+                        "date": "2024-09-30T23:17:21"
+                    },
+                    {
+                        "from": "Alena",
+                        "from_id": "user262554096",
+                        "date": "2023-07-10T02:22:32"
+                    }
+                ]
+            }
+        ]
+    },
+    "35851": {
+        "id": 35851,
+        "type": "message",
+        "date": "2023-02-27T15:53:20",
+        "date_unixtime": "1677502400",
+        "edited": "2023-02-27T15:55:02",
+        "edited_unixtime": "1677502502",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 35850,
+        "text": [
+            "Могу дополнить хорошей статьей с примерами самих актовых записей ",
+            {
+                "type": "link",
+                "text": "https://dzen.ru/a/YzN-oFDp2UWBfPUi"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Могу дополнить хорошей статьей с примерами самих актовых записей "
+            },
+            {
+                "type": "link",
+                "text": "https://dzen.ru/a/YzN-oFDp2UWBfPUi"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Aliaksandr R",
+                        "from_id": "user622497157",
+                        "date": "2024-01-14T09:18:37"
+                    },
+                    {
+                        "from": "Evgeniy Shabanov",
+                        "from_id": "user387659235",
+                        "date": "2023-02-28T17:08:15"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Evita",
+                        "from_id": "user66187238",
+                        "date": "2023-02-27T15:55:02"
+                    }
+                ]
+            }
+        ]
+    },
+    "35852": {
+        "id": 35852,
+        "type": "message",
+        "date": "2023-02-27T16:55:29",
+        "date_unixtime": "1677506129",
+        "from": "DEN",
+        "from_id": "user1702495111",
+        "reply_to_message_id": 24109,
+        "text": [
+            "Спасибо! Актуальную тему подняли! ",
+            {
+                "type": "mention",
+                "text": "@Brovar80"
+            },
+            ", молодца👍"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо! Актуальную тему подняли! "
+            },
+            {
+                "type": "mention",
+                "text": "@Brovar80"
+            },
+            {
+                "type": "plain",
+                "text": ", молодца👍"
+            }
+        ]
+    },
+    "36048": {
+        "id": 36048,
+        "type": "message",
+        "date": "2023-02-28T21:28:47",
+        "date_unixtime": "1677608927",
+        "edited": "2023-02-28T21:29:11",
+        "edited_unixtime": "1677608951",
+        "from": "Olga",
+        "from_id": "user1117086057",
+        "reply_to_message_id": 35520,
+        "text": [
+            "Богушевичи герба Гоздава. Часть 5.\n…\n",
+            {
+                "type": "bot_command",
+                "text": "/100"
+            },
+            " Анна=Казимира=Юлия*, ↑26.07(28.08).1838, Свираны, Рукойнский костел, kk – губернский секретарь Михал Коваленко и Виктория (Шавельская), жена капитана WP Антона Кунерта; ксендз, доктор богословия и магистр философии Антон=Арсений Хралькевич и Пелягия Кунерт(ова); jwp Станислав Чаплиньский и jwp Агата Блажевич(ова); †25.02.1914, муж – дворянин Адам Мнихович, ↑9(14).08.1838, деревня Шаповалы, Гольшанский костел, в 1872 фольварок Можейково, &18.01.1872, Жупранский костел, św – кушлянцы Юрий и Ян Марковские, Константин Бобровский из Кропивно, Антон Мнихович, Юстын Мейнартович; rv – Кароль М. и Сюзанна Ластовская. * – в 1863 году была арестована вместе со своей свояченицей Анной Бобровской за связи с повстанцами, благодаря чьей-то протекции избежала высылки в Сибирь, освобождена в конце 1864 года.\n\n",
+            {
+                "type": "text_link",
+                "text": "https://www.facebook.com/groups/oshmyany/permalink/1883021198709366/?fs=e&s=cl",
+                "href": "https://www.facebook.com/groups/oshmyany/permalink/1883021198709366/?fs=e&s=cl"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Богушевичи герба Гоздава. Часть 5.\n…\n"
+            },
+            {
+                "type": "bot_command",
+                "text": "/100"
+            },
+            {
+                "type": "plain",
+                "text": " Анна=Казимира=Юлия*, ↑26.07(28.08).1838, Свираны, Рукойнский костел, kk – губернский секретарь Михал Коваленко и Виктория (Шавельская), жена капитана WP Антона Кунерта; ксендз, доктор богословия и магистр философии Антон=Арсений Хралькевич и Пелягия Кунерт(ова); jwp Станислав Чаплиньский и jwp Агата Блажевич(ова); †25.02.1914, муж – дворянин Адам Мнихович, ↑9(14).08.1838, деревня Шаповалы, Гольшанский костел, в 1872 фольварок Можейково, &18.01.1872, Жупранский костел, św – кушлянцы Юрий и Ян Марковские, Константин Бобровский из Кропивно, Антон Мнихович, Юстын Мейнартович; rv – Кароль М. и Сюзанна Ластовская. * – в 1863 году была арестована вместе со своей свояченицей Анной Бобровской за связи с повстанцами, благодаря чьей-то протекции избежала высылки в Сибирь, освобождена в конце 1864 года.\n\n"
+            },
+            {
+                "type": "text_link",
+                "text": "https://www.facebook.com/groups/oshmyany/permalink/1883021198709366/?fs=e&s=cl",
+                "href": "https://www.facebook.com/groups/oshmyany/permalink/1883021198709366/?fs=e&s=cl"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "I m",
+                        "from_id": "user978844079",
+                        "date": "2023-03-01T07:41:13"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2023-02-28T23:56:17"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Stefa",
+                        "from_id": "user1040107903",
+                        "date": "2023-03-02T10:42:14"
+                    }
+                ]
+            }
+        ]
+    }
+}

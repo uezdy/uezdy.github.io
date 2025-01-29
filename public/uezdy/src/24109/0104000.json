@@ -1,0 +1,719 @@
+{
+    "102300": {
+        "id": 102300,
+        "type": "message",
+        "date": "2024-11-04T06:03:59",
+        "date_unixtime": "1730689439",
+        "edited": "2024-11-04T09:24:58",
+        "edited_unixtime": "1730701498",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 600,
+        "height": 846,
+        "text": [
+            {
+                "type": "bold",
+                "text": "Urmański A.K. Zaberezinskiai. Rimvydo palikuonys XV–XVI amžiaus Lietuvos Didžiosios Kunigaikštystės valdančiajame elite. Vilnius: LII, 2024, 296 p., ISBN 9786098314410"
+            },
+            "\n\nВыйшла кніга Антонія Урманьскага, прысвечаная гісторыі вядомага шляхецкага рода Забярэзінскіх у XV–XVI стагоддзях. У даследаванні шырока закранаецца генеалагічны аспект.\n\n",
+            {
+                "type": "link",
+                "text": "https://www.humanitas.lt/produktas/dalykine-ir-moksline-literatura/humanitariniu-mokslu-knygos/zaberezinskiai/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Urmański A.K. Zaberezinskiai. Rimvydo palikuonys XV–XVI amžiaus Lietuvos Didžiosios Kunigaikštystės valdančiajame elite. Vilnius: LII, 2024, 296 p., ISBN 9786098314410"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nВыйшла кніга Антонія Урманьскага, прысвечаная гісторыі вядомага шляхецкага рода Забярэзінскіх у XV–XVI стагоддзях. У даследаванні шырока закранаецца генеалагічны аспект.\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://www.humanitas.lt/produktas/dalykine-ir-moksline-literatura/humanitariniu-mokslu-knygos/zaberezinskiai/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "brt",
+                        "from_id": "user1053350862",
+                        "date": "2024-11-05T18:07:04"
+                    },
+                    {
+                        "from": "Marina Yurochka",
+                        "from_id": "user6971824773",
+                        "date": "2024-11-04T10:53:29"
+                    },
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2024-11-04T09:24:58"
+                    }
+                ]
+            }
+        ]
+    },
+    "102301": {
+        "id": 102301,
+        "type": "message",
+        "date": "2024-11-04T06:03:59",
+        "date_unixtime": "1730689439",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 852,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "102518": {
+        "id": 102518,
+        "type": "message",
+        "date": "2024-11-06T01:05:02",
+        "date_unixtime": "1730844302",
+        "edited": "2024-11-06T02:01:20",
+        "edited_unixtime": "1730847680",
+        "from": "A.",
+        "from_id": "user853091369",
+        "forwarded_from": "A.",
+        "reply_to_message_id": 24109,
+        "text": [
+            "ГИМ г. Москва ф. 606 о.1 д.213 \nСлонимский православный приход Преображения Господня (Собор)\nПроиндексированные:\n",
+            {
+                "type": "text_link",
+                "text": "Записи о бракосочетании, 1899 год",
+                "href": "https://docs.google.com/spreadsheets/d/1rxVl4Lyhk5uot1CrUT6gsBlXJzhEuE3kEcaJNlcV95E/edit?gid=174949499#gid=174949499"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Записи о рождении, 1899 год",
+                "href": "https://docs.google.com/spreadsheets/d/1FHuHMlJR9lE369HqkfK4q-HbrO3qLcowPBADY0kUk6M/edit?gid=1809992211#gid=1809992211"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ГИМ г. Москва ф. 606 о.1 д.213 \nСлонимский православный приход Преображения Господня (Собор)\nПроиндексированные:\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Записи о бракосочетании, 1899 год",
+                "href": "https://docs.google.com/spreadsheets/d/1rxVl4Lyhk5uot1CrUT6gsBlXJzhEuE3kEcaJNlcV95E/edit?gid=174949499#gid=174949499"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Записи о рождении, 1899 год",
+                "href": "https://docs.google.com/spreadsheets/d/1FHuHMlJR9lE369HqkfK4q-HbrO3qLcowPBADY0kUk6M/edit?gid=1809992211#gid=1809992211"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 8,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Alvik",
+                        "from_id": "user332377588",
+                        "date": "2024-11-07T16:26:01"
+                    },
+                    {
+                        "from": "ХТО НІХТО",
+                        "from_id": "user425011945",
+                        "date": "2024-11-06T16:46:54"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-11-06T11:49:02"
+                    }
+                ]
+            }
+        ]
+    },
+    "103369": {
+        "id": 103369,
+        "type": "message",
+        "date": "2024-11-14T09:54:23",
+        "date_unixtime": "1731567263",
+        "edited": "2024-11-14T09:55:21",
+        "edited_unixtime": "1731567321",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "2010_2_JILIR_koval.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": [
+            "Коваль Ольга Владимировна. Эканамічная эміграцыя беларусаў у ЗША (1918—1939 гг.) // Журнал международного права и международных отношений. — 2010. — № 2\n",
+            {
+                "type": "link",
+                "text": "https://elib.bsu.by/handle/123456789/17440"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Коваль Ольга Владимировна. Эканамічная эміграцыя беларусаў у ЗША (1918—1939 гг.) // Журнал международного права и международных отношений. — 2010. — № 2\n"
+            },
+            {
+                "type": "link",
+                "text": "https://elib.bsu.by/handle/123456789/17440"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Kris Romanyuk",
+                        "from_id": "user173177233",
+                        "date": "2024-11-14T12:49:20"
+                    },
+                    {
+                        "from": ";",
+                        "from_id": "user5579643927",
+                        "date": "2024-11-14T11:41:08"
+                    },
+                    {
+                        "from": "I D",
+                        "from_id": "user5726368881",
+                        "date": "2024-11-14T10:32:54"
+                    }
+                ]
+            }
+        ]
+    },
+    "103404": {
+        "id": 103404,
+        "type": "message",
+        "date": "2024-11-14T14:42:37",
+        "date_unixtime": "1731584557",
+        "edited": "2024-11-14T18:09:46",
+        "edited_unixtime": "1731596986",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 24109,
+        "text": "НИАБГродно\nф. 18 о.2 д.441\nс. 14-15 Список домохозяев переселившихся окончательно к 01.01.1911 на участки, доставшиеся им после разверстания надельной черезполосицы по Гродненскому уезду.\nСписок крестьян бывшей деревни Суховляны и Сухари.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "НИАБГродно\nф. 18 о.2 д.441\nс. 14-15 Список домохозяев переселившихся окончательно к 01.01.1911 на участки, доставшиеся им после разверстания надельной черезполосицы по Гродненскому уезду.\nСписок крестьян бывшей деревни Суховляны и Сухари."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2024-11-14T19:20:24"
+                    },
+                    {
+                        "from": "Alvik",
+                        "from_id": "user332377588",
+                        "date": "2024-11-14T18:52:57"
+                    },
+                    {
+                        "from": "Sb",
+                        "from_id": "user6512553342",
+                        "date": "2024-11-14T18:09:47"
+                    }
+                ]
+            }
+        ]
+    },
+    "103594": {
+        "id": 103594,
+        "type": "message",
+        "date": "2024-11-16T00:17:40",
+        "date_unixtime": "1731705460",
+        "edited": "2024-11-16T01:09:54",
+        "edited_unixtime": "1731708594",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 24109,
+        "text": [
+            {
+                "type": "text_link",
+                "text": "Дыялектычны слоўнік лабарскай гаворкі\nІванаўская раённая бібліятэка ім. Ф. Панфёрава",
+                "href": "https://web.archive.org/web/20221116122405/http://gn.org.ua/Labur_dictionary"
+            },
+            "\n\nМова прадзедаў, мова дзядоў\nДыялектычны слоўнік лабарскай гаворкі\nІванава, 2006"
+        ],
+        "text_entities": [
+            {
+                "type": "text_link",
+                "text": "Дыялектычны слоўнік лабарскай гаворкі\nІванаўская раённая бібліятэка ім. Ф. Панфёрава",
+                "href": "https://web.archive.org/web/20221116122405/http://gn.org.ua/Labur_dictionary"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nМова прадзедаў, мова дзядоў\nДыялектычны слоўнік лабарскай гаворкі\nІванава, 2006"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Максим Горностай",
+                        "from_id": "user342311613",
+                        "date": "2024-12-03T23:03:22"
+                    },
+                    {
+                        "from": "Kris Romanyuk",
+                        "from_id": "user173177233",
+                        "date": "2024-11-18T13:23:49"
+                    },
+                    {
+                        "from": "$€£¥ €£¥₩$",
+                        "from_id": "user6871021372",
+                        "date": "2024-11-16T14:48:39"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍"
+            }
+        ]
+    },
+    "103604": {
+        "id": 103604,
+        "type": "message",
+        "date": "2024-11-16T07:39:56",
+        "date_unixtime": "1731731996",
+        "edited": "2024-11-16T08:05:11",
+        "edited_unixtime": "1731733511",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1911 Ves Minsk sputnik.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            "------- ",
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            " -------\nЗаглавие: 1911. Весь Минск или Спутник по г. Минску., 260 стр., 20,30 Мб., PDF.\nАвтор: С.М.Яхимович (1-е изд.)\nЖанр: ",
+            {
+                "type": "hashtag",
+                "text": "#1911г"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Минская"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Генеалогия"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Беларусь"
+            },
+            "\nИздатель: Минск. Типография Фельдмана и Перского.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на книгу в библиотеке: ",
+            {
+                "type": "link",
+                "text": "http://book-olds.ru/BookLibrary/22000-Minskaya-gub/1911.-Ves-Minsk-ili-Sputnik-po-g.-Minsku.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "------- "
+            },
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            {
+                "type": "plain",
+                "text": " -------\nЗаглавие: 1911. Весь Минск или Спутник по г. Минску., 260 стр., 20,30 Мб., PDF.\nАвтор: С.М.Яхимович (1-е изд.)\nЖанр: "
+            },
+            {
+                "type": "hashtag",
+                "text": "#1911г"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Минская"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Генеалогия"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Беларусь"
+            },
+            {
+                "type": "plain",
+                "text": "\nИздатель: Минск. Типография Фельдмана и Перского.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на книгу в библиотеке: "
+            },
+            {
+                "type": "link",
+                "text": "http://book-olds.ru/BookLibrary/22000-Minskaya-gub/1911.-Ves-Minsk-ili-Sputnik-po-g.-Minsku.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Алеся",
+                        "from_id": "user5126250394",
+                        "date": "2024-11-16T08:05:11"
+                    }
+                ]
+            }
+        ]
+    },
+    "103605": {
+        "id": 103605,
+        "type": "message",
+        "date": "2024-11-16T07:40:42",
+        "date_unixtime": "1731732042",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 103604,
+        "text": "Пишут, что это редакция файла по состоянию на сегодняшний день.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Пишут, что это редакция файла по состоянию на сегодняшний день."
+            }
+        ]
+    },
+    "103606": {
+        "id": 103606,
+        "type": "message",
+        "date": "2024-11-16T08:13:53",
+        "date_unixtime": "1731734033",
+        "edited": "2024-11-16T08:17:35",
+        "edited_unixtime": "1731734255",
+        "from": "Snowyblack",
+        "from_id": "user1991929657",
+        "reply_to_message_id": 103594,
+        "text": "И через 500 лет все понятно)) Русско-ла6орский словарь\nволосы – патлы\nворовская компания – яперная хевра\nглотать – хавать\nглотка – хавала\nголова – калган\nгоноровый – фандыберистый\nдать тумака – колошматыть\nдеревенский мужик – харахоль, мэть\nдом – хаза\nдурак – чмурко\nЖадный – шкныра\nжадничать – шкнырыть\nклиент – маклак\nконец – хана\nмочиться – сцыкорить\nмять – жмокать\nмятый – жмоканный\nнехорошо – нэхухо\nон – бич, бисий\nплести ерунду – чмурить\nплохой – нехухий\nпьяница – кирняк\nпьянка – кирня\nпьяный – кирной\nрвать, сечь – кромсать\nрезаный – кромсанный\nсмешить – хохмить\nсобутыльник – кирюха\nспать – кимарить\nхороший – клёвый, суразный\nхорошо – клево",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И через 500 лет все понятно)) Русско-ла6орский словарь\nволосы – патлы\nворовская компания – яперная хевра\nглотать – хавать\nглотка – хавала\nголова – калган\nгоноровый – фандыберистый\nдать тумака – колошматыть\nдеревенский мужик – харахоль, мэть\nдом – хаза\nдурак – чмурко\nЖадный – шкныра\nжадничать – шкнырыть\nклиент – маклак\nконец – хана\nмочиться – сцыкорить\nмять – жмокать\nмятый – жмоканный\nнехорошо – нэхухо\nон – бич, бисий\nплести ерунду – чмурить\nплохой – нехухий\nпьяница – кирняк\nпьянка – кирня\nпьяный – кирной\nрвать, сечь – кромсать\nрезаный – кромсанный\nсмешить – хохмить\nсобутыльник – кирюха\nспать – кимарить\nхороший – клёвый, суразный\nхорошо – клево"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "🤣",
+                "recent": [
+                    {
+                        "from": "Olga Ro",
+                        "from_id": "user5149643584",
+                        "date": "2024-11-25T17:23:10"
+                    },
+                    {
+                        "from": "Мария",
+                        "from_id": "user797332086",
+                        "date": "2024-11-16T21:30:20"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥"
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Дарья",
+                        "from_id": "user1292945373",
+                        "date": "2024-11-19T00:26:31"
+                    }
+                ]
+            }
+        ]
+    },
+    "103756": {
+        "id": 103756,
+        "type": "message",
+        "date": "2024-11-17T23:34:46",
+        "date_unixtime": "1731875686",
+        "edited": "2024-11-18T10:56:13",
+        "edited_unixtime": "1731916573",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "LVIA 11-1-1469 Inwentarz Lomazkiey 1789-1794.pdf",
+        "mime_type": "application/pdf",
+        "text": "LVIA 11-1-1469 \nInwentarz Lomazkiey 1789-1794 (Województwo Brzeskie)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "LVIA 11-1-1469 \nInwentarz Lomazkiey 1789-1794 (Województwo Brzeskie)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Sb",
+                        "from_id": "user6512553342",
+                        "date": "2024-11-19T11:01:41"
+                    },
+                    {
+                        "from": "Sviatlana Berdus",
+                        "from_id": "user536544602",
+                        "date": "2024-11-18T21:31:29"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-11-18T10:56:13"
+                    }
+                ]
+            }
+        ]
+    },
+    "103856": {
+        "id": 103856,
+        "type": "message",
+        "date": "2024-11-19T10:39:54",
+        "date_unixtime": "1732001994",
+        "from": "Natali Шелганова",
+        "from_id": "user879160135",
+        "reply_to_message_id": 103756,
+        "text": "Скажите, на каком языке это?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Скажите, на каком языке это?"
+            }
+        ]
+    },
+    "103861": {
+        "id": 103861,
+        "type": "message",
+        "date": "2024-11-19T12:54:57",
+        "date_unixtime": "1732010097",
+        "edited": "2024-11-20T13:46:30",
+        "edited_unixtime": "1732099590",
+        "from": "Александр Папин",
+        "from_id": "user698870737",
+        "reply_to_message_id": 24109,
+        "text": "Польский",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Польский"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Natali Шелганова",
+                        "from_id": "user879160135",
+                        "date": "2024-11-20T13:46:30"
+                    }
+                ]
+            }
+        ]
+    },
+    "103934": {
+        "id": 103934,
+        "type": "message",
+        "date": "2024-11-20T10:48:14",
+        "date_unixtime": "1732088894",
+        "edited": "2024-11-20T11:15:11",
+        "edited_unixtime": "1732090511",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "KMF32_2_Архив_униатских_митрополитов.pdf",
+        "mime_type": "application/pdf",
+        "text": "Канцелярия Западно-Русских Униатских Метрополитов\n\n(ЦДIAУк)\n\nВ конце есть указатели.\nПоиск не работает.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Канцелярия Западно-Русских Униатских Метрополитов\n\n(ЦДIAУк)\n\nВ конце есть указатели.\nПоиск не работает."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Evgeniy Shabanov",
+                        "from_id": "user387659235",
+                        "date": "2024-12-07T19:59:45"
+                    },
+                    {
+                        "from": "Vi",
+                        "from_id": "user472567162",
+                        "date": "2024-11-25T09:11:04"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Siarhei Andryjanau",
+                        "from_id": "user153886828",
+                        "date": "2024-11-22T22:00:07"
+                    }
+                ]
+            }
+        ]
+    },
+    "103935": {
+        "id": 103935,
+        "type": "message",
+        "date": "2024-11-20T10:48:14",
+        "date_unixtime": "1732088894",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "KMF32_1_Архив_униатских_митрополитов.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    "104319": {
+        "id": 104319,
+        "type": "message",
+        "date": "2024-11-25T08:08:54",
+        "date_unixtime": "1732511334",
+        "edited": "2024-11-25T09:11:06",
+        "edited_unixtime": "1732515066",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "DuhovnyeGramoty14_16vv.pdf",
+        "mime_type": "application/pdf",
+        "text": "Духовные и договорные грамоты великих и удельных князей XIV-XVIвв.\n\nАН СССР, 1950г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Духовные и договорные грамоты великих и удельных князей XIV-XVIвв.\n\nАН СССР, 1950г."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Гарик",
+                        "from_id": "user7087009637",
+                        "date": "2024-11-25T09:43:18"
+                    },
+                    {
+                        "from": "Vi",
+                        "from_id": "user472567162",
+                        "date": "2024-11-25T09:11:06"
+                    }
+                ]
+            }
+        ]
+    }
+}

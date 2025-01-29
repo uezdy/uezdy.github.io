@@ -1,0 +1,45 @@
+{
+    "40829": {
+        "id": 40829,
+        "type": "message",
+        "date": "2023-04-03T15:19:37",
+        "date_unixtime": "1680524377",
+        "edited": "2023-04-15T17:58:32",
+        "edited_unixtime": "1681570712",
+        "from": "Марина Журавлева (Олешкевич)",
+        "from_id": "user317398191",
+        "reply_to_message_id": 40701,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1911~Морозов Лаврентий с семьей.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 2661,
+        "height": 2153,
+        "text": "~1911 г., Морозов Лаврентий с женой и детьми, посередине девочка в цветном платье - Мария. Предположительно, г.Лунинец Пинского у. Минской губ.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "~1911 г., Морозов Лаврентий с женой и детьми, посередине девочка в цветном платье - Мария. Предположительно, г.Лунинец Пинского у. Минской губ."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Чысты Гуманітарый",
+                        "from_id": "user453928472",
+                        "date": "2023-04-24T10:44:44"
+                    },
+                    {
+                        "from": "Светлана Самсончик",
+                        "from_id": "user1462369405",
+                        "date": "2023-04-15T17:58:32"
+                    }
+                ]
+            }
+        ]
+    }
+}

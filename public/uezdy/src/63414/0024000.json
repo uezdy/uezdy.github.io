@@ -1,0 +1,117 @@
+{
+    "63443": {
+        "id": 63443,
+        "type": "message",
+        "date": "2023-11-19T20:43:21",
+        "date_unixtime": "1700415801",
+        "edited": "2023-11-19T20:44:58",
+        "edited_unixtime": "1700415898",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Nik",
+        "reply_to_message_id": 63414,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1052,
+        "height": 715,
+        "text": [
+            {
+                "type": "bold",
+                "text": "MyHeritage Profile Helper"
+            },
+            " - cкрипт для перехода на профили/деревья/сайты из результатов поиска ",
+            {
+                "type": "underline",
+                "text": "без подписки\n\n"
+            },
+            "Описание и инструкция по установке: ",
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/post/3/16693/p4543364.htm#pp4543364"
+            },
+            "\n\nПохожий скрипт для ",
+            {
+                "type": "bold",
+                "text": "Geni"
+            },
+            " - ",
+            {
+                "type": "text_link",
+                "text": "здесь",
+                "href": "https://forum.vgd.ru/post/3/17495/p4516085.htm#pp4516085"
+            },
+            "."
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "MyHeritage Profile Helper"
+            },
+            {
+                "type": "plain",
+                "text": " - cкрипт для перехода на профили/деревья/сайты из результатов поиска "
+            },
+            {
+                "type": "underline",
+                "text": "без подписки\n\n"
+            },
+            {
+                "type": "plain",
+                "text": "Описание и инструкция по установке: "
+            },
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/post/3/16693/p4543364.htm#pp4543364"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nПохожий скрипт для "
+            },
+            {
+                "type": "bold",
+                "text": "Geni"
+            },
+            {
+                "type": "plain",
+                "text": " - "
+            },
+            {
+                "type": "text_link",
+                "text": "здесь",
+                "href": "https://forum.vgd.ru/post/3/17495/p4516085.htm#pp4516085"
+            },
+            {
+                "type": "plain",
+                "text": "."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "P",
+                        "from_id": "user201810877",
+                        "date": "2024-11-05T18:14:03"
+                    },
+                    {
+                        "from": "Anastasiia",
+                        "from_id": "user271654955",
+                        "date": "2024-03-22T03:14:54"
+                    },
+                    {
+                        "from": "Mosesova Anzhelika",
+                        "from_id": "user365407622",
+                        "date": "2023-12-15T15:59:46"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤"
+            }
+        ]
+    }
+}

@@ -1,0 +1,1829 @@
+{
+    "64068": {
+        "id": 64068,
+        "type": "message",
+        "date": "2023-11-26T20:32:28",
+        "date_unixtime": "1701019948",
+        "edited": "2023-11-27T14:06:53",
+        "edited_unixtime": "1701083213",
+        "from": "Sasha",
+        "from_id": "user1938917510",
+        "reply_to_message_id": 40701,
+        "text": "Красивый мужчина)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Красивый мужчина)"
+            }
+        ]
+    },
+    "64070": {
+        "id": 64070,
+        "type": "message",
+        "date": "2023-11-26T21:06:30",
+        "date_unixtime": "1701021990",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 64065,
+        "text": [
+            "Мне только это напоминает\n",
+            {
+                "type": "link",
+                "text": "https://grafika.ru/item/03-000336?k=913"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мне только это напоминает\n"
+            },
+            {
+                "type": "link",
+                "text": "https://grafika.ru/item/03-000336?k=913"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "64087": {
+        "id": 64087,
+        "type": "message",
+        "date": "2023-11-27T00:14:19",
+        "date_unixtime": "1701033259",
+        "from": "Olesya",
+        "from_id": "user812087649",
+        "reply_to_message_id": 64065,
+        "text": "Фото с монитора? Если бы качество получше, то можно было бы разглядеть погоны.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Фото с монитора? Если бы качество получше, то можно было бы разглядеть погоны."
+            }
+        ]
+    },
+    "64088": {
+        "id": 64088,
+        "type": "message",
+        "date": "2023-11-27T06:27:27",
+        "date_unixtime": "1701055647",
+        "from": "Лариса Азанова",
+        "from_id": "user5199904860",
+        "reply_to_message_id": 64087,
+        "text": "Это фото с сайта FamilySearch. Там присоединились к моему древу. Качество фото к сожалению не очень.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это фото с сайта FamilySearch. Там присоединились к моему древу. Качество фото к сожалению не очень."
+            }
+        ]
+    },
+    "64089": {
+        "id": 64089,
+        "type": "message",
+        "date": "2023-11-27T06:31:35",
+        "date_unixtime": "1701055895",
+        "from": "Александр Папин",
+        "from_id": "user698870737",
+        "reply_to_message_id": 64088,
+        "text": "А написать спросить? Или не отвечают?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А написать спросить? Или не отвечают?"
+            }
+        ]
+    },
+    "64090": {
+        "id": 64090,
+        "type": "message",
+        "date": "2023-11-27T07:01:32",
+        "date_unixtime": "1701057692",
+        "from": "Лариса Азанова",
+        "from_id": "user5199904860",
+        "reply_to_message_id": 64089,
+        "text": "Не отвечают. Я так думаю там с сайта MyHeritage информация перекопирована на FamilySearch.\nА на сайт MyHeritage зайти уже долго не могу.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Не отвечают. Я так думаю там с сайта MyHeritage информация перекопирована на FamilySearch.\nА на сайт MyHeritage зайти уже долго не могу."
+            }
+        ]
+    },
+    "64091": {
+        "id": 64091,
+        "type": "message",
+        "date": "2023-11-27T07:03:37",
+        "date_unixtime": "1701057817",
+        "from": "Александр Папин",
+        "from_id": "user698870737",
+        "reply_to_message_id": 40701,
+        "text": "Вроде бы они не связаны с MyHeritage",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вроде бы они не связаны с MyHeritage"
+            }
+        ]
+    },
+    "64092": {
+        "id": 64092,
+        "type": "message",
+        "date": "2023-11-27T07:25:59",
+        "date_unixtime": "1701059159",
+        "from": "Лариса Азанова",
+        "from_id": "user5199904860",
+        "reply_to_message_id": 64091,
+        "text": "У них есть связка",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У них есть связка"
+            }
+        ]
+    },
+    "64093": {
+        "id": 64093,
+        "type": "message",
+        "date": "2023-11-27T09:07:33",
+        "date_unixtime": "1701065253",
+        "edited": "2023-11-27T09:34:54",
+        "edited_unixtime": "1701066894",
+        "from": "Andrei",
+        "from_id": "user448787412",
+        "reply_to_message_id": 40701,
+        "text": "Это myheritage тягает данные с familysearch, да и то вроде без фоток",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это myheritage тягает данные с familysearch, да и то вроде без фоток"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Александр Папин",
+                        "from_id": "user698870737",
+                        "date": "2023-11-27T09:55:03"
+                    },
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2023-11-27T09:34:54"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Елена Абрамова",
+                        "from_id": "user518975686",
+                        "date": "2024-10-24T19:03:14"
+                    }
+                ]
+            }
+        ]
+    },
+    "64107": {
+        "id": 64107,
+        "type": "message",
+        "date": "2023-11-27T13:42:19",
+        "date_unixtime": "1701081739",
+        "from": null,
+        "from_id": "user5988929143",
+        "reply_to_message_id": 40701,
+        "text": "Мне кажется что погон не военного ведомства",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мне кажется что погон не военного ведомства"
+            }
+        ]
+    },
+    "64109": {
+        "id": 64109,
+        "type": "message",
+        "date": "2023-11-27T14:00:51",
+        "date_unixtime": "1701082851",
+        "from": "A M",
+        "from_id": "user148775496",
+        "reply_to_message_id": 64065,
+        "text": "что-то чиновье как по мне",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "что-то чиновье как по мне"
+            }
+        ]
+    },
+    "64111": {
+        "id": 64111,
+        "type": "message",
+        "date": "2023-11-27T14:02:25",
+        "date_unixtime": "1701082945",
+        "edited": "2023-11-27T14:11:58",
+        "edited_unixtime": "1701083518",
+        "from": "A M",
+        "from_id": "user148775496",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 821,
+        "height": 620,
+        "text": "о, что нашла",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "о, что нашла"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2023-11-27T22:11:29"
+                    },
+                    {
+                        "from": "P",
+                        "from_id": "user201810877",
+                        "date": "2023-11-27T15:36:06"
+                    },
+                    {
+                        "from": "Лариса Азанова",
+                        "from_id": "user5199904860",
+                        "date": "2023-11-27T15:05:31"
+                    }
+                ]
+            }
+        ]
+    },
+    "64112": {
+        "id": 64112,
+        "type": "message",
+        "date": "2023-11-27T14:02:47",
+        "date_unixtime": "1701082967",
+        "from": "A M",
+        "from_id": "user148775496",
+        "reply_to_message_id": 40701,
+        "text": "похоже(ну при условии исходно качества, само собой)?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "похоже(ну при условии исходно качества, само собой)?"
+            }
+        ]
+    },
+    "64113": {
+        "id": 64113,
+        "type": "message",
+        "date": "2023-11-27T14:04:19",
+        "date_unixtime": "1701083059",
+        "from": "A M",
+        "from_id": "user148775496",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 570,
+        "height": 800,
+        "text": "",
+        "text_entities": []
+    },
+    "64114": {
+        "id": 64114,
+        "type": "message",
+        "date": "2023-11-27T14:13:41",
+        "date_unixtime": "1701083621",
+        "edited": "2023-11-27T14:13:48",
+        "edited_unixtime": "1701083628",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 40701,
+        "text": [
+            "картинка судя по всему отсюда\n\n",
+            {
+                "type": "link",
+                "text": "https://www.familysearch.org/tree/person/details/GD6S-367"
+            },
+            "\n\nно исходная обработанная из MH (там логотип внизу)"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "картинка судя по всему отсюда\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://www.familysearch.org/tree/person/details/GD6S-367"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nно исходная обработанная из MH (там логотип внизу)"
+            }
+        ]
+    },
+    "64115": {
+        "id": 64115,
+        "type": "message",
+        "date": "2023-11-27T14:14:53",
+        "date_unixtime": "1701083693",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 805,
+        "height": 162,
+        "text": [
+            "но сайт закрыт\n",
+            {
+                "type": "link",
+                "text": "https://www.myheritage.com/person-2500051_244846791_244846791/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "но сайт закрыт\n"
+            },
+            {
+                "type": "link",
+                "text": "https://www.myheritage.com/person-2500051_244846791_244846791/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "64117": {
+        "id": 64117,
+        "type": "message",
+        "date": "2023-11-27T14:16:05",
+        "date_unixtime": "1701083765",
+        "from": "A M",
+        "from_id": "user148775496",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1181,
+        "height": 889,
+        "text": "",
+        "text_entities": []
+    },
+    "64118": {
+        "id": 64118,
+        "type": "message",
+        "date": "2023-11-27T14:16:51",
+        "date_unixtime": "1701083811",
+        "from": "A M",
+        "from_id": "user148775496",
+        "reply_to_message_id": 40701,
+        "text": "при попытке открыть фото предлагает кадрировать(",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "при попытке открыть фото предлагает кадрировать("
+            }
+        ]
+    },
+    "64121": {
+        "id": 64121,
+        "type": "message",
+        "date": "2023-11-27T14:19:20",
+        "date_unixtime": "1701083960",
+        "edited": "2023-12-03T14:48:02",
+        "edited_unixtime": "1701604082",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 64118,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://sg30p0.familysearch.org/service/records/storage/deepzoomcloud/dzpatron/v1/TH-7717-114535-170-55/scale?width=800&ctx=ArtCtxPublic&sessionid=p0-o%7EtmgIpk9fT.ljZt9DHhOX%7E"
+            },
+            "\n\nно качество что-то тут гораздо хуже ("
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://sg30p0.familysearch.org/service/records/storage/deepzoomcloud/dzpatron/v1/TH-7717-114535-170-55/scale?width=800&ctx=ArtCtxPublic&sessionid=p0-o%7EtmgIpk9fT.ljZt9DHhOX%7E"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nно качество что-то тут гораздо хуже ("
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Юлия",
+                        "from_id": "user1371330703",
+                        "date": "2023-12-03T14:48:02"
+                    }
+                ]
+            }
+        ]
+    },
+    "64141": {
+        "id": 64141,
+        "type": "message",
+        "date": "2023-11-27T20:56:13",
+        "date_unixtime": "1701107773",
+        "edited": "2023-11-27T21:00:24",
+        "edited_unixtime": "1701108024",
+        "from": "Anton",
+        "from_id": "user134218360",
+        "reply_to_message_id": 63897,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "2023-11-27 20.54-Enhanced-Colorized.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 2560,
+        "height": 1836,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤‍🔥",
+                "recent": [
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2023-11-27T22:14:09"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Darya",
+                        "from_id": "user353969106",
+                        "date": "2023-11-27T21:00:24"
+                    }
+                ]
+            }
+        ]
+    },
+    "64142": {
+        "id": 64142,
+        "type": "message",
+        "date": "2023-11-27T20:56:31",
+        "date_unixtime": "1701107791",
+        "edited": "2023-11-27T20:58:58",
+        "edited_unixtime": "1701107938",
+        "from": "Anton",
+        "from_id": "user134218360",
+        "reply_to_message_id": 40701,
+        "text": "обработка от ИИ myheritage",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "обработка от ИИ myheritage"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👏",
+                "recent": [
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2023-11-27T22:14:19"
+                    },
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2023-11-27T20:58:58"
+                    }
+                ]
+            }
+        ]
+    },
+    "64143": {
+        "id": 64143,
+        "type": "message",
+        "date": "2023-11-27T21:00:44",
+        "date_unixtime": "1701108044",
+        "edited": "2023-11-27T21:02:05",
+        "edited_unixtime": "1701108125",
+        "from": "Darya",
+        "from_id": "user353969106",
+        "reply_to_message_id": 64141,
+        "text": "у меня пальто в клетку как у девушки))",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "у меня пальто в клетку как у девушки))"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Дарья 🔆",
+                        "from_id": "user899941329",
+                        "date": "2023-11-27T22:42:31"
+                    },
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2023-11-27T22:14:29"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2023-11-27T21:29:10"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😎"
+            }
+        ]
+    },
+    "64242": {
+        "id": 64242,
+        "type": "message",
+        "date": "2023-11-30T13:59:50",
+        "date_unixtime": "1701341990",
+        "edited": "2023-11-30T14:03:46",
+        "edited_unixtime": "1701342226",
+        "from": "Victoria",
+        "from_id": "user679471875",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "На фото моя прабабушка (посередине) Пилютина Мария Ивановна (Кукеева в девичестве) с сестрами. Черея, 1939 год. Все время смотрю на нее и мне она кажется очень красивой.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На фото моя прабабушка (посередине) Пилютина Мария Ивановна (Кукеева в девичестве) с сестрами. Черея, 1939 год. Все время смотрю на нее и мне она кажется очень красивой."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 10,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Yuliya",
+                        "from_id": "user367322964",
+                        "date": "2024-12-14T00:23:34"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Елена",
+                        "from_id": "user5166675316",
+                        "date": "2024-11-12T23:20:27"
+                    },
+                    {
+                        "from": "NinaEK",
+                        "from_id": "user1168230259",
+                        "date": "2024-05-16T19:57:32"
+                    }
+                ]
+            }
+        ]
+    },
+    "64243": {
+        "id": 64243,
+        "type": "message",
+        "date": "2023-11-30T14:02:10",
+        "date_unixtime": "1701342130",
+        "edited": "2023-11-30T14:03:54",
+        "edited_unixtime": "1701342234",
+        "from": "Victoria",
+        "from_id": "user679471875",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1200,
+        "height": 886,
+        "text": "Тоже Черея. Может кто-то узнает своих.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тоже Черея. Может кто-то узнает своих."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 7,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "NinaEK",
+                        "from_id": "user1168230259",
+                        "date": "2024-05-16T19:58:16"
+                    },
+                    {
+                        "from": "alex parij",
+                        "from_id": "user5219546092",
+                        "date": "2024-02-16T06:39:50"
+                    },
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2023-12-10T09:40:19"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤"
+            }
+        ]
+    },
+    "64258": {
+        "id": 64258,
+        "type": "message",
+        "date": "2023-11-30T19:58:58",
+        "date_unixtime": "1701363538",
+        "edited": "2023-11-30T20:23:19",
+        "edited_unixtime": "1701364999",
+        "from": "Ирина Чихалова",
+        "from_id": "user1160537389",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 860,
+        "height": 1280,
+        "text": [
+            {
+                "type": "italic",
+                "text": "Ветиорец Дмитрий Матвеев"
+            },
+            "\n1908гр (слева)\nдеревня ",
+            {
+                "type": "bold",
+                "text": "Коровичи"
+            },
+            "\nВитебской области\nЧашникский район"
+        ],
+        "text_entities": [
+            {
+                "type": "italic",
+                "text": "Ветиорец Дмитрий Матвеев"
+            },
+            {
+                "type": "plain",
+                "text": "\n1908гр (слева)\nдеревня "
+            },
+            {
+                "type": "bold",
+                "text": "Коровичи"
+            },
+            {
+                "type": "plain",
+                "text": "\nВитебской области\nЧашникский район"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2023-12-10T09:40:32"
+                    },
+                    {
+                        "from": "Алена",
+                        "from_id": "user1617817551",
+                        "date": "2023-12-03T15:33:41"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2023-12-04T00:51:25"
+                    }
+                ]
+            }
+        ]
+    },
+    "64260": {
+        "id": 64260,
+        "type": "message",
+        "date": "2023-11-30T20:28:44",
+        "date_unixtime": "1701365324",
+        "edited": "2023-11-30T20:46:17",
+        "edited_unixtime": "1701366377",
+        "from": "TM",
+        "from_id": "user644773637",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 841,
+        "height": 1280,
+        "text": "На фото моя прабабушка Клёс(Коршунова) Анна Константиновна и ее муж Клёс Андрей Яковлевич(Якубович)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На фото моя прабабушка Клёс(Коршунова) Анна Константиновна и ее муж Клёс Андрей Яковлевич(Якубович)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 8,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2023-12-10T09:40:40"
+                    },
+                    {
+                        "from": "Ju Grb",
+                        "from_id": "user1309155436",
+                        "date": "2023-12-07T04:09:35"
+                    },
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2023-12-04T00:51:30"
+                    }
+                ]
+            }
+        ]
+    },
+    "64261": {
+        "id": 64261,
+        "type": "message",
+        "date": "2023-11-30T20:31:54",
+        "date_unixtime": "1701365514",
+        "edited": "2023-11-30T20:46:23",
+        "edited_unixtime": "1701366383",
+        "from": "TM",
+        "from_id": "user644773637",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 822,
+        "height": 1280,
+        "text": "Справа Клёс Андрей Яковлевич(Якубович) \nРаботал в Ревеле(современный Таллин) на пана. После свадьбы переехал с женой в деревню Маринцы Чашникского района Витебской области",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Справа Клёс Андрей Яковлевич(Якубович) \nРаботал в Ревеле(современный Таллин) на пана. После свадьбы переехал с женой в деревню Маринцы Чашникского района Витебской области"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 9,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2023-12-10T09:40:47"
+                    },
+                    {
+                        "from": "Ju Grb",
+                        "from_id": "user1309155436",
+                        "date": "2023-12-07T04:09:37"
+                    },
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2023-12-04T00:51:36"
+                    }
+                ]
+            }
+        ]
+    },
+    "64262": {
+        "id": 64262,
+        "type": "message",
+        "date": "2023-11-30T21:21:28",
+        "date_unixtime": "1701368488",
+        "edited": "2023-11-30T21:29:57",
+        "edited_unixtime": "1701368997",
+        "from": "Victoria",
+        "from_id": "user679471875",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1260,
+        "height": 1018,
+        "text": "Мой прапрадед Пилютин Тимофей Семёнович справа, его жена Мария Иасоновна (Комар в девичестве) слева, его сын Леонид Тимофеевич Пилютин в военной форме. Мальчик - Игорь Леонидович Пилютин (если верить Гуглу, то он стал изобретателем). Родом из деревни Кледневичи и Дрибина, Могилевская обл.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мой прапрадед Пилютин Тимофей Семёнович справа, его жена Мария Иасоновна (Комар в девичестве) слева, его сын Леонид Тимофеевич Пилютин в военной форме. Мальчик - Игорь Леонидович Пилютин (если верить Гуглу, то он стал изобретателем). Родом из деревни Кледневичи и Дрибина, Могилевская обл."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2023-12-10T09:41:22"
+                    },
+                    {
+                        "from": "Alex Grey",
+                        "from_id": "user101525322",
+                        "date": "2023-12-06T07:29:28"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2023-12-04T00:51:51"
+                    }
+                ]
+            }
+        ]
+    },
+    "64378": {
+        "id": 64378,
+        "type": "message",
+        "date": "2023-12-03T15:32:25",
+        "date_unixtime": "1701606745",
+        "from": "Алена",
+        "from_id": "user1617817551",
+        "reply_to_message_id": 64065,
+        "text": "Я нс ВГД запрашивала такую информацию. Там специалисты есть, но они запросят фото в хорошем качестве🤷‍♀",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я нс ВГД запрашивала такую информацию. Там специалисты есть, но они запросят фото в хорошем качестве🤷‍♀"
+            }
+        ]
+    },
+    "64381": {
+        "id": 64381,
+        "type": "message",
+        "date": "2023-12-03T16:12:55",
+        "date_unixtime": "1701609175",
+        "from": "Лариса Азанова",
+        "from_id": "user5199904860",
+        "reply_to_message_id": 64378,
+        "text": "Хорошо, спасибо",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Хорошо, спасибо"
+            }
+        ]
+    },
+    "64622": {
+        "id": 64622,
+        "type": "message",
+        "date": "2023-12-05T15:46:40",
+        "date_unixtime": "1701780400",
+        "edited": "2023-12-05T16:02:17",
+        "edited_unixtime": "1701781337",
+        "from": "TM",
+        "from_id": "user644773637",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "Новак Максим Антонович 1902 г.р. \nЕсли правильно распознала форму, кавалерист польской армии",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Новак Максим Антонович 1902 г.р. \nЕсли правильно распознала форму, кавалерист польской армии"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Maksim",
+                        "from_id": "user537965138",
+                        "date": "2023-12-09T10:51:25"
+                    },
+                    {
+                        "from": "ирина",
+                        "from_id": "user5717812522",
+                        "date": "2023-12-07T14:44:33"
+                    },
+                    {
+                        "from": "Alex Grey",
+                        "from_id": "user101525322",
+                        "date": "2023-12-06T07:28:51"
+                    }
+                ]
+            }
+        ]
+    },
+    "65023": {
+        "id": 65023,
+        "type": "message",
+        "date": "2023-12-10T13:55:49",
+        "date_unixtime": "1702205749",
+        "from": "Ирина Чихалова",
+        "from_id": "user1160537389",
+        "reply_to_message_id": 64622,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1176,
+        "height": 1131,
+        "text": "... А у нас не подскажите ?) тоже с саблей, какой армии интересно 🤔",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "... А у нас не подскажите ?) тоже с саблей, какой армии интересно 🤔"
+            }
+        ]
+    },
+    "65026": {
+        "id": 65026,
+        "type": "message",
+        "date": "2023-12-10T14:17:23",
+        "date_unixtime": "1702207043",
+        "edited": "2023-12-10T16:48:00",
+        "edited_unixtime": "1702216080",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 65023,
+        "text": [
+            "ну звезда на фуражке и треугольники в петлицах однозначно выдают рабоче-крестьянскую красную армию )\n",
+            {
+                "type": "link",
+                "text": "https://forma-odezhda.com/encyclopedia/znaki-razlichiya-i-petlicy-rkka-1924-1943-gg/"
+            },
+            "\nа вообще по форме наверно лучше спрашивать у специалистов в соответствующих ветках на ",
+            {
+                "type": "link",
+                "text": "vgd.ru"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ну звезда на фуражке и треугольники в петлицах однозначно выдают рабоче-крестьянскую красную армию )\n"
+            },
+            {
+                "type": "link",
+                "text": "https://forma-odezhda.com/encyclopedia/znaki-razlichiya-i-petlicy-rkka-1924-1943-gg/"
+            },
+            {
+                "type": "plain",
+                "text": "\nа вообще по форме наверно лучше спрашивать у специалистов в соответствующих ветках на "
+            },
+            {
+                "type": "link",
+                "text": "vgd.ru"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user6923280382",
+                        "date": "2023-12-10T20:38:47"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "Ирина Чихалова",
+                        "from_id": "user1160537389",
+                        "date": "2023-12-10T16:48:00"
+                    }
+                ]
+            }
+        ]
+    },
+    "65050": {
+        "id": 65050,
+        "type": "message",
+        "date": "2023-12-10T15:44:28",
+        "date_unixtime": "1702212268",
+        "edited": "2023-12-10T17:04:38",
+        "edited_unixtime": "1702217078",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 65023,
+        "text": "Сержант артиллерии",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сержант артиллерии"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ирина Чихалова",
+                        "from_id": "user1160537389",
+                        "date": "2023-12-10T17:04:38"
+                    }
+                ]
+            }
+        ]
+    },
+    "65061": {
+        "id": 65061,
+        "type": "message",
+        "date": "2023-12-11T20:01:46",
+        "date_unixtime": "1702314106",
+        "edited": "2023-12-11T20:02:25",
+        "edited_unixtime": "1702314145",
+        "from": null,
+        "from_id": "user1456824857",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 932,
+        "height": 1278,
+        "text": "Справа на фотографии представлена моя прапрабабушка Богданова (в замужестве Ветошкина) Агафия Кузьминична. Родилась 18 февраля 1904г. в слободе Новая Мильча, Гомельского уезда.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Справа на фотографии представлена моя прапрабабушка Богданова (в замужестве Ветошкина) Агафия Кузьминична. Родилась 18 февраля 1904г. в слободе Новая Мильча, Гомельского уезда."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 8,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Марина",
+                        "from_id": "user1373140078",
+                        "date": "2023-12-23T10:10:15"
+                    },
+                    {
+                        "from": "Татьяна",
+                        "from_id": "user1023846083",
+                        "date": "2023-12-17T19:47:55"
+                    },
+                    {
+                        "from": "L",
+                        "from_id": "user5815411897",
+                        "date": "2023-12-13T23:32:15"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 8,
+                "emoji": "❤"
+            }
+        ]
+    },
+    "65088": {
+        "id": 65088,
+        "type": "message",
+        "date": "2023-12-12T14:28:10",
+        "date_unixtime": "1702380490",
+        "edited": "2023-12-12T14:28:49",
+        "edited_unixtime": "1702380529",
+        "from": "🤫🏍⛺",
+        "from_id": "user6213882374",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 730,
+        "height": 1280,
+        "text": "Перевод в ФБ тот ещё трэш.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Перевод в ФБ тот ещё трэш."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 14,
+                "emoji": "😁",
+                "recent": [
+                    {
+                        "from": "Marina",
+                        "from_id": "user1373655503",
+                        "date": "2024-05-21T10:32:34"
+                    },
+                    {
+                        "from": "Ju Grb",
+                        "from_id": "user1309155436",
+                        "date": "2024-03-07T05:19:35"
+                    },
+                    {
+                        "from": "Марина",
+                        "from_id": "user1373140078",
+                        "date": "2023-12-23T10:10:06"
+                    }
+                ]
+            }
+        ]
+    },
+    "65095": {
+        "id": 65095,
+        "type": "message",
+        "date": "2023-12-12T20:54:40",
+        "date_unixtime": "1702403680",
+        "edited": "2023-12-12T21:55:18",
+        "edited_unixtime": "1702407318",
+        "from": null,
+        "from_id": "user1456824857",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 641,
+        "height": 1031,
+        "text": "На фотографии Злотникова Татьяна Даниловна моя двоюродная прапрабабушка (1896г.р.), послание сзади фотографии было адресовано моему прапрадеду Злотникову Андрею Даниловичу и прапрабабушке Злотниковой (в девичестве Махавцовой) Марии Прохоровне.\n29 июня 1916 год, город Гомель.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На фотографии Злотникова Татьяна Даниловна моя двоюродная прапрабабушка (1896г.р.), послание сзади фотографии было адресовано моему прапрадеду Злотникову Андрею Даниловичу и прапрабабушке Злотниковой (в девичестве Махавцовой) Марии Прохоровне.\n29 июня 1916 год, город Гомель."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 10,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Марина",
+                        "from_id": "user1373140078",
+                        "date": "2023-12-23T10:10:03"
+                    },
+                    {
+                        "from": "Любовь",
+                        "from_id": "user1745829524",
+                        "date": "2023-12-14T20:05:20"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Irina",
+                        "from_id": "user542571602",
+                        "date": "2023-12-20T11:46:28"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤‍🔥"
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍"
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👌"
+            }
+        ]
+    },
+    "65096": {
+        "id": 65096,
+        "type": "message",
+        "date": "2023-12-12T20:54:41",
+        "date_unixtime": "1702403681",
+        "from": null,
+        "from_id": "user1456824857",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 797,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "65125": {
+        "id": 65125,
+        "type": "message",
+        "date": "2023-12-13T12:14:49",
+        "date_unixtime": "1702458889",
+        "edited": "2023-12-13T13:00:41",
+        "edited_unixtime": "1702461641",
+        "from": "Чысты Гуманітарый",
+        "from_id": "user453928472",
+        "reply_to_message_id": 40701,
+        "text": "Прабабушка , пусть и двоюродная,очень хороша. Но шляпка, шляпка!!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Прабабушка , пусть и двоюродная,очень хороша. Но шляпка, шляпка!!"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2023-12-13T22:03:06"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user1456824857",
+                        "date": "2023-12-13T13:00:41"
+                    }
+                ]
+            }
+        ]
+    },
+    "65489": {
+        "id": 65489,
+        "type": "message",
+        "date": "2023-12-17T18:21:59",
+        "date_unixtime": "1702826519",
+        "edited": "2023-12-17T21:10:10",
+        "edited_unixtime": "1702836610",
+        "from": null,
+        "from_id": "user1456824857",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 649,
+        "height": 973,
+        "text": "Ветошкина (в замужестве Злотникова) Надежда Игнатьевна 2 июля 1927г.р.,\nфотография послевоенных годов.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ветошкина (в замужестве Злотникова) Надежда Игнатьевна 2 июля 1927г.р.,\nфотография послевоенных годов."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 12,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Елена",
+                        "from_id": "user1320477170",
+                        "date": "2024-11-26T23:41:27"
+                    },
+                    {
+                        "from": "Natallia",
+                        "from_id": "user987241871",
+                        "date": "2024-08-29T18:23:52"
+                    },
+                    {
+                        "from": "Lyaka",
+                        "from_id": "user144064657",
+                        "date": "2024-01-10T14:33:09"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "❤"
+            }
+        ]
+    },
+    "65597": {
+        "id": 65597,
+        "type": "message",
+        "date": "2023-12-20T00:29:46",
+        "date_unixtime": "1703021386",
+        "edited": "2023-12-20T00:31:56",
+        "edited_unixtime": "1703021516",
+        "from": "Анастасия Багдасарова",
+        "from_id": "user2046809469",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "Мой прапрадед Рябцев Лукьян Федорович (1859 г.р.) и рядом с ним прапрабабушка Иустинья.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мой прапрадед Рябцев Лукьян Федорович (1859 г.р.) и рядом с ним прапрабабушка Иустинья."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 10,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Марина",
+                        "from_id": "user1373140078",
+                        "date": "2023-12-23T10:09:57"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user1456824857",
+                        "date": "2023-12-20T14:35:13"
+                    },
+                    {
+                        "from": "Irina",
+                        "from_id": "user542571602",
+                        "date": "2023-12-20T11:46:11"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥"
+            }
+        ]
+    },
+    "65604": {
+        "id": 65604,
+        "type": "message",
+        "date": "2023-12-20T10:55:36",
+        "date_unixtime": "1703058936",
+        "from": "Victoria",
+        "from_id": "user679471875",
+        "reply_to_message_id": 65597,
+        "text": "Какого года эта фотография?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Какого года эта фотография?"
+            }
+        ]
+    },
+    "65608": {
+        "id": 65608,
+        "type": "message",
+        "date": "2023-12-20T11:01:46",
+        "date_unixtime": "1703059306",
+        "from": "Анастасия Багдасарова",
+        "from_id": "user2046809469",
+        "reply_to_message_id": 65604,
+        "text": "К сожалению, я не знаю",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "К сожалению, я не знаю"
+            }
+        ]
+    },
+    "65619": {
+        "id": 65619,
+        "type": "message",
+        "date": "2023-12-20T20:54:11",
+        "date_unixtime": "1703094851",
+        "edited": "2023-12-20T21:12:03",
+        "edited_unixtime": "1703095923",
+        "from": null,
+        "from_id": "user1456824857",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 872,
+        "text": "Свадебная фотография 1959г.,  селение Новая Мильча.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Свадебная фотография 1959г.,  селение Новая Мильча."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "❤"
+            },
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "⚡",
+                "recent": [
+                    {
+                        "from": "Чысты Гуманітарый",
+                        "from_id": "user453928472",
+                        "date": "2023-12-23T10:13:08"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Alena",
+                        "from_id": "user262554096",
+                        "date": "2024-04-25T13:51:32"
+                    },
+                    {
+                        "from": "Марина",
+                        "from_id": "user1373140078",
+                        "date": "2023-12-23T10:12:47"
+                    }
+                ]
+            }
+        ]
+    },
+    "65629": {
+        "id": 65629,
+        "type": "message",
+        "date": "2023-12-21T11:48:50",
+        "date_unixtime": "1703148530",
+        "from": "Маргарита",
+        "from_id": "user466128954",
+        "reply_to_message_id": 65597,
+        "text": "Подскажите, территориально откуда Ваши Рябцевы?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Подскажите, территориально откуда Ваши Рябцевы?"
+            }
+        ]
+    },
+    "65664": {
+        "id": 65664,
+        "type": "message",
+        "date": "2023-12-21T13:04:14",
+        "date_unixtime": "1703153054",
+        "edited": "2023-12-21T13:29:11",
+        "edited_unixtime": "1703154551",
+        "from": "Анастасия Багдасарова",
+        "from_id": "user2046809469",
+        "reply_to_message_id": 65629,
+        "text": "Добрый день. Гомельская область, Жлобинский район, Октябрьский с/с, деревня Проскурни.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день. Гомельская область, Жлобинский район, Октябрьский с/с, деревня Проскурни."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Маргарита",
+                        "from_id": "user466128954",
+                        "date": "2023-12-21T13:29:11"
+                    }
+                ]
+            }
+        ]
+    },
+    "65943": {
+        "id": 65943,
+        "type": "message",
+        "date": "2023-12-23T06:55:23",
+        "date_unixtime": "1703303723",
+        "edited": "2023-12-23T07:58:57",
+        "edited_unixtime": "1703307537",
+        "from": "Любовь Насонова",
+        "from_id": "user455892743",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "Мои дед Пыкша Степан Николаевич (уроженец села Новый Двор Минского уезда Минской губернии) и бабушка Рящина Евдокия Тимофеевна (уроженка села Рождествено Скопинского уезда Рязанской губернии). Фото конца 1940-х гг.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мои дед Пыкша Степан Николаевич (уроженец села Новый Двор Минского уезда Минской губернии) и бабушка Рящина Евдокия Тимофеевна (уроженка села Рождествено Скопинского уезда Рязанской губернии). Фото конца 1940-х гг."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 9,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Irina",
+                        "from_id": "user542571602",
+                        "date": "2023-12-23T16:49:08"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user1456824857",
+                        "date": "2023-12-23T14:10:33"
+                    },
+                    {
+                        "from": "Анастасия Багдасарова",
+                        "from_id": "user2046809469",
+                        "date": "2023-12-23T10:31:47"
+                    }
+                ]
+            }
+        ]
+    },
+    "65949": {
+        "id": 65949,
+        "type": "message",
+        "date": "2023-12-23T09:52:57",
+        "date_unixtime": "1703314377",
+        "edited": "2023-12-23T09:53:33",
+        "edited_unixtime": "1703314413",
+        "from": "Марина",
+        "from_id": "user1373140078",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 714,
+        "height": 546,
+        "text": "Моя  бабушка Михальцева Татьяна Романовна (беларуска, пока точного места рождения нет, возможно обасть Гродно, Гомеля, Могилева); дедушка Швацкий Гавриил Иванович (казак села Сары Гадячского уезда Полтавской губернии).Обе их  семьи были переселены в Столыпинскую реформу в Северный Казахстан Павлодарскую область, ранее Семипалатинскую губернию, венчались в селе Александровка.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Моя  бабушка Михальцева Татьяна Романовна (беларуска, пока точного места рождения нет, возможно обасть Гродно, Гомеля, Могилева); дедушка Швацкий Гавриил Иванович (казак села Сары Гадячского уезда Полтавской губернии).Обе их  семьи были переселены в Столыпинскую реформу в Северный Казахстан Павлодарскую область, ранее Семипалатинскую губернию, венчались в селе Александровка."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user1456824857",
+                        "date": "2023-12-23T14:10:28"
+                    },
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2023-12-23T12:43:11"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Irina",
+                        "from_id": "user542571602",
+                        "date": "2023-12-23T16:49:18"
+                    }
+                ]
+            }
+        ]
+    },
+    "65953": {
+        "id": 65953,
+        "type": "message",
+        "date": "2023-12-23T10:26:17",
+        "date_unixtime": "1703316377",
+        "edited": "2023-12-23T10:31:12",
+        "edited_unixtime": "1703316672",
+        "from": "Марина",
+        "from_id": "user1373140078",
+        "reply_to_message_id": 40701,
+        "text": "Да, семья большая, было 10 детей, но, к сожалению, троих потеряли детьми.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, семья большая, было 10 детей, но, к сожалению, троих потеряли детьми."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Анастасия Багдасарова",
+                        "from_id": "user2046809469",
+                        "date": "2023-12-23T10:32:56"
+                    },
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2023-12-23T10:31:12"
+                    }
+                ]
+            }
+        ]
+    },
+    "65955": {
+        "id": 65955,
+        "type": "message",
+        "date": "2023-12-23T10:32:10",
+        "date_unixtime": "1703316730",
+        "edited": "2023-12-23T11:38:35",
+        "edited_unixtime": "1703320715",
+        "from": "Марина",
+        "from_id": "user1373140078",
+        "reply_to_message_id": 40701,
+        "text": "Основная часть семьи так и живет там же.И как интересно получается, что сын старшей дочери с семьей еще во времена СССР уехал жить в Украину, а дочь старшего сына вышла замуж за белоруса( это я)в Белорусскую ССР, сейчас  Республика Беларусь из Киргизской ССР, сейчас Кыргызская Республика (папа был военный, поездили по союзу) и живет здесь.Кровь вернулась домой)))",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Основная часть семьи так и живет там же.И как интересно получается, что сын старшей дочери с семьей еще во времена СССР уехал жить в Украину, а дочь старшего сына вышла замуж за белоруса( это я)в Белорусскую ССР, сейчас  Республика Беларусь из Киргизской ССР, сейчас Кыргызская Республика (папа был военный, поездили по союзу) и живет здесь.Кровь вернулась домой)))"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Алена",
+                        "from_id": "user1617817551",
+                        "date": "2023-12-25T08:31:06"
+                    },
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2023-12-23T12:43:48"
+                    },
+                    {
+                        "from": "Чысты Гуманітарый",
+                        "from_id": "user453928472",
+                        "date": "2023-12-23T10:49:47"
+                    }
+                ]
+            }
+        ]
+    },
+    "65972": {
+        "id": 65972,
+        "type": "message",
+        "date": "2023-12-23T12:00:03",
+        "date_unixtime": "1703322003",
+        "edited": "2023-12-23T12:00:50",
+        "edited_unixtime": "1703322050",
+        "from": "Марина",
+        "from_id": "user1373140078",
+        "reply_to_message_id": 40701,
+        "text": "Да и еще, некоторые внуки и правнуки деда  живут в Германии, опять же внуки вышли замуж и женились, еще во времена союза, за потомков ссыльных в Казахстан немцев и уехали на историческую Родину)Я вот думаю, что здесь тоже не обошлось без зова крови по дому)))очень уж много совпаденцев  по днк из тех мест.Да и говорили в семье деда, что какой-то пра-пра-пра.... привез себе жену из похода...))))ну это так, к слову)))",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да и еще, некоторые внуки и правнуки деда  живут в Германии, опять же внуки вышли замуж и женились, еще во времена союза, за потомков ссыльных в Казахстан немцев и уехали на историческую Родину)Я вот думаю, что здесь тоже не обошлось без зова крови по дому)))очень уж много совпаденцев  по днк из тех мест.Да и говорили в семье деда, что какой-то пра-пра-пра.... привез себе жену из похода...))))ну это так, к слову)))"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2023-12-23T12:00:50"
+                    }
+                ]
+            }
+        ]
+    },
+    "65988": {
+        "id": 65988,
+        "type": "message",
+        "date": "2023-12-23T12:25:49",
+        "date_unixtime": "1703323549",
+        "from": null,
+        "from_id": "user6923280382",
+        "reply_to_message_id": 65972,
+        "text": "Интересно, с какого похода 🧐",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Интересно, с какого похода 🧐"
+            }
+        ]
+    },
+    "65993": {
+        "id": 65993,
+        "type": "message",
+        "date": "2023-12-23T12:37:35",
+        "date_unixtime": "1703324255",
+        "from": "Марина",
+        "from_id": "user1373140078",
+        "reply_to_message_id": 40701,
+        "text": "Ну, казаки много где в походах были...например, предок Тимофей Швацкий упоминается в Реестре Гадячского полка за 1732 год...а может по линиям жен его сыновей...кто знает, может это только легенда.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну, казаки много где в походах были...например, предок Тимофей Швацкий упоминается в Реестре Гадячского полка за 1732 год...а может по линиям жен его сыновей...кто знает, может это только легенда."
+            }
+        ]
+    },
+    "66029": {
+        "id": 66029,
+        "type": "message",
+        "date": "2023-12-23T14:09:18",
+        "date_unixtime": "1703329758",
+        "edited": "2023-12-23T14:30:37",
+        "edited_unixtime": "1703331037",
+        "from": "ksenia",
+        "from_id": "user805895547",
+        "reply_to_message_id": 40701,
+        "text": "Из тех мест просто шли люди в казаки. немцев, балтов и иже с ними в казачестве хватало примерно с конца 16- начала 17 века. У меня есть книга \"Служилые люди Сибири\" — например Бутримской Андрей из Гомеля, взятый в бою и присланный в пешую службу. Волковский Ян — краковский шляхтич. Зубрицкий Адам — томский десятник литовского списка. Коваль Федор — опальный литовский человек из под Волыни. Зеппер Роман, пленный швед. Ширмонт Ян, ссыльный рейтар, немец. Зиновьев Лукьян, иноземец (черкашенин, по другим данным белорусец). Злотников Иван, из польско-литовских вязней. Колныяр Павел, немчин.И это я бегло листаю книгу на без малого 1000 страниц.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Из тех мест просто шли люди в казаки. немцев, балтов и иже с ними в казачестве хватало примерно с конца 16- начала 17 века. У меня есть книга \"Служилые люди Сибири\" — например Бутримской Андрей из Гомеля, взятый в бою и присланный в пешую службу. Волковский Ян — краковский шляхтич. Зубрицкий Адам — томский десятник литовского списка. Коваль Федор — опальный литовский человек из под Волыни. Зеппер Роман, пленный швед. Ширмонт Ян, ссыльный рейтар, немец. Зиновьев Лукьян, иноземец (черкашенин, по другим данным белорусец). Злотников Иван, из польско-литовских вязней. Колныяр Павел, немчин.И это я бегло листаю книгу на без малого 1000 страниц."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "NinaEK",
+                        "from_id": "user1168230259",
+                        "date": "2024-05-16T20:03:13"
+                    },
+                    {
+                        "from": "Lyaka",
+                        "from_id": "user144064657",
+                        "date": "2024-01-10T14:35:28"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Alenа",
+                        "from_id": "user1469281708",
+                        "date": "2024-08-12T21:51:48"
+                    }
+                ]
+            }
+        ]
+    }
+}

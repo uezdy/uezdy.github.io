@@ -1,0 +1,1083 @@
+{
+    "102216": {
+        "id": 102216,
+        "type": "message",
+        "date": "2024-11-03T12:40:20",
+        "date_unixtime": "1730626820",
+        "edited": "2024-11-03T13:29:38",
+        "edited_unixtime": "1730629778",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 101848,
+        "text": "Вообще церкви строились по типовым проектам в зависимости от вместимости (численности прихожан). Одинаковые церкви могли быть в разных местах…",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вообще церкви строились по типовым проектам в зависимости от вместимости (численности прихожан). Одинаковые церкви могли быть в разных местах…"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "tikr 1",
+                        "from_id": "user1633348757",
+                        "date": "2024-11-04T19:08:19"
+                    },
+                    {
+                        "from": "Kris Romanyuk",
+                        "from_id": "user173177233",
+                        "date": "2024-11-03T13:29:39"
+                    }
+                ]
+            }
+        ]
+    },
+    "102270": {
+        "id": 102270,
+        "type": "message",
+        "date": "2024-11-03T23:05:29",
+        "date_unixtime": "1730664329",
+        "edited": "2024-11-04T08:30:54",
+        "edited_unixtime": "1730698254",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 41250,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "media_type": "video_file",
+        "mime_type": "video/mp4",
+        "duration_seconds": 91,
+        "width": 1280,
+        "height": 720,
+        "text": "Сегодня посетила деревню Збляны в Зельвенском районе и кладбище рядом с ним.\n\nВпервые мне на глаза попались учтенные могилы, погибших в ВОВ.\n\nДмитрук, Рудый, Жебрак, Жилич, Сечейко, Тукальский",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сегодня посетила деревню Збляны в Зельвенском районе и кладбище рядом с ним.\n\nВпервые мне на глаза попались учтенные могилы, погибших в ВОВ.\n\nДмитрук, Рудый, Жебрак, Жилич, Сечейко, Тукальский"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤‍🔥",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-11-04T08:18:10"
+                    },
+                    {
+                        "from": "Анастасия Ушакова",
+                        "from_id": "user512602229",
+                        "date": "2024-11-04T06:03:04"
+                    }
+                ]
+            }
+        ]
+    },
+    "102271": {
+        "id": 102271,
+        "type": "message",
+        "date": "2024-11-03T23:05:30",
+        "date_unixtime": "1730664330",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 721,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "102272": {
+        "id": 102272,
+        "type": "message",
+        "date": "2024-11-03T23:05:30",
+        "date_unixtime": "1730664330",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 721,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "102273": {
+        "id": 102273,
+        "type": "message",
+        "date": "2024-11-03T23:05:30",
+        "date_unixtime": "1730664330",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 721,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "102274": {
+        "id": 102274,
+        "type": "message",
+        "date": "2024-11-03T23:05:31",
+        "date_unixtime": "1730664331",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 721,
+        "text": "",
+        "text_entities": []
+    },
+    "102275": {
+        "id": 102275,
+        "type": "message",
+        "date": "2024-11-03T23:05:31",
+        "date_unixtime": "1730664331",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 721,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "102276": {
+        "id": 102276,
+        "type": "message",
+        "date": "2024-11-03T23:05:32",
+        "date_unixtime": "1730664332",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 721,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "102277": {
+        "id": 102277,
+        "type": "message",
+        "date": "2024-11-03T23:05:32",
+        "date_unixtime": "1730664332",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 721,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "102278": {
+        "id": 102278,
+        "type": "message",
+        "date": "2024-11-03T23:05:32",
+        "date_unixtime": "1730664332",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 721,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "102279": {
+        "id": 102279,
+        "type": "message",
+        "date": "2024-11-03T23:05:33",
+        "date_unixtime": "1730664333",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 721,
+        "text": "",
+        "text_entities": []
+    },
+    "102280": {
+        "id": 102280,
+        "type": "message",
+        "date": "2024-11-03T23:05:33",
+        "date_unixtime": "1730664333",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 721,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "102281": {
+        "id": 102281,
+        "type": "message",
+        "date": "2024-11-03T23:05:34",
+        "date_unixtime": "1730664334",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 576,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "102282": {
+        "id": 102282,
+        "type": "message",
+        "date": "2024-11-03T23:05:42",
+        "date_unixtime": "1730664342",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 41250,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Muzej_VOV.docx",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "text": "Документ по qr коду.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Документ по qr коду."
+            }
+        ]
+    },
+    "102799": {
+        "id": 102799,
+        "type": "message",
+        "date": "2024-11-08T11:58:51",
+        "date_unixtime": "1731056331",
+        "edited": "2024-11-08T12:14:27",
+        "edited_unixtime": "1731057267",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 878,
+        "height": 1280,
+        "text": [
+            {
+                "type": "text_link",
+                "text": "Гродненская Губерния, 1856 год.",
+                "href": "https://karty.by/19-%d0%b2%d0%b5%d0%ba/grodno-province-1856/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "text_link",
+                "text": "Гродненская Губерния, 1856 год.",
+                "href": "https://karty.by/19-%d0%b2%d0%b5%d0%ba/grodno-province-1856/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤‍🔥",
+                "recent": [
+                    {
+                        "from": "AV",
+                        "from_id": "user484872692",
+                        "date": "2024-11-09T00:11:49"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🤩"
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Rina",
+                        "from_id": "user417871975",
+                        "date": "2024-11-13T09:56:48"
+                    },
+                    {
+                        "from": "S. And.",
+                        "from_id": "user492684427",
+                        "date": "2024-11-08T22:16:16"
+                    }
+                ]
+            }
+        ]
+    },
+    "102800": {
+        "id": 102800,
+        "type": "message",
+        "date": "2024-11-08T11:58:51",
+        "date_unixtime": "1731056331",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 869,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "102851": {
+        "id": 102851,
+        "type": "message",
+        "date": "2024-11-08T17:53:55",
+        "date_unixtime": "1731077635",
+        "from": "Helena Pozharitckaia",
+        "from_id": "user956631283",
+        "reply_to_message_id": 102799,
+        "text": "А есть что - то подобное по Витебской и Минской губерниям?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А есть что - то подобное по Витебской и Минской губерниям?"
+            }
+        ]
+    },
+    "102858": {
+        "id": 102858,
+        "type": "message",
+        "date": "2024-11-08T18:26:41",
+        "date_unixtime": "1731079601",
+        "edited": "2024-11-08T19:19:03",
+        "edited_unixtime": "1731082743",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 102851,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 822,
+        "height": 1280,
+        "text": [
+            {
+                "type": "text_link",
+                "text": "Минская губерния.1856 год",
+                "href": "https://karty.by/19-%d0%b2%d0%b5%d0%ba/minsk-governate-1856/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "text_link",
+                "text": "Минская губерния.1856 год",
+                "href": "https://karty.by/19-%d0%b2%d0%b5%d0%ba/minsk-governate-1856/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Evgeniy Shabanov",
+                        "from_id": "user387659235",
+                        "date": "2024-12-07T19:57:41"
+                    },
+                    {
+                        "from": "AV",
+                        "from_id": "user484872692",
+                        "date": "2024-11-09T00:11:54"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Olga Ro",
+                        "from_id": "user5149643584",
+                        "date": "2024-11-09T10:08:14"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🙏"
+            }
+        ]
+    },
+    "102859": {
+        "id": 102859,
+        "type": "message",
+        "date": "2024-11-08T18:26:42",
+        "date_unixtime": "1731079602",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 102851,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 817,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "102865": {
+        "id": 102865,
+        "type": "message",
+        "date": "2024-11-08T18:38:31",
+        "date_unixtime": "1731080311",
+        "edited": "2024-11-08T20:47:40",
+        "edited_unixtime": "1731088060",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 831,
+        "height": 1280,
+        "text": [
+            {
+                "type": "text_link",
+                "text": "Витебская Губерния 1856",
+                "href": "https://karty.by/19-%d0%b2%d0%b5%d0%ba/vitebsk-gubernia/"
+            },
+            "."
+        ],
+        "text_entities": [
+            {
+                "type": "text_link",
+                "text": "Витебская Губерния 1856",
+                "href": "https://karty.by/19-%d0%b2%d0%b5%d0%ba/vitebsk-gubernia/"
+            },
+            {
+                "type": "plain",
+                "text": "."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Evgeniy Shabanov",
+                        "from_id": "user387659235",
+                        "date": "2024-12-07T19:57:52"
+                    },
+                    {
+                        "from": "Olga Ro",
+                        "from_id": "user5149643584",
+                        "date": "2024-11-09T10:08:12"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Alenа",
+                        "from_id": "user1469281708",
+                        "date": "2024-11-10T00:28:38"
+                    }
+                ]
+            }
+        ]
+    },
+    "102866": {
+        "id": 102866,
+        "type": "message",
+        "date": "2024-11-08T18:38:31",
+        "date_unixtime": "1731080311",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 811,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "102868": {
+        "id": 102868,
+        "type": "message",
+        "date": "2024-11-08T18:40:25",
+        "date_unixtime": "1731080425",
+        "edited": "2024-11-08T18:50:04",
+        "edited_unixtime": "1731081004",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 828,
+        "height": 1280,
+        "text": [
+            {
+                "type": "text_link",
+                "text": "Могилевская Губерния 1856 год",
+                "href": "https://karty.by/19-%d0%b2%d0%b5%d0%ba/mohilew-gubernia/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "text_link",
+                "text": "Могилевская Губерния 1856 год",
+                "href": "https://karty.by/19-%d0%b2%d0%b5%d0%ba/mohilew-gubernia/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Olga Ro",
+                        "from_id": "user5149643584",
+                        "date": "2024-11-09T10:08:07"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Rina",
+                        "from_id": "user417871975",
+                        "date": "2024-11-13T09:57:01"
+                    },
+                    {
+                        "from": "Natallia Victorova",
+                        "from_id": "user1140203126",
+                        "date": "2024-11-09T18:02:13"
+                    }
+                ]
+            }
+        ]
+    },
+    "102869": {
+        "id": 102869,
+        "type": "message",
+        "date": "2024-11-08T18:40:26",
+        "date_unixtime": "1731080426",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 803,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "102941": {
+        "id": 102941,
+        "type": "message",
+        "date": "2024-11-09T10:46:49",
+        "date_unixtime": "1731138409",
+        "edited": "2024-11-09T18:28:36",
+        "edited_unixtime": "1731166116",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 41250,
+        "text": "Виленской не хватает😢",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Виленской не хватает😢"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😢",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-11-09T18:28:36"
+                    }
+                ]
+            }
+        ]
+    },
+    "103032": {
+        "id": 103032,
+        "type": "message",
+        "date": "2024-11-10T12:24:21",
+        "date_unixtime": "1731230661",
+        "from": "Саша",
+        "from_id": "user597485076",
+        "reply_to_message_id": 41250,
+        "text": "Добрый день. Можете найди пос. Табоцкий ( табоцкий огородня) добрушский район, гомельская область",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день. Можете найди пос. Табоцкий ( табоцкий огородня) добрушский район, гомельская область"
+            }
+        ]
+    },
+    "103081": {
+        "id": 103081,
+        "type": "message",
+        "date": "2024-11-10T18:47:03",
+        "date_unixtime": "1731253623",
+        "edited": "2024-11-10T19:00:18",
+        "edited_unixtime": "1731254418",
+        "from": "Anna Petrova",
+        "from_id": "user1970293221",
+        "reply_to_message_id": 41250,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://vk.com/album-107309195_243028704"
+            },
+            " - здесь есть открытки всех губерний"
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://vk.com/album-107309195_243028704"
+            },
+            {
+                "type": "plain",
+                "text": " - здесь есть открытки всех губерний"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "👏",
+                "recent": [
+                    {
+                        "from": "Л",
+                        "from_id": "user1311507774",
+                        "date": "2024-11-11T11:55:57"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2024-11-11T12:23:22"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Детидетей",
+                        "from_id": "user668121919",
+                        "date": "2025-01-28T01:53:06"
+                    },
+                    {
+                        "from": "Evgeniy Shabanov",
+                        "from_id": "user387659235",
+                        "date": "2024-12-07T19:59:10"
+                    }
+                ]
+            }
+        ]
+    },
+    "103177": {
+        "id": 103177,
+        "type": "message",
+        "date": "2024-11-11T20:39:47",
+        "date_unixtime": "1731346787",
+        "from": "Victor",
+        "from_id": "user512489139",
+        "reply_to_message_id": 41250,
+        "text": [
+            "Вельмі прыгожая і пазнавальная падборка фатаграфій знаёмага \"блукаючага фатографа\" з розных мясцін Беларусі\n",
+            {
+                "type": "link",
+                "text": "https://photos.google.com/share/AF1QipNeoJ8xny-fPaFLYUTlGqq3ubC-54UgCwzpuHcKuveWTCzKjPRL1oBV4nHowxfoyA?key=NU15UnhBNWhGUmdSaU9tOXlLUnIyMXdEY3hiMi1n"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вельмі прыгожая і пазнавальная падборка фатаграфій знаёмага \"блукаючага фатографа\" з розных мясцін Беларусі\n"
+            },
+            {
+                "type": "link",
+                "text": "https://photos.google.com/share/AF1QipNeoJ8xny-fPaFLYUTlGqq3ubC-54UgCwzpuHcKuveWTCzKjPRL1oBV4nHowxfoyA?key=NU15UnhBNWhGUmdSaU9tOXlLUnIyMXdEY3hiMi1n"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "103231": {
+        "id": 103231,
+        "type": "message",
+        "date": "2024-11-12T15:11:13",
+        "date_unixtime": "1731413473",
+        "from": "Grigory",
+        "from_id": "user286320928",
+        "reply_to_message_id": 41250,
+        "text": "Есть тут те, кто занимается/занимался репрессированными? Подскажите - можно ли считать БД мемориала - исчервыющей базой в контексте Беларуси?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Есть тут те, кто занимается/занимался репрессированными? Подскажите - можно ли считать БД мемориала - исчервыющей базой в контексте Беларуси?"
+            }
+        ]
+    },
+    "103232": {
+        "id": 103232,
+        "type": "message",
+        "date": "2024-11-12T15:14:19",
+        "date_unixtime": "1731413659",
+        "edited": "2024-11-12T15:19:12",
+        "edited_unixtime": "1731413952",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 103231,
+        "text": "Не, канешне. Майго прадзеда не было ў ніякай базе.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Не, канешне. Майго прадзеда не было ў ніякай базе."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "💯",
+                "recent": [
+                    {
+                        "from": "Елизавета",
+                        "from_id": "user5576914361",
+                        "date": "2024-11-13T05:27:21"
+                    },
+                    {
+                        "from": "Anpiel",
+                        "from_id": "user7460713234",
+                        "date": "2024-11-12T18:35:00"
+                    },
+                    {
+                        "from": ";",
+                        "from_id": "user5579643927",
+                        "date": "2024-11-12T17:48:52"
+                    }
+                ]
+            }
+        ]
+    },
+    "103234": {
+        "id": 103234,
+        "type": "message",
+        "date": "2024-11-12T15:15:55",
+        "date_unixtime": "1731413755",
+        "from": "Grigory",
+        "from_id": "user286320928",
+        "reply_to_message_id": 103232,
+        "text": "Какие тогда альтернативы из общедоступных можно смотреть?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Какие тогда альтернативы из общедоступных можно смотреть?"
+            }
+        ]
+    },
+    "103238": {
+        "id": 103238,
+        "type": "message",
+        "date": "2024-11-12T15:19:58",
+        "date_unixtime": "1731413998",
+        "from": "Гарик",
+        "from_id": "user7087009637",
+        "reply_to_message_id": 103232,
+        "text": "В ГАМн есть фонд с лишенными прав, Но это только Минск",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В ГАМн есть фонд с лишенными прав, Но это только Минск"
+            }
+        ]
+    },
+    "103240": {
+        "id": 103240,
+        "type": "message",
+        "date": "2024-11-12T15:22:08",
+        "date_unixtime": "1731414128",
+        "from": "Grigory",
+        "from_id": "user286320928",
+        "reply_to_message_id": 41250,
+        "text": "Глусский район нужен",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Глусский район нужен"
+            }
+        ]
+    },
+    "103241": {
+        "id": 103241,
+        "type": "message",
+        "date": "2024-11-12T15:22:59",
+        "date_unixtime": "1731414179",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 41250,
+        "text": "Пісалі ў архіў КДБ?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Пісалі ў архіў КДБ?"
+            }
+        ]
+    },
+    "103242": {
+        "id": 103242,
+        "type": "message",
+        "date": "2024-11-12T15:25:11",
+        "date_unixtime": "1731414311",
+        "from": "Grigory",
+        "from_id": "user286320928",
+        "reply_to_message_id": 103241,
+        "text": "А есть ли смысл? Я не из РБ, родства подтверждённого нет и не будет, сведений о факте ареста (или иное) также не имеется. Просто пропал человек и все.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А есть ли смысл? Я не из РБ, родства подтверждённого нет и не будет, сведений о факте ареста (или иное) также не имеется. Просто пропал человек и все."
+            }
+        ]
+    },
+    "103245": {
+        "id": 103245,
+        "type": "message",
+        "date": "2024-11-12T15:32:51",
+        "date_unixtime": "1731414771",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 103242,
+        "text": "Без сваяцтва сэнсу няма",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Без сваяцтва сэнсу няма"
+            }
+        ]
+    },
+    "103248": {
+        "id": 103248,
+        "type": "message",
+        "date": "2024-11-12T15:34:25",
+        "date_unixtime": "1731414865",
+        "edited": "2024-11-12T15:44:37",
+        "edited_unixtime": "1731415477",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 103242,
+        "text": "Хаця! Можаце паспрабаваць напісаць  запыт на наяўнасць дакументаў (ёсць/няма), можна без сваяцтва",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Хаця! Можаце паспрабаваць напісаць  запыт на наяўнасць дакументаў (ёсць/няма), можна без сваяцтва"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤔",
+                "recent": [
+                    {
+                        "from": "Grigory",
+                        "from_id": "user286320928",
+                        "date": "2024-11-12T15:44:37"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "💯",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2024-11-18T16:16:20"
+                    }
+                ]
+            }
+        ]
+    },
+    "103283": {
+        "id": 103283,
+        "type": "message",
+        "date": "2024-11-13T05:32:42",
+        "date_unixtime": "1731465162",
+        "edited": "2024-11-18T16:16:31",
+        "edited_unixtime": "1731935791",
+        "from": "Елизавета",
+        "from_id": "user5576914361",
+        "reply_to_message_id": 103242,
+        "text": "Я бы на Вашем месте все равно попробовала. В лоб не дадут, в худшем случае напишут, что сведений нет или предоставить их не могут. Зато Вы сможете успокоиться на том, что попытались. А может напишут, что информация есть и дальше уже будете думать что делать. Я им тоже из РФ отправляла письмо почтой, правда у меня родство подтверждается, прислали ответ так же почтой",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я бы на Вашем месте все равно попробовала. В лоб не дадут, в худшем случае напишут, что сведений нет или предоставить их не могут. Зато Вы сможете успокоиться на том, что попытались. А может напишут, что информация есть и дальше уже будете думать что делать. Я им тоже из РФ отправляла письмо почтой, правда у меня родство подтверждается, прислали ответ так же почтой"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2024-11-18T16:16:31"
+                    }
+                ]
+            }
+        ]
+    },
+    "103592": {
+        "id": 103592,
+        "type": "message",
+        "date": "2024-11-15T22:48:27",
+        "date_unixtime": "1731700107",
+        "edited": "2024-11-16T08:32:12",
+        "edited_unixtime": "1731735132",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 41250,
+        "text": [
+            {
+                "type": "text_link",
+                "text": "АРХІТЭКТУРА БЕЛАРУСІ",
+                "href": "https://youtube.com/playlist?list=PLT_gNpkEJuGRG7GAgH0mHLQgMRcxMI4NN&si=I8gTKGsoho6etnu1"
+            },
+            "\nТэлеперадача \"Архітэктура Беларусі\" пазнаёміць гледачоў з архітэктурнымі помнікамі Беларусі, у разнастайных стылях якіх адлюстраваны ўплыў як усходняй, так і заходняй культуры. Кожны выпуск прысвечаны аднаму архітэктурнаму аб'екту. Праект ствараецца ТАА \"Вiдэамануфактура\" па заказе тэлеканала «Беларусь 3»."
+        ],
+        "text_entities": [
+            {
+                "type": "text_link",
+                "text": "АРХІТЭКТУРА БЕЛАРУСІ",
+                "href": "https://youtube.com/playlist?list=PLT_gNpkEJuGRG7GAgH0mHLQgMRcxMI4NN&si=I8gTKGsoho6etnu1"
+            },
+            {
+                "type": "plain",
+                "text": "\nТэлеперадача \"Архітэктура Беларусі\" пазнаёміць гледачоў з архітэктурнымі помнікамі Беларусі, у разнастайных стылях якіх адлюстраваны ўплыў як усходняй, так і заходняй культуры. Кожны выпуск прысвечаны аднаму архітэктурнаму аб'екту. Праект ствараецца ТАА \"Вiдэамануфактура\" па заказе тэлеканала «Беларусь 3»."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Kris Romanyuk",
+                        "from_id": "user173177233",
+                        "date": "2024-11-18T13:21:48"
+                    },
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-11-16T08:32:12"
+                    }
+                ]
+            }
+        ]
+    },
+    "104504": {
+        "id": 104504,
+        "type": "message",
+        "date": "2024-11-26T19:19:22",
+        "date_unixtime": "1732637962",
+        "edited": "2024-11-26T19:39:18",
+        "edited_unixtime": "1732639158",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 41250,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Рускія ў Аргентыне (09.03.1940).pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            "Артыкул пра ",
+            {
+                "type": "bold",
+                "text": "Мінск"
+            },
+            " у газеце \"Рускія ў Аргентыне\" пад аўтарствам Кузьмы Чорнага. 09.03.1940"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Артыкул пра "
+            },
+            {
+                "type": "bold",
+                "text": "Мінск"
+            },
+            {
+                "type": "plain",
+                "text": " у газеце \"Рускія ў Аргентыне\" пад аўтарствам Кузьмы Чорнага. 09.03.1940"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-11-26T21:35:31"
+                    },
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2024-11-26T20:25:13"
+                    },
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-11-26T20:12:26"
+                    }
+                ]
+            }
+        ]
+    }
+}

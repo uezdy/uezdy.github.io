@@ -1,0 +1,18 @@
+{
+    "93052": {
+        "id": 93052,
+        "type": "message",
+        "date": "2024-08-19T10:17:51",
+        "date_unixtime": "1724051871",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 93049,
+        "text": "Молодец. Объективно",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Молодец. Объективно"
+            }
+        ]
+    }
+}

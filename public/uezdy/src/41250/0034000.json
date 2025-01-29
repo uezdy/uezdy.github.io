@@ -1,0 +1,18 @@
+{
+    "42033": {
+        "id": 42033,
+        "type": "message",
+        "date": "2023-04-10T14:32:47",
+        "date_unixtime": "1681126367",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 41250,
+        "text": "У нас были и есть в деревне",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У нас были и есть в деревне"
+            }
+        ]
+    }
+}

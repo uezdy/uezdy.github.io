@@ -1,0 +1,39 @@
+{
+    "107224": {
+        "id": 107224,
+        "type": "message",
+        "date": "2024-12-22T22:57:12",
+        "date_unixtime": "1734897432",
+        "edited": "2024-12-22T23:50:39",
+        "edited_unixtime": "1734900639",
+        "from": "Анатолий Атнагулов",
+        "from_id": "user1002589739",
+        "reply_to_message_id": 98757,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://niab.by/vystavka_mingubved/temat_perechen/24/"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://niab.by/vystavka_mingubved/temat_perechen/24/"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-12-22T23:50:39"
+                    }
+                ]
+            }
+        ]
+    }
+}

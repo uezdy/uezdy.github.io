@@ -1,0 +1,434 @@
+{
+    "60103": {
+        "id": 60103,
+        "type": "message",
+        "date": "2023-10-27T11:30:20",
+        "date_unixtime": "1698395420",
+        "edited": "2023-10-27T11:36:43",
+        "edited_unixtime": "1698395803",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "forwarded_from": "De facto. Беларуская навука",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 893,
+        "height": 1280,
+        "text": [
+            "Алесь Смалянчук паведамляе пра выхад друкаванай версіі ",
+            {
+                "type": "bold",
+                "text": "новага нумара Гадавіка Цэнтра беларускіх даследаванняў"
+            },
+            ". Пакуль можна пазнаёміцца са зместам, павінна быць пазней і электронная версія."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Алесь Смалянчук паведамляе пра выхад друкаванай версіі "
+            },
+            {
+                "type": "bold",
+                "text": "новага нумара Гадавіка Цэнтра беларускіх даследаванняў"
+            },
+            {
+                "type": "plain",
+                "text": ". Пакуль можна пазнаёміцца са зместам, павінна быць пазней і электронная версія."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Яська Гаспадар з-пад Вільні",
+                        "from_id": "user787777714",
+                        "date": "2023-10-27T22:27:10"
+                    },
+                    {
+                        "from": "Алексей Билецкий",
+                        "from_id": "user1133915357",
+                        "date": "2023-10-27T13:52:47"
+                    },
+                    {
+                        "from": "Darya",
+                        "from_id": "user353969106",
+                        "date": "2023-10-27T11:39:23"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥"
+            }
+        ]
+    },
+    "60104": {
+        "id": 60104,
+        "type": "message",
+        "date": "2023-10-27T11:30:21",
+        "date_unixtime": "1698395421",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "forwarded_from": "De facto. Беларуская навука",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 400,
+        "height": 600,
+        "text": "",
+        "text_entities": []
+    },
+    "60105": {
+        "id": 60105,
+        "type": "message",
+        "date": "2023-10-27T11:30:21",
+        "date_unixtime": "1698395421",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "forwarded_from": "De facto. Беларуская навука",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 403,
+        "height": 594,
+        "text": "",
+        "text_entities": []
+    },
+    "60114": {
+        "id": 60114,
+        "type": "message",
+        "date": "2023-10-27T11:47:17",
+        "date_unixtime": "1698396437",
+        "edited": "2023-10-27T12:16:57",
+        "edited_unixtime": "1698398217",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Залівака_А_Шляхта_Магілёўскай_губерні_Радаводы_2017.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "ХТО НІХТО",
+                        "from_id": "user425011945",
+                        "date": "2023-10-27T17:28:05"
+                    },
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2023-10-27T15:46:57"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2023-10-27T12:21:38"
+                    }
+                ]
+            }
+        ]
+    },
+    "60157": {
+        "id": 60157,
+        "type": "message",
+        "date": "2023-10-28T13:43:00",
+        "date_unixtime": "1698489780",
+        "edited": "2024-10-19T15:58:12",
+        "edited_unixtime": "1729342692",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Гісторыя_Магілёва,_Мінулае_і_сучаснасць.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "У зборнік “Гісторыя Магілёва: мінулае і сучаснасць” увайшлі навуковыя артыкулы ўдзельнікаў ХІІ Міжнароднай навуковай канферэнцыі “Гісторыя Магілёва: мінулае і сучаснасць”, якая адбылася ў г. Магілёве 25–26 чэрвеня 2021 г. і была прысвечана 80-годдзю гераічнай абароны Магілёва ў ліпені 1941 г. У канферэнцыі бралі ўдзел навукоўцы з Беларусі, Польшчы, Расіі і Украіны. У зборніку захаваныя погляды, арфаграфія і мова аўтараў, таму за магчымыя недакладнасці і спрэчныя моманты ў тэксце адказнасць нясуць аўтары.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У зборнік “Гісторыя Магілёва: мінулае і сучаснасць” увайшлі навуковыя артыкулы ўдзельнікаў ХІІ Міжнароднай навуковай канферэнцыі “Гісторыя Магілёва: мінулае і сучаснасць”, якая адбылася ў г. Магілёве 25–26 чэрвеня 2021 г. і была прысвечана 80-годдзю гераічнай абароны Магілёва ў ліпені 1941 г. У канферэнцыі бралі ўдзел навукоўцы з Беларусі, Польшчы, Расіі і Украіны. У зборніку захаваныя погляды, арфаграфія і мова аўтараў, таму за магчымыя недакладнасці і спрэчныя моманты ў тэксце адказнасць нясуць аўтары."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Alex T",
+                        "from_id": "user1382114691",
+                        "date": "2024-10-19T15:58:12"
+                    }
+                ]
+            }
+        ]
+    },
+    "60253": {
+        "id": 60253,
+        "type": "message",
+        "date": "2023-10-28T20:33:29",
+        "date_unixtime": "1698514409",
+        "edited": "2023-10-28T20:45:23",
+        "edited_unixtime": "1698515123",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1890 Krest Kovensk gub.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            "------------ ",
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            " -----------\nЗаглавие: 1890. Юридические воззрения и обычаи крестьян Северо-Западного края преимущественно Ковенской губернии., 115 стр., 67,50 Мб., PDF.\nАвтор: Сост. частный поверенный при Поневеж. судебно-мировом съезде Б.А. Фридман.\nЖанр: ",
+            {
+                "type": "hashtag",
+                "text": "#1890г"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Ковенская"
+            },
+            "\nИздатель: Вильна : тип. А.Г. Сыркина.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: ",
+            {
+                "type": "link",
+                "text": "http://book-olds.ru/BookLibrary/17000-Kovenskaya-gub/1890.-YUridicheskie-vozzreniya-i-obyichai-krestyan-Severo-Zapadnogo-kraya.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "------------ "
+            },
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            {
+                "type": "plain",
+                "text": " -----------\nЗаглавие: 1890. Юридические воззрения и обычаи крестьян Северо-Западного края преимущественно Ковенской губернии., 115 стр., 67,50 Мб., PDF.\nАвтор: Сост. частный поверенный при Поневеж. судебно-мировом съезде Б.А. Фридман.\nЖанр: "
+            },
+            {
+                "type": "hashtag",
+                "text": "#1890г"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Ковенская"
+            },
+            {
+                "type": "plain",
+                "text": "\nИздатель: Вильна : тип. А.Г. Сыркина.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: "
+            },
+            {
+                "type": "link",
+                "text": "http://book-olds.ru/BookLibrary/17000-Kovenskaya-gub/1890.-YUridicheskie-vozzreniya-i-obyichai-krestyan-Severo-Zapadnogo-kraya.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Darya",
+                        "from_id": "user353969106",
+                        "date": "2023-10-28T20:46:21"
+                    },
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2023-10-28T20:45:23"
+                    }
+                ]
+            }
+        ]
+    },
+    "60284": {
+        "id": 60284,
+        "type": "message",
+        "date": "2023-10-28T21:25:08",
+        "date_unixtime": "1698517508",
+        "edited": "2023-10-28T21:31:59",
+        "edited_unixtime": "1698517919",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Шарухо_Игорь_Николаевич_Местечки_Беларуси_из_прошлого_в_будущее.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": [
+            "Шарухо Игорь Николаевич. Местечки Беларуси: из прошлого в будущее // Псковский регионологический журнал. – 2010. – № 10. – С. 65-71.\n",
+            {
+                "type": "link",
+                "text": "https://pskgu.ru/projects/pgu/storage/prj/prj_10/prj_10_09.pdf"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Шарухо Игорь Николаевич. Местечки Беларуси: из прошлого в будущее // Псковский регионологический журнал. – 2010. – № 10. – С. 65-71.\n"
+            },
+            {
+                "type": "link",
+                "text": "https://pskgu.ru/projects/pgu/storage/prj/prj_10/prj_10_09.pdf"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2023-12-13T23:57:51"
+                    },
+                    {
+                        "from": "Darya",
+                        "from_id": "user353969106",
+                        "date": "2023-10-28T21:33:35"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍"
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Людвига Людвига",
+                        "from_id": "user5071720783",
+                        "date": "2023-10-30T22:53:45"
+                    }
+                ]
+            }
+        ]
+    },
+    "60292": {
+        "id": 60292,
+        "type": "message",
+        "date": "2023-10-28T23:09:52",
+        "date_unixtime": "1698523792",
+        "edited": "2023-10-28T23:10:07",
+        "edited_unixtime": "1698523807",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 24109,
+        "text": "А на русский язык это перевести что за тома?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А на русский язык это перевести что за тома?"
+            }
+        ]
+    },
+    "60293": {
+        "id": 60293,
+        "type": "message",
+        "date": "2023-10-28T23:10:38",
+        "date_unixtime": "1698523838",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 24109,
+        "text": "Хоть какое описание.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Хоть какое описание."
+            }
+        ]
+    },
+    "62135": {
+        "id": 62135,
+        "type": "message",
+        "date": "2023-11-07T20:26:11",
+        "date_unixtime": "1699377971",
+        "edited": "2023-11-07T20:28:06",
+        "edited_unixtime": "1699378086",
+        "from": "Victor",
+        "from_id": "user512489139",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1967_djakov.pdf",
+        "mime_type": "application/pdf",
+        "text": "Деятели Русского и Польского освободительного движения 1856-1865 г.\nесть список участников революционных кружков и организаций",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Деятели Русского и Польского освободительного движения 1856-1865 г.\nесть список участников революционных кружков и организаций"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Katya Makarevich",
+                        "from_id": "user521432070",
+                        "date": "2023-11-07T21:09:40"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user75433030",
+                        "date": "2023-11-07T20:55:48"
+                    },
+                    {
+                        "from": "N.Y.",
+                        "from_id": "user1841363435",
+                        "date": "2023-11-07T20:28:06"
+                    }
+                ]
+            }
+        ]
+    }
+}

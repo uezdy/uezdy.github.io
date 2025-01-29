@@ -1,0 +1,49 @@
+{
+    "52961": {
+        "id": 52961,
+        "type": "message",
+        "date": "2023-07-26T17:55:30",
+        "date_unixtime": "1690383330",
+        "edited": "2023-07-26T17:58:56",
+        "edited_unixtime": "1690383536",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 24219,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://t.me/Bychowski_uezd"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://t.me/Bychowski_uezd"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 7,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "MikhailR Kubasov",
+                        "from_id": "user918899531",
+                        "date": "2024-01-25T17:13:25"
+                    },
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2023-10-07T22:32:03"
+                    },
+                    {
+                        "from": "S",
+                        "from_id": "user5894458397",
+                        "date": "2023-08-01T08:52:20"
+                    }
+                ]
+            }
+        ]
+    }
+}

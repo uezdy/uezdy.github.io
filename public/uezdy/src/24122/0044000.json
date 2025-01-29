@@ -1,0 +1,664 @@
+{
+    "42202": {
+        "id": 42202,
+        "type": "message",
+        "date": "2023-04-12T02:48:02",
+        "date_unixtime": "1681256882",
+        "edited": "2023-04-12T05:48:07",
+        "edited_unixtime": "1681267687",
+        "from": "Galina Torgonska",
+        "from_id": "user259579063",
+        "reply_to_message_id": 24122,
+        "text": [
+            "ДОКУМЕНТЫ ПО ИСТОРИИ\nПРАВОСЛАВНОЙ ЦЕРКВИ НА БЕЛАРУСИ\nXVIII— XX ВВ.\nВ ФОНДАХ ГОСУДАРСТВЕННЫХ АРХИВОВ\nРЕСПУБЛИКИ БЕЛАРУСЬ\nМежархивный справочник\n",
+            {
+                "type": "link",
+                "text": "http://pdf.kamunikat.org/10265-1.pdf"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ДОКУМЕНТЫ ПО ИСТОРИИ\nПРАВОСЛАВНОЙ ЦЕРКВИ НА БЕЛАРУСИ\nXVIII— XX ВВ.\nВ ФОНДАХ ГОСУДАРСТВЕННЫХ АРХИВОВ\nРЕСПУБЛИКИ БЕЛАРУСЬ\nМежархивный справочник\n"
+            },
+            {
+                "type": "link",
+                "text": "http://pdf.kamunikat.org/10265-1.pdf"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2023-04-12T09:29:53"
+                    },
+                    {
+                        "from": "🐒",
+                        "from_id": "user1262081028",
+                        "date": "2023-04-12T05:48:07"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Natallia",
+                        "from_id": "user987241871",
+                        "date": "2024-06-25T09:00:18"
+                    }
+                ]
+            }
+        ]
+    },
+    "42203": {
+        "id": 42203,
+        "type": "message",
+        "date": "2023-04-12T03:44:58",
+        "date_unixtime": "1681260298",
+        "edited": "2023-04-12T04:32:11",
+        "edited_unixtime": "1681263131",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 24122,
+        "text": [
+            {
+                "type": "bold",
+                "text": "Geni"
+            },
+            ": как переходить на профили и деревья из результатов поиска ",
+            {
+                "type": "underline",
+                "text": "без подписки\n"
+            },
+            "- ",
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/post/3/17495/p4516085.htm#pp4516085"
+            },
+            "\n\nДля ",
+            {
+                "type": "bold",
+                "text": "MyHeritage"
+            },
+            " есть ",
+            {
+                "type": "text_link",
+                "text": "похожее",
+                "href": "https://forum.vgd.ru/post/3/16693/p4319586.htm#pp4319586"
+            },
+            " расширение ",
+            {
+                "type": "text_link",
+                "text": "mh-search-assist",
+                "href": "https://github.com/hazzik/mh-search-assist"
+            },
+            ", но оно иногда может ",
+            {
+                "type": "text_link",
+                "text": "не работать",
+                "href": "https://forum.vgd.ru/post/3/16693/p4512560.htm#pp4512560"
+            },
+            ".\nСобираюсь его тоже переделать как юзерскрипт и немного улучшить."
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Geni"
+            },
+            {
+                "type": "plain",
+                "text": ": как переходить на профили и деревья из результатов поиска "
+            },
+            {
+                "type": "underline",
+                "text": "без подписки\n"
+            },
+            {
+                "type": "plain",
+                "text": "- "
+            },
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/post/3/17495/p4516085.htm#pp4516085"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nДля "
+            },
+            {
+                "type": "bold",
+                "text": "MyHeritage"
+            },
+            {
+                "type": "plain",
+                "text": " есть "
+            },
+            {
+                "type": "text_link",
+                "text": "похожее",
+                "href": "https://forum.vgd.ru/post/3/16693/p4319586.htm#pp4319586"
+            },
+            {
+                "type": "plain",
+                "text": " расширение "
+            },
+            {
+                "type": "text_link",
+                "text": "mh-search-assist",
+                "href": "https://github.com/hazzik/mh-search-assist"
+            },
+            {
+                "type": "plain",
+                "text": ", но оно иногда может "
+            },
+            {
+                "type": "text_link",
+                "text": "не работать",
+                "href": "https://forum.vgd.ru/post/3/16693/p4512560.htm#pp4512560"
+            },
+            {
+                "type": "plain",
+                "text": ".\nСобираюсь его тоже переделать как юзерскрипт и немного улучшить."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 9,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Светлана Русанова",
+                        "from_id": "user1209144225",
+                        "date": "2023-06-22T03:58:59"
+                    },
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2023-05-28T22:45:42"
+                    },
+                    {
+                        "from": "Александр МойДом",
+                        "from_id": "user1447328870",
+                        "date": "2023-04-23T12:06:04"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤"
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥"
+            }
+        ]
+    },
+    "42519": {
+        "id": 42519,
+        "type": "message",
+        "date": "2023-04-15T20:05:12",
+        "date_unixtime": "1681578312",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "reply_to_message_id": 24122,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://victims.rusarchives.ru"
+            },
+            "\n\n",
+            {
+                "type": "link",
+                "text": "https://victims.rusarchives.ru/maps"
+            },
+            "\n\nФедеральный архивный проект --\nПреступления нацистов и их пособников\nпротив мирного населения СССР\nв годы Великой Отечественной войны\n1941–1945 гг."
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://victims.rusarchives.ru"
+            },
+            {
+                "type": "plain",
+                "text": "\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://victims.rusarchives.ru/maps"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nФедеральный архивный проект --\nПреступления нацистов и их пособников\nпротив мирного населения СССР\nв годы Великой Отечественной войны\n1941–1945 гг."
+            }
+        ]
+    },
+    "42520": {
+        "id": 42520,
+        "type": "message",
+        "date": "2023-04-15T20:30:17",
+        "date_unixtime": "1681579817",
+        "from": "Лена",
+        "from_id": "user1918841697",
+        "reply_to_message_id": 24122,
+        "text": "Да.\nТут много документов прямо по деревням.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да.\nТут много документов прямо по деревням."
+            }
+        ]
+    },
+    "42584": {
+        "id": 42584,
+        "type": "message",
+        "date": "2023-04-16T18:37:55",
+        "date_unixtime": "1681659475",
+        "edited": "2023-04-16T19:08:27",
+        "edited_unixtime": "1681661307",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 24122,
+        "text": [
+            "LVIA, f.1280. Предметный указатель фонда  Радзивиллов. \n\n",
+            {
+                "type": "link",
+                "text": "http://kdkv.narod.ru/Nesvizh/Radz-PredmUk.htm"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "LVIA, f.1280. Предметный указатель фонда  Радзивиллов. \n\n"
+            },
+            {
+                "type": "link",
+                "text": "http://kdkv.narod.ru/Nesvizh/Radz-PredmUk.htm"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Victor",
+                        "from_id": "user512489139",
+                        "date": "2023-05-01T01:58:40"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user1351040624",
+                        "date": "2023-04-27T23:16:38"
+                    },
+                    {
+                        "from": "D.M.",
+                        "from_id": "user572729336",
+                        "date": "2023-04-16T23:23:39"
+                    }
+                ]
+            }
+        ]
+    },
+    "42666": {
+        "id": 42666,
+        "type": "message",
+        "date": "2023-04-18T16:14:45",
+        "date_unixtime": "1681823685",
+        "edited": "2023-04-18T16:25:00",
+        "edited_unixtime": "1681824300",
+        "from": "Victor",
+        "from_id": "user512489139",
+        "reply_to_message_id": 24122,
+        "text": [
+            "Польский сайт с индексами католических кладбищ, в том числе Минская Кальвария (5685 могил), Брестское католическое, православно-католическое кладбище в Кобрине, военное кладбище в Кобрине, кладбище в Коссово Полесском (на польском языке)   ",
+            {
+                "type": "link",
+                "text": "https://www.ogrodywspomnien.pl/index/cmentarz-internetowy,14"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Польский сайт с индексами католических кладбищ, в том числе Минская Кальвария (5685 могил), Брестское католическое, православно-католическое кладбище в Кобрине, военное кладбище в Кобрине, кладбище в Коссово Полесском (на польском языке)   "
+            },
+            {
+                "type": "link",
+                "text": "https://www.ogrodywspomnien.pl/index/cmentarz-internetowy,14"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 9,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Marina Yurochka",
+                        "from_id": "user6971824773",
+                        "date": "2024-08-20T20:22:22"
+                    },
+                    {
+                        "from": "Владислав Петрокас",
+                        "from_id": "user5152632219",
+                        "date": "2024-08-20T20:16:52"
+                    },
+                    {
+                        "from": "Светлана",
+                        "from_id": "user340818931",
+                        "date": "2023-04-23T22:04:55"
+                    }
+                ]
+            }
+        ]
+    },
+    "42994": {
+        "id": 42994,
+        "type": "message",
+        "date": "2023-04-22T01:40:53",
+        "date_unixtime": "1682116853",
+        "edited": "2023-04-22T01:52:09",
+        "edited_unixtime": "1682117529",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 24122,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1052,
+        "height": 715,
+        "text": [
+            {
+                "type": "bold",
+                "text": "MyHeritage Profile Helper"
+            },
+            " - cкрипт для перехода на профили/деревья/сайты из результатов поиска ",
+            {
+                "type": "underline",
+                "text": "без подписки\n\n"
+            },
+            "Описание и инструкция по установке: ",
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/post/3/16693/p4543364.htm#pp4543364"
+            },
+            "\n\nПохожий скрипт для ",
+            {
+                "type": "bold",
+                "text": "Geni"
+            },
+            " - ",
+            {
+                "type": "text_link",
+                "text": "здесь",
+                "href": "https://forum.vgd.ru/post/3/17495/p4516085.htm#pp4516085"
+            },
+            "."
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "MyHeritage Profile Helper"
+            },
+            {
+                "type": "plain",
+                "text": " - cкрипт для перехода на профили/деревья/сайты из результатов поиска "
+            },
+            {
+                "type": "underline",
+                "text": "без подписки\n\n"
+            },
+            {
+                "type": "plain",
+                "text": "Описание и инструкция по установке: "
+            },
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/post/3/16693/p4543364.htm#pp4543364"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nПохожий скрипт для "
+            },
+            {
+                "type": "bold",
+                "text": "Geni"
+            },
+            {
+                "type": "plain",
+                "text": " - "
+            },
+            {
+                "type": "text_link",
+                "text": "здесь",
+                "href": "https://forum.vgd.ru/post/3/17495/p4516085.htm#pp4516085"
+            },
+            {
+                "type": "plain",
+                "text": "."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 18,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2023-05-28T22:45:04"
+                    },
+                    {
+                        "from": "Evgeniy Shabanov",
+                        "from_id": "user387659235",
+                        "date": "2023-05-21T18:49:28"
+                    },
+                    {
+                        "from": "Александр Папин",
+                        "from_id": "user698870737",
+                        "date": "2023-05-02T22:16:21"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤔"
+            }
+        ]
+    },
+    "43033": {
+        "id": 43033,
+        "type": "message",
+        "date": "2023-04-22T15:07:42",
+        "date_unixtime": "1682165262",
+        "edited": "2023-04-22T21:34:59",
+        "edited_unixtime": "1682188499",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 24122,
+        "text": [
+            {
+                "type": "text_link",
+                "text": "Нацыянальным гістарычным архівам Беларусі выдадзены зборнік дакументаў «Минская женская гимназия: фотографические материалы»",
+                "href": "https://niab.by/newsite/ru/content/all/%D0%BD%D0%B0%D1%86%D1%8B%D1%8F%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC-%D0%B3%D1%96%D1%81%D1%82%D0%B0%D1%80%D1%8B%D1%87%D0%BD%D1%8B%D0%BC-%D0%B0%D1%80%D1%85%D1%96%D0%B2%D0%B0%D0%BC-%D0%B1%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%96-%D0%B2%D1%8B%D0%B4%D0%B0%D0%B4%D0%B7%D0%B5%D0%BD%D1%8B-%D0%B7%D0%B1%D0%BE%D1%80%D0%BD%D1%96%D0%BA-%D0%B4%D0%B0%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%9E-%C2%AB%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F-%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "text_link",
+                "text": "Нацыянальным гістарычным архівам Беларусі выдадзены зборнік дакументаў «Минская женская гимназия: фотографические материалы»",
+                "href": "https://niab.by/newsite/ru/content/all/%D0%BD%D0%B0%D1%86%D1%8B%D1%8F%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC-%D0%B3%D1%96%D1%81%D1%82%D0%B0%D1%80%D1%8B%D1%87%D0%BD%D1%8B%D0%BC-%D0%B0%D1%80%D1%85%D1%96%D0%B2%D0%B0%D0%BC-%D0%B1%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%96-%D0%B2%D1%8B%D0%B4%D0%B0%D0%B4%D0%B7%D0%B5%D0%BD%D1%8B-%D0%B7%D0%B1%D0%BE%D1%80%D0%BD%D1%96%D0%BA-%D0%B4%D0%B0%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%9E-%C2%AB%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F-%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "D.M.",
+                        "from_id": "user572729336",
+                        "date": "2023-05-27T14:22:48"
+                    },
+                    {
+                        "from": "Olga",
+                        "from_id": "user1117086057",
+                        "date": "2023-04-22T21:34:59"
+                    }
+                ]
+            }
+        ]
+    },
+    "43531": {
+        "id": 43531,
+        "type": "message",
+        "date": "2023-04-26T12:16:13",
+        "date_unixtime": "1682500573",
+        "edited": "2024-02-19T02:52:13",
+        "edited_unixtime": "1708300333",
+        "from": "Алексей Билецкий",
+        "from_id": "user1133915357",
+        "reply_to_message_id": 24122,
+        "text": [
+            "ГИМ (Государственный Исторический Музей, г.Москва),\n\n",
+            {
+                "type": "bold",
+                "text": "Фонд 606 Документы церквей Минской и Гродненской Епархии - Части архивов ряда церквей Минской и Гродненской епархий, эвакуированных с территории нынешней Белоруссии, занятых немецкими войсками в годы Первой мировой войны. В основном — метрические книги. 1703-1916 (подробнее: "
+            },
+            {
+                "type": "link",
+                "text": "www.zhnivo.com"
+            },
+            {
+                "type": "bold",
+                "text": " и "
+            },
+            {
+                "type": "link",
+                "text": "https://radzima.net/ru/miasto/grodno.html"
+            },
+            {
+                "type": "bold",
+                "text": ")"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ГИМ (Государственный Исторический Музей, г.Москва),\n\n"
+            },
+            {
+                "type": "bold",
+                "text": "Фонд 606 Документы церквей Минской и Гродненской Епархии - Части архивов ряда церквей Минской и Гродненской епархий, эвакуированных с территории нынешней Белоруссии, занятых немецкими войсками в годы Первой мировой войны. В основном — метрические книги. 1703-1916 (подробнее: "
+            },
+            {
+                "type": "link",
+                "text": "www.zhnivo.com"
+            },
+            {
+                "type": "bold",
+                "text": " и "
+            },
+            {
+                "type": "link",
+                "text": "https://radzima.net/ru/miasto/grodno.html"
+            },
+            {
+                "type": "bold",
+                "text": ")"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 14,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2023-05-28T22:44:34"
+                    },
+                    {
+                        "from": "D.M.",
+                        "from_id": "user572729336",
+                        "date": "2023-05-27T14:25:14"
+                    },
+                    {
+                        "from": "Anatoly Sazanovich",
+                        "from_id": "user5542313094",
+                        "date": "2023-05-05T14:28:18"
+                    }
+                ]
+            }
+        ]
+    },
+    "44021": {
+        "id": 44021,
+        "type": "message",
+        "date": "2023-04-29T22:28:34",
+        "date_unixtime": "1682796514",
+        "from": "Alex Tsynkevich",
+        "from_id": "user467125576",
+        "reply_to_message_id": 24122,
+        "text": [
+            "По ссылке можно проверить, ездили ли Ваши родственники в США в 19/20 веке. Информация подается таким таким образом, скан документа, судя по всему, можно выкупить за плату:\n\nСведения о пассажире прибывшего в США:\nFirst Name : Stefan\nLast Name : Cynkiewicz\nNationality : Russia, Russian\nLast Place of Residence : Slesino, Russia\nDate of Arrival : October 9th, 1910\nAge at Arrival : 26y\nGender : Male\nMarital Status : Single\nShip of Travel : Cleveland\nPort of Departure : Hamburg\nManifest Line Number : 0015\n\n First Name : Grigory\nLast Name : Cynkiewicz\nNationality : Russia, Russian\nLast Place of Residence : Raczkewicz, Russia\nDate of Arrival : March 10th, 1910\nAge at Arrival : 34y\nGender : Male\nMarital Status : Married\nShip of Travel : Campania (1901)\nPort of Departure : Rotterdam, Holland\nManifest Line Number : 0015\n\n",
+            {
+                "type": "link",
+                "text": "https://heritage.statueofliberty.org/passenger-result?fbclid=IwAR0uDGU-SG7lBPu22ZiMmeZT8nwiPteck2YqO0_6nPnRCVlARty_eFrwgpw"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "По ссылке можно проверить, ездили ли Ваши родственники в США в 19/20 веке. Информация подается таким таким образом, скан документа, судя по всему, можно выкупить за плату:\n\nСведения о пассажире прибывшего в США:\nFirst Name : Stefan\nLast Name : Cynkiewicz\nNationality : Russia, Russian\nLast Place of Residence : Slesino, Russia\nDate of Arrival : October 9th, 1910\nAge at Arrival : 26y\nGender : Male\nMarital Status : Single\nShip of Travel : Cleveland\nPort of Departure : Hamburg\nManifest Line Number : 0015\n\n First Name : Grigory\nLast Name : Cynkiewicz\nNationality : Russia, Russian\nLast Place of Residence : Raczkewicz, Russia\nDate of Arrival : March 10th, 1910\nAge at Arrival : 34y\nGender : Male\nMarital Status : Married\nShip of Travel : Campania (1901)\nPort of Departure : Rotterdam, Holland\nManifest Line Number : 0015\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://heritage.statueofliberty.org/passenger-result?fbclid=IwAR0uDGU-SG7lBPu22ZiMmeZT8nwiPteck2YqO0_6nPnRCVlARty_eFrwgpw"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    }
+}

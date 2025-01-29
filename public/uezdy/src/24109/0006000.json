@@ -1,0 +1,59 @@
+{
+    "24187": {
+        "id": 24187,
+        "type": "message",
+        "date": "2022-11-06T15:06:51",
+        "date_unixtime": "1667736411",
+        "edited": "2022-11-06T15:08:46",
+        "edited_unixtime": "1667736526",
+        "from": "Екатерина",
+        "from_id": "user5201994014",
+        "reply_to_message_id": 24109,
+        "text": [
+            "Памятные книжки Витебской губернии\n",
+            {
+                "type": "link",
+                "text": "http://infobelarus.nlb.by/7n_3085cd/7n_3085cd_1.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Памятные книжки Витебской губернии\n"
+            },
+            {
+                "type": "link",
+                "text": "http://infobelarus.nlb.by/7n_3085cd/7n_3085cd_1.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Наталья",
+                        "from_id": "user382266006",
+                        "date": "2024-07-19T08:26:39"
+                    },
+                    {
+                        "from": "Марина",
+                        "from_id": "user1130987244",
+                        "date": "2023-07-13T16:56:39"
+                    },
+                    {
+                        "from": "Jelena J",
+                        "from_id": "user1153968158",
+                        "date": "2022-11-11T00:40:53"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "63462": {
+        "id": 63462,
+        "type": "message",
+        "date": "2023-11-19T22:34:36",
+        "date_unixtime": "1700422476",
+        "edited": "2023-11-20T17:17:25",
+        "edited_unixtime": "1700489845",
+        "from": "Vital'",
+        "from_id": "user292953215",
+        "reply_to_message_id": 63414,
+        "text": "Есть еще рабочий промокод для myheritage - KOTRABATOWY, скидка 10% к этой цене.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Есть еще рабочий промокод для myheritage - KOTRABATOWY, скидка 10% к этой цене."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Поэт Незнайка",
+                        "from_id": "user6951550971",
+                        "date": "2023-11-23T01:32:54"
+                    },
+                    {
+                        "from": "Darya",
+                        "from_id": "user353969106",
+                        "date": "2023-11-20T05:23:49"
+                    },
+                    {
+                        "from": "I D",
+                        "from_id": "user5726368881",
+                        "date": "2023-11-20T00:23:06"
+                    }
+                ]
+            }
+        ]
+    }
+}

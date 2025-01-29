@@ -1,0 +1,18 @@
+{
+    "24112": {
+        "id": 24112,
+        "type": "message",
+        "date": "2022-11-06T12:06:43",
+        "date_unixtime": "1667725603",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 24106,
+        "text": "Блин я обновил",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Блин я обновил"
+            }
+        ]
+    }
+}

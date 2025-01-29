@@ -1,0 +1,112 @@
+{
+    "111221": {
+        "id": 111221,
+        "type": "message",
+        "date": "2025-01-22T21:08:23",
+        "date_unixtime": "1737569303",
+        "edited": "2025-01-22T21:10:32",
+        "edited_unixtime": "1737569432",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 732,
+        "height": 900,
+        "text": [
+            {
+                "type": "text_link",
+                "text": "Poĺskaja paštoŭka z hierbami miest Litvy.",
+                "href": "https://x.com/paczvarny/status/1880279967218692598?t=XlXFprf8cMRV403kfuaYpA&s=19"
+            },
+            "\nŽyžmary, Viĺnia, Braslaŭ, Koŭnia, Bielastok, Horadnia, Viciebsk, Kiejdany, Lida."
+        ],
+        "text_entities": [
+            {
+                "type": "text_link",
+                "text": "Poĺskaja paštoŭka z hierbami miest Litvy.",
+                "href": "https://x.com/paczvarny/status/1880279967218692598?t=XlXFprf8cMRV403kfuaYpA&s=19"
+            },
+            {
+                "type": "plain",
+                "text": "\nŽyžmary, Viĺnia, Braslaŭ, Koŭnia, Bielastok, Horadnia, Viciebsk, Kiejdany, Lida."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 11,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Детидетей",
+                        "from_id": "user668121919",
+                        "date": "2025-01-28T01:50:58"
+                    },
+                    {
+                        "from": "Sb",
+                        "from_id": "user6512553342",
+                        "date": "2025-01-23T02:02:10"
+                    },
+                    {
+                        "from": "Яна",
+                        "from_id": "user1171558336",
+                        "date": "2025-01-23T01:14:14"
+                    },
+                    {
+                        "from": "В",
+                        "from_id": "user5050312544",
+                        "date": "2025-01-22T23:03:15"
+                    }
+                ]
+            }
+        ]
+    },
+    "111246": {
+        "id": 111246,
+        "type": "message",
+        "date": "2025-01-23T16:38:31",
+        "date_unixtime": "1737639511",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 108929,
+        "text": "Записей не будет. Например, чтобы не осталось следов. Ну и это не было обязательным — чисто на усмотрение самого священника.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Записей не будет. Например, чтобы не осталось следов. Ну и это не было обязательным — чисто на усмотрение самого священника."
+            }
+        ]
+    },
+    "111247": {
+        "id": 111247,
+        "type": "message",
+        "date": "2025-01-23T16:41:35",
+        "date_unixtime": "1737639695",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 108986,
+        "text": "Ну вот Вы пишете, что отец был партийным. Потом раз — всплыло письменное подтверждение тому, что дочь при этом крестили. Что дальше? — Вон из партии.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну вот Вы пишете, что отец был партийным. Потом раз — всплыло письменное подтверждение тому, что дочь при этом крестили. Что дальше? — Вон из партии."
+            }
+        ]
+    },
+    "111272": {
+        "id": 111272,
+        "type": "message",
+        "date": "2025-01-24T00:10:44",
+        "date_unixtime": "1737666644",
+        "from": "Y M",
+        "from_id": "user5035576209",
+        "reply_to_message_id": 111247,
+        "text": "Благодарю, Алексей🙏🏻",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Благодарю, Алексей🙏🏻"
+            }
+        ]
+    }
+}

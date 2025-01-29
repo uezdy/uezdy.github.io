@@ -1,0 +1,1056 @@
+{
+    "42498": {
+        "id": 42498,
+        "type": "message",
+        "date": "2023-04-15T15:12:00",
+        "date_unixtime": "1681560720",
+        "edited": "2023-12-12T17:20:50",
+        "edited_unixtime": "1702390850",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 31965,
+        "text": [
+            "В феврале в эту табличку с РС по Оршанскому уезду внесли еще ",
+            {
+                "type": "text_link",
+                "text": "одно дело",
+                "href": "https://forum.vgd.ru/post/3473/47107/p4446931.htm#pp4446931"
+            },
+            " - Ф. 2151, оп. 1, д. 227 (спасибо petrushas).\nМожет кто пропустил, так же как и я) ",
+            {
+                "type": "text_link",
+                "text": "Ссылку",
+                "href": "https://forum.vgd.ru/post/4092/108659/p3313544.htm#pp3313544"
+            },
+            " обновил."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В феврале в эту табличку с РС по Оршанскому уезду внесли еще "
+            },
+            {
+                "type": "text_link",
+                "text": "одно дело",
+                "href": "https://forum.vgd.ru/post/3473/47107/p4446931.htm#pp4446931"
+            },
+            {
+                "type": "plain",
+                "text": " - Ф. 2151, оп. 1, д. 227 (спасибо petrushas).\nМожет кто пропустил, так же как и я) "
+            },
+            {
+                "type": "text_link",
+                "text": "Ссылку",
+                "href": "https://forum.vgd.ru/post/4092/108659/p3313544.htm#pp3313544"
+            },
+            {
+                "type": "plain",
+                "text": " обновил."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "P",
+                        "from_id": "user201810877",
+                        "date": "2023-12-12T17:20:50"
+                    }
+                ]
+            }
+        ]
+    },
+    "42535": {
+        "id": 42535,
+        "type": "message",
+        "date": "2023-04-15T21:29:07",
+        "date_unixtime": "1681583347",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 600,
+        "text": [
+            "Альманах \"ГенЭкспо\" — единственное в России научно-популярное издание, которое простым языком рассказывает о генеалогии и смежных направлениях. Серия из десяти альманахов подготовлена на основе тезисов и советов от десятков докладчиков онлайн-фестивалей ГенЭкспо.\n\nЕсть доклады в том числе от исследователей из Беларуси (например, Алексея Билецкого).\n\nИсточник: ",
+            {
+                "type": "link",
+                "text": "https://st-fond.ru/almanakh/almanakh"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Альманах \"ГенЭкспо\" — единственное в России научно-популярное издание, которое простым языком рассказывает о генеалогии и смежных направлениях. Серия из десяти альманахов подготовлена на основе тезисов и советов от десятков докладчиков онлайн-фестивалей ГенЭкспо.\n\nЕсть доклады в том числе от исследователей из Беларуси (например, Алексея Билецкого).\n\nИсточник: "
+            },
+            {
+                "type": "link",
+                "text": "https://st-fond.ru/almanakh/almanakh"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "42536": {
+        "id": 42536,
+        "type": "message",
+        "date": "2023-04-15T21:30:58",
+        "date_unixtime": "1681583458",
+        "edited": "2023-04-16T07:51:31",
+        "edited_unixtime": "1681620691",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Альманах ГенЭкспо №1.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ekatherine87 Ekatherine87",
+                        "from_id": "user5273530573",
+                        "date": "2023-05-05T23:39:48"
+                    },
+                    {
+                        "from": "Galina Torgonska",
+                        "from_id": "user259579063",
+                        "date": "2023-04-19T17:04:40"
+                    },
+                    {
+                        "from": "Александр МойДом",
+                        "from_id": "user1447328870",
+                        "date": "2023-04-17T01:42:13"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👎"
+            }
+        ]
+    },
+    "42537": {
+        "id": 42537,
+        "type": "message",
+        "date": "2023-04-15T21:30:59",
+        "date_unixtime": "1681583459",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Альманах ГенЭкспо №2.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    "42538": {
+        "id": 42538,
+        "type": "message",
+        "date": "2023-04-15T21:30:59",
+        "date_unixtime": "1681583459",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Тетрадь по военному поиску.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    "42539": {
+        "id": 42539,
+        "type": "message",
+        "date": "2023-04-15T21:30:59",
+        "date_unixtime": "1681583459",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Альманах ГенЭкспо №3.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    "42586": {
+        "id": 42586,
+        "type": "message",
+        "date": "2023-04-17T01:50:07",
+        "date_unixtime": "1681685407",
+        "edited": "2023-05-07T11:31:21",
+        "edited_unixtime": "1683448281",
+        "from": "Александр МойДом",
+        "from_id": "user1447328870",
+        "reply_to_message_id": 24109,
+        "text": "Список детей беженцев, сирот и потерянных родителями : с приложением адресов приютов / Всероссийкий земский союз. Отдел по устройству беженцев. - Выпуски 1-3. [М., 1916].\n\nВо время Первой мировой войны, во второй половине 1915 г., несколько тысяч детей было вывезено из прифронтовой зоны в тыловые губернии Российской империи. Эта операция по спасению детей была проведена Всероссийским земским союзом и Всероссийским союзом городов, созданными в начале войны.\nВ 1916 г. земский и городской союзы опубликовали данные детей беженцев для того, чтобы облегчить их розыск родственниками. Известны 3 выпуска (январь, март и август), в которых перечислены в общей сложности 13673 человека. Каждый список составлен в алфавитном порядке. Приводится ФИО ребенка, возраст, название прежнего места жительства и адрес места, где он проживал в 1916 г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Список детей беженцев, сирот и потерянных родителями : с приложением адресов приютов / Всероссийкий земский союз. Отдел по устройству беженцев. - Выпуски 1-3. [М., 1916].\n\nВо время Первой мировой войны, во второй половине 1915 г., несколько тысяч детей было вывезено из прифронтовой зоны в тыловые губернии Российской империи. Эта операция по спасению детей была проведена Всероссийским земским союзом и Всероссийским союзом городов, созданными в начале войны.\nВ 1916 г. земский и городской союзы опубликовали данные детей беженцев для того, чтобы облегчить их розыск родственниками. Известны 3 выпуска (январь, март и август), в которых перечислены в общей сложности 13673 человека. Каждый список составлен в алфавитном порядке. Приводится ФИО ребенка, возраст, название прежнего места жительства и адрес места, где он проживал в 1916 г."
+            }
+        ]
+    },
+    "42587": {
+        "id": 42587,
+        "type": "message",
+        "date": "2023-04-17T01:50:54",
+        "date_unixtime": "1681685454",
+        "from": "Александр МойДом",
+        "from_id": "user1447328870",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1916_Список_детей_беженцев_сирот_и_потерянных_родителями_Вып_1.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    "42588": {
+        "id": 42588,
+        "type": "message",
+        "date": "2023-04-17T01:52:13",
+        "date_unixtime": "1681685533",
+        "from": "Александр МойДом",
+        "from_id": "user1447328870",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1916_Список_детей_беженцев_сирот_и_потерянных_родителями_С_прил.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    "42589": {
+        "id": 42589,
+        "type": "message",
+        "date": "2023-04-17T01:53:46",
+        "date_unixtime": "1681685626",
+        "from": "Александр МойДом",
+        "from_id": "user1447328870",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1916_Список_детей_беженцев_сирот_и_потерянных_родителями_С_прил.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    "42590": {
+        "id": 42590,
+        "type": "message",
+        "date": "2023-04-17T02:00:22",
+        "date_unixtime": "1681686022",
+        "edited": "2023-04-17T02:07:07",
+        "edited_unixtime": "1681686427",
+        "from": "Александр МойДом",
+        "from_id": "user1447328870",
+        "reply_to_message_id": 24109,
+        "text": "Список адресов беженцев / Всерос. земский и гор. союзы, Отд. по устройству беженцев, Центр. справ. бюро. - М. : тип. \"Земля\", 1916.\n\nФИО, место жительства основное и актуальное",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Список адресов беженцев / Всерос. земский и гор. союзы, Отд. по устройству беженцев, Центр. справ. бюро. - М. : тип. \"Земля\", 1916.\n\nФИО, место жительства основное и актуальное"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Лена",
+                        "from_id": "user1918841697",
+                        "date": "2023-04-17T02:07:07"
+                    }
+                ]
+            }
+        ]
+    },
+    "42591": {
+        "id": 42591,
+        "type": "message",
+        "date": "2023-04-17T02:01:52",
+        "date_unixtime": "1681686112",
+        "from": "Александр МойДом",
+        "from_id": "user1447328870",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Список_адресов_беженцев_Вып_1_Ч_1_А_И.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    "42592": {
+        "id": 42592,
+        "type": "message",
+        "date": "2023-04-17T02:02:54",
+        "date_unixtime": "1681686174",
+        "from": "Александр МойДом",
+        "from_id": "user1447328870",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Список_адресов_беженцев_Вып_1_Ч_2_К_О.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    "42593": {
+        "id": 42593,
+        "type": "message",
+        "date": "2023-04-17T02:05:10",
+        "date_unixtime": "1681686310",
+        "edited": "2023-04-17T10:21:19",
+        "edited_unixtime": "1681716079",
+        "from": "Александр МойДом",
+        "from_id": "user1447328870",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Список_адресов_беженцев_Вып_1_Ч_3_П_Я.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    "42594": {
+        "id": 42594,
+        "type": "message",
+        "date": "2023-04-17T02:31:39",
+        "date_unixtime": "1681687899",
+        "edited": "2023-04-17T14:22:29",
+        "edited_unixtime": "1681730549",
+        "from": "Алексей Билецкий",
+        "from_id": "user1133915357",
+        "reply_to_message_id": 24109,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://polona.pl/preview/a3f375e3-29e0-4295-96e7-44dba5276569"
+            },
+            "\nонлайн указатель Спрогиса буквы А -К"
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://polona.pl/preview/a3f375e3-29e0-4295-96e7-44dba5276569"
+            },
+            {
+                "type": "plain",
+                "text": "\nонлайн указатель Спрогиса буквы А -К"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Egor",
+                        "from_id": "user747419198",
+                        "date": "2023-06-03T22:37:21"
+                    },
+                    {
+                        "from": "Siarhei Andryjanau",
+                        "from_id": "user153886828",
+                        "date": "2023-05-26T19:36:25"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2023-05-10T00:36:53"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤"
+            }
+        ]
+    },
+    "42595": {
+        "id": 42595,
+        "type": "message",
+        "date": "2023-04-17T12:21:06",
+        "date_unixtime": "1681723266",
+        "edited": "2023-04-17T12:25:06",
+        "edited_unixtime": "1681723506",
+        "from": "Вячеслав Носевич",
+        "from_id": "user1215340714",
+        "reply_to_message_id": 24109,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://disk.yandex.ru/d/V9nUSobMT7dVcQ"
+            },
+            " Сканы неопубликованной части указателя Спрогиса на буквы К-П (оригинал - в читальном зале НИАБ)"
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://disk.yandex.ru/d/V9nUSobMT7dVcQ"
+            },
+            {
+                "type": "plain",
+                "text": " Сканы неопубликованной части указателя Спрогиса на буквы К-П (оригинал - в читальном зале НИАБ)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 10,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Яська Гаспадар з-пад Вільні",
+                        "from_id": "user787777714",
+                        "date": "2024-10-14T10:05:05"
+                    },
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-09-14T22:27:08"
+                    },
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-02-20T19:45:38"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "🔥"
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍"
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👏"
+            }
+        ]
+    },
+    "42596": {
+        "id": 42596,
+        "type": "message",
+        "date": "2023-04-17T12:21:58",
+        "date_unixtime": "1681723318",
+        "edited": "2023-04-17T12:25:09",
+        "edited_unixtime": "1681723509",
+        "from": "Вячеслав Носевич",
+        "from_id": "user1215340714",
+        "reply_to_message_id": 24109,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://disk.yandex.ru/d/5rRWbjndgqajVQ"
+            },
+            " Сканы неопубликованной части указателя Спрогиса на буквы Р-Я (оригинал - в читальном зале НИАБ)"
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://disk.yandex.ru/d/5rRWbjndgqajVQ"
+            },
+            {
+                "type": "plain",
+                "text": " Сканы неопубликованной части указателя Спрогиса на буквы Р-Я (оригинал - в читальном зале НИАБ)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 10,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Яська Гаспадар з-пад Вільні",
+                        "from_id": "user787777714",
+                        "date": "2024-10-14T10:26:25"
+                    },
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-09-14T22:27:06"
+                    },
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-02-20T19:45:39"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 8,
+                "emoji": "🔥"
+            },
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍"
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🎉"
+            }
+        ]
+    },
+    "42600": {
+        "id": 42600,
+        "type": "message",
+        "date": "2023-04-17T13:35:27",
+        "date_unixtime": "1681727727",
+        "from": "Nikita Patinov (RaWaS)",
+        "from_id": "user398234882",
+        "reply_to_message_id": 40424,
+        "text": "могу продать Поставский район 😁",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "могу продать Поставский район 😁"
+            }
+        ]
+    },
+    "42710": {
+        "id": 42710,
+        "type": "message",
+        "date": "2023-04-19T02:26:46",
+        "date_unixtime": "1681860406",
+        "edited": "2023-04-19T07:28:22",
+        "edited_unixtime": "1681878502",
+        "from": "Алексей Билецкий",
+        "from_id": "user1133915357",
+        "reply_to_message_id": 24109,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://dokumen.pub/69d4208bc4a64f372b360e9b5b5566b1.html"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://dokumen.pub/69d4208bc4a64f372b360e9b5b5566b1.html"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Яська Гаспадар з-пад Вільні",
+                        "from_id": "user787777714",
+                        "date": "2024-10-14T10:26:24"
+                    },
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2023-05-03T09:43:53"
+                    },
+                    {
+                        "from": "Olga",
+                        "from_id": "user1117086057",
+                        "date": "2023-04-20T00:05:18"
+                    }
+                ]
+            }
+        ]
+    },
+    "42907": {
+        "id": 42907,
+        "type": "message",
+        "date": "2023-04-21T16:26:39",
+        "date_unixtime": "1682083599",
+        "edited": "2023-04-22T09:01:16",
+        "edited_unixtime": "1682143276",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 42595,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 830,
+        "text": [
+            "Спасибо, дорогой В.Л.! А то в ",
+            {
+                "type": "underline",
+                "text": "русскоязычном варианте 1-й части"
+            },
+            " (спаренных 1-й и 2-й частях?) указателя Спрогиса, который в НИАБ (Абакуновичи - Поасупе) отсутствуют страницы 391-398 (Лабановская - Лейкишки)."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо, дорогой В.Л.! А то в "
+            },
+            {
+                "type": "underline",
+                "text": "русскоязычном варианте 1-й части"
+            },
+            {
+                "type": "plain",
+                "text": " (спаренных 1-й и 2-й частях?) указателя Спрогиса, который в НИАБ (Абакуновичи - Поасупе) отсутствуют страницы 391-398 (Лабановская - Лейкишки)."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user1515478552",
+                        "date": "2023-05-29T09:11:00"
+                    },
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2023-04-22T09:01:16"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Яська Гаспадар з-пад Вільні",
+                        "from_id": "user787777714",
+                        "date": "2024-10-14T10:26:18"
+                    }
+                ]
+            }
+        ]
+    },
+    "43100": {
+        "id": 43100,
+        "type": "message",
+        "date": "2023-04-23T08:48:47",
+        "date_unixtime": "1682228927",
+        "edited": "2023-04-23T09:17:51",
+        "edited_unixtime": "1682230671",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "93669408.pdf",
+        "mime_type": "application/pdf",
+        "text": "Церашкова К.С. Мяшчане ў сацыяльна эканамічным развіцці беларуска-літоўскіх губерняў (1861-1914 гг.)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Церашкова К.С. Мяшчане ў сацыяльна эканамічным развіцці беларуска-літоўскіх губерняў (1861-1914 гг.)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Olga",
+                        "from_id": "user1117086057",
+                        "date": "2023-04-23T21:49:33"
+                    },
+                    {
+                        "from": "I D",
+                        "from_id": "user5726368881",
+                        "date": "2023-04-23T09:17:51"
+                    }
+                ]
+            }
+        ]
+    },
+    "43245": {
+        "id": 43245,
+        "type": "message",
+        "date": "2023-04-23T23:43:19",
+        "date_unixtime": "1682282599",
+        "edited": "2023-04-24T09:00:10",
+        "edited_unixtime": "1682316010",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 24109,
+        "text": [
+            {
+                "type": "italic",
+                "text": "Sienkiewicz J."
+            },
+            " Groby polskie na Litwie. Tom 1: Rejon wileński. Część 1. Warszawa: Instytut Pamięci Narodowej, 2021. 604 s.\n(",
+            {
+                "type": "text_link",
+                "text": "содержание - список некрополей",
+                "href": "https://ipn.gov.pl/download/1/678199/SpistresciGrobypolskienaLitwietom11.pdf"
+            },
+            ").\n\n",
+            {
+                "type": "italic",
+                "text": "Sienkiewicz J."
+            },
+            " Groby polskie na Litwie. Tom 2: Rejon wileński. Część 2. Warszawa: Instytut Pamięci Narodowej, 2021. 704 s.\n(",
+            {
+                "type": "text_link",
+                "text": "содержание - список некрополей",
+                "href": "https://ipn.gov.pl/download/1/679648/SpistresciGrobypolskienaLitwietom21.pdf"
+            },
+            ")."
+        ],
+        "text_entities": [
+            {
+                "type": "italic",
+                "text": "Sienkiewicz J."
+            },
+            {
+                "type": "plain",
+                "text": " Groby polskie na Litwie. Tom 1: Rejon wileński. Część 1. Warszawa: Instytut Pamięci Narodowej, 2021. 604 s.\n("
+            },
+            {
+                "type": "text_link",
+                "text": "содержание - список некрополей",
+                "href": "https://ipn.gov.pl/download/1/678199/SpistresciGrobypolskienaLitwietom11.pdf"
+            },
+            {
+                "type": "plain",
+                "text": ").\n\n"
+            },
+            {
+                "type": "italic",
+                "text": "Sienkiewicz J."
+            },
+            {
+                "type": "plain",
+                "text": " Groby polskie na Litwie. Tom 2: Rejon wileński. Część 2. Warszawa: Instytut Pamięci Narodowej, 2021. 704 s.\n("
+            },
+            {
+                "type": "text_link",
+                "text": "содержание - список некрополей",
+                "href": "https://ipn.gov.pl/download/1/679648/SpistresciGrobypolskienaLitwietom21.pdf"
+            },
+            {
+                "type": "plain",
+                "text": ")."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Olga",
+                        "from_id": "user1117086057",
+                        "date": "2023-04-24T09:00:10"
+                    }
+                ]
+            }
+        ]
+    },
+    "43325": {
+        "id": 43325,
+        "type": "message",
+        "date": "2023-04-24T23:03:04",
+        "date_unixtime": "1682366584",
+        "edited": "2023-04-25T08:35:11",
+        "edited_unixtime": "1682400911",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Беларуская міфалогія. Мінск, 2004.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Калі хочаце даведацца пра Хабёра і Халеру - вам сюды",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Калі хочаце даведацца пра Хабёра і Халеру - вам сюды"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Marу",
+                        "from_id": "user1238917944",
+                        "date": "2023-06-10T09:25:08"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2023-04-25T08:35:11"
+                    }
+                ]
+            }
+        ]
+    },
+    "43505": {
+        "id": 43505,
+        "type": "message",
+        "date": "2023-04-25T22:36:06",
+        "date_unixtime": "1682451366",
+        "edited": "2023-04-25T22:36:41",
+        "edited_unixtime": "1682451401",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "reply_to_message_id": 24109,
+        "text": [
+            "ЦГИА СПб. Фонд 2292. Опись 2. Дело 69\nЭкстракты метрических книг Узденской, Зеньковской, Шацкой, Семеновицкой, Долгинецкой, Сверженской, Залуской, Говеченской, Новосверженской, Старосверженской, Миколаевской, Могилянской, Койдановской, Засульской, Литвянской, Новосадской, Крисовской, Станьковской, Горутицкой, Рубежевицкой, Рудзицкой, Вековской, Тоновско-Слободской униатских церквей о родившихся (на польском и латинском языках) . Крайние даты документов: 01.01.1800–31.12.1835\n",
+            {
+                "type": "link",
+                "text": "https://disk.yandex.com/d/3KqDWJA2Ln8sPQ/ф.2292%20оп.2%20д.69"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ЦГИА СПб. Фонд 2292. Опись 2. Дело 69\nЭкстракты метрических книг Узденской, Зеньковской, Шацкой, Семеновицкой, Долгинецкой, Сверженской, Залуской, Говеченской, Новосверженской, Старосверженской, Миколаевской, Могилянской, Койдановской, Засульской, Литвянской, Новосадской, Крисовской, Станьковской, Горутицкой, Рубежевицкой, Рудзицкой, Вековской, Тоновско-Слободской униатских церквей о родившихся (на польском и латинском языках) . Крайние даты документов: 01.01.1800–31.12.1835\n"
+            },
+            {
+                "type": "link",
+                "text": "https://disk.yandex.com/d/3KqDWJA2Ln8sPQ/ф.2292%20оп.2%20д.69"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 7,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Arciom Malinoŭski",
+                        "from_id": "user884889101",
+                        "date": "2024-10-28T20:53:30"
+                    },
+                    {
+                        "from": "Anna",
+                        "from_id": "user382984110",
+                        "date": "2023-06-22T23:29:25"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user1515478552",
+                        "date": "2023-05-29T09:05:14"
+                    }
+                ]
+            }
+        ]
+    },
+    "43506": {
+        "id": 43506,
+        "type": "message",
+        "date": "2023-04-25T22:36:55",
+        "date_unixtime": "1682451415",
+        "edited": "2023-04-25T22:37:03",
+        "edited_unixtime": "1682451423",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "reply_to_message_id": 24109,
+        "text": [
+            "ЦГИА СПб. Фонд 2292. Опись 2. Дело 70\nЭкстракты метрических книг Могилевских, Княжицкого, Бялыницкого, Головчинского, Шкловского, Фащевского, Быховского, Озеранского, Карпиловского, Журовикского, Свержельского, Рогачевского, Чечерского, Вородзковского, Кричевского, Ивандарского, Чериковского, Чаусовского, Радомльского, Малятычского, Сеннинского, Вядецкого, Белицкого, Островенского, Дубровенского, Бабиновичского, Микулицкого, Горецкого, Романовского, Оршанского, Погостянского, Оболецкого, Бобрского, Толочинского, Черейского, Старосельского, Смолянского, Дудаковичского, Мстиславского, Шумяцкого, Костюковского, Лозовицкого, Пацковского, Мозыкинского костелов о рождении, бракосочетании и смерти ( на латинском языке) . Крайние даты документов: 1813–1814 .\n",
+            {
+                "type": "link",
+                "text": "https://disk.yandex.com/d/3KqDWJA2Ln8sPQ/ф.2292%20оп.2%20д.70"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ЦГИА СПб. Фонд 2292. Опись 2. Дело 70\nЭкстракты метрических книг Могилевских, Княжицкого, Бялыницкого, Головчинского, Шкловского, Фащевского, Быховского, Озеранского, Карпиловского, Журовикского, Свержельского, Рогачевского, Чечерского, Вородзковского, Кричевского, Ивандарского, Чериковского, Чаусовского, Радомльского, Малятычского, Сеннинского, Вядецкого, Белицкого, Островенского, Дубровенского, Бабиновичского, Микулицкого, Горецкого, Романовского, Оршанского, Погостянского, Оболецкого, Бобрского, Толочинского, Черейского, Старосельского, Смолянского, Дудаковичского, Мстиславского, Шумяцкого, Костюковского, Лозовицкого, Пацковского, Мозыкинского костелов о рождении, бракосочетании и смерти ( на латинском языке) . Крайние даты документов: 1813–1814 .\n"
+            },
+            {
+                "type": "link",
+                "text": "https://disk.yandex.com/d/3KqDWJA2Ln8sPQ/ф.2292%20оп.2%20д.70"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 11,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Arciom Malinoŭski",
+                        "from_id": "user884889101",
+                        "date": "2024-10-28T20:53:14"
+                    },
+                    {
+                        "from": "Vitaly Khor Vitaut",
+                        "from_id": "user7511581",
+                        "date": "2024-10-08T22:57:16"
+                    },
+                    {
+                        "from": "Яська Гаспадар з-пад Вільні",
+                        "from_id": "user787777714",
+                        "date": "2024-09-16T09:06:45"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥"
+            }
+        ]
+    },
+    "43550": {
+        "id": 43550,
+        "type": "message",
+        "date": "2023-04-26T16:42:02",
+        "date_unixtime": "1682516522",
+        "edited": "2023-04-29T14:48:55",
+        "edited_unixtime": "1682768935",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "De facto. Беларуская навука",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 378,
+        "height": 631,
+        "text": [
+            {
+                "type": "bold",
+                "text": "У вольным доступе з'явіўся "
+            },
+            {
+                "type": "text_link",
+                "text": "свежы нумар",
+                "href": "http://www.belhistory.eu/?fbclid=IwAR3PAajo0HDh5oxtFA4SdEZJPSLcafH9tLcQC9lcAbMhE9MAak8RzlumsVs"
+            },
+            {
+                "type": "bold",
+                "text": " Беларускага Гістарычнага Агляду (2022)"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "У вольным доступе з'явіўся "
+            },
+            {
+                "type": "text_link",
+                "text": "свежы нумар",
+                "href": "http://www.belhistory.eu/?fbclid=IwAR3PAajo0HDh5oxtFA4SdEZJPSLcafH9tLcQC9lcAbMhE9MAak8RzlumsVs"
+            },
+            {
+                "type": "bold",
+                "text": " Беларускага Гістарычнага Агляду (2022)"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2023-04-30T19:27:05"
+                    },
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2023-04-29T14:48:55"
+                    }
+                ]
+            }
+        ]
+    },
+    "44725": {
+        "id": 44725,
+        "type": "message",
+        "date": "2023-05-03T01:34:33",
+        "date_unixtime": "1683066873",
+        "edited": "2023-05-03T01:59:37",
+        "edited_unixtime": "1683068377",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 829,
+        "height": 1280,
+        "text": [
+            {
+                "type": "italic",
+                "text": "Сталюнас Д."
+            },
+            " Польша или Русь? Литва в составе Российской империи / Авториз. пер. с литовского Т. Тимченко. М.: Новое литературное обозрение, 2022. 376 с. (Серия «Historia Rossica»).\n\n",
+            {
+                "type": "link",
+                "text": "https://www.nlobooks.ru/upload/iblock/dc2/Сталюнас.pdf"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "italic",
+                "text": "Сталюнас Д."
+            },
+            {
+                "type": "plain",
+                "text": " Польша или Русь? Литва в составе Российской империи / Авториз. пер. с литовского Т. Тимченко. М.: Новое литературное обозрение, 2022. 376 с. (Серия «Historia Rossica»).\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://www.nlobooks.ru/upload/iblock/dc2/Сталюнас.pdf"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2023-05-03T01:59:37"
+                    }
+                ]
+            }
+        ]
+    }
+}

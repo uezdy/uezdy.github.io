@@ -1,0 +1,925 @@
+{
+    "46218": {
+        "id": 46218,
+        "type": "message",
+        "date": "2023-05-13T20:01:13",
+        "date_unixtime": "1683997273",
+        "edited": "2023-05-13T20:01:20",
+        "edited_unixtime": "1683997280",
+        "from": "Лена",
+        "from_id": "user1918841697",
+        "reply_to_message_id": 46169,
+        "text": "Это только для ПК, да?\nНа планшете не прокатит?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это только для ПК, да?\nНа планшете не прокатит?"
+            }
+        ]
+    },
+    "46220": {
+        "id": 46220,
+        "type": "message",
+        "date": "2023-05-13T20:10:30",
+        "date_unixtime": "1683997830",
+        "edited": "2023-05-13T23:53:00",
+        "edited_unixtime": "1684011180",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 46218,
+        "text": [
+            "На планшете можно попробовать установить такие браузеры: \n- Vivaldi (",
+            {
+                "type": "text_link",
+                "text": "Android",
+                "href": "https://play.google.com/store/apps/details?id=com.vivaldi.browser"
+            },
+            ")\n- Kiwi Browser (",
+            {
+                "type": "text_link",
+                "text": "Android",
+                "href": "https://play.google.com/store/apps/details?id=com.kiwibrowser.browser"
+            },
+            ")\n- Яндекс Браузер (",
+            {
+                "type": "text_link",
+                "text": "Android",
+                "href": "https://play.google.com/store/apps/details?id=com.yandex.browser"
+            },
+            ", ",
+            {
+                "type": "text_link",
+                "text": "RuStore",
+                "href": "https://apps.rustore.ru/app/com.yandex.browser"
+            },
+            ", ",
+            {
+                "type": "text_link",
+                "text": "iOS",
+                "href": "https://apps.apple.com/ru/app/%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80/id483693909"
+            },
+            ")\nТам заявлена поддержка обычных расширений Chrome, так что по идее ",
+            {
+                "type": "text_link",
+                "text": "Tampermonkey",
+                "href": "https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru"
+            },
+            " там можно установить.\nА с ним и все скрипты для MyHeritage/ВГД заработают)"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На планшете можно попробовать установить такие браузеры: \n- Vivaldi ("
+            },
+            {
+                "type": "text_link",
+                "text": "Android",
+                "href": "https://play.google.com/store/apps/details?id=com.vivaldi.browser"
+            },
+            {
+                "type": "plain",
+                "text": ")\n- Kiwi Browser ("
+            },
+            {
+                "type": "text_link",
+                "text": "Android",
+                "href": "https://play.google.com/store/apps/details?id=com.kiwibrowser.browser"
+            },
+            {
+                "type": "plain",
+                "text": ")\n- Яндекс Браузер ("
+            },
+            {
+                "type": "text_link",
+                "text": "Android",
+                "href": "https://play.google.com/store/apps/details?id=com.yandex.browser"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "RuStore",
+                "href": "https://apps.rustore.ru/app/com.yandex.browser"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "iOS",
+                "href": "https://apps.apple.com/ru/app/%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80/id483693909"
+            },
+            {
+                "type": "plain",
+                "text": ")\nТам заявлена поддержка обычных расширений Chrome, так что по идее "
+            },
+            {
+                "type": "text_link",
+                "text": "Tampermonkey",
+                "href": "https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru"
+            },
+            {
+                "type": "plain",
+                "text": " там можно установить.\nА с ним и все скрипты для MyHeritage/ВГД заработают)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2023-05-14T03:42:45"
+                    },
+                    {
+                        "from": "Лена",
+                        "from_id": "user1918841697",
+                        "date": "2023-05-13T23:53:00"
+                    }
+                ]
+            }
+        ]
+    },
+    "46223": {
+        "id": 46223,
+        "type": "message",
+        "date": "2023-05-13T20:33:32",
+        "date_unixtime": "1683999212",
+        "edited": "2023-05-13T20:36:25",
+        "edited_unixtime": "1683999385",
+        "from": "Evita",
+        "from_id": "user66187238",
+        "reply_to_message_id": 46220,
+        "text": "Тамперманки работает) В свое время проверяла на хроме и Яндексе под андроид",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тамперманки работает) В свое время проверяла на хроме и Яндексе под андроид"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Лена",
+                        "from_id": "user1918841697",
+                        "date": "2023-05-13T20:50:46"
+                    },
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2023-05-13T20:36:25"
+                    }
+                ]
+            }
+        ]
+    },
+    "46232": {
+        "id": 46232,
+        "type": "message",
+        "date": "2023-05-13T20:50:27",
+        "date_unixtime": "1684000227",
+        "from": "Лена",
+        "from_id": "user1918841697",
+        "reply_to_message_id": 46220,
+        "text": "Спасибо.\nК сожалению , работаю на Опере.\nПамять, практически вся забита нужным софтом.\nНо, попробую почистить.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо.\nК сожалению , работаю на Опере.\nПамять, практически вся забита нужным софтом.\nНо, попробую почистить."
+            }
+        ]
+    },
+    "46454": {
+        "id": 46454,
+        "type": "message",
+        "date": "2023-05-17T17:25:26",
+        "date_unixtime": "1684333526",
+        "edited": "2023-05-17T17:54:35",
+        "edited_unixtime": "1684335275",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 24122,
+        "text": [
+            "📜 Архивные еврейские документы по ",
+            {
+                "type": "bold",
+                "text": "Минску"
+            },
+            " и ",
+            {
+                "type": "bold",
+                "text": "области"
+            },
+            " в Исследовательском институте идиша (",
+            {
+                "type": "bold",
+                "text": "YIVO"
+            },
+            ", Нью-Йорк)\n\nПодробное описание: ",
+            {
+                "type": "link",
+                "text": "https://t.me/zhnivo/6/134"
+            },
+            "\nСсылка на сайте: ",
+            {
+                "type": "link",
+                "text": "https://archives.cjh.org/repositories/7/resources/3512"
+            },
+            "\nПеревод названий дел: ",
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy/35187/45687"
+            },
+            "\nАвтономная копия: ",
+            {
+                "type": "link",
+                "text": "https://cloud.mail.ru/public/2ncM/nxu1HAurf"
+            },
+            " (начальная страница: ",
+            {
+                "type": "code",
+                "text": "archives.cjh.org/index.html"
+            },
+            ")\n\nВо время нацистской оккупации Минска в 1942 году записи были разграблены айнзацгруппой партийного идеолога Альфреда Розенберга и отправлены в Институт исследования еврейского вопроса при НСДАП, базировавшийся во Франкфурте-на-Майне. В 1945 году они были обнаружены армией США и возвращены в YIVO с архивного склада в Оффенбахе в 1947 г."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "📜 Архивные еврейские документы по "
+            },
+            {
+                "type": "bold",
+                "text": "Минску"
+            },
+            {
+                "type": "plain",
+                "text": " и "
+            },
+            {
+                "type": "bold",
+                "text": "области"
+            },
+            {
+                "type": "plain",
+                "text": " в Исследовательском институте идиша ("
+            },
+            {
+                "type": "bold",
+                "text": "YIVO"
+            },
+            {
+                "type": "plain",
+                "text": ", Нью-Йорк)\n\nПодробное описание: "
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/zhnivo/6/134"
+            },
+            {
+                "type": "plain",
+                "text": "\nСсылка на сайте: "
+            },
+            {
+                "type": "link",
+                "text": "https://archives.cjh.org/repositories/7/resources/3512"
+            },
+            {
+                "type": "plain",
+                "text": "\nПеревод названий дел: "
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy/35187/45687"
+            },
+            {
+                "type": "plain",
+                "text": "\nАвтономная копия: "
+            },
+            {
+                "type": "link",
+                "text": "https://cloud.mail.ru/public/2ncM/nxu1HAurf"
+            },
+            {
+                "type": "plain",
+                "text": " (начальная страница: "
+            },
+            {
+                "type": "code",
+                "text": "archives.cjh.org/index.html"
+            },
+            {
+                "type": "plain",
+                "text": ")\n\nВо время нацистской оккупации Минска в 1942 году записи были разграблены айнзацгруппой партийного идеолога Альфреда Розенберга и отправлены в Институт исследования еврейского вопроса при НСДАП, базировавшийся во Франкфурте-на-Майне. В 1945 году они были обнаружены армией США и возвращены в YIVO с архивного склада в Оффенбахе в 1947 г."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Leon",
+                        "from_id": "user1876891660",
+                        "date": "2023-10-07T18:44:13"
+                    },
+                    {
+                        "from": "PF....",
+                        "from_id": "user1199467155",
+                        "date": "2023-06-07T15:04:31"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Марина Карпова",
+                        "from_id": "user5936692387",
+                        "date": "2023-11-10T07:16:17"
+                    }
+                ]
+            }
+        ]
+    },
+    "46474": {
+        "id": 46474,
+        "type": "message",
+        "date": "2023-05-18T01:19:43",
+        "date_unixtime": "1684361983",
+        "edited": "2023-05-18T10:11:05",
+        "edited_unixtime": "1684393865",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24122,
+        "text": [
+            "Описание плёнок НИАБ, НИАБГр, ЛГИА с ",
+            {
+                "type": "link",
+                "text": "www.familysearch.org"
+            },
+            " \n(указаны номера фондов, описей и дел, описание и номера кадров в плёнках).\n\nИнформация с ",
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/post/1883/76911/p3384839.htm#pp3384839"
+            },
+            "\n\nНИАБ (Минск) и НИАБ (Гродно) ",
+            {
+                "type": "link",
+                "text": "https://disk.yandex.by/d/SSKT4ZLF6vbxDw"
+            },
+            "\nНИАБ (Гродно) ",
+            {
+                "type": "link",
+                "text": "https://disk.yandex.ru/d/SRCFS8dS3KUB1g"
+            },
+            "\nЛГИА (Вильнюс) ",
+            {
+                "type": "link",
+                "text": "https://disk.yandex.ru/d/kF8zoTlv-XtKLA"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Описание плёнок НИАБ, НИАБГр, ЛГИА с "
+            },
+            {
+                "type": "link",
+                "text": "www.familysearch.org"
+            },
+            {
+                "type": "plain",
+                "text": " \n(указаны номера фондов, описей и дел, описание и номера кадров в плёнках).\n\nИнформация с "
+            },
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/post/1883/76911/p3384839.htm#pp3384839"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nНИАБ (Минск) и НИАБ (Гродно) "
+            },
+            {
+                "type": "link",
+                "text": "https://disk.yandex.by/d/SSKT4ZLF6vbxDw"
+            },
+            {
+                "type": "plain",
+                "text": "\nНИАБ (Гродно) "
+            },
+            {
+                "type": "link",
+                "text": "https://disk.yandex.ru/d/SRCFS8dS3KUB1g"
+            },
+            {
+                "type": "plain",
+                "text": "\nЛГИА (Вильнюс) "
+            },
+            {
+                "type": "link",
+                "text": "https://disk.yandex.ru/d/kF8zoTlv-XtKLA"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2023-06-20T13:18:27"
+                    },
+                    {
+                        "from": "D.M.",
+                        "from_id": "user572729336",
+                        "date": "2023-05-27T14:31:05"
+                    },
+                    {
+                        "from": "Assja",
+                        "from_id": "user459854121",
+                        "date": "2023-05-24T17:47:40"
+                    }
+                ]
+            }
+        ]
+    },
+    "46475": {
+        "id": 46475,
+        "type": "message",
+        "date": "2023-05-18T01:19:51",
+        "date_unixtime": "1684361991",
+        "edited": "2023-05-18T13:19:49",
+        "edited_unixtime": "1684405189",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24122,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Беларусь_НИАБ_(Гродно).xlsx",
+        "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Яська Гаспадар з-пад Вільні",
+                        "from_id": "user787777714",
+                        "date": "2023-10-26T23:00:23"
+                    },
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2023-06-20T13:21:01"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Olya",
+                        "from_id": "user460492324",
+                        "date": "2023-11-20T21:42:42"
+                    }
+                ]
+            }
+        ]
+    },
+    "46476": {
+        "id": 46476,
+        "type": "message",
+        "date": "2023-05-18T01:19:51",
+        "date_unixtime": "1684361991",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24122,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Литва_ЛГИА_(Вильнюс).xlsx",
+        "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "text": "",
+        "text_entities": []
+    },
+    "46477": {
+        "id": 46477,
+        "type": "message",
+        "date": "2023-05-18T01:19:52",
+        "date_unixtime": "1684361992",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24122,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Пленки_FS_НИАБ_Гродно_проиндексированые.xlsx",
+        "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "text": "",
+        "text_entities": []
+    },
+    "46478": {
+        "id": 46478,
+        "type": "message",
+        "date": "2023-05-18T01:19:52",
+        "date_unixtime": "1684361992",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24122,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Пленки_FS_НИАБ_Минск_проиндексированые.xlsx",
+        "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "text": "",
+        "text_entities": []
+    },
+    "47201": {
+        "id": 47201,
+        "type": "message",
+        "date": "2023-05-25T16:36:58",
+        "date_unixtime": "1685021818",
+        "edited": "2023-05-25T16:38:55",
+        "edited_unixtime": "1685021935",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 24122,
+        "text": [
+            "Обнаружился сайт с некоторыми выпусками губернских газет: ",
+            {
+                "type": "link",
+                "text": "https://syrakomla.org/"
+            },
+            "\n\nМинский Листок: 1886, 1887, 1889, 1901\nСеверо-Западный Край: 1902-1904\nМинский Голос: 1910-1916\nМинчанин: 1913\nМинские Губернские Ведомости: 1891, 1913\nВитебский Вестник: 1912-1916\nВитебские Губернские Ведомости: 1851\nМогилевские Губернские Ведомости: 1860-1862\n\nДзякуй камусьці з роду Сыракомлі :)"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Обнаружился сайт с некоторыми выпусками губернских газет: "
+            },
+            {
+                "type": "link",
+                "text": "https://syrakomla.org/"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nМинский Листок: 1886, 1887, 1889, 1901\nСеверо-Западный Край: 1902-1904\nМинский Голос: 1910-1916\nМинчанин: 1913\nМинские Губернские Ведомости: 1891, 1913\nВитебский Вестник: 1912-1916\nВитебские Губернские Ведомости: 1851\nМогилевские Губернские Ведомости: 1860-1862\n\nДзякуй камусьці з роду Сыракомлі :)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 10,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Nadejda",
+                        "from_id": "user122890090",
+                        "date": "2023-10-14T23:34:47"
+                    },
+                    {
+                        "from": "Ars longa Vita brevis",
+                        "from_id": "user662680564",
+                        "date": "2023-09-25T10:00:34"
+                    },
+                    {
+                        "from": "Маргарита",
+                        "from_id": "user466128954",
+                        "date": "2023-05-29T19:25:37"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍"
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍"
+            }
+        ]
+    },
+    "47275": {
+        "id": 47275,
+        "type": "message",
+        "date": "2023-05-26T00:20:25",
+        "date_unixtime": "1685049625",
+        "edited": "2023-05-26T00:20:55",
+        "edited_unixtime": "1685049655",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 47201,
+        "text": [
+            {
+                "type": "italic",
+                "text": "\"Копіі перыядычных выданняў часоў Расійскай Імперыі зробленыя на заказ аддзелам газет Расійскай Нацыянальнай Бібліятэкі\".\n\n"
+            },
+            "И вправду низкий поклон тем преемникам Сырокомли, которые раскошелились на это счастье. Ибо там есть, к примеру, те годы \"Могилевских губернских ведомостей\" (1860-1862 гг.), которых ещё нет в общаке на гугл-диске."
+        ],
+        "text_entities": [
+            {
+                "type": "italic",
+                "text": "\"Копіі перыядычных выданняў часоў Расійскай Імперыі зробленыя на заказ аддзелам газет Расійскай Нацыянальнай Бібліятэкі\".\n\n"
+            },
+            {
+                "type": "plain",
+                "text": "И вправду низкий поклон тем преемникам Сырокомли, которые раскошелились на это счастье. Ибо там есть, к примеру, те годы \"Могилевских губернских ведомостей\" (1860-1862 гг.), которых ещё нет в общаке на гугл-диске."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "D.M.",
+                        "from_id": "user572729336",
+                        "date": "2023-05-27T14:31:57"
+                    },
+                    {
+                        "from": "Audoсcia",
+                        "from_id": "user1846341469",
+                        "date": "2023-05-26T13:28:25"
+                    },
+                    {
+                        "from": "I D",
+                        "from_id": "user5726368881",
+                        "date": "2023-05-26T00:48:16"
+                    }
+                ]
+            }
+        ]
+    },
+    "47337": {
+        "id": 47337,
+        "type": "message",
+        "date": "2023-05-26T19:52:47",
+        "date_unixtime": "1685119967",
+        "edited": "2023-05-26T20:07:50",
+        "edited_unixtime": "1685120870",
+        "from": "Андрей",
+        "from_id": "user5156395180",
+        "reply_to_message_id": 24122,
+        "text": [
+            "Завершил расшифровку дела РГАДА 1209-1-437 \"Писцовая, дозорная и \"СТРОИЛЬНАЯ\" книга земель донских и морских казаков в Себежском уезде, писца И. Н. Сумарокова 1668 года \nВерсия предварительная, надеюсь, коллеги поправят некорректно расшифрованные слова. \nДело может быть интересно не только ищущим по Себежскому уезду, но и по Выборжскому и Псковскому уездам Псковской губернии, т.к. после передачи Себежского уезда Речи Посполитой, упомянутые в деле казаки Донской и Морской станиц были переселены в Выборжский и Псковский уезды с раздачей им земель. Т.е. дела РГАДА ф.1209  \n86 1683 г. Раздаточная книга дворцовых земель себежским казакам в Выборжском уезде (Выбор - пригород Пскова). Подлинник. Печ. оп. № 359. Лл. 1-184  \n811 1682 г. Писцовая книга поместных земель себежских морских и донских казаков в Псковском уезде, писца И. П. Хвостова. Копия XVIII в. Печ. оп. № 2064. Лл. 1-147 \nявляются прямым продолжением этого дела.  \nВ оригинале существует разбивка на абзацы и заголовки, которые я сохранил. В оригинале нет пунктуации и, частично, разбивки на слова. Красным цветом выделены слова, в расшифровке которых я не уверен. \nС расшифровкой можно ознакомиться здесь:\n",
+            {
+                "type": "link",
+                "text": "https://coins.su/forum/topic/326105-rgada-1209-1-437-pistsovaya-dozornaya-i-stroilnaya-kniga-zemel-donskih-i-morskih-kazakov-v-sebezhskom-uezde-pistsa-i-n-sumarokova-1668-goda/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Завершил расшифровку дела РГАДА 1209-1-437 \"Писцовая, дозорная и \"СТРОИЛЬНАЯ\" книга земель донских и морских казаков в Себежском уезде, писца И. Н. Сумарокова 1668 года \nВерсия предварительная, надеюсь, коллеги поправят некорректно расшифрованные слова. \nДело может быть интересно не только ищущим по Себежскому уезду, но и по Выборжскому и Псковскому уездам Псковской губернии, т.к. после передачи Себежского уезда Речи Посполитой, упомянутые в деле казаки Донской и Морской станиц были переселены в Выборжский и Псковский уезды с раздачей им земель. Т.е. дела РГАДА ф.1209  \n86 1683 г. Раздаточная книга дворцовых земель себежским казакам в Выборжском уезде (Выбор - пригород Пскова). Подлинник. Печ. оп. № 359. Лл. 1-184  \n811 1682 г. Писцовая книга поместных земель себежских морских и донских казаков в Псковском уезде, писца И. П. Хвостова. Копия XVIII в. Печ. оп. № 2064. Лл. 1-147 \nявляются прямым продолжением этого дела.  \nВ оригинале существует разбивка на абзацы и заголовки, которые я сохранил. В оригинале нет пунктуации и, частично, разбивки на слова. Красным цветом выделены слова, в расшифровке которых я не уверен. \nС расшифровкой можно ознакомиться здесь:\n"
+            },
+            {
+                "type": "link",
+                "text": "https://coins.su/forum/topic/326105-rgada-1209-1-437-pistsovaya-dozornaya-i-stroilnaya-kniga-zemel-donskih-i-morskih-kazakov-v-sebezhskom-uezde-pistsa-i-n-sumarokova-1668-goda/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 7,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Чысты Гуманітарый",
+                        "from_id": "user453928472",
+                        "date": "2023-05-31T08:50:50"
+                    },
+                    {
+                        "from": "Ks Arche",
+                        "from_id": "user1705348657",
+                        "date": "2023-05-30T23:02:14"
+                    },
+                    {
+                        "from": "Екатерина",
+                        "from_id": "user5201994014",
+                        "date": "2023-05-29T16:01:27"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍"
+            }
+        ]
+    },
+    "47338": {
+        "id": 47338,
+        "type": "message",
+        "date": "2023-05-26T20:12:02",
+        "date_unixtime": "1685121122",
+        "edited": "2023-05-26T20:12:42",
+        "edited_unixtime": "1685121162",
+        "from": "Андрей",
+        "from_id": "user5156395180",
+        "reply_to_message_id": 24122,
+        "text": "Не дописал, что это дело хорошо дополняет Себежские инвентари 1641 - 1694 годов из архива Радзивиллов в AGAD в части крестьян и топонимов.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Не дописал, что это дело хорошо дополняет Себежские инвентари 1641 - 1694 годов из архива Радзивиллов в AGAD в части крестьян и топонимов."
+            }
+        ]
+    },
+    "47669": {
+        "id": 47669,
+        "type": "message",
+        "date": "2023-05-30T23:57:30",
+        "date_unixtime": "1685480250",
+        "edited": "2023-05-31T10:01:11",
+        "edited_unixtime": "1685516471",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 24122,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://youtu.be/kRoP6ccuHdA"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://youtu.be/kRoP6ccuHdA"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2023-05-31T10:01:12"
+                    }
+                ]
+            }
+        ]
+    },
+    "47938": {
+        "id": 47938,
+        "type": "message",
+        "date": "2023-06-01T02:05:09",
+        "date_unixtime": "1685574309",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24122,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "2018 Amalrik_A_A_Normanny_i_Kievskaya_Rus_2018.djvu",
+        "mime_type": "image/vnd.djvu+multipage",
+        "text": [
+            "------------- ",
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            " -----------\nЗаглавие: 2018. Норманы и Киевская Русь., 231 стр., 3,40 Мб., Djvu.\nАвтор: А.Амальрик. (диссидент).\nЖанр: ",
+            {
+                "type": "hashtag",
+                "text": "#2018г"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#История"
+            },
+            "\nИздатель: Москва. Новое Литературное Обозрение.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: ",
+            {
+                "type": "link",
+                "text": "https://book-olds.ru/BookLibrary/00000-Rossiya/2018.-Normanyi-i-Kievskaya-Rus.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "------------- "
+            },
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            {
+                "type": "plain",
+                "text": " -----------\nЗаглавие: 2018. Норманы и Киевская Русь., 231 стр., 3,40 Мб., Djvu.\nАвтор: А.Амальрик. (диссидент).\nЖанр: "
+            },
+            {
+                "type": "hashtag",
+                "text": "#2018г"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#История"
+            },
+            {
+                "type": "plain",
+                "text": "\nИздатель: Москва. Новое Литературное Обозрение.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: "
+            },
+            {
+                "type": "link",
+                "text": "https://book-olds.ru/BookLibrary/00000-Rossiya/2018.-Normanyi-i-Kievskaya-Rus.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "48012": {
+        "id": 48012,
+        "type": "message",
+        "date": "2023-06-02T11:07:58",
+        "date_unixtime": "1685693278",
+        "edited": "2023-06-03T22:17:03",
+        "edited_unixtime": "1685819823",
+        "from": "Vitaly Khor Vitaut",
+        "from_id": "user7511581",
+        "reply_to_message_id": 24122,
+        "text": [
+            "Поиск по российским архивам уроженцев Беларуси, пробуйте ",
+            {
+                "type": "link",
+                "text": "https://yandex.ru/archive/search?text=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D1%8F&docType=sheet&specType=%D0%92%D1%81%D0%B5&is_digitized=0"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Поиск по российским архивам уроженцев Беларуси, пробуйте "
+            },
+            {
+                "type": "link",
+                "text": "https://yandex.ru/archive/search?text=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D1%8F&docType=sheet&specType=%D0%92%D1%81%D0%B5&is_digitized=0"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "⚡",
+                "recent": [
+                    {
+                        "from": "Александр Папин",
+                        "from_id": "user698870737",
+                        "date": "2023-06-04T14:31:13"
+                    }
+                ]
+            }
+        ]
+    }
+}

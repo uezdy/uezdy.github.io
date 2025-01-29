@@ -1,0 +1,59 @@
+{
+    "93047": {
+        "id": 93047,
+        "type": "message",
+        "date": "2024-08-19T09:41:15",
+        "date_unixtime": "1724049675",
+        "edited": "2024-08-19T12:34:01",
+        "edited_unixtime": "1724060041",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 91995,
+        "text": [
+            "Также напомню про индексацию документов Крестьянского Поземельного Банка\n\n",
+            {
+                "type": "link",
+                "text": "https://inv.velikie.org/doc/kpb/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Также напомню про индексацию документов Крестьянского Поземельного Банка\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://inv.velikie.org/doc/kpb/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Яська Гаспадар з-пад Вільні",
+                        "from_id": "user787777714",
+                        "date": "2024-12-09T13:16:45"
+                    },
+                    {
+                        "from": "L",
+                        "from_id": "user5815411897",
+                        "date": "2024-08-21T23:00:54"
+                    },
+                    {
+                        "from": "В",
+                        "from_id": "user5050312544",
+                        "date": "2024-08-19T19:18:07"
+                    }
+                ]
+            }
+        ]
+    }
+}

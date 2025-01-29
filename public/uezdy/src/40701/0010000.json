@@ -1,0 +1,47 @@
+{
+    "40726": {
+        "id": 40726,
+        "type": "message",
+        "date": "2023-04-02T22:24:43",
+        "date_unixtime": "1680463483",
+        "edited": "2023-04-02T22:46:53",
+        "edited_unixtime": "1680464813",
+        "from": "🌞",
+        "from_id": "user718980479",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 853,
+        "height": 1280,
+        "text": "Зинковский Андрей 1937",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Зинковский Андрей 1937"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Darya",
+                        "from_id": "user353969106",
+                        "date": "2023-10-17T11:02:24"
+                    },
+                    {
+                        "from": "Маргарита✈️",
+                        "from_id": "user396227252",
+                        "date": "2023-05-06T07:08:47"
+                    },
+                    {
+                        "from": "Чысты Гуманітарый",
+                        "from_id": "user453928472",
+                        "date": "2023-04-24T10:44:21"
+                    }
+                ]
+            }
+        ]
+    }
+}

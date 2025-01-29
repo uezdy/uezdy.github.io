@@ -1,0 +1,48 @@
+{
+    "41597": {
+        "id": 41597,
+        "type": "message",
+        "date": "2023-04-06T19:50:53",
+        "date_unixtime": "1680799853",
+        "edited": "2023-06-27T20:24:31",
+        "edited_unixtime": "1687886671",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 41250,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Очерк_быта_нищих_Могилевской_губернии_и_их_условный_язык_«любецкий.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Может кому-то будет интересно)\n\nОчерк быта нищих Могилевской губернии и их условный язык (\"любецкий лемент\") / Е. Романов - 1891 г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Может кому-то будет интересно)\n\nОчерк быта нищих Могилевской губернии и их условный язык (\"любецкий лемент\") / Е. Романов - 1891 г."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 9,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Алевтина",
+                        "from_id": "user877284388",
+                        "date": "2025-01-08T00:07:59"
+                    },
+                    {
+                        "from": "NikolaenkoN 😉",
+                        "from_id": "user1186887222",
+                        "date": "2025-01-01T16:15:49"
+                    },
+                    {
+                        "from": "Наталья",
+                        "from_id": "user382266006",
+                        "date": "2024-07-19T08:11:44"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "41790": {
+        "id": 41790,
+        "type": "message",
+        "date": "2023-04-07T18:39:19",
+        "date_unixtime": "1680881959",
+        "edited": "2023-04-07T18:40:43",
+        "edited_unixtime": "1680882043",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24422,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 976,
+        "text": "Умершие 1915\n16 апреля 1915\nМинской губернии, Новогрудского уезда, Стволовичской волости, деревни Подстаринья, крестьянина Михаила Тарасова Воробья (Воробьева) сын, младенец, Василий.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Умершие 1915\n16 апреля 1915\nМинской губернии, Новогрудского уезда, Стволовичской волости, деревни Подстаринья, крестьянина Михаила Тарасова Воробья (Воробьева) сын, младенец, Василий."
+            }
+        ]
+    },
+    "41791": {
+        "id": 41791,
+        "type": "message",
+        "date": "2023-04-07T18:39:19",
+        "date_unixtime": "1680881959",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24422,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 1006,
+        "text": "",
+        "text_entities": []
+    },
+    "41792": {
+        "id": 41792,
+        "type": "message",
+        "date": "2023-04-07T18:39:28",
+        "date_unixtime": "1680881968",
+        "edited": "2023-09-30T11:15:38",
+        "edited_unixtime": "1696061738",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 41790,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://text-recognition.storage.yandexcloud.net/data/uploaded-mb/genobase_root/Tver/_%D0%9F%D0%BB%D1%91%D0%BD%D0%BA%D0%B8/_2273149%20-%202332365%20-%20522%20%D0%BF%D0%BB%D1%91%D0%BD%D0%BE%D0%BA/2328355/0510.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=t867d41JDcItGB9WczMY%2F20230407%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230407T151529Z&X-Amz-Expires=86400&X-Amz-Signature=857218e8907907d4355b2aa798c242297113e0c47a937f1b2fcd6a1d2457f195&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng"
+            },
+            "\nГА Тверской области (ГАТО), плёнка 2328355, стр. 510\nМетрические книги : Тверь (уезд), 1729-1925\n\n",
+            {
+                "type": "link",
+                "text": "https://text-recognition.storage.yandexcloud.net/data/uploaded-mb/genobase_root/Tver/_%D0%9F%D0%BB%D1%91%D0%BD%D0%BA%D0%B8/_2273149%20-%202332365%20-%20522%20%D0%BF%D0%BB%D1%91%D0%BD%D0%BE%D0%BA/2330300/0546.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=t867d41JDcItGB9WczMY%2F20230407%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230407T144258Z&X-Amz-Expires=86400&X-Amz-Signature=f5e32f827c71c09b33f86f1daf3dd38fc6963adbce9c974b946dc21425ba33fe&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng"
+            },
+            "\nМетрические книги : Петропавловская церковь, 1877-1918, Метрические книги : Ильинская церковь, 1876-1918, Метрические книги : Тверь (уезд), 1729-1925\nГА Тверской области (ГАТО), плёнка 2330300, стр. 546"
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://text-recognition.storage.yandexcloud.net/data/uploaded-mb/genobase_root/Tver/_%D0%9F%D0%BB%D1%91%D0%BD%D0%BA%D0%B8/_2273149%20-%202332365%20-%20522%20%D0%BF%D0%BB%D1%91%D0%BD%D0%BE%D0%BA/2328355/0510.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=t867d41JDcItGB9WczMY%2F20230407%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230407T151529Z&X-Amz-Expires=86400&X-Amz-Signature=857218e8907907d4355b2aa798c242297113e0c47a937f1b2fcd6a1d2457f195&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng"
+            },
+            {
+                "type": "plain",
+                "text": "\nГА Тверской области (ГАТО), плёнка 2328355, стр. 510\nМетрические книги : Тверь (уезд), 1729-1925\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://text-recognition.storage.yandexcloud.net/data/uploaded-mb/genobase_root/Tver/_%D0%9F%D0%BB%D1%91%D0%BD%D0%BA%D0%B8/_2273149%20-%202332365%20-%20522%20%D0%BF%D0%BB%D1%91%D0%BD%D0%BE%D0%BA/2330300/0546.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=t867d41JDcItGB9WczMY%2F20230407%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230407T144258Z&X-Amz-Expires=86400&X-Amz-Signature=f5e32f827c71c09b33f86f1daf3dd38fc6963adbce9c974b946dc21425ba33fe&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng"
+            },
+            {
+                "type": "plain",
+                "text": "\nМетрические книги : Петропавловская церковь, 1877-1918, Метрические книги : Ильинская церковь, 1876-1918, Метрические книги : Тверь (уезд), 1729-1925\nГА Тверской области (ГАТО), плёнка 2330300, стр. 546"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2023-09-30T11:15:38"
+                    }
+                ]
+            }
+        ]
+    },
+    "42296": {
+        "id": 42296,
+        "type": "message",
+        "date": "2023-04-13T16:01:15",
+        "date_unixtime": "1681390875",
+        "from": "Юлия Мельниченко",
+        "from_id": "user5715075349",
+        "reply_to_message_id": 24422,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Каменка 1902_.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4095,
+        "height": 3126,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://www.familysearch.org/ark:/61903/3:1:33SQ-GGFM-9KLC?i=657&cc=1921824&cat=781814"
+            },
+            "\nГА Тверской области\nМетрические книги, 1863-1907\nПравославная церковь. Пречистая Каменка (Торжок); Государственный архив Тверской области"
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://www.familysearch.org/ark:/61903/3:1:33SQ-GGFM-9KLC?i=657&cc=1921824&cat=781814"
+            },
+            {
+                "type": "plain",
+                "text": "\nГА Тверской области\nМетрические книги, 1863-1907\nПравославная церковь. Пречистая Каменка (Торжок); Государственный архив Тверской области"
+            }
+        ]
+    }
+}

@@ -1,0 +1,1628 @@
+{
+    "74710": {
+        "id": 74710,
+        "type": "message",
+        "date": "2024-02-23T21:12:01",
+        "date_unixtime": "1708711921",
+        "from": "Наталья",
+        "from_id": "user5202775470",
+        "reply_to_message_id": 73190,
+        "text": "Добрый день, подскажите, пожалуйста, где можно посмотреть эту газету за 1930-35 год примерно",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день, подскажите, пожалуйста, где можно посмотреть эту газету за 1930-35 год примерно"
+            }
+        ]
+    },
+    "74711": {
+        "id": 74711,
+        "type": "message",
+        "date": "2024-02-23T21:13:34",
+        "date_unixtime": "1708712014",
+        "from": "🤫🏍⛺",
+        "from_id": "user6213882374",
+        "reply_to_message_id": 74710,
+        "text": "Сомневаюсь, что она ещё выпускалась в эти годы 🤷‍♂",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сомневаюсь, что она ещё выпускалась в эти годы 🤷‍♂"
+            }
+        ]
+    },
+    "74712": {
+        "id": 74712,
+        "type": "message",
+        "date": "2024-02-23T21:14:17",
+        "date_unixtime": "1708712057",
+        "from": "Наталья",
+        "from_id": "user5202775470",
+        "reply_to_message_id": 24109,
+        "text": "Да, уже увидела (",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, уже увидела ("
+            }
+        ]
+    },
+    "74766": {
+        "id": 74766,
+        "type": "message",
+        "date": "2024-02-24T20:35:57",
+        "date_unixtime": "1708796157",
+        "edited": "2024-02-24T20:36:09",
+        "edited_unixtime": "1708796169",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Без_Корнилович_М_О_Исторические_сведения_о_примечательнейших_местах.pdf",
+        "mime_type": "application/pdf",
+        "text": "Без-Корнилович М. О. Исторические сведения о примечательнейших местах в Белоруссии 1855\nс присовокуплением и других сведений к ней же относящихся.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Без-Корнилович М. О. Исторические сведения о примечательнейших местах в Белоруссии 1855\nс присовокуплением и других сведений к ней же относящихся."
+            }
+        ]
+    },
+    "74774": {
+        "id": 74774,
+        "type": "message",
+        "date": "2024-02-25T10:25:39",
+        "date_unixtime": "1708845939",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1923 Švenčionių dekanato gimimo metrikų knyga.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            "------------ ",
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            " -----------\nЗаглавие: 1923. Švenčionių dekanato gimimo metrikų knyga (МК рождения Свенцянский уезд р-к церкви)., 441 стр., 121,90 Мб., PDF.\nАвтор: Vilniaus Romos katalikų vyskupijos dvasinė konsistorija.\nЖанр: ",
+            {
+                "type": "hashtag",
+                "text": "#1923г"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Виленская"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Церковь"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Рождение"
+            },
+            "\nИздатель: Lietuvos valstybės istorijos archyvas.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: ",
+            {
+                "type": "link",
+                "text": "http://book-olds.ru/BookLibrary/04007-TSerkov-v-Vilenskoy-gubernii/1923.-Svenčionių-dekanato-gimimo-metrikų-knyga-MK-rozhdeniya-Sventsyanskiy-uezd-r-k-tserkvi.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "------------ "
+            },
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            {
+                "type": "plain",
+                "text": " -----------\nЗаглавие: 1923. Švenčionių dekanato gimimo metrikų knyga (МК рождения Свенцянский уезд р-к церкви)., 441 стр., 121,90 Мб., PDF.\nАвтор: Vilniaus Romos katalikų vyskupijos dvasinė konsistorija.\nЖанр: "
+            },
+            {
+                "type": "hashtag",
+                "text": "#1923г"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Виленская"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Церковь"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Рождение"
+            },
+            {
+                "type": "plain",
+                "text": "\nИздатель: Lietuvos valstybės istorijos archyvas.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: "
+            },
+            {
+                "type": "link",
+                "text": "http://book-olds.ru/BookLibrary/04007-TSerkov-v-Vilenskoy-gubernii/1923.-Svenčionių-dekanato-gimimo-metrikų-knyga-MK-rozhdeniya-Sventsyanskiy-uezd-r-k-tserkvi.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "74776": {
+        "id": 74776,
+        "type": "message",
+        "date": "2024-02-25T10:28:42",
+        "date_unixtime": "1708846122",
+        "edited": "2024-02-25T16:44:09",
+        "edited_unixtime": "1708868649",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1850 Raudondvario dvaro gyventojų reviziniai.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            "------------ ",
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            " -----------\nЗаглавие: 1850. Ревизские сказки Ковенской губернии., PDF.\n(1850) м. Червонный двор (Ковенский уезд)., 112 стр., 34,90 Мб.\nАвтор: Ковенская (Виленская) казённая палата.\nЖанр: ",
+            {
+                "type": "hashtag",
+                "text": "#1850г"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Ковенская"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Генеалогия"
+            },
+            "\nИздатель: Lietuvos valstybės istorijos archyvas.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: ",
+            {
+                "type": "link",
+                "text": "http://book-olds.ru/BookLibrary/17000-Kovenskaya-gub/1850.-Revizskie-skazki-Kovenskoy-gubernii.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "------------ "
+            },
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            {
+                "type": "plain",
+                "text": " -----------\nЗаглавие: 1850. Ревизские сказки Ковенской губернии., PDF.\n(1850) м. Червонный двор (Ковенский уезд)., 112 стр., 34,90 Мб.\nАвтор: Ковенская (Виленская) казённая палата.\nЖанр: "
+            },
+            {
+                "type": "hashtag",
+                "text": "#1850г"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Ковенская"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Генеалогия"
+            },
+            {
+                "type": "plain",
+                "text": "\nИздатель: Lietuvos valstybės istorijos archyvas.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: "
+            },
+            {
+                "type": "link",
+                "text": "http://book-olds.ru/BookLibrary/17000-Kovenskaya-gub/1850.-Revizskie-skazki-Kovenskoy-gubernii.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "tiktak0904",
+                        "from_id": "user944241690",
+                        "date": "2024-02-25T16:44:09"
+                    }
+                ]
+            }
+        ]
+    },
+    "74777": {
+        "id": 74777,
+        "type": "message",
+        "date": "2024-02-25T10:33:09",
+        "date_unixtime": "1708846389",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 24109,
+        "text": "На гэтым рэсурсе Ковенскага ўезду -веоьмі багата! Не буду ўсё цягнуць сюды",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На гэтым рэсурсе Ковенскага ўезду -веоьмі багата! Не буду ўсё цягнуць сюды"
+            }
+        ]
+    },
+    "74779": {
+        "id": 74779,
+        "type": "message",
+        "date": "2024-02-25T10:36:46",
+        "date_unixtime": "1708846606",
+        "edited": "2024-03-17T18:02:07",
+        "edited_unixtime": "1710687727",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 74777,
+        "text": "А ўсё цягнуць ня трэба, бо з ковенскай губерніі толькі паўаляксандраўскага павету да Беларусі адносіцца",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А ўсё цягнуць ня трэба, бо з ковенскай губерніі толькі паўаляксандраўскага павету да Беларусі адносіцца"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Nik",
+                        "from_id": "user364718763",
+                        "date": "2024-03-17T18:02:08"
+                    }
+                ]
+            }
+        ]
+    },
+    "74780": {
+        "id": 74780,
+        "type": "message",
+        "date": "2024-02-25T10:51:10",
+        "date_unixtime": "1708847470",
+        "edited": "2024-02-25T11:37:15",
+        "edited_unixtime": "1708850235",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 24109,
+        "text": "Тут народ актыўна перамяшчаўся, мо і адтуль багата",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тут народ актыўна перамяшчаўся, мо і адтуль багата"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤷‍♂",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-02-25T11:37:15"
+                    }
+                ]
+            }
+        ]
+    },
+    "74898": {
+        "id": 74898,
+        "type": "message",
+        "date": "2024-02-26T18:03:34",
+        "date_unixtime": "1708959814",
+        "edited": "2024-02-26T19:53:31",
+        "edited_unixtime": "1708966411",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Rewizja dobr tatarskich 1631 r. - sumariusz i wypisy.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Revizja dobr Tatarskih WKL 1631r., sumariusz i wypisy\nиз журнала Acta Baltico-Slavica №20 (1989г.)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Revizja dobr Tatarskih WKL 1631r., sumariusz i wypisy\nиз журнала Acta Baltico-Slavica №20 (1989г.)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "ХТО НІХТО",
+                        "from_id": "user425011945",
+                        "date": "2024-02-26T22:18:16"
+                    },
+                    {
+                        "from": "I D",
+                        "from_id": "user5726368881",
+                        "date": "2024-02-26T19:59:35"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-02-26T18:56:53"
+                    }
+                ]
+            }
+        ]
+    },
+    "75143": {
+        "id": 75143,
+        "type": "message",
+        "date": "2024-02-28T16:09:01",
+        "date_unixtime": "1709125741",
+        "edited": "2024-04-01T17:23:30",
+        "edited_unixtime": "1711981410",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "text": "Виноградова Л.Н., Левкиевская Е.Е. (сост.) Народная демонология Полесья (Studia Philologica). 2010-2016",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Виноградова Л.Н., Левкиевская Е.Е. (сост.) Народная демонология Полесья (Studia Philologica). 2010-2016"
+            }
+        ]
+    },
+    "75144": {
+        "id": 75144,
+        "type": "message",
+        "date": "2024-02-28T16:10:53",
+        "date_unixtime": "1709125853",
+        "edited": "2024-02-28T16:29:23",
+        "edited_unixtime": "1709126963",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Том I. 2010.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 8,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Igor T",
+                        "from_id": "user2142568466",
+                        "date": "2024-04-19T22:24:17"
+                    },
+                    {
+                        "from": "Irina Tsar",
+                        "from_id": "user1425717479",
+                        "date": "2024-03-01T00:34:33"
+                    },
+                    {
+                        "from": "Шатрова Татьяна",
+                        "from_id": "user1094629730",
+                        "date": "2024-02-28T21:24:44"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👌"
+            }
+        ]
+    },
+    "75145": {
+        "id": 75145,
+        "type": "message",
+        "date": "2024-02-28T16:10:54",
+        "date_unixtime": "1709125854",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Том II. 2012.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    "75146": {
+        "id": 75146,
+        "type": "message",
+        "date": "2024-02-28T16:10:54",
+        "date_unixtime": "1709125854",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Том III. 2016.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    "75147": {
+        "id": 75147,
+        "type": "message",
+        "date": "2024-02-28T16:10:55",
+        "date_unixtime": "1709125855",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Том IV. 2020.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    "75148": {
+        "id": 75148,
+        "type": "message",
+        "date": "2024-02-28T16:22:20",
+        "date_unixtime": "1709126540",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 75146,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 893,
+        "text": "",
+        "text_entities": []
+    },
+    "75224": {
+        "id": 75224,
+        "type": "message",
+        "date": "2024-02-28T21:21:40",
+        "date_unixtime": "1709144500",
+        "edited": "2024-02-28T21:33:37",
+        "edited_unixtime": "1709145217",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Памяць. Чэрыкаускi раен.pdf",
+        "mime_type": "application/pdf",
+        "text": "Книга полностью. \n\"Памяць. Чэрыкаускi раен\"\nРед. Ермакоу В.М.\nИздательство: Мiнск:Вышэйшая школа,1994\nСтраницы: 659\n\n\nP.S.в книге сказано, что некий Анатоль Ялоза долгие годы был старостой Черикова.\n\nЭто дезинформация. \nНи одного Анатоля в моем роду не было.\n\nНил Иванович - был, да - и мещанским старостой, и головой города.\n\nЭто я к тому , что не стоит доверять на 100% книгам. Всё нужно перепроверять.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Книга полностью. \n\"Памяць. Чэрыкаускi раен\"\nРед. Ермакоу В.М.\nИздательство: Мiнск:Вышэйшая школа,1994\nСтраницы: 659\n\n\nP.S.в книге сказано, что некий Анатоль Ялоза долгие годы был старостой Черикова.\n\nЭто дезинформация. \nНи одного Анатоля в моем роду не было.\n\nНил Иванович - был, да - и мещанским старостой, и головой города.\n\nЭто я к тому , что не стоит доверять на 100% книгам. Всё нужно перепроверять."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 11,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Leon",
+                        "from_id": "user1876891660",
+                        "date": "2025-01-06T10:37:13"
+                    },
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2024-04-16T16:36:53"
+                    },
+                    {
+                        "from": "Валентин Ш",
+                        "from_id": "user968736097",
+                        "date": "2024-03-01T11:25:48"
+                    }
+                ]
+            }
+        ]
+    },
+    "75225": {
+        "id": 75225,
+        "type": "message",
+        "date": "2024-02-28T21:30:47",
+        "date_unixtime": "1709145047",
+        "edited": "2024-02-28T21:31:45",
+        "edited_unixtime": "1709145105",
+        "from": "Vi",
+        "from_id": "user472567162",
+        "reply_to_message_id": 24109,
+        "text": [
+            "Оцифрованная книга Храмовича Г.А. - Зарево над Сожем\nВ книге много о подпольщиках Чериковщины (нашел там двоюродного прадеда, даже с фото). ",
+            {
+                "type": "link",
+                "text": "https://disk.yandex.by/i/9AtzQSo59N6OEg"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Оцифрованная книга Храмовича Г.А. - Зарево над Сожем\nВ книге много о подпольщиках Чериковщины (нашел там двоюродного прадеда, даже с фото). "
+            },
+            {
+                "type": "link",
+                "text": "https://disk.yandex.by/i/9AtzQSo59N6OEg"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user1515478552",
+                        "date": "2025-01-26T11:58:23"
+                    },
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2024-04-16T16:37:21"
+                    },
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2024-03-01T02:02:02"
+                    }
+                ]
+            }
+        ]
+    },
+    "75315": {
+        "id": 75315,
+        "type": "message",
+        "date": "2024-02-29T07:36:44",
+        "date_unixtime": "1709181404",
+        "edited": "2024-02-29T07:37:37",
+        "edited_unixtime": "1709181457",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Источниковедение - Копысский.pdf",
+        "mime_type": "application/pdf",
+        "text": "Копысский Зиновий Юльевич\n\"Источниковедение аграрной истории Белоруссии\", 1978г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Копысский Зиновий Юльевич\n\"Источниковедение аграрной истории Белоруссии\", 1978г."
+            }
+        ]
+    },
+    "75316": {
+        "id": 75316,
+        "type": "message",
+        "date": "2024-02-29T07:40:23",
+        "date_unixtime": "1709181623",
+        "edited": "2024-02-29T07:41:33",
+        "edited_unixtime": "1709181693",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "order600.pdf",
+        "mime_type": "application/pdf",
+        "text": "Мелешко Василий Иванович\n\"Очерки аграрной истории Восточной Белоруссии. (2-я половина XVII-XVIII в.)\",\n1975г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мелешко Василий Иванович\n\"Очерки аграрной истории Восточной Белоруссии. (2-я половина XVII-XVIII в.)\",\n1975г."
+            }
+        ]
+    },
+    "75438": {
+        "id": 75438,
+        "type": "message",
+        "date": "2024-03-01T15:58:50",
+        "date_unixtime": "1709297930",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1-ru.zip",
+        "mime_type": "application/zip",
+        "text": "",
+        "text_entities": []
+    },
+    "75439": {
+        "id": 75439,
+        "type": "message",
+        "date": "2024-03-01T15:58:51",
+        "date_unixtime": "1709297931",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "2-ru.zip",
+        "mime_type": "application/zip",
+        "text": "",
+        "text_entities": []
+    },
+    "75440": {
+        "id": 75440,
+        "type": "message",
+        "date": "2024-03-01T15:58:51",
+        "date_unixtime": "1709297931",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "3-ru.zip",
+        "mime_type": "application/zip",
+        "text": "",
+        "text_entities": []
+    },
+    "75441": {
+        "id": 75441,
+        "type": "message",
+        "date": "2024-03-01T15:58:51",
+        "date_unixtime": "1709297931",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "4-ru.zip",
+        "mime_type": "application/zip",
+        "text": "",
+        "text_entities": []
+    },
+    "75442": {
+        "id": 75442,
+        "type": "message",
+        "date": "2024-03-01T15:58:52",
+        "date_unixtime": "1709297932",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "5-ru.zip",
+        "mime_type": "application/zip",
+        "text": "",
+        "text_entities": []
+    },
+    "75443": {
+        "id": 75443,
+        "type": "message",
+        "date": "2024-03-01T15:58:52",
+        "date_unixtime": "1709297932",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "6-ru.zip",
+        "mime_type": "application/zip",
+        "text": "",
+        "text_entities": []
+    },
+    "75444": {
+        "id": 75444,
+        "type": "message",
+        "date": "2024-03-01T15:58:53",
+        "date_unixtime": "1709297933",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "7-ru.zip",
+        "mime_type": "application/zip",
+        "text": "",
+        "text_entities": []
+    },
+    "75446": {
+        "id": 75446,
+        "type": "message",
+        "date": "2024-03-01T16:10:58",
+        "date_unixtime": "1709298658",
+        "edited": "2024-03-01T16:11:37",
+        "edited_unixtime": "1709298697",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1-by.zip",
+        "mime_type": "application/zip",
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Anna Petrova",
+                        "from_id": "user1970293221",
+                        "date": "2024-03-02T08:54:51"
+                    },
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-03-01T20:20:39"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user1002005178",
+                        "date": "2024-03-01T17:02:17"
+                    }
+                ]
+            }
+        ]
+    },
+    "75447": {
+        "id": 75447,
+        "type": "message",
+        "date": "2024-03-01T16:10:58",
+        "date_unixtime": "1709298658",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "2-by.zip",
+        "mime_type": "application/zip",
+        "text": "",
+        "text_entities": []
+    },
+    "75448": {
+        "id": 75448,
+        "type": "message",
+        "date": "2024-03-01T16:10:59",
+        "date_unixtime": "1709298659",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "3-by.zip",
+        "mime_type": "application/zip",
+        "text": "",
+        "text_entities": []
+    },
+    "75449": {
+        "id": 75449,
+        "type": "message",
+        "date": "2024-03-01T16:12:13",
+        "date_unixtime": "1709298733",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "mspm_Маляваныя_сны_Паўла_Марціновіча.zip",
+        "mime_type": "application/zip",
+        "text": "",
+        "text_entities": []
+    },
+    "75450": {
+        "id": 75450,
+        "type": "message",
+        "date": "2024-03-01T16:12:13",
+        "date_unixtime": "1709298733",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "photo Фотографии.zip",
+        "mime_type": "application/zip",
+        "text": "",
+        "text_entities": []
+    },
+    "75452": {
+        "id": 75452,
+        "type": "message",
+        "date": "2024-03-01T16:24:24",
+        "date_unixtime": "1709299464",
+        "edited": "2024-03-01T17:32:09",
+        "edited_unixtime": "1709303529",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "forwarded_from": "N.Y.",
+        "reply_to_message_id": 24109,
+        "text": "Друзья, давайте проще сделаем, кидаю библиографическое описание (сам составил) всей серии. Пусть каждый определит сам, какой том ему интересен в первую очередь. На самих титульных листах и обложках нумерация томов отсутствует.\n\nСерия «Летопись белорусской шляхты»:\n\nСтецкевич-Чебоганов А.В. Я – сын Ваш. [Т. I]: Стецкевичи, Сацкевичи-Стецкевичи герба «Костеша». Карафа-Корбуты герба «Корчак». Минск: Белорусская Православная Церковь, 2011. 592 с.\n\nСтецкевич-Чебоганов А.В. Я – сын Ваш. [Т. II]: Сыцько герба «Остоя», Ждановичи-Гуриновичи герба «Любич». Мещанские роды Казанкины и Чебогановы. Арцишевские герба «Роля», Забелло герба «Топор». Минск: Белорусская Православная Церковь, 2013. 576 с.\n\nСтецкевич-Чебоганов А.В. Я – сын Ваш. [Т. III]: Некрашевичи герба «Любич». Татуры герба «Донброва». Севруки герба «Курч». Керножицкие герба «Юноша». Моствиловичи герба «Доленга». Минск: Белорусская Православная Церковь, 2012. 590 с.\n\nСтецкевич-Чебоганов А.В. Я – сын Ваш. [Т. IV]: Казановичи герба «Гржимала». Минск: Белорусская Православная Церковь, 2012. 576 с. [прилагаются родословные росписи родов: Данненберги, Свентицкие, Кануковы, Кигны]\n\nСтецкевич-Чебоганов А.В. Я – сын Ваш. [Т. V]: Из истории деревни Засмужье Любанского района. Тычины гербов «Тучинский» и «Тржаска». Рудзинские герба «Прус III». Минск: Белорусская Православная Церковь, 2014. 560 с.\n\nСтецкевич-Чебоганов А.В. Я – сын Ваш. [Т. VI]: Глинские, Лиходеевские, Глинские-Лиходеевские герба «Глинский», «Ястребец», «Ясечник». Минск: Роднае слова, 2018. 576 с. [том в бумажном виде не издавался]\n\nСтаткевіч-Чабаганаў А.В. Я – сын Ваш. [Т. VII]: Корсакі гербаў «Корсак» і «Ліс». Геталты, Тышкевічы, Гарабурды і Гарнастаі з роду Каленікавічаў Мішкавічаў. Рэуты герба «Газдава». Мінск: Рэдакцыя часопіса «Роднае слова», 2017. 576 с.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Друзья, давайте проще сделаем, кидаю библиографическое описание (сам составил) всей серии. Пусть каждый определит сам, какой том ему интересен в первую очередь. На самих титульных листах и обложках нумерация томов отсутствует.\n\nСерия «Летопись белорусской шляхты»:\n\nСтецкевич-Чебоганов А.В. Я – сын Ваш. [Т. I]: Стецкевичи, Сацкевичи-Стецкевичи герба «Костеша». Карафа-Корбуты герба «Корчак». Минск: Белорусская Православная Церковь, 2011. 592 с.\n\nСтецкевич-Чебоганов А.В. Я – сын Ваш. [Т. II]: Сыцько герба «Остоя», Ждановичи-Гуриновичи герба «Любич». Мещанские роды Казанкины и Чебогановы. Арцишевские герба «Роля», Забелло герба «Топор». Минск: Белорусская Православная Церковь, 2013. 576 с.\n\nСтецкевич-Чебоганов А.В. Я – сын Ваш. [Т. III]: Некрашевичи герба «Любич». Татуры герба «Донброва». Севруки герба «Курч». Керножицкие герба «Юноша». Моствиловичи герба «Доленга». Минск: Белорусская Православная Церковь, 2012. 590 с.\n\nСтецкевич-Чебоганов А.В. Я – сын Ваш. [Т. IV]: Казановичи герба «Гржимала». Минск: Белорусская Православная Церковь, 2012. 576 с. [прилагаются родословные росписи родов: Данненберги, Свентицкие, Кануковы, Кигны]\n\nСтецкевич-Чебоганов А.В. Я – сын Ваш. [Т. V]: Из истории деревни Засмужье Любанского района. Тычины гербов «Тучинский» и «Тржаска». Рудзинские герба «Прус III». Минск: Белорусская Православная Церковь, 2014. 560 с.\n\nСтецкевич-Чебоганов А.В. Я – сын Ваш. [Т. VI]: Глинские, Лиходеевские, Глинские-Лиходеевские герба «Глинский», «Ястребец», «Ясечник». Минск: Роднае слова, 2018. 576 с. [том в бумажном виде не издавался]\n\nСтаткевіч-Чабаганаў А.В. Я – сын Ваш. [Т. VII]: Корсакі гербаў «Корсак» і «Ліс». Геталты, Тышкевічы, Гарабурды і Гарнастаі з роду Каленікавічаў Мішкавічаў. Рэуты герба «Газдава». Мінск: Рэдакцыя часопіса «Роднае слова», 2017. 576 с."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2024-04-16T16:38:04"
+                    },
+                    {
+                        "from": "Anna Petrova",
+                        "from_id": "user1970293221",
+                        "date": "2024-03-02T08:58:08"
+                    },
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-03-01T20:21:01"
+                    }
+                ]
+            }
+        ]
+    },
+    "75470": {
+        "id": 75470,
+        "type": "message",
+        "date": "2024-03-01T18:45:09",
+        "date_unixtime": "1709307909",
+        "edited": "2024-03-01T21:17:04",
+        "edited_unixtime": "1709317024",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Marina Yurochka",
+        "reply_to_message_id": 24109,
+        "text": [
+            "Гэта спасылка на артыкулы ў \"Родным слове\" Анатоля Стецкевіча-Чабаганава. ",
+            {
+                "type": "link",
+                "text": "http://yasynvash.by/ru/articles/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Гэта спасылка на артыкулы ў \"Родным слове\" Анатоля Стецкевіча-Чабаганава. "
+            },
+            {
+                "type": "link",
+                "text": "http://yasynvash.by/ru/articles/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2024-04-16T16:38:06"
+                    },
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2024-03-01T21:17:04"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Natali Шелганова",
+                        "from_id": "user879160135",
+                        "date": "2024-04-14T22:55:11"
+                    }
+                ]
+            }
+        ]
+    },
+    "75471": {
+        "id": 75471,
+        "type": "message",
+        "date": "2024-03-01T18:45:19",
+        "date_unixtime": "1709307919",
+        "edited": "2024-04-16T16:39:06",
+        "edited_unixtime": "1713274746",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Mikhail",
+        "reply_to_message_id": 24109,
+        "text": "С 2011 по 2018 год книги Анатолия Стецкевича-Чебоганова выходили в издательстве “Белорусская Православная Церковь” – на русском языке, в редакции журнала “Роднае слова” – на белорусском.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "С 2011 по 2018 год книги Анатолия Стецкевича-Чебоганова выходили в издательстве “Белорусская Православная Церковь” – на русском языке, в редакции журнала “Роднае слова” – на белорусском."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2024-04-16T16:39:06"
+                    }
+                ]
+            }
+        ]
+    },
+    "75480": {
+        "id": 75480,
+        "type": "message",
+        "date": "2024-03-01T19:24:14",
+        "date_unixtime": "1709310254",
+        "edited": "2024-03-01T19:38:43",
+        "edited_unixtime": "1709311123",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Цітоў_А_Пячаткі_старажытнай_Беларусі_Нарысы_сфрагістыкі_1993.pdf",
+        "mime_type": "application/pdf",
+        "text": "Цітоў А. Пячаткі старажытнай Беларусі: Нарысы сфрагістыкі. \nМн.: Полымя, 1993.— 239 с.: іл.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Цітоў А. Пячаткі старажытнай Беларусі: Нарысы сфрагістыкі. \nМн.: Полымя, 1993.— 239 с.: іл."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Aleś Piminaŭ",
+                        "from_id": "user5878633696",
+                        "date": "2024-03-04T15:28:18"
+                    },
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2024-03-01T21:17:11"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-03-01T19:38:43"
+                    }
+                ]
+            }
+        ]
+    },
+    "75706": {
+        "id": 75706,
+        "type": "message",
+        "date": "2024-03-03T17:54:13",
+        "date_unixtime": "1709477653",
+        "edited": "2024-03-03T18:05:36",
+        "edited_unixtime": "1709478336",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "Фотаздымкі касцёлаў і цэркваў пачатку 20 ст. з калекцыі Літоўскага нацыянальнага музея, 2016. Змест на фота.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Фотаздымкі касцёлаў і цэркваў пачатку 20 ст. з калекцыі Літоўскага нацыянальнага музея, 2016. Змест на фота."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 7,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2024-04-16T16:39:37"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Tuk & Pluh",
+                        "from_id": "user5662743054",
+                        "date": "2024-03-04T14:27:23"
+                    },
+                    {
+                        "from": "Ex Ample",
+                        "from_id": "user5543513851",
+                        "date": "2024-03-04T13:50:49"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤"
+            }
+        ]
+    },
+    "75707": {
+        "id": 75707,
+        "type": "message",
+        "date": "2024-03-03T17:54:13",
+        "date_unixtime": "1709477653",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "75708": {
+        "id": 75708,
+        "type": "message",
+        "date": "2024-03-03T17:54:14",
+        "date_unixtime": "1709477654",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "75709": {
+        "id": 75709,
+        "type": "message",
+        "date": "2024-03-03T17:54:14",
+        "date_unixtime": "1709477654",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "75710": {
+        "id": 75710,
+        "type": "message",
+        "date": "2024-03-03T17:54:14",
+        "date_unixtime": "1709477654",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "75711": {
+        "id": 75711,
+        "type": "message",
+        "date": "2024-03-03T18:09:29",
+        "date_unixtime": "1709478569",
+        "edited": "2024-05-15T16:18:40",
+        "edited_unixtime": "1715779120",
+        "from": "Władek Pomorski",
+        "from_id": "user1352232635",
+        "reply_to_message_id": 75706,
+        "text": "А цi маяце Вы гэтую кнiгу? Каб некалькi фотак адсканiць",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А цi маяце Вы гэтую кнiгу? Каб некалькi фотак адсканiць"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Людмила Василенко",
+                        "from_id": "user5218205922",
+                        "date": "2024-05-15T16:18:40"
+                    }
+                ]
+            }
+        ]
+    },
+    "75712": {
+        "id": 75712,
+        "type": "message",
+        "date": "2024-03-03T18:14:38",
+        "date_unixtime": "1709478878",
+        "edited": "2024-03-03T18:15:22",
+        "edited_unixtime": "1709478922",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 75711,
+        "text": "Так, маю, таму і выклала.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так, маю, таму і выклала."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 7,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2024-04-16T16:39:42"
+                    },
+                    {
+                        "from": "Алла",
+                        "from_id": "user5283154058",
+                        "date": "2024-03-04T17:31:39"
+                    },
+                    {
+                        "from": "Yarasłaŭ Šapavał",
+                        "from_id": "user64665575",
+                        "date": "2024-03-03T21:52:11"
+                    }
+                ]
+            }
+        ]
+    },
+    "75766": {
+        "id": 75766,
+        "type": "message",
+        "date": "2024-03-04T13:41:45",
+        "date_unixtime": "1709548905",
+        "edited": "2024-04-19T09:07:41",
+        "edited_unixtime": "1713506861",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 75708,
+        "text": "а прозвішчаў там вялікі спіс?\nа то таксама гляджу ўсе нашыя:\n...\nЗабела\nЗавадскі\nЗянкевіч\nЖылінскі",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "а прозвішчаў там вялікі спіс?\nа то таксама гляджу ўсе нашыя:\n...\nЗабела\nЗавадскі\nЗянкевіч\nЖылінскі"
+            }
+        ]
+    },
+    "75767": {
+        "id": 75767,
+        "type": "message",
+        "date": "2024-03-04T13:43:19",
+        "date_unixtime": "1709548999",
+        "edited": "2024-03-04T13:47:10",
+        "edited_unixtime": "1709549230",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 75766,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2024-04-16T16:40:17"
+                    },
+                    {
+                        "from": "I D",
+                        "from_id": "user5726368881",
+                        "date": "2024-03-04T14:26:20"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user75433030",
+                        "date": "2024-03-04T14:03:54"
+                    }
+                ]
+            }
+        ]
+    },
+    "75768": {
+        "id": 75768,
+        "type": "message",
+        "date": "2024-03-04T13:43:20",
+        "date_unixtime": "1709549000",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 75766,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "Ёсць трошкі",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ёсць трошкі"
+            }
+        ]
+    },
+    "75770": {
+        "id": 75770,
+        "type": "message",
+        "date": "2024-03-04T14:38:49",
+        "date_unixtime": "1709552329",
+        "edited": "2024-03-04T15:16:05",
+        "edited_unixtime": "1709554565",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "index.txt",
+        "mime_type": "text/plain",
+        "text": [
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy/24109/75706"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy/24109/75706"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "N.Y.",
+                        "from_id": "user1841363435",
+                        "date": "2024-03-04T15:16:05"
+                    }
+                ]
+            }
+        ]
+    },
+    "75771": {
+        "id": 75771,
+        "type": "message",
+        "date": "2024-03-04T14:39:16",
+        "date_unixtime": "1709552356",
+        "edited": "2024-03-04T16:21:06",
+        "edited_unixtime": "1709558466",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "text": "Alšėnai (Ašmenos r., Gardino sr., Baltarusija) 67 \nAstravas (Gardino sr., Baltarusija) 233 rajonas 71, 88, 89, 223, 232\nAšmena (Gardino sr., Baltarusija) 59, 77 dekanatas 14 parapija 76 rajonas 67,74-76, 79, 86, 229\nAžusvieris(Medilor., Minskosr.,Baltarusija) 227\nBahdanavas (Valažino r., Minsko sr., Baltarusija) 78\nBaina (Breslaujos r., Vitebsko sr., Baltarusija) 253\nBaltarusija 8, 14-16, 61, 64-67, 70-81, 84-89, 92, 93, 96-98, 165, 174, 176, 223-233, 236-255, 257\nBelavičai (Mastų r., Gardino sr., Baltarusija) 276 \nBenica(Maladečinos r., Minsko sr., Baltarusija) 237\nBistryčia (Astravo r., Gardino sr., Baltarusija) 232\nBreslauja (Vitebsko sr., Baltarusija) 15\nChouchlava (Maladečinos r., Minsko sr., Baltarusija) 231\nCudzeniškės (Ašmenos r., Gardino sr., Baltarusija) 229\nČarnevičai (Gluboko r., Vitebsko sr., Baltarusija) 250\nDauginava (Vileikos r., Minsko sr., Baltarusija) 93, 94-95\nDavydkos (Vileikos r., Minsko sr., Baltarusija) 93\nDidžioji Servečė (Vileikos r., Minsko sr., Baltarusija) 93\nDysna (Miorų r., Vitebsko sr., Baltarusija) 248 dekanatas 14\nDruja (Breslaujos r., Vitebsko sr., Baltarusija) 154, 155\nDūdos (Vijos r., Gardino sr., Baltarusija) 65\nGardinas / dekanatas 14 Гродненская\n  gubernija 8, 14, 15, 222\n  sritis 65-67, 70-81, 85,86, 88,89,223-225, 228-230, 232, 233, 274, 276 область\n  vyskupija 15 епархия\nGaudava (Lydos r., Gardino sr., Baltarusija) 230\nGervėčiai (Astravo r., Gardino sr., Baltarusija) 71 parapija 71\nGluboko rajonas (Vitebsko sr., Baltarusija) 246, 250-252\nGraužiškės (Ašmenos r., Gardino sr., Baltarusija) 75\nHalubičai (Gluboko r., Vitebskosr., Baltarusija) 2 5 2 parapija 252\nHarodnikai (Ašmenos r., Gardino sr., Baltarusija) 76\nHarodzkas (Valažino r., Minsko sr., Baltarusija) 240\nIlija (Vileikos r., Minsko sr., Baltarusija) 245 parapija 245\nJodai (Šarkauščinos r., Vitebsko sr., Baltarusija) 256-257\nKamojai (Pastovių r.. Vitebsko sr., Baltarusija) 61,62-63\nKasciancvičai (Vileikos r., Minsko sr., Baltarusija) 91, 93\nKauleliškės (Varanavo r., Gardino sr., Baltarusija) 14,81,81-83\nKlcvyČia (Ašmenos r., Gardino sr., Baltarusija) 74\nKobryno (dab. Bresto sr., Baltarusija) dekanatas 14\nKrėva (Smurgainių r., Gardino sr., Baltarusija) 22 $\nKryvičai (Medilo r., Minsko sr., Baltarusija) 98\nKuranecas (Vileikos r., Minsko sr., Baltarusija) 244\nLaskas (Valažino r., Minsko sr., Baltarusija) 238\nLebeda (Lydos r., Gardino sr., Baltarusija) 233, 234-235\nLebedžiai (Maladečinos r., Minsko sr., Baltarusija) 97\nLentupis (Pastovių r., Vitebsko sr., Baltarusija) 61\nLyda (Gardino sr., Baltarusija) 57\nLietuvos Brasta (Baltarusija) 228\nLipniškės (Vijos r., Gardino sr., Baltarusija) 70\nMaladečinos rajonas (Minsko sr., Baltarusija) 87, 96,97.13». 136.137\nMastai (Gardino sr., Baltarusija) 274.176\nMedilas (Minsko sr., Baltarusija)\nMikailiškės (Astravo r.. Gardino sr., Baltarusija) 89\nMinskas 7\n  sritis 78, 81,84. 87,89, 92,93.96-98. 226, 227, 231,236-245\nMiorų rajonas (Vitebsko sr., Baltarusija) 64,148\nMūrinė Ašmena (Ašmenos r., Gardino sr., Baltarusija) 79\nNaročius (Medilo r., Minsko sr., Baltarusija) 226\nNaugarduko (dab. Gardino sr., Baltarusija) vaivadija 89, 219\nNaujasis Paguostas (Miorų r., Vitebsko sr., Baltarusija) 64\nNesvyžius (Minsko sr., Baltarusija) 21\nNočia (Varanavo r.. Gardino sr., Baltarusija) 80\nOdesa 12\nPalačionys (Maladečinos r., Minsko sr., Baltarusija) 96\nPastovys (Vitebsko sr., Baltarusija) 149\nPlisa (Gluboko r., Vitebsko sr., Baltarusija) 251\nPružanų (dab. Bresto sr., Baltarusija) dekanatas 14\nPsuja (Gluboko r., Vitebsko sr., Baltarusija) 246\nRabunė (Vileikos r., Minsko sr., Baltarusija) 241\nRadaŠkonys (Maladečinos r., Minsko sr., Baltarusija) 87, 236\nRodūnia (Varanavo r., Gardinosr., Baltarusija) 81\nRomnai (Sumų sr., Ukraina) 264\nSalos (Smurgainių r., Gardino sr., Baltarusija) 29, 85\nSankt Peterburgas 259\nSlanimo (dab. Gardino sr., Baltarusija) dekanatas 14\nSmurgainiai (Gardino sr., Baltarusija) 228\nStepanovas (Miorų r., Vitebsko sr., Baltarusija) 64\nSubatninkai (Vijos r., Gardino sr., Baltarusija) 72\nSurviliškės (Vijos r., Gardino sr., Baltarusija) 73",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Alšėnai (Ašmenos r., Gardino sr., Baltarusija) 67 \nAstravas (Gardino sr., Baltarusija) 233 rajonas 71, 88, 89, 223, 232\nAšmena (Gardino sr., Baltarusija) 59, 77 dekanatas 14 parapija 76 rajonas 67,74-76, 79, 86, 229\nAžusvieris(Medilor., Minskosr.,Baltarusija) 227\nBahdanavas (Valažino r., Minsko sr., Baltarusija) 78\nBaina (Breslaujos r., Vitebsko sr., Baltarusija) 253\nBaltarusija 8, 14-16, 61, 64-67, 70-81, 84-89, 92, 93, 96-98, 165, 174, 176, 223-233, 236-255, 257\nBelavičai (Mastų r., Gardino sr., Baltarusija) 276 \nBenica(Maladečinos r., Minsko sr., Baltarusija) 237\nBistryčia (Astravo r., Gardino sr., Baltarusija) 232\nBreslauja (Vitebsko sr., Baltarusija) 15\nChouchlava (Maladečinos r., Minsko sr., Baltarusija) 231\nCudzeniškės (Ašmenos r., Gardino sr., Baltarusija) 229\nČarnevičai (Gluboko r., Vitebsko sr., Baltarusija) 250\nDauginava (Vileikos r., Minsko sr., Baltarusija) 93, 94-95\nDavydkos (Vileikos r., Minsko sr., Baltarusija) 93\nDidžioji Servečė (Vileikos r., Minsko sr., Baltarusija) 93\nDysna (Miorų r., Vitebsko sr., Baltarusija) 248 dekanatas 14\nDruja (Breslaujos r., Vitebsko sr., Baltarusija) 154, 155\nDūdos (Vijos r., Gardino sr., Baltarusija) 65\nGardinas / dekanatas 14 Гродненская\n  gubernija 8, 14, 15, 222\n  sritis 65-67, 70-81, 85,86, 88,89,223-225, 228-230, 232, 233, 274, 276 область\n  vyskupija 15 епархия\nGaudava (Lydos r., Gardino sr., Baltarusija) 230\nGervėčiai (Astravo r., Gardino sr., Baltarusija) 71 parapija 71\nGluboko rajonas (Vitebsko sr., Baltarusija) 246, 250-252\nGraužiškės (Ašmenos r., Gardino sr., Baltarusija) 75\nHalubičai (Gluboko r., Vitebskosr., Baltarusija) 2 5 2 parapija 252\nHarodnikai (Ašmenos r., Gardino sr., Baltarusija) 76\nHarodzkas (Valažino r., Minsko sr., Baltarusija) 240\nIlija (Vileikos r., Minsko sr., Baltarusija) 245 parapija 245\nJodai (Šarkauščinos r., Vitebsko sr., Baltarusija) 256-257\nKamojai (Pastovių r.. Vitebsko sr., Baltarusija) 61,62-63\nKasciancvičai (Vileikos r., Minsko sr., Baltarusija) 91, 93\nKauleliškės (Varanavo r., Gardino sr., Baltarusija) 14,81,81-83\nKlcvyČia (Ašmenos r., Gardino sr., Baltarusija) 74\nKobryno (dab. Bresto sr., Baltarusija) dekanatas 14\nKrėva (Smurgainių r., Gardino sr., Baltarusija) 22 $\nKryvičai (Medilo r., Minsko sr., Baltarusija) 98\nKuranecas (Vileikos r., Minsko sr., Baltarusija) 244\nLaskas (Valažino r., Minsko sr., Baltarusija) 238\nLebeda (Lydos r., Gardino sr., Baltarusija) 233, 234-235\nLebedžiai (Maladečinos r., Minsko sr., Baltarusija) 97\nLentupis (Pastovių r., Vitebsko sr., Baltarusija) 61\nLyda (Gardino sr., Baltarusija) 57\nLietuvos Brasta (Baltarusija) 228\nLipniškės (Vijos r., Gardino sr., Baltarusija) 70\nMaladečinos rajonas (Minsko sr., Baltarusija) 87, 96,97.13». 136.137\nMastai (Gardino sr., Baltarusija) 274.176\nMedilas (Minsko sr., Baltarusija)\nMikailiškės (Astravo r.. Gardino sr., Baltarusija) 89\nMinskas 7\n  sritis 78, 81,84. 87,89, 92,93.96-98. 226, 227, 231,236-245\nMiorų rajonas (Vitebsko sr., Baltarusija) 64,148\nMūrinė Ašmena (Ašmenos r., Gardino sr., Baltarusija) 79\nNaročius (Medilo r., Minsko sr., Baltarusija) 226\nNaugarduko (dab. Gardino sr., Baltarusija) vaivadija 89, 219\nNaujasis Paguostas (Miorų r., Vitebsko sr., Baltarusija) 64\nNesvyžius (Minsko sr., Baltarusija) 21\nNočia (Varanavo r.. Gardino sr., Baltarusija) 80\nOdesa 12\nPalačionys (Maladečinos r., Minsko sr., Baltarusija) 96\nPastovys (Vitebsko sr., Baltarusija) 149\nPlisa (Gluboko r., Vitebsko sr., Baltarusija) 251\nPružanų (dab. Bresto sr., Baltarusija) dekanatas 14\nPsuja (Gluboko r., Vitebsko sr., Baltarusija) 246\nRabunė (Vileikos r., Minsko sr., Baltarusija) 241\nRadaŠkonys (Maladečinos r., Minsko sr., Baltarusija) 87, 236\nRodūnia (Varanavo r., Gardinosr., Baltarusija) 81\nRomnai (Sumų sr., Ukraina) 264\nSalos (Smurgainių r., Gardino sr., Baltarusija) 29, 85\nSankt Peterburgas 259\nSlanimo (dab. Gardino sr., Baltarusija) dekanatas 14\nSmurgainiai (Gardino sr., Baltarusija) 228\nStepanovas (Miorų r., Vitebsko sr., Baltarusija) 64\nSubatninkai (Vijos r., Gardino sr., Baltarusija) 72\nSurviliškės (Vijos r., Gardino sr., Baltarusija) 73"
+            }
+        ]
+    },
+    "75772": {
+        "id": 75772,
+        "type": "message",
+        "date": "2024-03-04T14:39:17",
+        "date_unixtime": "1709552357",
+        "edited": "2024-03-04T14:53:37",
+        "edited_unixtime": "1709553217",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "text": "Svicrių (dab. Medilo r., Minsko sr., Baltarusija) dekanatas 14\nSvietlionys (Smurgainių r., Gardino sr., Baltarusija) 224\nŠarkauščina (Pastovių r., Vitebsko sr., Baltarusija) 247\nTrobos (Vijos r., Gardino sr., Baltarusija) 67, 68-69\nUžberžis (Valažino r., Minsko sr., Baltarusija) 84\nValažino rajonas (Minsko sr., Baltarusija) 78, 84, 89, 238-240\nValkavisko (dab. Gardino sr., Baltarusija) dekanatas 1 5\nVaranavo rajonas (Gardino sr., Baltarusija) 80, 81\nVarnionių parapija (Astravo r., Gardino sr., Baltarusija) 88\nVarona (Astravo r., Gardino sr., Baltarusija) 88 \nVijos rajonas (Gardino sr., Baltarusija) 65,67, 70,71,73\nVileika (Minsko sr., Baltarusija) 242, 243 \nVyšniavas (Valažino r., Minsko sr., Baltarusija) 89,90-91 \nVoverys (Lydos r., Gardino sr., Baltarusija) 66\nŽolėdis (Astravo r., Gardino sr., Baltarusija) 223 \nŽiupronys (Ašmenos r., Gardino sr., Baltarusija) 86",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Svicrių (dab. Medilo r., Minsko sr., Baltarusija) dekanatas 14\nSvietlionys (Smurgainių r., Gardino sr., Baltarusija) 224\nŠarkauščina (Pastovių r., Vitebsko sr., Baltarusija) 247\nTrobos (Vijos r., Gardino sr., Baltarusija) 67, 68-69\nUžberžis (Valažino r., Minsko sr., Baltarusija) 84\nValažino rajonas (Minsko sr., Baltarusija) 78, 84, 89, 238-240\nValkavisko (dab. Gardino sr., Baltarusija) dekanatas 1 5\nVaranavo rajonas (Gardino sr., Baltarusija) 80, 81\nVarnionių parapija (Astravo r., Gardino sr., Baltarusija) 88\nVarona (Astravo r., Gardino sr., Baltarusija) 88 \nVijos rajonas (Gardino sr., Baltarusija) 65,67, 70,71,73\nVileika (Minsko sr., Baltarusija) 242, 243 \nVyšniavas (Valažino r., Minsko sr., Baltarusija) 89,90-91 \nVoverys (Lydos r., Gardino sr., Baltarusija) 66\nŽolėdis (Astravo r., Gardino sr., Baltarusija) 223 \nŽiupronys (Ašmenos r., Gardino sr., Baltarusija) 86"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-03-04T21:48:00"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2024-04-16T16:41:12"
+                    },
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2024-03-04T15:48:40"
+                    }
+                ]
+            }
+        ]
+    },
+    "75872": {
+        "id": 75872,
+        "type": "message",
+        "date": "2024-03-06T10:24:10",
+        "date_unixtime": "1709709850",
+        "edited": "2024-03-06T10:24:26",
+        "edited_unixtime": "1709709866",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1909 SNM Minsk Mogil i Vitebsk gub NARB.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            "------------ ",
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            " -----------\nЗаглавие: 1908-09. Список населенных мест Минской, Могилевской и Витебской губерний., 929 стр., 634,90 Мб., PDF.\nАвтор: В.С.Ярмолович ... А.П.Сапунов.\nЖанр: ",
+            {
+                "type": "hashtag",
+                "text": "#1909г"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Минская"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Могилевская"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Витебская"
+            },
+            "\nИздатель: Минск в Губернской типографии. .... Витебск.\nАннотация: (3-ри отдельные книги.)\nСсылка на сайте библиотеки: ",
+            {
+                "type": "link",
+                "text": "http://book-olds.ru/BookLibrary/22000-Minskaya-gub/1909.-Spisok-naselennyih-mest-Minskoy-Mogilevskoy-i-Vitebskoy-guberniy.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "------------ "
+            },
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            {
+                "type": "plain",
+                "text": " -----------\nЗаглавие: 1908-09. Список населенных мест Минской, Могилевской и Витебской губерний., 929 стр., 634,90 Мб., PDF.\nАвтор: В.С.Ярмолович ... А.П.Сапунов.\nЖанр: "
+            },
+            {
+                "type": "hashtag",
+                "text": "#1909г"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Минская"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Могилевская"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Витебская"
+            },
+            {
+                "type": "plain",
+                "text": "\nИздатель: Минск в Губернской типографии. .... Витебск.\nАннотация: (3-ри отдельные книги.)\nСсылка на сайте библиотеки: "
+            },
+            {
+                "type": "link",
+                "text": "http://book-olds.ru/BookLibrary/22000-Minskaya-gub/1909.-Spisok-naselennyih-mest-Minskoy-Mogilevskoy-i-Vitebskoy-guberniy.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 7,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2024-04-16T16:41:19"
+                    },
+                    {
+                        "from": "Margarita",
+                        "from_id": "user1140653214",
+                        "date": "2024-03-20T19:05:56"
+                    },
+                    {
+                        "from": "Валентин Ш",
+                        "from_id": "user968736097",
+                        "date": "2024-03-08T12:13:24"
+                    }
+                ]
+            }
+        ]
+    },
+    "76221": {
+        "id": 76221,
+        "type": "message",
+        "date": "2024-03-10T12:20:18",
+        "date_unixtime": "1710062418",
+        "edited": "2024-03-10T12:21:43",
+        "edited_unixtime": "1710062503",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 24109,
+        "text": [
+            {
+                "type": "link",
+                "text": "http://www.imef.basnet.by/elsborniki.html"
+            },
+            "\n\nЗборнік \"Пытанні мастацтвазнаўства, этналогіі і фалькларыстыкі\" \n\nУ зборніку змешчаны навуковыя артыкулы супрацоўнікаў і аспірантаў Цэнтра даследаванняў беларускай культуры, мовы і літаратуры НАН Беларусі, вышэйшых навучальных устаноў Беларусі і іншых краін."
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "http://www.imef.basnet.by/elsborniki.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nЗборнік \"Пытанні мастацтвазнаўства, этналогіі і фалькларыстыкі\" \n\nУ зборніку змешчаны навуковыя артыкулы супрацоўнікаў і аспірантаў Цэнтра даследаванняў беларускай культуры, мовы і літаратуры НАН Беларусі, вышэйшых навучальных устаноў Беларусі і іншых краін."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Юлия",
+                        "from_id": "user639549755",
+                        "date": "2024-04-16T16:41:26"
+                    },
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2024-03-10T12:21:43"
+                    }
+                ]
+            }
+        ]
+    }
+}

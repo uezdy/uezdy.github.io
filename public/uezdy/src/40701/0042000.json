@@ -1,0 +1,241 @@
+{
+    "41745": {
+        "id": 41745,
+        "type": "message",
+        "date": "2023-04-07T12:40:20",
+        "date_unixtime": "1680860420",
+        "edited": "2023-04-07T12:43:19",
+        "edited_unixtime": "1680860599",
+        "from": "Светлана Самсончик",
+        "from_id": "user1462369405",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 576,
+        "height": 1280,
+        "text": "Д. Плессы",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Д. Плессы"
+            }
+        ]
+    },
+    "41746": {
+        "id": 41746,
+        "type": "message",
+        "date": "2023-04-07T12:41:02",
+        "date_unixtime": "1680860462",
+        "from": "Мікіта Раманоўскі",
+        "from_id": "user957000266",
+        "reply_to_message_id": 41745,
+        "text": "Это ещё неплохое качество, в сравнении с некоторыми моими фотографиями",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это ещё неплохое качество, в сравнении с некоторыми моими фотографиями"
+            }
+        ]
+    },
+    "41748": {
+        "id": 41748,
+        "type": "message",
+        "date": "2023-04-07T12:42:07",
+        "date_unixtime": "1680860527",
+        "edited": "2023-04-07T12:42:37",
+        "edited_unixtime": "1680860557",
+        "from": "Светлана Самсончик",
+        "from_id": "user1462369405",
+        "reply_to_message_id": 40701,
+        "text": "Ну оригинал был красивее. Поэтому грустно",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну оригинал был красивее. Поэтому грустно"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Мікіта Раманоўскі",
+                        "from_id": "user957000266",
+                        "date": "2023-04-07T12:42:37"
+                    }
+                ]
+            }
+        ]
+    },
+    "41750": {
+        "id": 41750,
+        "type": "message",
+        "date": "2023-04-07T12:42:54",
+        "date_unixtime": "1680860574",
+        "from": "Светлана Самсончик",
+        "from_id": "user1462369405",
+        "reply_to_message_id": 40701,
+        "text": "У мужа есть похожего периода фото родственников. Но там не могу пока узнать кто такие. А это точно моя прабабка с мужем",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У мужа есть похожего периода фото родственников. Но там не могу пока узнать кто такие. А это точно моя прабабка с мужем"
+            }
+        ]
+    },
+    "41752": {
+        "id": 41752,
+        "type": "message",
+        "date": "2023-04-07T12:46:05",
+        "date_unixtime": "1680860765",
+        "edited": "2023-04-07T12:48:31",
+        "edited_unixtime": "1680860911",
+        "from": "Светлана Самсончик",
+        "from_id": "user1462369405",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 1092,
+        "text": "Д. Плессы Бобруйский район. По центру Александр Шкрадюк, перед ним мальчик - его брат Николай. Над Александром его сестры - Света, Таня, Алла. 60-70 годы",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Д. Плессы Бобруйский район. По центру Александр Шкрадюк, перед ним мальчик - его брат Николай. Над Александром его сестры - Света, Таня, Алла. 60-70 годы"
+            }
+        ]
+    },
+    "41753": {
+        "id": 41753,
+        "type": "message",
+        "date": "2023-04-07T12:48:04",
+        "date_unixtime": "1680860884",
+        "edited": "2023-04-07T13:49:27",
+        "edited_unixtime": "1680864567",
+        "from": "Светлана Самсончик",
+        "from_id": "user1462369405",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 754,
+        "text": "Мои дедушка и бабушка. Самсончик (Шкрадюк) Лидия Петровна и Самсончик Григорий Демьянович. Примерно 1955",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мои дедушка и бабушка. Самсончик (Шкрадюк) Лидия Петровна и Самсончик Григорий Демьянович. Примерно 1955"
+            }
+        ]
+    },
+    "41761": {
+        "id": 41761,
+        "type": "message",
+        "date": "2023-04-07T13:02:28",
+        "date_unixtime": "1680861748",
+        "edited": "2023-04-24T10:30:43",
+        "edited_unixtime": "1682321443",
+        "from": "Светлана Самсончик",
+        "from_id": "user1462369405",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 576,
+        "height": 1280,
+        "text": "Нина и Сима. Беженки, которые жили в Плессах во время войны",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Нина и Сима. Беженки, которые жили в Плессах во время войны"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤‍🔥",
+                "recent": [
+                    {
+                        "from": "Алина Ярмина",
+                        "from_id": "user443834315",
+                        "date": "2023-06-01T23:00:53"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2023-04-24T10:30:43"
+                    }
+                ]
+            }
+        ]
+    },
+    "41762": {
+        "id": 41762,
+        "type": "message",
+        "date": "2023-04-07T13:03:22",
+        "date_unixtime": "1680861802",
+        "from": "Светлана Самсончик",
+        "from_id": "user1462369405",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 970,
+        "height": 1280,
+        "text": "Николай Лавринович (немчик) Бобруйский район довоенное фото",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Николай Лавринович (немчик) Бобруйский район довоенное фото"
+            }
+        ]
+    },
+    "43250": {
+        "id": 43250,
+        "type": "message",
+        "date": "2023-04-24T10:16:08",
+        "date_unixtime": "1682320568",
+        "edited": "2023-04-24T12:23:49",
+        "edited_unixtime": "1682328229",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "forwarded_from": "Naračanščyna | Нарачанскі край",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 803,
+        "text": "Дзеці, якія хадзілі на катыхезу пры Весялухаўскім касцёле Св. Юрыя\n\nФотаздымак жыхаркі хутара Весялуха",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Дзеці, якія хадзілі на катыхезу пры Весялухаўскім касцёле Св. Юрыя\n\nФотаздымак жыхаркі хутара Весялуха"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "D.M.",
+                        "from_id": "user572729336",
+                        "date": "2023-10-16T11:08:54"
+                    },
+                    {
+                        "from": "Emilie White",
+                        "from_id": "user564703012",
+                        "date": "2023-07-12T10:56:02"
+                    },
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2023-06-01T23:34:22"
+                    }
+                ]
+            }
+        ]
+    }
+}

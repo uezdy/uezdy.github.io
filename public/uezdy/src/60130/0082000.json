@@ -1,0 +1,5527 @@
+{
+    "80031": {
+        "id": 80031,
+        "type": "message",
+        "date": "2024-04-20T01:00:38",
+        "date_unixtime": "1713564038",
+        "edited": "2024-04-20T01:07:35",
+        "edited_unixtime": "1713564455",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 60130,
+        "text": "Sch там, Схоластика",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Sch там, Схоластика"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-04-20T01:07:35"
+                    }
+                ]
+            }
+        ]
+    },
+    "80032": {
+        "id": 80032,
+        "type": "message",
+        "date": "2024-04-20T01:08:33",
+        "date_unixtime": "1713564513",
+        "edited": "2024-04-20T01:20:38",
+        "edited_unixtime": "1713565238",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 80031,
+        "text": "Впервые встретила такое. Спасибо.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Впервые встретила такое. Спасибо."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👌",
+                "recent": [
+                    {
+                        "from": "Marina Yurochka",
+                        "from_id": "user6971824773",
+                        "date": "2024-04-20T01:20:39"
+                    }
+                ]
+            }
+        ]
+    },
+    "80086": {
+        "id": 80086,
+        "type": "message",
+        "date": "2024-04-21T00:47:59",
+        "date_unixtime": "1713649679",
+        "edited": "2024-07-30T14:25:08",
+        "edited_unixtime": "1722338708",
+        "from": "Alena Rusakovich",
+        "from_id": "user455467923",
+        "reply_to_message_id": 60130,
+        "text": "Помогите, пожалуйста, понять имя мужское на \"К\". Заранее благодарю.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Помогите, пожалуйста, понять имя мужское на \"К\". Заранее благодарю."
+            }
+        ]
+    },
+    "80087": {
+        "id": 80087,
+        "type": "message",
+        "date": "2024-04-21T00:48:03",
+        "date_unixtime": "1713649683",
+        "from": "Alena Rusakovich",
+        "from_id": "user455467923",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 805,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "80088": {
+        "id": 80088,
+        "type": "message",
+        "date": "2024-04-21T00:50:55",
+        "date_unixtime": "1713649855",
+        "edited": "2024-04-21T08:01:48",
+        "edited_unixtime": "1713675708",
+        "from": "Марина Журавлева (Олешкевич)",
+        "from_id": "user317398191",
+        "reply_to_message_id": 80087,
+        "text": "Калонник. Встречался более привычный вариант: Каленник (Каллиник, Калинник).",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Калонник. Встречался более привычный вариант: Каленник (Каллиник, Калинник)."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2024-04-21T11:35:39"
+                    },
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2024-04-21T08:01:48"
+                    }
+                ]
+            }
+        ]
+    },
+    "80089": {
+        "id": 80089,
+        "type": "message",
+        "date": "2024-04-21T01:00:28",
+        "date_unixtime": "1713650428",
+        "from": "Alena Rusakovich",
+        "from_id": "user455467923",
+        "reply_to_message_id": 80088,
+        "text": "Я тоже так читала. Благодарю. Впервые встретилось. Засомневалась.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я тоже так читала. Благодарю. Впервые встретилось. Засомневалась."
+            }
+        ]
+    },
+    "80098": {
+        "id": 80098,
+        "type": "message",
+        "date": "2024-04-21T11:37:04",
+        "date_unixtime": "1713688624",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 80089,
+        "text": "Известная фамилия Калинин от этого имени происходит.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Известная фамилия Калинин от этого имени происходит."
+            }
+        ]
+    },
+    "80103": {
+        "id": 80103,
+        "type": "message",
+        "date": "2024-04-21T15:02:43",
+        "date_unixtime": "1713700963",
+        "edited": "2024-04-21T15:09:31",
+        "edited_unixtime": "1713701371",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 997,
+        "text": "Подскажите, пожалуйста, занятие справа сверху у 5 семьи?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Подскажите, пожалуйста, занятие справа сверху у 5 семьи?"
+            }
+        ]
+    },
+    "80104": {
+        "id": 80104,
+        "type": "message",
+        "date": "2024-04-21T15:54:26",
+        "date_unixtime": "1713704066",
+        "from": "Виктор Евгеньевич",
+        "from_id": "user6557491994",
+        "reply_to_message_id": 60130,
+        "text": "Синельническое ремесло. От слова синель - бархатистый шнурок для бахромы, вышивания.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Синельническое ремесло. От слова синель - бархатистый шнурок для бахромы, вышивания."
+            }
+        ]
+    },
+    "80105": {
+        "id": 80105,
+        "type": "message",
+        "date": "2024-04-21T15:55:17",
+        "date_unixtime": "1713704117",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 80104,
+        "text": "Спасибо! Мощно)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо! Мощно)"
+            }
+        ]
+    },
+    "80112": {
+        "id": 80112,
+        "type": "message",
+        "date": "2024-04-21T19:23:36",
+        "date_unixtime": "1713716616",
+        "from": "💐🌷Nastazja🍓🍒",
+        "from_id": "user6724192744",
+        "reply_to_message_id": 80103,
+        "text": "А што гэта за дакументы!???",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А што гэта за дакументы!???"
+            }
+        ]
+    },
+    "80113": {
+        "id": 80113,
+        "type": "message",
+        "date": "2024-04-21T19:41:12",
+        "date_unixtime": "1713717672",
+        "edited": "2024-04-21T19:41:34",
+        "edited_unixtime": "1713717694",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 80112,
+        "text": "РС евреев 1807 по Игуменскому повету, это в частности местечко Погост",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "РС евреев 1807 по Игуменскому повету, это в частности местечко Погост"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Ex Ample",
+                        "from_id": "user5543513851",
+                        "date": "2024-04-21T19:41:34"
+                    }
+                ]
+            }
+        ]
+    },
+    "80114": {
+        "id": 80114,
+        "type": "message",
+        "date": "2024-04-21T19:52:08",
+        "date_unixtime": "1713718328",
+        "from": "💐🌷Nastazja🍓🍒",
+        "from_id": "user6724192744",
+        "reply_to_message_id": 60130,
+        "text": "Дзякуй.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Дзякуй."
+            }
+        ]
+    },
+    "80171": {
+        "id": 80171,
+        "type": "message",
+        "date": "2024-04-22T15:04:55",
+        "date_unixtime": "1713787495",
+        "from": "Татьяна",
+        "from_id": "user734931323",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1053,
+        "height": 542,
+        "text": "Добрый день! Помогите прочитать, что это за имя такое.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день! Помогите прочитать, что это за имя такое."
+            }
+        ]
+    },
+    "80172": {
+        "id": 80172,
+        "type": "message",
+        "date": "2024-04-22T15:05:22",
+        "date_unixtime": "1713787522",
+        "from": "Татьяна",
+        "from_id": "user734931323",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 358,
+        "text": "А это его дочь",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А это его дочь"
+            }
+        ]
+    },
+    "80173": {
+        "id": 80173,
+        "type": "message",
+        "date": "2024-04-22T15:10:07",
+        "date_unixtime": "1713787807",
+        "edited": "2024-04-22T16:52:47",
+        "edited_unixtime": "1713793967",
+        "from": "ZHE",
+        "from_id": "user5813480439",
+        "reply_to_message_id": 60130,
+        "text": "Клеменс",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Клеменс"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Татьяна",
+                        "from_id": "user734931323",
+                        "date": "2024-04-22T16:52:47"
+                    }
+                ]
+            }
+        ]
+    },
+    "80176": {
+        "id": 80176,
+        "type": "message",
+        "date": "2024-04-22T16:52:53",
+        "date_unixtime": "1713793973",
+        "from": "Татьяна",
+        "from_id": "user734931323",
+        "reply_to_message_id": 60130,
+        "text": "Спасибо)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо)"
+            }
+        ]
+    },
+    "80185": {
+        "id": 80185,
+        "type": "message",
+        "date": "2024-04-22T18:26:25",
+        "date_unixtime": "1713799585",
+        "edited": "2024-04-22T18:26:38",
+        "edited_unixtime": "1713799598",
+        "from": "Богдан Поздняк",
+        "from_id": "user5685181789",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1170,
+        "height": 898,
+        "text": "Помогите пожалуйста прочесть 2 и 3 столбец",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Помогите пожалуйста прочесть 2 и 3 столбец"
+            }
+        ]
+    },
+    "80191": {
+        "id": 80191,
+        "type": "message",
+        "date": "2024-04-22T20:34:41",
+        "date_unixtime": "1713807281",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 60130,
+        "text": "Благородных Иосифа Карловича и Каролины Бернардовны ур. Закревской Рожновских законных супругов дочь, родившаяся вечером 24.03.1827 г.  в д. Жихары",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Благородных Иосифа Карловича и Каролины Бернардовны ур. Закревской Рожновских законных супругов дочь, родившаяся вечером 24.03.1827 г.  в д. Жихары"
+            }
+        ]
+    },
+    "80192": {
+        "id": 80192,
+        "type": "message",
+        "date": "2024-04-22T20:38:07",
+        "date_unixtime": "1713807487",
+        "edited": "2024-04-22T22:05:02",
+        "edited_unixtime": "1713812702",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 60130,
+        "text": "Восприемники: вельможный Константин Рымгайлло и Елизавета Рожновская",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Восприемники: вельможный Константин Рымгайлло и Елизавета Рожновская"
+            }
+        ]
+    },
+    "80193": {
+        "id": 80193,
+        "type": "message",
+        "date": "2024-04-22T20:38:38",
+        "date_unixtime": "1713807518",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 80185,
+        "text": "👆🏻",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "👆🏻"
+            }
+        ]
+    },
+    "80209": {
+        "id": 80209,
+        "type": "message",
+        "date": "2024-04-23T02:56:53",
+        "date_unixtime": "1713830213",
+        "edited": "2024-04-23T03:02:13",
+        "edited_unixtime": "1713830533",
+        "from": "Богдан Поздняк",
+        "from_id": "user5685181789",
+        "reply_to_message_id": 80191,
+        "text": "Спасибо!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо!"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2024-04-23T03:02:13"
+                    }
+                ]
+            }
+        ]
+    },
+    "80318": {
+        "id": 80318,
+        "type": "message",
+        "date": "2024-04-23T21:33:22",
+        "date_unixtime": "1713897202",
+        "edited": "2024-04-23T21:50:39",
+        "edited_unixtime": "1713898239",
+        "from": "Geor Gina",
+        "from_id": "user1049446400",
+        "reply_to_message_id": 79915,
+        "text": "Я  читаю эту фамилию  Кобуш. Если сравнивать написание букв К и R, то здесь мне более видно, что написано К",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я  читаю эту фамилию  Кобуш. Если сравнивать написание букв К и R, то здесь мне более видно, что написано К"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2024-04-23T22:59:00"
+                    },
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-04-23T22:25:12"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Marina Yurochka",
+                        "from_id": "user6971824773",
+                        "date": "2024-04-23T22:17:43"
+                    }
+                ]
+            }
+        ]
+    },
+    "80377": {
+        "id": 80377,
+        "type": "message",
+        "date": "2024-04-23T22:26:49",
+        "date_unixtime": "1713900409",
+        "from": "🌞",
+        "from_id": "user718980479",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 1033,
+        "text": "Помогите, пожалуйста, прочитать предпоследнее имя новорожденного",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Помогите, пожалуйста, прочитать предпоследнее имя новорожденного"
+            }
+        ]
+    },
+    "80380": {
+        "id": 80380,
+        "type": "message",
+        "date": "2024-04-23T22:29:03",
+        "date_unixtime": "1713900543",
+        "edited": "2024-04-23T22:30:03",
+        "edited_unixtime": "1713900603",
+        "from": "🌞",
+        "from_id": "user718980479",
+        "reply_to_message_id": 60130,
+        "text": "Так вроде пометка возле мужского пола?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так вроде пометка возле мужского пола?"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤯",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-04-23T22:30:03"
+                    }
+                ]
+            }
+        ]
+    },
+    "80381": {
+        "id": 80381,
+        "type": "message",
+        "date": "2024-04-23T22:32:25",
+        "date_unixtime": "1713900745",
+        "edited": "2024-04-23T22:32:56",
+        "edited_unixtime": "1713900776",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 60130,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "NIAB_LA_1817_1_13_862b.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 1984,
+        "height": 3150,
+        "text": "Добрый вечер.\nЯлоза есть здесь?\nИли какая фамилия у Тимофея?\n1642г",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый вечер.\nЯлоза есть здесь?\nИли какая фамилия у Тимофея?\n1642г"
+            }
+        ]
+    },
+    "80388": {
+        "id": 80388,
+        "type": "message",
+        "date": "2024-04-23T22:46:01",
+        "date_unixtime": "1713901561",
+        "from": "ZHE",
+        "from_id": "user5813480439",
+        "reply_to_message_id": 80380,
+        "text": "Александр",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Александр"
+            }
+        ]
+    },
+    "80393": {
+        "id": 80393,
+        "type": "message",
+        "date": "2024-04-23T22:57:39",
+        "date_unixtime": "1713902259",
+        "edited": "2024-04-23T23:00:06",
+        "edited_unixtime": "1713902406",
+        "from": "Alena Rusakovich",
+        "from_id": "user455467923",
+        "reply_to_message_id": 80377,
+        "text": "Михаил?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Михаил?"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2024-04-23T23:00:19"
+                    },
+                    {
+                        "from": "🌞",
+                        "from_id": "user718980479",
+                        "date": "2024-04-23T23:00:06"
+                    }
+                ]
+            }
+        ]
+    },
+    "80394": {
+        "id": 80394,
+        "type": "message",
+        "date": "2024-04-23T23:02:04",
+        "date_unixtime": "1713902524",
+        "from": "Виктор Евгеньевич",
+        "from_id": "user6557491994",
+        "reply_to_message_id": 80377,
+        "text": "Что это за документ, откуда?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Что это за документ, откуда?"
+            }
+        ]
+    },
+    "80395": {
+        "id": 80395,
+        "type": "message",
+        "date": "2024-04-23T23:04:11",
+        "date_unixtime": "1713902651",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 80381,
+        "text": "Фамилия у Тимофея Ялиза. Такие документы лучше заказывать в сканах с оригинала. Они будут легче читаться в цветной копии.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Фамилия у Тимофея Ялиза. Такие документы лучше заказывать в сканах с оригинала. Они будут легче читаться в цветной копии."
+            }
+        ]
+    },
+    "80396": {
+        "id": 80396,
+        "type": "message",
+        "date": "2024-04-23T23:10:34",
+        "date_unixtime": "1713903034",
+        "edited": "2024-04-24T09:03:27",
+        "edited_unixtime": "1713938607",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 80395,
+        "text": "Спасибо. НИАБ не хочет давать с оригинала, \"если есть фонд пользования\". Продолжаем переговоры",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо. НИАБ не хочет давать с оригинала, \"если есть фонд пользования\". Продолжаем переговоры"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤯",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-04-24T09:03:27"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😢",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2024-04-24T09:27:56"
+                    }
+                ]
+            }
+        ]
+    },
+    "80407": {
+        "id": 80407,
+        "type": "message",
+        "date": "2024-04-24T07:02:08",
+        "date_unixtime": "1713931328",
+        "from": "🌞",
+        "from_id": "user718980479",
+        "reply_to_message_id": 80394,
+        "text": "МК Осовской церкви Борисовского уезда, FS",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "МК Осовской церкви Борисовского уезда, FS"
+            }
+        ]
+    },
+    "80414": {
+        "id": 80414,
+        "type": "message",
+        "date": "2024-04-24T08:45:24",
+        "date_unixtime": "1713937524",
+        "edited": "2024-04-24T08:46:02",
+        "edited_unixtime": "1713937562",
+        "from": "Виктор Евгеньевич",
+        "from_id": "user6557491994",
+        "reply_to_message_id": 80407,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 963,
+        "text": "Есть ещё вариант этой записи.\nМихаил.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Есть ещё вариант этой записи.\nМихаил."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-04-24T08:46:02"
+                    }
+                ]
+            }
+        ]
+    },
+    "80415": {
+        "id": 80415,
+        "type": "message",
+        "date": "2024-04-24T08:47:39",
+        "date_unixtime": "1713937659",
+        "from": "Виктор Евгеньевич",
+        "from_id": "user6557491994",
+        "reply_to_message_id": 60130,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Осовец -1.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 3846,
+        "height": 3103,
+        "text": "",
+        "text_entities": []
+    },
+    "80416": {
+        "id": 80416,
+        "type": "message",
+        "date": "2024-04-24T08:50:41",
+        "date_unixtime": "1713937841",
+        "from": "Виктор Евгеньевич",
+        "from_id": "user6557491994",
+        "reply_to_message_id": 60130,
+        "text": "Надо отключать функцию сжать изображение, тогда качество будет значительно лучше.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Надо отключать функцию сжать изображение, тогда качество будет значительно лучше."
+            }
+        ]
+    },
+    "80417": {
+        "id": 80417,
+        "type": "message",
+        "date": "2024-04-24T09:01:29",
+        "date_unixtime": "1713938489",
+        "edited": "2024-04-24T09:02:20",
+        "edited_unixtime": "1713938540",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 60130,
+        "text": "Или себе в телефоне по умолчанию формат .png поставить\nЕсли десктоп, то загружать в группу файлом через \"скрепку\"",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Или себе в телефоне по умолчанию формат .png поставить\nЕсли десктоп, то загружать в группу файлом через \"скрепку\""
+            }
+        ]
+    },
+    "80459": {
+        "id": 80459,
+        "type": "message",
+        "date": "2024-04-24T14:36:40",
+        "date_unixtime": "1713958600",
+        "edited": "2024-07-30T14:27:30",
+        "edited_unixtime": "1722338850",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1016,
+        "height": 568,
+        "text": "",
+        "text_entities": []
+    },
+    "80460": {
+        "id": 80460,
+        "type": "message",
+        "date": "2024-04-24T14:37:09",
+        "date_unixtime": "1713958629",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 60130,
+        "text": "Где в Игуменском уезде Минской губернии?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Где в Игуменском уезде Минской губернии?"
+            }
+        ]
+    },
+    "80461": {
+        "id": 80461,
+        "type": "message",
+        "date": "2024-04-24T14:38:58",
+        "date_unixtime": "1713958738",
+        "edited": "2024-04-24T14:44:22",
+        "edited_unixtime": "1713959062",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 80459,
+        "text": "В Капланцах?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В Капланцах?"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Игнатович А. Е.",
+                        "from_id": "user346646662",
+                        "date": "2024-04-25T00:40:56"
+                    },
+                    {
+                        "from": "Vi",
+                        "from_id": "user472567162",
+                        "date": "2024-04-24T14:55:47"
+                    },
+                    {
+                        "from": "Siarhei Andryjanau",
+                        "from_id": "user153886828",
+                        "date": "2024-04-24T14:44:22"
+                    }
+                ]
+            }
+        ]
+    },
+    "80464": {
+        "id": 80464,
+        "type": "message",
+        "date": "2024-04-24T14:57:11",
+        "date_unixtime": "1713959831",
+        "edited": "2024-04-24T14:57:24",
+        "edited_unixtime": "1713959844",
+        "from": "Vi",
+        "from_id": "user472567162",
+        "reply_to_message_id": 60130,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Капланцы фото.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 2000,
+        "height": 1169,
+        "text": "Примерно где-то тут",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Примерно где-то тут"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2024-04-24T20:26:30"
+                    },
+                    {
+                        "from": "Siarhei Andryjanau",
+                        "from_id": "user153886828",
+                        "date": "2024-04-24T15:02:26"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👌",
+                "recent": [
+                    {
+                        "from": "K.",
+                        "from_id": "user1470689869",
+                        "date": "2024-04-24T14:57:24"
+                    }
+                ]
+            }
+        ]
+    },
+    "80475": {
+        "id": 80475,
+        "type": "message",
+        "date": "2024-04-24T19:23:55",
+        "date_unixtime": "1713975835",
+        "from": "Николай Курпан",
+        "from_id": "user392252578",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 699,
+        "height": 1280,
+        "text": "Как думаете, какой населенный пункт подразумевается? Волость - Михайловская",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Как думаете, какой населенный пункт подразумевается? Волость - Михайловская"
+            }
+        ]
+    },
+    "80476": {
+        "id": 80476,
+        "type": "message",
+        "date": "2024-04-24T19:41:17",
+        "date_unixtime": "1713976877",
+        "edited": "2024-04-27T16:31:01",
+        "edited_unixtime": "1714224661",
+        "from": "Władek Pomorski",
+        "from_id": "user1352232635",
+        "reply_to_message_id": 60130,
+        "text": "Заречье.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Заречье."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Николай Курпан",
+                        "from_id": "user392252578",
+                        "date": "2024-04-27T16:31:01"
+                    }
+                ]
+            }
+        ]
+    },
+    "80477": {
+        "id": 80477,
+        "type": "message",
+        "date": "2024-04-24T19:42:17",
+        "date_unixtime": "1713976937",
+        "edited": "2024-07-30T14:27:46",
+        "edited_unixtime": "1722338866",
+        "from": "Władek Pomorski",
+        "from_id": "user1352232635",
+        "reply_to_message_id": 60130,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://familio.org/knowledge-base/catalogs/grodna1905?level1=002d3896-5f9a-4284-8f6b-4458c9b8641d&level2=03e69312-2242-450b-9917-4a4565127145&page-records=1"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://familio.org/knowledge-base/catalogs/grodna1905?level1=002d3896-5f9a-4284-8f6b-4458c9b8641d&level2=03e69312-2242-450b-9917-4a4565127145&page-records=1"
+            }
+        ]
+    },
+    "80478": {
+        "id": 80478,
+        "type": "message",
+        "date": "2024-04-24T19:44:01",
+        "date_unixtime": "1713977041",
+        "from": "Władek Pomorski",
+        "from_id": "user1352232635",
+        "reply_to_message_id": 60130,
+        "text": "Гук (там же локализована такая фамилия по сайту Дапаможнік)\nНаселены пункт: Зарэчча\nСельсавет: Старавольскі\nРаён: Пружанскі",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Гук (там же локализована такая фамилия по сайту Дапаможнік)\nНаселены пункт: Зарэчча\nСельсавет: Старавольскі\nРаён: Пружанскі"
+            }
+        ]
+    },
+    "80480": {
+        "id": 80480,
+        "type": "message",
+        "date": "2024-04-24T20:00:44",
+        "date_unixtime": "1713978044",
+        "edited": "2024-07-30T14:42:08",
+        "edited_unixtime": "1722339728",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 60130,
+        "text": [
+            "да, наверно это Зарѣчье, сейчас Пружанский район\n",
+            {
+                "type": "link",
+                "text": "https://orda.of.by/.map/?52.531284,24.256591&m=1v/14,rkka/14,3v/13,wig/13,gm/11&poi=gb/h"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "да, наверно это Зарѣчье, сейчас Пружанский район\n"
+            },
+            {
+                "type": "link",
+                "text": "https://orda.of.by/.map/?52.531284,24.256591&m=1v/14,rkka/14,3v/13,wig/13,gm/11&poi=gb/h"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "80494": {
+        "id": 80494,
+        "type": "message",
+        "date": "2024-04-25T09:59:59",
+        "date_unixtime": "1714028399",
+        "from": "💐🌷Nastazja🍓🍒",
+        "from_id": "user6724192744",
+        "reply_to_message_id": 60130,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "image_2024-04-25_09-59-58.png",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/png",
+        "width": 1366,
+        "height": 768,
+        "text": "",
+        "text_entities": []
+    },
+    "80495": {
+        "id": 80495,
+        "type": "message",
+        "date": "2024-04-25T10:00:43",
+        "date_unixtime": "1714028443",
+        "from": "💐🌷Nastazja🍓🍒",
+        "from_id": "user6724192744",
+        "reply_to_message_id": 60130,
+        "text": "Прачытайце, калі ласка. Вёска Мілейкава. і прозвішча Невяровіч я прачытала. А хто?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Прачытайце, калі ласка. Вёска Мілейкава. і прозвішча Невяровіч я прачытала. А хто?"
+            }
+        ]
+    },
+    "80496": {
+        "id": 80496,
+        "type": "message",
+        "date": "2024-04-25T10:01:24",
+        "date_unixtime": "1714028484",
+        "from": "💐🌷Nastazja🍓🍒",
+        "from_id": "user6724192744",
+        "reply_to_message_id": 60130,
+        "text": "Мк Крева.1797-1798.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мк Крева.1797-1798."
+            }
+        ]
+    },
+    "80499": {
+        "id": 80499,
+        "type": "message",
+        "date": "2024-04-25T10:33:23",
+        "date_unixtime": "1714030403",
+        "edited": "2024-04-25T11:12:27",
+        "edited_unixtime": "1714032747",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 60130,
+        "text": "Марыана, Адама Марукевіча і Магдалены Невяровіч",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Марыана, Адама Марукевіча і Магдалены Невяровіч"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "💐🌷Nastazja🍓🍒",
+                        "from_id": "user6724192744",
+                        "date": "2024-04-25T11:12:27"
+                    }
+                ]
+            }
+        ]
+    },
+    "80500": {
+        "id": 80500,
+        "type": "message",
+        "date": "2024-04-25T11:08:42",
+        "date_unixtime": "1714032522",
+        "from": "💐🌷Nastazja🍓🍒",
+        "from_id": "user6724192744",
+        "reply_to_message_id": 60130,
+        "text": "дзякуй.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "дзякуй."
+            }
+        ]
+    },
+    "80501": {
+        "id": 80501,
+        "type": "message",
+        "date": "2024-04-25T11:12:01",
+        "date_unixtime": "1714032721",
+        "from": "💐🌷Nastazja🍓🍒",
+        "from_id": "user6724192744",
+        "reply_to_message_id": 60130,
+        "text": "На жаль, як пачынаю чытаць МК , то на другой старонцы бярэ зло😡😫, за тое, што не чытаецца(. вось і зараз хапіла на адзін год(((.  З Крэва перайшла на Лоск, а там таксама Латынь((",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На жаль, як пачынаю чытаць МК , то на другой старонцы бярэ зло😡😫, за тое, што не чытаецца(. вось і зараз хапіла на адзін год(((.  З Крэва перайшла на Лоск, а там таксама Латынь(("
+            }
+        ]
+    },
+    "80538": {
+        "id": 80538,
+        "type": "message",
+        "date": "2024-04-25T12:43:48",
+        "date_unixtime": "1714038228",
+        "edited": "2024-04-25T12:44:12",
+        "edited_unixtime": "1714038252",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 80501,
+        "text": "Латынь не так страшная. Трэба навучыцца вылучаць імёны і прозвішчы. Filium-дзіця, inter-паміж (далей імёны маладых)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Латынь не так страшная. Трэба навучыцца вылучаць імёны і прозвішчы. Filium-дзіця, inter-паміж (далей імёны маладых)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Sb",
+                        "from_id": "user6512553342",
+                        "date": "2024-04-25T21:27:28"
+                    },
+                    {
+                        "from": "💐🌷Nastazja🍓🍒",
+                        "from_id": "user6724192744",
+                        "date": "2024-04-25T12:44:12"
+                    }
+                ]
+            }
+        ]
+    },
+    "80539": {
+        "id": 80539,
+        "type": "message",
+        "date": "2024-04-25T12:44:54",
+        "date_unixtime": "1714038294",
+        "from": "💐🌷Nastazja🍓🍒",
+        "from_id": "user6724192744",
+        "reply_to_message_id": 60130,
+        "text": "дзякуй. так, трэба выдзяляць імёны.  але...",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "дзякуй. так, трэба выдзяляць імёны.  але..."
+            }
+        ]
+    },
+    "80549": {
+        "id": 80549,
+        "type": "message",
+        "date": "2024-04-25T13:13:30",
+        "date_unixtime": "1714040010",
+        "edited": "2024-04-25T22:28:35",
+        "edited_unixtime": "1714073315",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 938,
+        "height": 670,
+        "text": "Есть ли шанс прочесть первые две строчки?\nВасилий Спични(т)цев? Спичищев,  Спичисцев... Спичкинъ\nФедор Фирот \nНа третьей Яков Шакуля.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Есть ли шанс прочесть первые две строчки?\nВасилий Спични(т)цев? Спичищев,  Спичисцев... Спичкинъ\nФедор Фирот \nНа третьей Яков Шакуля."
+            }
+        ]
+    },
+    "80550": {
+        "id": 80550,
+        "type": "message",
+        "date": "2024-04-25T13:14:46",
+        "date_unixtime": "1714040086",
+        "from": "Andrei",
+        "from_id": "user448787412",
+        "reply_to_message_id": 60130,
+        "text": "во второй Феодор Фирото может?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "во второй Феодор Фирото может?"
+            }
+        ]
+    },
+    "80551": {
+        "id": 80551,
+        "type": "message",
+        "date": "2024-04-25T13:14:54",
+        "date_unixtime": "1714040094",
+        "edited": "2024-04-25T13:18:17",
+        "edited_unixtime": "1714040297",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 60130,
+        "text": "Первое слово, видимо, Василий",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Первое слово, видимо, Василий"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Julia Koleda",
+                        "from_id": "user454470533",
+                        "date": "2024-04-25T13:18:17"
+                    }
+                ]
+            }
+        ]
+    },
+    "80552": {
+        "id": 80552,
+        "type": "message",
+        "date": "2024-04-25T13:15:54",
+        "date_unixtime": "1714040154",
+        "from": "Andrei",
+        "from_id": "user448787412",
+        "reply_to_message_id": 60130,
+        "text": "а в первой может Василий Спичтцев",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "а в первой может Василий Спичтцев"
+            }
+        ]
+    },
+    "80553": {
+        "id": 80553,
+        "type": "message",
+        "date": "2024-04-25T13:16:48",
+        "date_unixtime": "1714040208",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 60130,
+        "text": "Спичищев, возможно, Спичисцев",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спичищев, возможно, Спичисцев"
+            }
+        ]
+    },
+    "80554": {
+        "id": 80554,
+        "type": "message",
+        "date": "2024-04-25T13:18:01",
+        "date_unixtime": "1714040281",
+        "edited": "2024-04-25T13:21:09",
+        "edited_unixtime": "1714040469",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 80550,
+        "text": "Это Ф?! Класс! \nМожет тогда Фирот( ъ)?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это Ф?! Класс! \nМожет тогда Фирот( ъ)?"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "💯",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2024-04-25T13:21:09"
+                    }
+                ]
+            }
+        ]
+    },
+    "80555": {
+        "id": 80555,
+        "type": "message",
+        "date": "2024-04-25T13:18:48",
+        "date_unixtime": "1714040328",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 80549,
+        "text": "Вопрос такой: это какой период? Если там ер еще используется, то Василий Спичникъ. Более правдоподобно.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вопрос такой: это какой период? Если там ер еще используется, то Василий Спичникъ. Более правдоподобно."
+            }
+        ]
+    },
+    "80557": {
+        "id": 80557,
+        "type": "message",
+        "date": "2024-04-25T13:19:35",
+        "date_unixtime": "1714040375",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 60130,
+        "text": "Да, судя по Яковъ, орфография еще с ерами.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, судя по Яковъ, орфография еще с ерами."
+            }
+        ]
+    },
+    "80558": {
+        "id": 80558,
+        "type": "message",
+        "date": "2024-04-25T13:19:47",
+        "date_unixtime": "1714040387",
+        "edited": "2024-04-25T13:20:51",
+        "edited_unixtime": "1714040451",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 60130,
+        "text": "Скоро выложу фотку в фота продкаў.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Скоро выложу фотку в фота продкаў."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2024-04-25T13:20:51"
+                    }
+                ]
+            }
+        ]
+    },
+    "80563": {
+        "id": 80563,
+        "type": "message",
+        "date": "2024-04-25T13:22:41",
+        "date_unixtime": "1714040561",
+        "edited": "2024-04-25T13:25:43",
+        "edited_unixtime": "1714040743",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 60130,
+        "text": "Итого:\nВасилий\nСпичникъ\nФеодоръ Фиротъ\nЯковъ Шакула",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Итого:\nВасилий\nСпичникъ\nФеодоръ Фиротъ\nЯковъ Шакула"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Julia Koleda",
+                        "from_id": "user454470533",
+                        "date": "2024-04-25T13:25:43"
+                    }
+                ]
+            }
+        ]
+    },
+    "80609": {
+        "id": 80609,
+        "type": "message",
+        "date": "2024-04-25T19:04:25",
+        "date_unixtime": "1714061065",
+        "from": "Людвига Людвига",
+        "from_id": "user5071720783",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "Что написано после циыры 20?  Цифра к этому слову не относится.  Это слово указано напротив человека в РС 1811 года. Что-то он сделал.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Что написано после циыры 20?  Цифра к этому слову не относится.  Это слово указано напротив человека в РС 1811 года. Что-то он сделал."
+            }
+        ]
+    },
+    "80610": {
+        "id": 80610,
+        "type": "message",
+        "date": "2024-04-25T19:22:19",
+        "date_unixtime": "1714062139",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 80609,
+        "text": "Бежал",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Бежал"
+            }
+        ]
+    },
+    "80611": {
+        "id": 80611,
+        "type": "message",
+        "date": "2024-04-25T19:38:46",
+        "date_unixtime": "1714063126",
+        "from": "Людвига Людвига",
+        "from_id": "user5071720783",
+        "reply_to_message_id": 80610,
+        "text": "Спасибо. А что могло заставить мужчину в 41 год бросить семью и бежать?  Смысл?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо. А что могло заставить мужчину в 41 год бросить семью и бежать?  Смысл?"
+            }
+        ]
+    },
+    "80612": {
+        "id": 80612,
+        "type": "message",
+        "date": "2024-04-25T19:41:08",
+        "date_unixtime": "1714063268",
+        "edited": "2024-04-25T20:09:06",
+        "edited_unixtime": "1714064946",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 80611,
+        "text": "У 1802? Можа, не падабалася стаць прыгонным у Расеі",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У 1802? Можа, не падабалася стаць прыгонным у Расеі"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "💯",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user75433030",
+                        "date": "2024-04-25T20:09:06"
+                    }
+                ]
+            }
+        ]
+    },
+    "80614": {
+        "id": 80614,
+        "type": "message",
+        "date": "2024-04-25T19:46:45",
+        "date_unixtime": "1714063605",
+        "edited": "2024-04-25T19:56:30",
+        "edited_unixtime": "1714064190",
+        "from": "Людвига Людвига",
+        "from_id": "user5071720783",
+        "reply_to_message_id": 80612,
+        "text": "Возможно. А это мои предки и теперь вот ищи его по свету. 🤣🤣🤣",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Возможно. А это мои предки и теперь вот ищи его по свету. 🤣🤣🤣"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😁",
+                "recent": [
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-04-25T19:56:30"
+                    }
+                ]
+            }
+        ]
+    },
+    "80617": {
+        "id": 80617,
+        "type": "message",
+        "date": "2024-04-25T20:05:58",
+        "date_unixtime": "1714064758",
+        "edited": "2024-04-25T20:49:52",
+        "edited_unixtime": "1714067392",
+        "from": "Игорь",
+        "from_id": "user108706246",
+        "reply_to_message_id": 60130,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Снимок экрана от 2024-04-25 20-04-52.png",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/png",
+        "width": 766,
+        "height": 139,
+        "text": "Про прочесть третье слово, имя сына у отца Янко",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Про прочесть третье слово, имя сына у отца Янко"
+            }
+        ]
+    },
+    "80619": {
+        "id": 80619,
+        "type": "message",
+        "date": "2024-04-25T20:14:11",
+        "date_unixtime": "1714065251",
+        "from": "Елена",
+        "from_id": "user1247796904",
+        "reply_to_message_id": 60130,
+        "text": "Для Янки сильно мало букв.Скорее всего-сына Яна.Не обрезайте так текст,Вы не даете возможности сравнить буквы",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Для Янки сильно мало букв.Скорее всего-сына Яна.Не обрезайте так текст,Вы не даете возможности сравнить буквы"
+            }
+        ]
+    },
+    "80623": {
+        "id": 80623,
+        "type": "message",
+        "date": "2024-04-25T20:50:49",
+        "date_unixtime": "1714067449",
+        "from": "Игорь",
+        "from_id": "user108706246",
+        "reply_to_message_id": 80619,
+        "text": "Отец Янко(Иван) это не нужно читать",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Отец Янко(Иван) это не нужно читать"
+            }
+        ]
+    },
+    "80624": {
+        "id": 80624,
+        "type": "message",
+        "date": "2024-04-25T20:54:40",
+        "date_unixtime": "1714067680",
+        "from": "Елена",
+        "from_id": "user1247796904",
+        "reply_to_message_id": 80623,
+        "text": "Извините меня за невнимательность.А нет страницы полностью,чтобы сравнить написание буквы (т)?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Извините меня за невнимательность.А нет страницы полностью,чтобы сравнить написание буквы (т)?"
+            }
+        ]
+    },
+    "80625": {
+        "id": 80625,
+        "type": "message",
+        "date": "2024-04-25T20:56:42",
+        "date_unixtime": "1714067802",
+        "from": "Игорь",
+        "from_id": "user108706246",
+        "reply_to_message_id": 80624,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Снимок экрана от 2024-04-25 20-56-04.png",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/png",
+        "width": 729,
+        "height": 673,
+        "text": "",
+        "text_entities": []
+    },
+    "80626": {
+        "id": 80626,
+        "type": "message",
+        "date": "2024-04-25T21:03:03",
+        "date_unixtime": "1714068183",
+        "from": "Елена",
+        "from_id": "user1247796904",
+        "reply_to_message_id": 60130,
+        "text": "Это буква «т» однозначно,но получается какая-то абракадабра в имени( Татадд).Возможно,кто-то поможет Вам прочесть.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это буква «т» однозначно,но получается какая-то абракадабра в имени( Татадд).Возможно,кто-то поможет Вам прочесть."
+            }
+        ]
+    },
+    "80627": {
+        "id": 80627,
+        "type": "message",
+        "date": "2024-04-25T21:12:48",
+        "date_unixtime": "1714068768",
+        "from": "Andrei",
+        "from_id": "user448787412",
+        "reply_to_message_id": 60130,
+        "text": "это сын Яна - а вот само имя странное конечно",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "это сын Яна - а вот само имя странное конечно"
+            }
+        ]
+    },
+    "80628": {
+        "id": 80628,
+        "type": "message",
+        "date": "2024-04-25T21:20:54",
+        "date_unixtime": "1714069254",
+        "edited": "2024-04-25T22:28:14",
+        "edited_unixtime": "1714073294",
+        "from": "Александр Мироненко",
+        "from_id": "user529970725",
+        "reply_to_message_id": 80549,
+        "text": "Спичкинъ?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спичкинъ?"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Julia Koleda",
+                        "from_id": "user454470533",
+                        "date": "2024-04-25T22:28:14"
+                    }
+                ]
+            }
+        ]
+    },
+    "80629": {
+        "id": 80629,
+        "type": "message",
+        "date": "2024-04-25T21:43:06",
+        "date_unixtime": "1714070586",
+        "from": "Александр Мироненко",
+        "from_id": "user529970725",
+        "reply_to_message_id": 80611,
+        "text": "А жена-дети на месте?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А жена-дети на месте?"
+            }
+        ]
+    },
+    "80630": {
+        "id": 80630,
+        "type": "message",
+        "date": "2024-04-25T21:52:07",
+        "date_unixtime": "1714071127",
+        "from": "Людвига Людвига",
+        "from_id": "user5071720783",
+        "reply_to_message_id": 80629,
+        "text": "Да, на месте. При том трое маленьких. А старшего перевел пан на работу в другую деревню.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, на месте. При том трое маленьких. А старшего перевел пан на работу в другую деревню."
+            }
+        ]
+    },
+    "80631": {
+        "id": 80631,
+        "type": "message",
+        "date": "2024-04-25T21:57:25",
+        "date_unixtime": "1714071445",
+        "from": "Людвига Людвига",
+        "from_id": "user5071720783",
+        "reply_to_message_id": 80629,
+        "text": "И вообще в РС 1811 года у Оскерок очень-очень много мужчин было в бегах. Это должно было быть проблемой.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И вообще в РС 1811 года у Оскерок очень-очень много мужчин было в бегах. Это должно было быть проблемой."
+            }
+        ]
+    },
+    "80632": {
+        "id": 80632,
+        "type": "message",
+        "date": "2024-04-25T23:21:20",
+        "date_unixtime": "1714076480",
+        "from": "Tacciana",
+        "from_id": "user6965994936",
+        "reply_to_message_id": 80631,
+        "text": "калі гэты тыя Аскеркі, што я думаю, то яны крутым норавам вылучаліся. І шляхцічаў у прыгонныя запісвалі",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "калі гэты тыя Аскеркі, што я думаю, то яны крутым норавам вылучаліся. І шляхцічаў у прыгонныя запісвалі"
+            }
+        ]
+    },
+    "80633": {
+        "id": 80633,
+        "type": "message",
+        "date": "2024-04-25T23:38:42",
+        "date_unixtime": "1714077522",
+        "edited": "2024-04-25T23:55:52",
+        "edited_unixtime": "1714078552",
+        "from": "Anatoly Sazanovich",
+        "from_id": "user5542313094",
+        "reply_to_message_id": 80549,
+        "text": "Ѳ, ѳ (фита́, рус. дореф. ѳита́) — предпоследняя буква старо - и церковнославянской кириллицы, последняя (после выхода из употребления в конце XIX века ижицы) буква дореволюционного русского алфавита.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ѳ, ѳ (фита́, рус. дореф. ѳита́) — предпоследняя буква старо - и церковнославянской кириллицы, последняя (после выхода из употребления в конце XIX века ижицы) буква дореволюционного русского алфавита."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Julia Koleda",
+                        "from_id": "user454470533",
+                        "date": "2024-04-25T23:55:52"
+                    }
+                ]
+            }
+        ]
+    },
+    "80634": {
+        "id": 80634,
+        "type": "message",
+        "date": "2024-04-25T23:42:55",
+        "date_unixtime": "1714077775",
+        "from": "Людвига Людвига",
+        "from_id": "user5071720783",
+        "reply_to_message_id": 60130,
+        "text": "Это будславские Оскерки и их родственники в соседних поместьях. Буду смотреть дальше чем закончится судьба этого человека. Может вернется к следующей ревизии. 😁😁😁😁",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это будславские Оскерки и их родственники в соседних поместьях. Буду смотреть дальше чем закончится судьба этого человека. Может вернется к следующей ревизии. 😁😁😁😁"
+            }
+        ]
+    },
+    "80635": {
+        "id": 80635,
+        "type": "message",
+        "date": "2024-04-26T00:08:10",
+        "date_unixtime": "1714079290",
+        "from": "Tacciana",
+        "from_id": "user6965994936",
+        "reply_to_message_id": 80634,
+        "text": "то іншыя",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "то іншыя"
+            }
+        ]
+    },
+    "80636": {
+        "id": 80636,
+        "type": "message",
+        "date": "2024-04-26T00:31:48",
+        "date_unixtime": "1714080708",
+        "from": "Людвига Людвига",
+        "from_id": "user5071720783",
+        "reply_to_message_id": 80635,
+        "text": "А Вы может изучали документы по другим поместьям Оскерок? Может встречали где-нибудь фамилию Рубалко?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А Вы может изучали документы по другим поместьям Оскерок? Может встречали где-нибудь фамилию Рубалко?"
+            }
+        ]
+    },
+    "80637": {
+        "id": 80637,
+        "type": "message",
+        "date": "2024-04-26T01:45:11",
+        "date_unixtime": "1714085111",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 80625,
+        "text": "Сбросьте ссылку на ФС, чтобы можно было полистать документ",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сбросьте ссылку на ФС, чтобы можно было полистать документ"
+            }
+        ]
+    },
+    "80640": {
+        "id": 80640,
+        "type": "message",
+        "date": "2024-04-26T07:43:53",
+        "date_unixtime": "1714106633",
+        "from": "Александр Мироненко",
+        "from_id": "user529970725",
+        "reply_to_message_id": 80625,
+        "text": "А лет этому татадду сколько?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А лет этому татадду сколько?"
+            }
+        ]
+    },
+    "80641": {
+        "id": 80641,
+        "type": "message",
+        "date": "2024-04-26T08:34:19",
+        "date_unixtime": "1714109659",
+        "edited": "2024-07-30T14:45:14",
+        "edited_unixtime": "1722339914",
+        "from": "Anatoly Sazanovich",
+        "from_id": "user5542313094",
+        "reply_to_message_id": 80636,
+        "text": "Оскерко, Оскирко - самая распространнеая фамилия в моей родной деревне Булгацкие Лычицы(Урожайная с 1968), Новогрудского уезда и района.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Оскерко, Оскирко - самая распространнеая фамилия в моей родной деревне Булгацкие Лычицы(Урожайная с 1968), Новогрудского уезда и района."
+            }
+        ]
+    },
+    "80642": {
+        "id": 80642,
+        "type": "message",
+        "date": "2024-04-26T08:58:19",
+        "date_unixtime": "1714111099",
+        "from": "Алексей Майоров",
+        "from_id": "user748368904",
+        "reply_to_message_id": 80625,
+        "text": "Татидор написано вроде",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Татидор написано вроде"
+            }
+        ]
+    },
+    "80643": {
+        "id": 80643,
+        "type": "message",
+        "date": "2024-04-26T08:58:30",
+        "date_unixtime": "1714111110",
+        "from": "Александр Мироненко",
+        "from_id": "user529970725",
+        "reply_to_message_id": 80625,
+        "text": "Сына Яна (сын) Ипатий?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сына Яна (сын) Ипатий?"
+            }
+        ]
+    },
+    "80644": {
+        "id": 80644,
+        "type": "message",
+        "date": "2024-04-26T09:22:42",
+        "date_unixtime": "1714112562",
+        "from": "Виктор Евгеньевич",
+        "from_id": "user6557491994",
+        "reply_to_message_id": 80625,
+        "text": "Тетадор",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тетадор"
+            }
+        ]
+    },
+    "80645": {
+        "id": 80645,
+        "type": "message",
+        "date": "2024-04-26T09:40:19",
+        "date_unixtime": "1714113619",
+        "edited": "2024-04-26T09:41:22",
+        "edited_unixtime": "1714113682",
+        "from": "Tacciana",
+        "from_id": "user6965994936",
+        "reply_to_message_id": 80636,
+        "text": "настолькі шчыльна не даследвала",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "настолькі шчыльна не даследвала"
+            }
+        ]
+    },
+    "80646": {
+        "id": 80646,
+        "type": "message",
+        "date": "2024-04-26T11:43:44",
+        "date_unixtime": "1714121024",
+        "from": "Людвига Людвига",
+        "from_id": "user5071720783",
+        "reply_to_message_id": 80641,
+        "text": "В Вашем случае это крупные землевладельцы или крестьяне?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В Вашем случае это крупные землевладельцы или крестьяне?"
+            }
+        ]
+    },
+    "80647": {
+        "id": 80647,
+        "type": "message",
+        "date": "2024-04-26T12:08:03",
+        "date_unixtime": "1714122483",
+        "edited": "2024-04-27T03:30:22",
+        "edited_unixtime": "1714177822",
+        "from": "ksenia",
+        "from_id": "user805895547",
+        "reply_to_message_id": 80644,
+        "text": "Я б поставила на исковерканного Теодора",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я б поставила на исковерканного Теодора"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Игнатович А. Е.",
+                        "from_id": "user346646662",
+                        "date": "2024-04-27T03:30:22"
+                    }
+                ]
+            }
+        ]
+    },
+    "80648": {
+        "id": 80648,
+        "type": "message",
+        "date": "2024-04-26T12:11:48",
+        "date_unixtime": "1714122708",
+        "edited": "2024-04-26T12:12:02",
+        "edited_unixtime": "1714122722",
+        "from": "Игорь",
+        "from_id": "user108706246",
+        "reply_to_message_id": 60130,
+        "text": "со всеми согласен, скорее всего это Федор исковерканный",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "со всеми согласен, скорее всего это Федор исковерканный"
+            }
+        ]
+    },
+    "80649": {
+        "id": 80649,
+        "type": "message",
+        "date": "2024-04-26T12:43:11",
+        "date_unixtime": "1714124591",
+        "from": "Anatoly Sazanovich",
+        "from_id": "user5542313094",
+        "reply_to_message_id": 80646,
+        "text": "Так глубоко не вникал. Может и был крупный землевладелец в истории деревни.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так глубоко не вникал. Может и был крупный землевладелец в истории деревни."
+            }
+        ]
+    },
+    "80650": {
+        "id": 80650,
+        "type": "message",
+        "date": "2024-04-26T12:45:13",
+        "date_unixtime": "1714124713",
+        "edited": "2024-04-26T12:45:59",
+        "edited_unixtime": "1714124759",
+        "from": "Anatoly Sazanovich",
+        "from_id": "user5542313094",
+        "reply_to_message_id": 80648,
+        "text": "Наоборот. Федор - искаверканый ТЕОдор.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Наоборот. Федор - искаверканый ТЕОдор."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Игорь",
+                        "from_id": "user108706246",
+                        "date": "2024-04-26T12:45:59"
+                    }
+                ]
+            }
+        ]
+    },
+    "80652": {
+        "id": 80652,
+        "type": "message",
+        "date": "2024-04-26T13:44:58",
+        "date_unixtime": "1714128298",
+        "from": "Andrei",
+        "from_id": "user448787412",
+        "reply_to_message_id": 80650,
+        "text": "Вообще-то изначально греческое феодорус так что я бы сказал, что Теодор это исковерконое на лат манер",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вообще-то изначально греческое феодорус так что я бы сказал, что Теодор это исковерконое на лат манер"
+            }
+        ]
+    },
+    "80655": {
+        "id": 80655,
+        "type": "message",
+        "date": "2024-04-26T14:11:20",
+        "date_unixtime": "1714129880",
+        "from": "Александр Мироненко",
+        "from_id": "user529970725",
+        "reply_to_message_id": 80652,
+        "text": "Греческое у греков начиналось с буквы Тета.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Греческое у греков начиналось с буквы Тета."
+            }
+        ]
+    },
+    "80656": {
+        "id": 80656,
+        "type": "message",
+        "date": "2024-04-26T14:12:32",
+        "date_unixtime": "1714129952",
+        "from": "Andrei",
+        "from_id": "user448787412",
+        "reply_to_message_id": 80655,
+        "text": "ну так послушайте как это слово звучит на греческом\nне зря ее на русский транслитерировали как Ф",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ну так послушайте как это слово звучит на греческом\nне зря ее на русский транслитерировали как Ф"
+            }
+        ]
+    },
+    "80658": {
+        "id": 80658,
+        "type": "message",
+        "date": "2024-04-26T14:15:05",
+        "date_unixtime": "1714130105",
+        "from": "Александр Мироненко",
+        "from_id": "user529970725",
+        "reply_to_message_id": 80656,
+        "text": "Тогда и теологию надо переделать?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тогда и теологию надо переделать?"
+            }
+        ]
+    },
+    "80659": {
+        "id": 80659,
+        "type": "message",
+        "date": "2024-04-26T14:15:40",
+        "date_unixtime": "1714130140",
+        "edited": "2024-04-26T14:19:46",
+        "edited_unixtime": "1714130386",
+        "from": "Andrei",
+        "from_id": "user448787412",
+        "reply_to_message_id": 80658,
+        "text": "на греческом Теос - Τέος\nдругая буква\n\nА нет, извините ошибся все таки θεός\nно и звучит он больше как Феос",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "на греческом Теос - Τέος\nдругая буква\n\nА нет, извините ошибся все таки θεός\nно и звучит он больше как Феос"
+            }
+        ]
+    },
+    "80661": {
+        "id": 80661,
+        "type": "message",
+        "date": "2024-04-26T14:19:51",
+        "date_unixtime": "1714130391",
+        "from": "Александр Мироненко",
+        "from_id": "user529970725",
+        "reply_to_message_id": 80659,
+        "text": [
+            "Жаль, что греки об этом не знают: ",
+            {
+                "type": "link",
+                "text": "https://el.wikipedia.org/wiki/%CE%98%CE%B5%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Жаль, что греки об этом не знают: "
+            },
+            {
+                "type": "link",
+                "text": "https://el.wikipedia.org/wiki/%CE%98%CE%B5%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "80665": {
+        "id": 80665,
+        "type": "message",
+        "date": "2024-04-26T14:25:14",
+        "date_unixtime": "1714130714",
+        "from": "Andrei",
+        "from_id": "user448787412",
+        "reply_to_message_id": 60130,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://youtu.be/qz_6S7Eqcos"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://youtu.be/qz_6S7Eqcos"
+            }
+        ]
+    },
+    "80676": {
+        "id": 80676,
+        "type": "message",
+        "date": "2024-04-26T15:36:54",
+        "date_unixtime": "1714135014",
+        "from": "Anatoly Sazanovich",
+        "from_id": "user5542313094",
+        "reply_to_message_id": 80659,
+        "text": "В сборной Греции по футболу был футболист. Одни комментаторы его имя произносили на русском как Теофанис, другие как Феофанис.\n   Пока не переходил по ссылкам, но думаю, что греческом, как и в других языках система звуков не совпадает  с русской. \n   В этом основная проблема при изучении иностранных языков, произношении и понимании на слух.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В сборной Греции по футболу был футболист. Одни комментаторы его имя произносили на русском как Теофанис, другие как Феофанис.\n   Пока не переходил по ссылкам, но думаю, что греческом, как и в других языках система звуков не совпадает  с русской. \n   В этом основная проблема при изучении иностранных языков, произношении и понимании на слух."
+            }
+        ]
+    },
+    "80679": {
+        "id": 80679,
+        "type": "message",
+        "date": "2024-04-26T15:40:30",
+        "date_unixtime": "1714135230",
+        "from": "Anatoly Sazanovich",
+        "from_id": "user5542313094",
+        "reply_to_message_id": 80658,
+        "text": "И не только теологию, но и теорию и теорему...",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И не только теологию, но и теорию и теорему..."
+            }
+        ]
+    },
+    "80682": {
+        "id": 80682,
+        "type": "message",
+        "date": "2024-04-26T16:00:13",
+        "date_unixtime": "1714136413",
+        "from": "Andrei",
+        "from_id": "user448787412",
+        "reply_to_message_id": 80679,
+        "text": "Эти слова банально пришли через научный латинский мир, вот они и на Т\nно в греческом это все таки ближе к Ф",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Эти слова банально пришли через научный латинский мир, вот они и на Т\nно в греческом это все таки ближе к Ф"
+            }
+        ]
+    },
+    "80683": {
+        "id": 80683,
+        "type": "message",
+        "date": "2024-04-26T16:00:21",
+        "date_unixtime": "1714136421",
+        "edited": "2024-04-26T16:04:20",
+        "edited_unixtime": "1714136660",
+        "from": "Александр Мироненко",
+        "from_id": "user529970725",
+        "reply_to_message_id": 80676,
+        "text": "Похоже, что звуки новогреческого ещё и от звуков древнегреческого отличаются. Они букву Тета переименовали в Фиту.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Похоже, что звуки новогреческого ещё и от звуков древнегреческого отличаются. Они букву Тета переименовали в Фиту."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "Anatoly Sazanovich",
+                        "from_id": "user5542313094",
+                        "date": "2024-04-26T16:04:21"
+                    }
+                ]
+            }
+        ]
+    },
+    "80734": {
+        "id": 80734,
+        "type": "message",
+        "date": "2024-04-27T00:56:53",
+        "date_unixtime": "1714168613",
+        "from": "🌞",
+        "from_id": "user718980479",
+        "reply_to_message_id": 60130,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "image (1).jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4074,
+        "height": 3218,
+        "text": "Помогите прочитать слово во второй записи перед именем Петрунеля",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Помогите прочитать слово во второй записи перед именем Петрунеля"
+            }
+        ]
+    },
+    "80735": {
+        "id": 80735,
+        "type": "message",
+        "date": "2024-04-27T00:59:06",
+        "date_unixtime": "1714168746",
+        "edited": "2024-04-27T01:00:20",
+        "edited_unixtime": "1714168820",
+        "from": "🤫🏍⛺",
+        "from_id": "user6213882374",
+        "reply_to_message_id": 80734,
+        "text": "Неоседлая.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Неоседлая."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "🌞",
+                        "from_id": "user718980479",
+                        "date": "2024-04-27T01:00:20"
+                    }
+                ]
+            }
+        ]
+    },
+    "80738": {
+        "id": 80738,
+        "type": "message",
+        "date": "2024-04-27T01:05:35",
+        "date_unixtime": "1714169135",
+        "from": "🌞",
+        "from_id": "user718980479",
+        "reply_to_message_id": 80735,
+        "text": "Спасибо!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо!"
+            }
+        ]
+    },
+    "80742": {
+        "id": 80742,
+        "type": "message",
+        "date": "2024-04-27T10:20:36",
+        "date_unixtime": "1714202436",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 532,
+        "height": 101,
+        "text": "Добрый день.\nПодскажите, есть ли более знакомый аналог для имени \nArochmej ?\n\nИ может ли этот гражданин через 14 лет превратиться в то, что справа на картинке ? )",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день.\nПодскажите, есть ли более знакомый аналог для имени \nArochmej ?\n\nИ может ли этот гражданин через 14 лет превратиться в то, что справа на картинке ? )"
+            }
+        ]
+    },
+    "80743": {
+        "id": 80743,
+        "type": "message",
+        "date": "2024-04-27T10:25:55",
+        "date_unixtime": "1714202755",
+        "edited": "2024-04-27T10:26:15",
+        "edited_unixtime": "1714202775",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 80742,
+        "text": "Только там Arochwiеj написано",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Только там Arochwiеj написано"
+            }
+        ]
+    },
+    "80744": {
+        "id": 80744,
+        "type": "message",
+        "date": "2024-04-27T10:27:09",
+        "date_unixtime": "1714202829",
+        "edited": "2024-04-27T10:27:57",
+        "edited_unixtime": "1714202877",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 60130,
+        "text": "Иерофей",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Иерофей"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Jalozin",
+                        "from_id": "user1314863059",
+                        "date": "2024-04-27T10:27:57"
+                    }
+                ]
+            }
+        ]
+    },
+    "80745": {
+        "id": 80745,
+        "type": "message",
+        "date": "2024-04-27T10:27:30",
+        "date_unixtime": "1714202850",
+        "edited": "2024-04-27T10:27:54",
+        "edited_unixtime": "1714202874",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 60130,
+        "text": "Вполне Орохером могло стать",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вполне Орохером могло стать"
+            }
+        ]
+    },
+    "80746": {
+        "id": 80746,
+        "type": "message",
+        "date": "2024-04-27T10:27:52",
+        "date_unixtime": "1714202872",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 80743,
+        "text": "Значит так.\n🔥🔥🔥",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Значит так.\n🔥🔥🔥"
+            }
+        ]
+    },
+    "80747": {
+        "id": 80747,
+        "type": "message",
+        "date": "2024-04-27T10:43:23",
+        "date_unixtime": "1714203803",
+        "edited": "2024-04-27T10:52:40",
+        "edited_unixtime": "1714204360",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 60130,
+        "text": "Спасибо!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо!"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2024-04-27T10:52:40"
+                    }
+                ]
+            }
+        ]
+    },
+    "80755": {
+        "id": 80755,
+        "type": "message",
+        "date": "2024-04-27T16:31:05",
+        "date_unixtime": "1714224665",
+        "edited": "2024-04-27T16:31:26",
+        "edited_unixtime": "1714224686",
+        "from": "Николай Курпан",
+        "from_id": "user392252578",
+        "reply_to_message_id": 80476,
+        "text": "спасибо!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "спасибо!"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Władek Pomorski",
+                        "from_id": "user1352232635",
+                        "date": "2024-04-27T16:31:26"
+                    }
+                ]
+            }
+        ]
+    },
+    "80764": {
+        "id": 80764,
+        "type": "message",
+        "date": "2024-04-28T10:05:51",
+        "date_unixtime": "1714287951",
+        "from": ";",
+        "from_id": "user5579643927",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1155,
+        "height": 1280,
+        "text": "Добры дзень! Дапамажыце калі ласка прачытаць: \"Не годен по Уст (далей што?) ... ни в военное, ни в ополчение\"",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добры дзень! Дапамажыце калі ласка прачытаць: \"Не годен по Уст (далей што?) ... ни в военное, ни в ополчение\""
+            }
+        ]
+    },
+    "80765": {
+        "id": 80765,
+        "type": "message",
+        "date": "2024-04-28T10:17:39",
+        "date_unixtime": "1714288659",
+        "edited": "2024-04-28T10:25:15",
+        "edited_unixtime": "1714289115",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 80764,
+        "text": "Верагодна - по уст[установленному] лит[ерой] А",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Верагодна - по уст[установленному] лит[ерой] А"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2024-04-28T11:02:21"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": ";",
+                        "from_id": "user5579643927",
+                        "date": "2024-04-28T10:25:15"
+                    }
+                ]
+            }
+        ]
+    },
+    "80766": {
+        "id": 80766,
+        "type": "message",
+        "date": "2024-04-28T10:23:19",
+        "date_unixtime": "1714288999",
+        "edited": "2024-04-28T10:23:42",
+        "edited_unixtime": "1714289022",
+        "from": ";",
+        "from_id": "user5579643927",
+        "reply_to_message_id": 80765,
+        "text": "Дзякуй вялікі! Я чытала \"по Уставу\", але падобна, што ваша праўда. Засталося зразумець, што за литера А)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Дзякуй вялікі! Я чытала \"по Уставу\", але падобна, што ваша праўда. Засталося зразумець, што за литера А)"
+            }
+        ]
+    },
+    "80767": {
+        "id": 80767,
+        "type": "message",
+        "date": "2024-04-28T10:25:59",
+        "date_unixtime": "1714289159",
+        "edited": "2024-04-28T11:06:57",
+        "edited_unixtime": "1714291617",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 80766,
+        "text": "Вышэй у назве калонкі",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вышэй у назве калонкі"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": ";",
+                        "from_id": "user5579643927",
+                        "date": "2024-04-28T11:06:57"
+                    }
+                ]
+            }
+        ]
+    },
+    "80768": {
+        "id": 80768,
+        "type": "message",
+        "date": "2024-04-28T10:45:36",
+        "date_unixtime": "1714290336",
+        "edited": "2024-04-28T11:07:02",
+        "edited_unixtime": "1714291622",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 80764,
+        "text": [
+            "Ни в во",
+            {
+                "type": "bold",
+                "text": "йска"
+            },
+            ", ни в ополчение"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ни в во"
+            },
+            {
+                "type": "bold",
+                "text": "йска"
+            },
+            {
+                "type": "plain",
+                "text": ", ни в ополчение"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": ";",
+                        "from_id": "user5579643927",
+                        "date": "2024-04-28T11:07:02"
+                    }
+                ]
+            }
+        ]
+    },
+    "80769": {
+        "id": 80769,
+        "type": "message",
+        "date": "2024-04-28T11:19:07",
+        "date_unixtime": "1714292347",
+        "from": "🌞",
+        "from_id": "user718980479",
+        "reply_to_message_id": 60130,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "record-image_ (8).jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 3271,
+        "height": 2892,
+        "text": "Добрый день. Помогите, пожалуйста, перевести запись на левой странице, третья сверху",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день. Помогите, пожалуйста, перевести запись на левой странице, третья сверху"
+            }
+        ]
+    },
+    "80770": {
+        "id": 80770,
+        "type": "message",
+        "date": "2024-04-28T11:25:34",
+        "date_unixtime": "1714292734",
+        "edited": "2024-04-28T11:28:49",
+        "edited_unixtime": "1714292929",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 80769,
+        "text": "Года 1792 13 дня м-ца ноября крестил и миропомазал Теклю, рожденную от родителей крестьян состоящих в браке Прокопа и Натальи Церахов. Кум Янка (Снагун/Магун) . Кума Анна Сялиха",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Года 1792 13 дня м-ца ноября крестил и миропомазал Теклю, рожденную от родителей крестьян состоящих в браке Прокопа и Натальи Церахов. Кум Янка (Снагун/Магун) . Кума Анна Сялиха"
+            }
+        ]
+    },
+    "80771": {
+        "id": 80771,
+        "type": "message",
+        "date": "2024-04-28T11:33:09",
+        "date_unixtime": "1714293189",
+        "from": "🌞",
+        "from_id": "user718980479",
+        "reply_to_message_id": 80770,
+        "text": "Спасибо большое!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо большое!"
+            }
+        ]
+    },
+    "80772": {
+        "id": 80772,
+        "type": "message",
+        "date": "2024-04-28T13:18:42",
+        "date_unixtime": "1714299522",
+        "edited": "2024-04-28T13:26:31",
+        "edited_unixtime": "1714299991",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 80770,
+        "text": "*Скакун",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "*Скакун"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Игнатович А. Е.",
+                        "from_id": "user346646662",
+                        "date": "2024-04-28T13:26:31"
+                    }
+                ]
+            }
+        ]
+    },
+    "80773": {
+        "id": 80773,
+        "type": "message",
+        "date": "2024-04-28T15:39:27",
+        "date_unixtime": "1714307967",
+        "from": "🌞",
+        "from_id": "user718980479",
+        "reply_to_message_id": 60130,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "record-image_ 12.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 3431,
+        "height": 2922,
+        "text": "Помогите, пожалуйста, ещё с Именами в предпоследней записи на правой странице.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Помогите, пожалуйста, ещё с Именами в предпоследней записи на правой странице."
+            }
+        ]
+    },
+    "80795": {
+        "id": 80795,
+        "type": "message",
+        "date": "2024-04-28T17:48:12",
+        "date_unixtime": "1714315692",
+        "edited": "2024-07-30T14:47:29",
+        "edited_unixtime": "1722340049",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 80773,
+        "text": "Младенец Василий. Родители Тимофей и Евдокия Чаплай. Кумовья: Федор Скакун и Зиновия Скакунова.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Младенец Василий. Родители Тимофей и Евдокия Чаплай. Кумовья: Федор Скакун и Зиновия Скакунова."
+            }
+        ]
+    },
+    "80798": {
+        "id": 80798,
+        "type": "message",
+        "date": "2024-04-28T17:52:46",
+        "date_unixtime": "1714315966",
+        "edited": "2024-04-28T17:55:06",
+        "edited_unixtime": "1714316106",
+        "from": "🌞",
+        "from_id": "user718980479",
+        "reply_to_message_id": 80795,
+        "text": "Спасибо!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо!"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2024-04-28T17:55:07"
+                    }
+                ]
+            }
+        ]
+    },
+    "80838": {
+        "id": 80838,
+        "type": "message",
+        "date": "2024-04-29T23:36:08",
+        "date_unixtime": "1714422968",
+        "edited": "2024-04-30T07:21:52",
+        "edited_unixtime": "1714450912",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 2560,
+        "height": 2042,
+        "text": "Нашла фото сестры прадеда. Единственное фото в \"молодости\". К сожалению, я (пока) не знаю её фамилию по мужу, а детей толи не было, то ли умерли. И эта надпись вряд ли мне подскажет. Но буду очень признательна в помощи прочесть надпись...",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Нашла фото сестры прадеда. Единственное фото в \"молодости\". К сожалению, я (пока) не знаю её фамилию по мужу, а детей толи не было, то ли умерли. И эта надпись вряд ли мне подскажет. Но буду очень признательна в помощи прочесть надпись..."
+            }
+        ]
+    },
+    "80846": {
+        "id": 80846,
+        "type": "message",
+        "date": "2024-04-30T00:29:44",
+        "date_unixtime": "1714426184",
+        "edited": "2024-04-30T09:22:54",
+        "edited_unixtime": "1714458174",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 60130,
+        "text": "Bez kapelusza i bez\npłaszcza, bluzka, ciewik\ndekolt sercowy, na\nszyji medalik.\nciemny",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Bez kapelusza i bez\npłaszcza, bluzka, ciewik\ndekolt sercowy, na\nszyji medalik.\nciemny"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-04-30T11:57:13"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🤗",
+                "recent": [
+                    {
+                        "from": "Nastka🦩",
+                        "from_id": "user492656669",
+                        "date": "2024-05-04T16:55:06"
+                    },
+                    {
+                        "from": "Julia Koleda",
+                        "from_id": "user454470533",
+                        "date": "2024-04-30T10:15:49"
+                    }
+                ]
+            }
+        ]
+    },
+    "80849": {
+        "id": 80849,
+        "type": "message",
+        "date": "2024-04-30T10:15:25",
+        "date_unixtime": "1714461325",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 60130,
+        "text": "Wielkie dzięki\n\n🙄 Автор только забыл(а) подписать фамилию и имя той, что без капелюшу 😭",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Wielkie dzięki\n\n🙄 Автор только забыл(а) подписать фамилию и имя той, что без капелюшу 😭"
+            }
+        ]
+    },
+    "80850": {
+        "id": 80850,
+        "type": "message",
+        "date": "2024-04-30T10:16:15",
+        "date_unixtime": "1714461375",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 60130,
+        "text": "Сброшу фотку в чат, а вдруг...",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сброшу фотку в чат, а вдруг..."
+            }
+        ]
+    },
+    "80891": {
+        "id": 80891,
+        "type": "message",
+        "date": "2024-04-30T19:44:19",
+        "date_unixtime": "1714495459",
+        "from": "Ирина",
+        "from_id": "user864098668",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 384,
+        "height": 195,
+        "text": "Добрый вечер. Помогите имя прочитать.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый вечер. Помогите имя прочитать."
+            }
+        ]
+    },
+    "80892": {
+        "id": 80892,
+        "type": "message",
+        "date": "2024-04-30T19:45:45",
+        "date_unixtime": "1714495545",
+        "from": "Tacciana",
+        "from_id": "user6965994936",
+        "reply_to_message_id": 60130,
+        "text": "Семен",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Семен"
+            }
+        ]
+    },
+    "80893": {
+        "id": 80893,
+        "type": "message",
+        "date": "2024-04-30T19:48:56",
+        "date_unixtime": "1714495736",
+        "from": "Ирина",
+        "from_id": "user864098668",
+        "reply_to_message_id": 60130,
+        "text": "Думаю, да. Но е везде по другому пишет",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Думаю, да. Но е везде по другому пишет"
+            }
+        ]
+    },
+    "80894": {
+        "id": 80894,
+        "type": "message",
+        "date": "2024-04-30T19:49:40",
+        "date_unixtime": "1714495780",
+        "from": "Ирина",
+        "from_id": "user864098668",
+        "reply_to_message_id": 60130,
+        "text": "Самуил ни как?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Самуил ни как?"
+            }
+        ]
+    },
+    "80895": {
+        "id": 80895,
+        "type": "message",
+        "date": "2024-04-30T19:50:29",
+        "date_unixtime": "1714495829",
+        "edited": "2024-04-30T19:50:46",
+        "edited_unixtime": "1714495846",
+        "from": "Tacciana",
+        "from_id": "user6965994936",
+        "reply_to_message_id": 60130,
+        "text": "Сёмён, можа, пісаў)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сёмён, можа, пісаў)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user864098668",
+                        "date": "2024-04-30T19:50:46"
+                    }
+                ]
+            }
+        ]
+    },
+    "80896": {
+        "id": 80896,
+        "type": "message",
+        "date": "2024-04-30T19:51:01",
+        "date_unixtime": "1714495861",
+        "from": "Ирина",
+        "from_id": "user864098668",
+        "reply_to_message_id": 60130,
+        "text": "Дзякуй",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Дзякуй"
+            }
+        ]
+    },
+    "80979": {
+        "id": 80979,
+        "type": "message",
+        "date": "2024-05-02T10:21:13",
+        "date_unixtime": "1714634473",
+        "from": "💐🌷Nastazja🍓🍒",
+        "from_id": "user6724192744",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 719,
+        "text": "",
+        "text_entities": []
+    },
+    "80980": {
+        "id": 80980,
+        "type": "message",
+        "date": "2024-05-02T10:21:32",
+        "date_unixtime": "1714634492",
+        "from": "💐🌷Nastazja🍓🍒",
+        "from_id": "user6724192744",
+        "reply_to_message_id": 60130,
+        "text": "прачытайце калі ласка.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "прачытайце калі ласка."
+            }
+        ]
+    },
+    "80981": {
+        "id": 80981,
+        "type": "message",
+        "date": "2024-05-02T10:21:52",
+        "date_unixtime": "1714634512",
+        "from": "💐🌷Nastazja🍓🍒",
+        "from_id": "user6724192744",
+        "reply_to_message_id": 60130,
+        "text": "МК Бенніца 1865 г.шлюб.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "МК Бенніца 1865 г.шлюб."
+            }
+        ]
+    },
+    "80982": {
+        "id": 80982,
+        "type": "message",
+        "date": "2024-05-02T10:22:19",
+        "date_unixtime": "1714634539",
+        "from": "💐🌷Nastazja🍓🍒",
+        "from_id": "user6724192744",
+        "reply_to_message_id": 60130,
+        "text": "Демскі Канстанцін ( Яго чын вайсковы?)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Демскі Канстанцін ( Яго чын вайсковы?)"
+            }
+        ]
+    },
+    "80983": {
+        "id": 80983,
+        "type": "message",
+        "date": "2024-05-02T10:23:23",
+        "date_unixtime": "1714634603",
+        "edited": "2024-05-02T10:23:53",
+        "edited_unixtime": "1714634633",
+        "from": "💐🌷Nastazja🍓🍒",
+        "from_id": "user6724192744",
+        "reply_to_message_id": 60130,
+        "text": "Незразумела імя маці Канстанціна - ? Кунегурда Родзевіч?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Незразумела імя маці Канстанціна - ? Кунегурда Родзевіч?"
+            }
+        ]
+    },
+    "80984": {
+        "id": 80984,
+        "type": "message",
+        "date": "2024-05-02T10:30:24",
+        "date_unixtime": "1714635024",
+        "edited": "2024-05-02T12:02:26",
+        "edited_unixtime": "1714640546",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 80982,
+        "text": "Отставного солдата Лейб-гвардии саперного батальона",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Отставного солдата Лейб-гвардии саперного батальона"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "💐🌷Nastazja🍓🍒",
+                        "from_id": "user6724192744",
+                        "date": "2024-05-02T12:02:26"
+                    }
+                ]
+            }
+        ]
+    },
+    "80985": {
+        "id": 80985,
+        "type": "message",
+        "date": "2024-05-02T10:30:54",
+        "date_unixtime": "1714635054",
+        "edited": "2024-05-02T12:02:29",
+        "edited_unixtime": "1714640549",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 80983,
+        "text": "Кунегунда",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Кунегунда"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-05-02T14:21:45"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "💐🌷Nastazja🍓🍒",
+                        "from_id": "user6724192744",
+                        "date": "2024-05-02T12:02:29"
+                    }
+                ]
+            }
+        ]
+    },
+    "80996": {
+        "id": 80996,
+        "type": "message",
+        "date": "2024-05-02T12:13:00",
+        "date_unixtime": "1714641180",
+        "from": "💐🌷Nastazja🍓🍒",
+        "from_id": "user6724192744",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 720,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "80997": {
+        "id": 80997,
+        "type": "message",
+        "date": "2024-05-02T12:13:15",
+        "date_unixtime": "1714641195",
+        "from": "💐🌷Nastazja🍓🍒",
+        "from_id": "user6724192744",
+        "reply_to_message_id": 60130,
+        "text": "дзякуй. імя Кунегунда.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "дзякуй. імя Кунегунда."
+            }
+        ]
+    },
+    "80998": {
+        "id": 80998,
+        "type": "message",
+        "date": "2024-05-02T12:16:13",
+        "date_unixtime": "1714641373",
+        "edited": "2024-05-02T12:45:16",
+        "edited_unixtime": "1714643116",
+        "from": "💐🌷Nastazja🍓🍒",
+        "from_id": "user6724192744",
+        "reply_to_message_id": 60130,
+        "text": "гэта шлюб ужо Антона Демскага (імя маці супадае) Значыцца на верным шляху.  Антон- бацька майго прапрадзеда.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "гэта шлюб ужо Антона Демскага (імя маці супадае) Значыцца на верным шляху.  Антон- бацька майго прапрадзеда."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Alena Rusakovich",
+                        "from_id": "user455467923",
+                        "date": "2024-05-02T12:45:16"
+                    }
+                ]
+            }
+        ]
+    },
+    "81250": {
+        "id": 81250,
+        "type": "message",
+        "date": "2024-05-04T12:33:23",
+        "date_unixtime": "1714815203",
+        "from": "A M",
+        "from_id": "user148775496",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "Добрый день. помогите с датой, пожалуйста, не могу понять какой год",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день. помогите с датой, пожалуйста, не могу понять какой год"
+            }
+        ]
+    },
+    "81251": {
+        "id": 81251,
+        "type": "message",
+        "date": "2024-05-04T12:35:50",
+        "date_unixtime": "1714815350",
+        "edited": "2024-05-04T12:57:52",
+        "edited_unixtime": "1714816672",
+        "from": "Ex Ample",
+        "from_id": "user5543513851",
+        "reply_to_message_id": 60130,
+        "text": "Обратный порядок даты? 1951/8/2?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Обратный порядок даты? 1951/8/2?"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2024-05-04T13:12:07"
+                    },
+                    {
+                        "from": "Tatsiana",
+                        "from_id": "user1099160156",
+                        "date": "2024-05-04T12:57:52"
+                    }
+                ]
+            }
+        ]
+    },
+    "81256": {
+        "id": 81256,
+        "type": "message",
+        "date": "2024-05-04T13:10:44",
+        "date_unixtime": "1714817444",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 81251,
+        "text": "Или 1959 8.2",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Или 1959 8.2"
+            }
+        ]
+    },
+    "81257": {
+        "id": 81257,
+        "type": "message",
+        "date": "2024-05-04T13:11:00",
+        "date_unixtime": "1714817460",
+        "from": "A M",
+        "from_id": "user148775496",
+        "reply_to_message_id": 60130,
+        "text": "Спасибо",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо"
+            }
+        ]
+    },
+    "81262": {
+        "id": 81262,
+        "type": "message",
+        "date": "2024-05-04T13:23:34",
+        "date_unixtime": "1714818214",
+        "edited": "2024-05-04T13:44:24",
+        "edited_unixtime": "1714819464",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 81257,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "На мой взгляд, 9 там нет. Четко видна прямая черта от пера. Т.е. 1.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На мой взгляд, 9 там нет. Четко видна прямая черта от пера. Т.е. 1."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Tatsiana",
+                        "from_id": "user1099160156",
+                        "date": "2024-05-04T13:44:24"
+                    }
+                ]
+            }
+        ]
+    },
+    "81263": {
+        "id": 81263,
+        "type": "message",
+        "date": "2024-05-04T13:26:48",
+        "date_unixtime": "1714818408",
+        "from": "Ex Ample",
+        "from_id": "user5543513851",
+        "reply_to_message_id": 60130,
+        "text": "Возможно, ещё важен контекст, чтобы понять год. Мне эта бумага напомнила письма из лагерей, где с обратной стороны какое-нибудь фото",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Возможно, ещё важен контекст, чтобы понять год. Мне эта бумага напомнила письма из лагерей, где с обратной стороны какое-нибудь фото"
+            }
+        ]
+    },
+    "81264": {
+        "id": 81264,
+        "type": "message",
+        "date": "2024-05-04T13:28:44",
+        "date_unixtime": "1714818524",
+        "edited": "2024-07-30T14:48:39",
+        "edited_unixtime": "1722340119",
+        "from": "A M",
+        "from_id": "user148775496",
+        "reply_to_message_id": 60130,
+        "text": "Не, вроде в лагерях она не была, но тут у меня достоверности нет. Она встречается на фотографиях разного времени, это сестра моей прабабушки, они 1905-1910 г.р.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Не, вроде в лагерях она не была, но тут у меня достоверности нет. Она встречается на фотографиях разного времени, это сестра моей прабабушки, они 1905-1910 г.р."
+            }
+        ]
+    },
+    "81265": {
+        "id": 81265,
+        "type": "message",
+        "date": "2024-05-04T13:30:40",
+        "date_unixtime": "1714818640",
+        "from": "A M",
+        "from_id": "user148775496",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "Это фото с лица.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это фото с лица."
+            }
+        ]
+    },
+    "81266": {
+        "id": 81266,
+        "type": "message",
+        "date": "2024-05-04T13:31:09",
+        "date_unixtime": "1714818669",
+        "from": "A M",
+        "from_id": "user148775496",
+        "reply_to_message_id": 60130,
+        "text": "Но вот она же, однако дата тут уже 1960",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Но вот она же, однако дата тут уже 1960"
+            }
+        ]
+    },
+    "81267": {
+        "id": 81267,
+        "type": "message",
+        "date": "2024-05-04T13:31:15",
+        "date_unixtime": "1714818675",
+        "from": "A M",
+        "from_id": "user148775496",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 591,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "81273": {
+        "id": 81273,
+        "type": "message",
+        "date": "2024-05-04T15:58:58",
+        "date_unixtime": "1714827538",
+        "from": null,
+        "from_id": "user6335397845",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 490,
+        "height": 436,
+        "text": "Всем доброго времени суток помогите с прочтением имени жены и оставшихся детей! Корявенький подчерк",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Всем доброго времени суток помогите с прочтением имени жены и оставшихся детей! Корявенький подчерк"
+            }
+        ]
+    },
+    "81274": {
+        "id": 81274,
+        "type": "message",
+        "date": "2024-05-04T16:05:02",
+        "date_unixtime": "1714827902",
+        "edited": "2024-05-04T16:06:06",
+        "edited_unixtime": "1714827966",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 60130,
+        "text": "Каролина Хведзюк(ова). Сыновья Иосиф, Феликс, Иоанн, Казимир; дочь Марианна",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Каролина Хведзюк(ова). Сыновья Иосиф, Феликс, Иоанн, Казимир; дочь Марианна"
+            }
+        ]
+    },
+    "81275": {
+        "id": 81275,
+        "type": "message",
+        "date": "2024-05-04T16:06:09",
+        "date_unixtime": "1714827969",
+        "edited": "2024-05-04T16:09:52",
+        "edited_unixtime": "1714828192",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 60130,
+        "text": "Каролина урождённая Несцер(овна) Хведзюк",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Каролина урождённая Несцер(овна) Хведзюк"
+            }
+        ]
+    },
+    "81276": {
+        "id": 81276,
+        "type": "message",
+        "date": "2024-05-04T16:10:09",
+        "date_unixtime": "1714828209",
+        "from": null,
+        "from_id": "user6335397845",
+        "reply_to_message_id": 81274,
+        "text": "Переписчик ошибся, так как ее звали Катерина, а он написал Каролина, догадка подтвердилась! Большое спасибо!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Переписчик ошибся, так как ее звали Катерина, а он написал Каролина, догадка подтвердилась! Большое спасибо!"
+            }
+        ]
+    },
+    "81277": {
+        "id": 81277,
+        "type": "message",
+        "date": "2024-05-04T16:10:16",
+        "date_unixtime": "1714828216",
+        "from": null,
+        "from_id": "user6335397845",
+        "reply_to_message_id": 81275,
+        "text": "Большое спасибо!:)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Большое спасибо!:)"
+            }
+        ]
+    },
+    "81278": {
+        "id": 81278,
+        "type": "message",
+        "date": "2024-05-04T16:11:37",
+        "date_unixtime": "1714828297",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 81277,
+        "text": "Покойного Винцентом звали?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Покойного Винцентом звали?"
+            }
+        ]
+    },
+    "81279": {
+        "id": 81279,
+        "type": "message",
+        "date": "2024-05-04T16:11:53",
+        "date_unixtime": "1714828313",
+        "edited": "2024-05-04T16:12:05",
+        "edited_unixtime": "1714828325",
+        "from": null,
+        "from_id": "user6335397845",
+        "reply_to_message_id": 81278,
+        "text": "Станислав Хведзюк, мой дальний родственник",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Станислав Хведзюк, мой дальний родственник"
+            }
+        ]
+    },
+    "81282": {
+        "id": 81282,
+        "type": "message",
+        "date": "2024-05-04T18:07:38",
+        "date_unixtime": "1714835258",
+        "from": "Tatsiana",
+        "from_id": "user1099160156",
+        "reply_to_message_id": 60130,
+        "text": "Иосиф Феликса, Иоанна Казимирова и дочь Марианна",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Иосиф Феликса, Иоанна Казимирова и дочь Марианна"
+            }
+        ]
+    },
+    "81286": {
+        "id": 81286,
+        "type": "message",
+        "date": "2024-05-04T18:40:55",
+        "date_unixtime": "1714837255",
+        "from": null,
+        "from_id": "user6335397845",
+        "reply_to_message_id": 60130,
+        "text": "Спасибо, большое!:)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо, большое!:)"
+            }
+        ]
+    },
+    "81287": {
+        "id": 81287,
+        "type": "message",
+        "date": "2024-05-04T18:41:35",
+        "date_unixtime": "1714837295",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 81275,
+        "text": "Таки Несцерова)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Таки Несцерова)"
+            }
+        ]
+    },
+    "81288": {
+        "id": 81288,
+        "type": "message",
+        "date": "2024-05-04T19:04:12",
+        "date_unixtime": "1714838652",
+        "from": null,
+        "from_id": "user6335397845",
+        "reply_to_message_id": 81287,
+        "text": "Да, но писали и Несцеровна:)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, но писали и Несцеровна:)"
+            }
+        ]
+    },
+    "81289": {
+        "id": 81289,
+        "type": "message",
+        "date": "2024-05-04T19:05:08",
+        "date_unixtime": "1714838708",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 81288,
+        "text": "Ну не Нидерова же) Тут не в суффиксе дело",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну не Нидерова же) Тут не в суффиксе дело"
+            }
+        ]
+    },
+    "81290": {
+        "id": 81290,
+        "type": "message",
+        "date": "2024-05-04T19:05:48",
+        "date_unixtime": "1714838748",
+        "from": null,
+        "from_id": "user6335397845",
+        "reply_to_message_id": 81289,
+        "text": "Там из - за подчерка путаница. Иногда переписчик писал как врач",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Там из - за подчерка путаница. Иногда переписчик писал как врач"
+            }
+        ]
+    },
+    "81291": {
+        "id": 81291,
+        "type": "message",
+        "date": "2024-05-04T19:07:04",
+        "date_unixtime": "1714838824",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 81290,
+        "text": "Это не самое худшее, что может быть)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это не самое худшее, что может быть)"
+            }
+        ]
+    },
+    "81292": {
+        "id": 81292,
+        "type": "message",
+        "date": "2024-05-04T19:07:48",
+        "date_unixtime": "1714838868",
+        "from": null,
+        "from_id": "user6335397845",
+        "reply_to_message_id": 81291,
+        "text": "Вот опять же, фигурирует сын Иосиф, смотрю по всем метрическим выписям и его опять нет, что за дела)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вот опять же, фигурирует сын Иосиф, смотрю по всем метрическим выписям и его опять нет, что за дела)"
+            }
+        ]
+    },
+    "81296": {
+        "id": 81296,
+        "type": "message",
+        "date": "2024-05-04T19:24:56",
+        "date_unixtime": "1714839896",
+        "edited": "2024-05-04T19:27:47",
+        "edited_unixtime": "1714840067",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 81288,
+        "text": "Правильно, если фамилия девичья, в связи с чем к фамилии отца девицы добавляли суффикс -овна.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Правильно, если фамилия девичья, в связи с чем к фамилии отца девицы добавляли суффикс -овна."
+            }
+        ]
+    },
+    "81297": {
+        "id": 81297,
+        "type": "message",
+        "date": "2024-05-04T19:25:39",
+        "date_unixtime": "1714839939",
+        "from": null,
+        "from_id": "user6335397845",
+        "reply_to_message_id": 81296,
+        "text": "Интересно конечно!:)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Интересно конечно!:)"
+            }
+        ]
+    },
+    "81299": {
+        "id": 81299,
+        "type": "message",
+        "date": "2024-05-04T19:34:02",
+        "date_unixtime": "1714840442",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 81297,
+        "text": "Обычное дело в краях, находившихся когда-либо под Польшей.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Обычное дело в краях, находившихся когда-либо под Польшей."
+            }
+        ]
+    },
+    "81304": {
+        "id": 81304,
+        "type": "message",
+        "date": "2024-05-04T21:41:21",
+        "date_unixtime": "1714848081",
+        "edited": "2024-05-04T23:19:53",
+        "edited_unixtime": "1714853993",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 81299,
+        "text": "Да. Старый анекдот. Пан Кучагув, а дочка у него пани Кучагувна ))",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да. Старый анекдот. Пан Кучагув, а дочка у него пани Кучагувна ))"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😁",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2024-05-04T23:19:53"
+                    }
+                ]
+            }
+        ]
+    },
+    "81345": {
+        "id": 81345,
+        "type": "message",
+        "date": "2024-05-05T12:19:47",
+        "date_unixtime": "1714900787",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 60130,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "39_1616_0_0_23_059 akt zgonu Epstein Frida.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 1879,
+        "height": 1445,
+        "text": "Помогите, пожалуйста, прочитать фамилию родителей. Абкины?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Помогите, пожалуйста, прочитать фамилию родителей. Абкины?"
+            }
+        ]
+    },
+    "81353": {
+        "id": 81353,
+        "type": "message",
+        "date": "2024-05-05T13:51:23",
+        "date_unixtime": "1714906283",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 81345,
+        "text": "Да",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да"
+            }
+        ]
+    },
+    "81354": {
+        "id": 81354,
+        "type": "message",
+        "date": "2024-05-05T13:54:42",
+        "date_unixtime": "1714906482",
+        "from": "Victor",
+        "from_id": "user512489139",
+        "reply_to_message_id": 81304,
+        "text": "не, по-польски так - Купага, а дочь Купагувна",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "не, по-польски так - Купага, а дочь Купагувна"
+            }
+        ]
+    },
+    "81355": {
+        "id": 81355,
+        "type": "message",
+        "date": "2024-05-05T13:54:52",
+        "date_unixtime": "1714906492",
+        "from": "Victor",
+        "from_id": "user512489139",
+        "reply_to_message_id": 60130,
+        "text": "но смысл тот же",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "но смысл тот же"
+            }
+        ]
+    },
+    "81357": {
+        "id": 81357,
+        "type": "message",
+        "date": "2024-05-05T14:04:50",
+        "date_unixtime": "1714907090",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 81354,
+        "text": "В Щебжешине хронщ бжми в тшцине.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В Щебжешине хронщ бжми в тшцине."
+            }
+        ]
+    },
+    "81358": {
+        "id": 81358,
+        "type": "message",
+        "date": "2024-05-05T14:11:04",
+        "date_unixtime": "1714907464",
+        "edited": "2024-05-05T14:11:17",
+        "edited_unixtime": "1714907477",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 81353,
+        "text": "Спасибо! Жалко правда) надеялся, что другая, так как по этой мало что найти могу",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо! Жалко правда) надеялся, что другая, так как по этой мало что найти могу"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😢",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2024-05-05T14:11:17"
+                    }
+                ]
+            }
+        ]
+    },
+    "81359": {
+        "id": 81359,
+        "type": "message",
+        "date": "2024-05-05T14:12:19",
+        "date_unixtime": "1714907539",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 81353,
+        "text": "Там просто последняя буква еще на w смахивает, поэтому были сомнения",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Там просто последняя буква еще на w смахивает, поэтому были сомнения"
+            }
+        ]
+    },
+    "81360": {
+        "id": 81360,
+        "type": "message",
+        "date": "2024-05-05T14:12:58",
+        "date_unixtime": "1714907578",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 81359,
+        "text": "w есть в конце предыдущего слова.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "w есть в конце предыдущего слова."
+            }
+        ]
+    },
+    "81361": {
+        "id": 81361,
+        "type": "message",
+        "date": "2024-05-05T14:13:34",
+        "date_unixtime": "1714907614",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 81359,
+        "text": "И n в том же слове — четвертая с конца — для сравнения.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И n в том же слове — четвертая с конца — для сравнения."
+            }
+        ]
+    },
+    "81362": {
+        "id": 81362,
+        "type": "message",
+        "date": "2024-05-05T14:14:55",
+        "date_unixtime": "1714907695",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 81361,
+        "text": "Понял, вижу. Спасибо!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Понял, вижу. Спасибо!"
+            }
+        ]
+    },
+    "81363": {
+        "id": 81363,
+        "type": "message",
+        "date": "2024-05-05T14:15:33",
+        "date_unixtime": "1714907733",
+        "edited": "2024-05-05T14:15:43",
+        "edited_unixtime": "1714907743",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 60130,
+        "text": "Вообще круто польские метрики делали) прям с указанием родителей и соответственно девичьей фамилией",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вообще круто польские метрики делали) прям с указанием родителей и соответственно девичьей фамилией"
+            }
+        ]
+    },
+    "81378": {
+        "id": 81378,
+        "type": "message",
+        "date": "2024-05-05T14:33:42",
+        "date_unixtime": "1714908822",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 81363,
+        "text": "Ну у вас акт смерти",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну у вас акт смерти"
+            }
+        ]
+    },
+    "81379": {
+        "id": 81379,
+        "type": "message",
+        "date": "2024-05-05T14:34:49",
+        "date_unixtime": "1714908889",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 81378,
+        "text": "Ага, но родители то вообще не всегда писались. Зачастую было что-то типо Каценеленбоген Мирьям  дочь Янкеля, все. И без девичьей фамилии и без матери",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ага, но родители то вообще не всегда писались. Зачастую было что-то типо Каценеленбоген Мирьям  дочь Янкеля, все. И без девичьей фамилии и без матери"
+            }
+        ]
+    },
+    "81380": {
+        "id": 81380,
+        "type": "message",
+        "date": "2024-05-05T14:35:47",
+        "date_unixtime": "1714908947",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 60130,
+        "text": "В актах смерти еще писали, кто остался у умершего",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В актах смерти еще писали, кто остался у умершего"
+            }
+        ]
+    },
+    "81381": {
+        "id": 81381,
+        "type": "message",
+        "date": "2024-05-05T14:36:11",
+        "date_unixtime": "1714908971",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 81380,
+        "text": "Ну это прям вообще здорово бы было, но пока такого не видел еще",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну это прям вообще здорово бы было, но пока такого не видел еще"
+            }
+        ]
+    },
+    "81382": {
+        "id": 81382,
+        "type": "message",
+        "date": "2024-05-05T14:39:03",
+        "date_unixtime": "1714909143",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 81381,
+        "text": "А что у вас написано?)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А что у вас написано?)"
+            }
+        ]
+    },
+    "81383": {
+        "id": 81383,
+        "type": "message",
+        "date": "2024-05-05T14:40:25",
+        "date_unixtime": "1714909225",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 81382,
+        "text": "В плане? В этом акте? Сам по польски не читаю и плохо понимаю, но спросил у переводчика. По его переводу тут такого нет. Насколько я понимаю, тут общая информация. Когда она умерла и кто родители, все",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В плане? В этом акте? Сам по польски не читаю и плохо понимаю, но спросил у переводчика. По его переводу тут такого нет. Насколько я понимаю, тут общая информация. Когда она умерла и кто родители, все"
+            }
+        ]
+    },
+    "81384": {
+        "id": 81384,
+        "type": "message",
+        "date": "2024-05-05T14:40:43",
+        "date_unixtime": "1714909243",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 81383,
+        "text": "И кто засвидет смерть",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И кто засвидет смерть"
+            }
+        ]
+    },
+    "81385": {
+        "id": 81385,
+        "type": "message",
+        "date": "2024-05-05T14:42:00",
+        "date_unixtime": "1714909320",
+        "edited": "2024-05-05T14:42:44",
+        "edited_unixtime": "1714909364",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 81384,
+        "text": [
+            "Да, это тоже есть. Вот, что мне прислали.\n\n",
+            {
+                "type": "blockquote",
+                "text": "Działo się w mieście Pabianice dnia czwartego maja tysiąc dziewięćset szesnastego roku o godzinie dwunastej po południu stawili się Chaim Aron Bresler lat pięćdziesiąt jeden i Judel Mozes lat trzydziestu siedem mające tu Pabianicach zamieszkali i oświadczyli, że w dniu wczorajszym o godzinie czwartej rano zmarła tu w Pabianicach Frajda Epsztajn lat sześćdziesiąt mająca, córka Józefa i Sury małżonków Abkiw. Po przekonaniu się naocznym o zejściu tejże Akt ten spisany, przeczytany i wraz ze mną podpisany został.\n<Podpisy>\nUrzędnik Stanu Cywilnego\nBurmistrza m. Pabianice <Podpis>\n \nСоставлено в городе Пабьянице 4.05.1916 года в 12 часов дня. Хаим Арон Бреслер, 51 года, и Юдель Мозес, 37 лет, проживающие в Пабьянице, свидетельствуют, что вчера в 4 часа утра умерла в Пабьянице Фрида (Фрайда) Эпштейн, 60 лет, дочь Иосифа и Сары, супругов Абкин. После того, как они убедились в этом воочию, в моем присутствии был составлен, прочитан и подписан настоящий Акт.\n<подписи>\nЧиновник регистрации актов гражданского состояния\nБургомистра г. Пабьнице <подпись>",
+                "collapsed": false
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, это тоже есть. Вот, что мне прислали.\n\n"
+            },
+            {
+                "type": "blockquote",
+                "text": "Działo się w mieście Pabianice dnia czwartego maja tysiąc dziewięćset szesnastego roku o godzinie dwunastej po południu stawili się Chaim Aron Bresler lat pięćdziesiąt jeden i Judel Mozes lat trzydziestu siedem mające tu Pabianicach zamieszkali i oświadczyli, że w dniu wczorajszym o godzinie czwartej rano zmarła tu w Pabianicach Frajda Epsztajn lat sześćdziesiąt mająca, córka Józefa i Sury małżonków Abkiw. Po przekonaniu się naocznym o zejściu tejże Akt ten spisany, przeczytany i wraz ze mną podpisany został.\n<Podpisy>\nUrzędnik Stanu Cywilnego\nBurmistrza m. Pabianice <Podpis>\n \nСоставлено в городе Пабьянице 4.05.1916 года в 12 часов дня. Хаим Арон Бреслер, 51 года, и Юдель Мозес, 37 лет, проживающие в Пабьянице, свидетельствуют, что вчера в 4 часа утра умерла в Пабьянице Фрида (Фрайда) Эпштейн, 60 лет, дочь Иосифа и Сары, супругов Абкин. После того, как они убедились в этом воочию, в моем присутствии был составлен, прочитан и подписан настоящий Акт.\n<подписи>\nЧиновник регистрации актов гражданского состояния\nБургомистра г. Пабьнице <подпись>",
+                "collapsed": false
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-05-05T14:42:44"
+                    }
+                ]
+            }
+        ]
+    },
+    "81386": {
+        "id": 81386,
+        "type": "message",
+        "date": "2024-05-05T14:42:21",
+        "date_unixtime": "1714909341",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 60130,
+        "text": "Но Abkiw мы уже выяснили, что неверно. Тут Abkin",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Но Abkiw мы уже выяснили, что неверно. Тут Abkin"
+            }
+        ]
+    },
+    "81387": {
+        "id": 81387,
+        "type": "message",
+        "date": "2024-05-05T14:43:17",
+        "date_unixtime": "1714909397",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 81385,
+        "text": "Ну тогда не нужно переводить",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну тогда не нужно переводить"
+            }
+        ]
+    },
+    "81388": {
+        "id": 81388,
+        "type": "message",
+        "date": "2024-05-05T14:43:25",
+        "date_unixtime": "1714909405",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 81385,
+        "text": "Но те, кто засвидетельствовали - это как я понимаю раввины? Или люди проживающие вместе с ней в одном доме/родственники?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Но те, кто засвидетельствовали - это как я понимаю раввины? Или люди проживающие вместе с ней в одном доме/родственники?"
+            }
+        ]
+    },
+    "81389": {
+        "id": 81389,
+        "type": "message",
+        "date": "2024-05-05T14:43:34",
+        "date_unixtime": "1714909414",
+        "edited": "2024-05-05T14:43:57",
+        "edited_unixtime": "1714909437",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 81387,
+        "text": "Да, именно по Абкинам был вопрос/уточнение. Так как сам переводчик был неуверен",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, именно по Абкинам был вопрос/уточнение. Так как сам переводчик был неуверен"
+            }
+        ]
+    },
+    "81390": {
+        "id": 81390,
+        "type": "message",
+        "date": "2024-05-05T16:39:50",
+        "date_unixtime": "1714916390",
+        "from": "Tacciana",
+        "from_id": "user6965994936",
+        "reply_to_message_id": 81299,
+        "text": "А чаму ж тады ў праваслаўных кнігах так не пісалі? А уніяцкія за XVIIIст?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А чаму ж тады ў праваслаўных кнігах так не пісалі? А уніяцкія за XVIIIст?"
+            }
+        ]
+    },
+    "81402": {
+        "id": 81402,
+        "type": "message",
+        "date": "2024-05-05T21:08:44",
+        "date_unixtime": "1714932524",
+        "from": "Дмитрий",
+        "from_id": "user6122626194",
+        "reply_to_message_id": 60130,
+        "text": "Прошу прощения,не совсем расшыфровка ,но если можно помогите перевести \"шапки \" списков:",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Прошу прощения,не совсем расшыфровка ,но если можно помогите перевести \"шапки \" списков:"
+            }
+        ]
+    },
+    "81403": {
+        "id": 81403,
+        "type": "message",
+        "date": "2024-05-05T21:09:04",
+        "date_unixtime": "1714932544",
+        "from": "Дмитрий",
+        "from_id": "user6122626194",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 586,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "81404": {
+        "id": 81404,
+        "type": "message",
+        "date": "2024-05-05T21:11:48",
+        "date_unixtime": "1714932708",
+        "from": "Tacciana",
+        "from_id": "user6965994936",
+        "reply_to_message_id": 60130,
+        "text": "А гугл  і іншыя перакладчыкі не справіліся з задачай?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А гугл  і іншыя перакладчыкі не справіліся з задачай?"
+            }
+        ]
+    },
+    "81405": {
+        "id": 81405,
+        "type": "message",
+        "date": "2024-05-05T21:18:47",
+        "date_unixtime": "1714933127",
+        "edited": "2024-05-05T21:19:29",
+        "edited_unixtime": "1714933169",
+        "from": "Дмитрий",
+        "from_id": "user6122626194",
+        "reply_to_message_id": 81404,
+        "text": "Все ,снимаю вопрос.Стало понятно что это списки военнопленных из немецких лагерей.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Все ,снимаю вопрос.Стало понятно что это списки военнопленных из немецких лагерей."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2024-05-05T22:18:20"
+                    },
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-05-05T21:19:29"
+                    }
+                ]
+            }
+        ]
+    },
+    "81408": {
+        "id": 81408,
+        "type": "message",
+        "date": "2024-05-05T22:58:09",
+        "date_unixtime": "1714939089",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 1060,
+        "text": "Помогите, пожалуйста, опять с этим польским)) никак не могу расшифровывать его. Какие тут поля после места рождения?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Помогите, пожалуйста, опять с этим польским)) никак не могу расшифровывать его. Какие тут поля после места рождения?"
+            }
+        ]
+    },
+    "81409": {
+        "id": 81409,
+        "type": "message",
+        "date": "2024-05-05T23:08:33",
+        "date_unixtime": "1714939713",
+        "from": "Władek Pomorski",
+        "from_id": "user1352232635",
+        "reply_to_message_id": 60130,
+        "text": "- Вероиспов. - Национальность (в значении страны) -гражд. состояние -занятиe/профессия -на основании каких документов, кем и когда выданных, зарегистрирован (прописка) -где прописан постоянно - этаж и номер квартиры",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "- Вероиспов. - Национальность (в значении страны) -гражд. состояние -занятиe/профессия -на основании каких документов, кем и когда выданных, зарегистрирован (прописка) -где прописан постоянно - этаж и номер квартиры"
+            }
+        ]
+    },
+    "81410": {
+        "id": 81410,
+        "type": "message",
+        "date": "2024-05-05T23:08:38",
+        "date_unixtime": "1714939718",
+        "edited": "2024-05-05T23:09:09",
+        "edited_unixtime": "1714939749",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 60130,
+        "text": "Вероисповедание, гражданство??, семейное положение, профессия либо ремесло, на основании каких документов, через кого и когда выдана регистрация . Постоянный житель",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вероисповедание, гражданство??, семейное положение, профессия либо ремесло, на основании каких документов, через кого и когда выдана регистрация . Постоянный житель"
+            }
+        ]
+    },
+    "81411": {
+        "id": 81411,
+        "type": "message",
+        "date": "2024-05-05T23:09:08",
+        "date_unixtime": "1714939748",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 81410,
+        "text": "Так понимаю, о заполненных полях спрашивали",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так понимаю, о заполненных полях спрашивали"
+            }
+        ]
+    },
+    "81412": {
+        "id": 81412,
+        "type": "message",
+        "date": "2024-05-05T23:09:42",
+        "date_unixtime": "1714939782",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 60130,
+        "text": "Ручкой?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ручкой?"
+            }
+        ]
+    },
+    "81413": {
+        "id": 81413,
+        "type": "message",
+        "date": "2024-05-05T23:10:00",
+        "date_unixtime": "1714939800",
+        "edited": "2024-05-05T23:10:32",
+        "edited_unixtime": "1714939832",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 60130,
+        "text": "Разобрался только с Кавалер - холост и гандлеж - торговец",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Разобрался только с Кавалер - холост и гандлеж - торговец"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "K.",
+                        "from_id": "user1470689869",
+                        "date": "2024-05-05T23:10:32"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👌",
+                "recent": [
+                    {
+                        "from": "Marina Yurochka",
+                        "from_id": "user6971824773",
+                        "date": "2024-05-05T23:10:44"
+                    }
+                ]
+            }
+        ]
+    },
+    "81414": {
+        "id": 81414,
+        "type": "message",
+        "date": "2024-05-05T23:10:25",
+        "date_unixtime": "1714939825",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 60130,
+        "text": "Меня больше в целом интересует сама информация ручкой, да. Печатный переводчиком распознается в целом, но все равно спасибо)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Меня больше в целом интересует сама информация ручкой, да. Печатный переводчиком распознается в целом, но все равно спасибо)"
+            }
+        ]
+    },
+    "81415": {
+        "id": 81415,
+        "type": "message",
+        "date": "2024-05-05T23:11:02",
+        "date_unixtime": "1714939862",
+        "edited": "2024-05-05T23:17:27",
+        "edited_unixtime": "1714940247",
+        "from": "Władek Pomorski",
+        "from_id": "user1352232635",
+        "reply_to_message_id": 60130,
+        "text": "еврей (Mojżeszowe)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "еврей (Mojżeszowe)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-05-05T23:17:27"
+                    }
+                ]
+            }
+        ]
+    },
+    "81416": {
+        "id": 81416,
+        "type": "message",
+        "date": "2024-05-05T23:11:30",
+        "date_unixtime": "1714939890",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 60130,
+        "text": "По идее иудей должен быть, и из России",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "По идее иудей должен быть, и из России"
+            }
+        ]
+    },
+    "81417": {
+        "id": 81417,
+        "type": "message",
+        "date": "2024-05-05T23:11:41",
+        "date_unixtime": "1714939901",
+        "edited": "2024-05-05T23:12:09",
+        "edited_unixtime": "1714939929",
+        "from": "Ex Ample",
+        "from_id": "user5543513851",
+        "reply_to_message_id": 81413,
+        "text": "Dowód urodzenia...... Rabina m. Disna?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Dowód urodzenia...... Rabina m. Disna?"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👌",
+                "recent": [
+                    {
+                        "from": "Marina Yurochka",
+                        "from_id": "user6971824773",
+                        "date": "2024-05-05T23:12:09"
+                    }
+                ]
+            }
+        ]
+    },
+    "81418": {
+        "id": 81418,
+        "type": "message",
+        "date": "2024-05-05T23:13:04",
+        "date_unixtime": "1714939984",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 60130,
+        "text": "Видимо справка о рождении, выданная раввином города Дисна",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Видимо справка о рождении, выданная раввином города Дисна"
+            }
+        ]
+    },
+    "81419": {
+        "id": 81419,
+        "type": "message",
+        "date": "2024-05-05T23:13:10",
+        "date_unixtime": "1714939990",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 60130,
+        "text": "Если это поможет, то сам человек - Эпштейн Давид Рафаилович. Отец - Рафаил Гершевич, а мать - Фрада. Он из Дисны. Это к тому, чтобы эти буквы в других словах может можно было распознать",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Если это поможет, то сам человек - Эпштейн Давид Рафаилович. Отец - Рафаил Гершевич, а мать - Фрада. Он из Дисны. Это к тому, чтобы эти буквы в других словах может можно было распознать"
+            }
+        ]
+    },
+    "81420": {
+        "id": 81420,
+        "type": "message",
+        "date": "2024-05-05T23:15:08",
+        "date_unixtime": "1714940108",
+        "edited": "2024-05-05T23:15:48",
+        "edited_unixtime": "1714940148",
+        "from": "Władek Pomorski",
+        "from_id": "user1352232635",
+        "reply_to_message_id": 60130,
+        "text": "Świadectwo urodzeniu wydane..",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Świadectwo urodzeniu wydane.."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-05-05T23:15:48"
+                    }
+                ]
+            }
+        ]
+    },
+    "81421": {
+        "id": 81421,
+        "type": "message",
+        "date": "2024-05-05T23:18:22",
+        "date_unixtime": "1714940302",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 81420,
+        "text": "А подданство?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А подданство?"
+            }
+        ]
+    },
+    "81422": {
+        "id": 81422,
+        "type": "message",
+        "date": "2024-05-05T23:19:22",
+        "date_unixtime": "1714940362",
+        "from": "Władek Pomorski",
+        "from_id": "user1352232635",
+        "reply_to_message_id": 60130,
+        "text": "Rus",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Rus"
+            }
+        ]
+    },
+    "81423": {
+        "id": 81423,
+        "type": "message",
+        "date": "2024-05-05T23:19:57",
+        "date_unixtime": "1714940397",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 60130,
+        "text": "В 1921году?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В 1921году?"
+            }
+        ]
+    },
+    "81424": {
+        "id": 81424,
+        "type": "message",
+        "date": "2024-05-05T23:20:43",
+        "date_unixtime": "1714940443",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 60130,
+        "text": "Почему не Ros(ja)?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Почему не Ros(ja)?"
+            }
+        ]
+    },
+    "81426": {
+        "id": 81426,
+        "type": "message",
+        "date": "2024-05-05T23:29:04",
+        "date_unixtime": "1714940944",
+        "from": "Władek Pomorski",
+        "from_id": "user1352232635",
+        "reply_to_message_id": 60130,
+        "text": "это же не я писал",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "это же не я писал"
+            }
+        ]
+    },
+    "81427": {
+        "id": 81427,
+        "type": "message",
+        "date": "2024-05-05T23:31:21",
+        "date_unixtime": "1714941081",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 60130,
+        "text": "Спасибо большое всем! Раз была выписка из метрики о рождении, то есть надежда найти это дело...",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо большое всем! Раз была выписка из метрики о рождении, то есть надежда найти это дело..."
+            }
+        ]
+    },
+    "81530": {
+        "id": 81530,
+        "type": "message",
+        "date": "2024-05-06T16:18:29",
+        "date_unixtime": "1715001509",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 81427,
+        "text": "МК? Ну так там еще война потом архивы посметала",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "МК? Ну так там еще война потом архивы посметала"
+            }
+        ]
+    },
+    "81534": {
+        "id": 81534,
+        "type": "message",
+        "date": "2024-05-06T16:19:28",
+        "date_unixtime": "1715001568",
+        "edited": "2024-05-06T16:19:49",
+        "edited_unixtime": "1715001589",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 60130,
+        "text": "ну надо смотреть) надежда то есть. Сам человек из Дисны, там точно мк не сохранилась, тут может будет возможность выписку эту найти где-нибудь",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ну надо смотреть) надежда то есть. Сам человек из Дисны, там точно мк не сохранилась, тут может будет возможность выписку эту найти где-нибудь"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-05-06T16:19:49"
+                    }
+                ]
+            }
+        ]
+    },
+    "81557": {
+        "id": 81557,
+        "type": "message",
+        "date": "2024-05-06T17:46:28",
+        "date_unixtime": "1715006788",
+        "from": "Arciom Malinoŭski",
+        "from_id": "user884889101",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 828,
+        "height": 150,
+        "text": "Здравствуйте. Подскажите, а как зовут невесту? 😵‍💫",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте. Подскажите, а как зовут невесту? 😵‍💫"
+            }
+        ]
+    },
+    "81582": {
+        "id": 81582,
+        "type": "message",
+        "date": "2024-05-06T19:41:58",
+        "date_unixtime": "1715013718",
+        "edited": "2024-05-06T19:42:13",
+        "edited_unixtime": "1715013733",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 81557,
+        "text": "Fizina Czereszko. Скорее всего Ефросиния.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Fizina Czereszko. Скорее всего Ефросиния."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Arciom Malinoŭski",
+                        "from_id": "user884889101",
+                        "date": "2024-05-06T19:42:13"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤯",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-05-06T19:52:01"
+                    }
+                ]
+            }
+        ]
+    },
+    "81590": {
+        "id": 81590,
+        "type": "message",
+        "date": "2024-05-06T20:00:42",
+        "date_unixtime": "1715014842",
+        "edited": "2024-05-06T20:16:55",
+        "edited_unixtime": "1715015815",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 406,
+        "text": "1. Fruzyna Paszkowska (...)\nПомогите правильно её записать..",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "1. Fruzyna Paszkowska (...)\nПомогите правильно её записать.."
+            }
+        ]
+    },
+    "81591": {
+        "id": 81591,
+        "type": "message",
+        "date": "2024-05-06T20:06:42",
+        "date_unixtime": "1715015202",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 81590,
+        "text": "Что записать? Bez męża kucharzowa",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Что записать? Bez męża kucharzowa"
+            }
+        ]
+    },
+    "81592": {
+        "id": 81592,
+        "type": "message",
+        "date": "2024-05-06T20:08:47",
+        "date_unixtime": "1715015327",
+        "edited": "2024-05-06T20:15:40",
+        "edited_unixtime": "1715015740",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 81591,
+        "text": "Да, Kucharzowa это её девичья фамилия получается?\nСпасибо.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, Kucharzowa это её девичья фамилия получается?\nСпасибо."
+            }
+        ]
+    },
+    "81594": {
+        "id": 81594,
+        "type": "message",
+        "date": "2024-05-06T20:09:53",
+        "date_unixtime": "1715015393",
+        "edited": "2024-05-06T20:10:05",
+        "edited_unixtime": "1715015405",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 81592,
+        "text": "Я так понял, что кухарка",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я так понял, что кухарка"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "💯",
+                "recent": [
+                    {
+                        "from": "Marina Yurochka",
+                        "from_id": "user6971824773",
+                        "date": "2024-05-07T09:02:35"
+                    },
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2024-05-06T20:10:05"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-05-06T20:17:41"
+                    }
+                ]
+            }
+        ]
+    },
+    "81599": {
+        "id": 81599,
+        "type": "message",
+        "date": "2024-05-06T21:10:18",
+        "date_unixtime": "1715019018",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 81594,
+        "text": "С большой буквы?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "С большой буквы?"
+            }
+        ]
+    },
+    "81600": {
+        "id": 81600,
+        "type": "message",
+        "date": "2024-05-06T21:13:58",
+        "date_unixtime": "1715019238",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 60130,
+        "text": "Хорошо бы весь лист увидеть",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Хорошо бы весь лист увидеть"
+            }
+        ]
+    },
+    "81605": {
+        "id": 81605,
+        "type": "message",
+        "date": "2024-05-06T21:33:45",
+        "date_unixtime": "1715020425",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 1051,
+        "text": "",
+        "text_entities": []
+    },
+    "81607": {
+        "id": 81607,
+        "type": "message",
+        "date": "2024-05-06T21:37:46",
+        "date_unixtime": "1715020666",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 60130,
+        "text": "Ну там и Dziewczyna с большой буквы",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну там и Dziewczyna с большой буквы"
+            }
+        ]
+    },
+    "81608": {
+        "id": 81608,
+        "type": "message",
+        "date": "2024-05-06T21:38:09",
+        "date_unixtime": "1715020689",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 1111,
+        "text": "Из этого же дела, если я правильно поняла, то вверху слева:\n Tomasz Dominika syn Bokszanski ( Kutnik?).",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Из этого же дела, если я правильно поняла, то вверху слева:\n Tomasz Dominika syn Bokszanski ( Kutnik?)."
+            }
+        ]
+    },
+    "81609": {
+        "id": 81609,
+        "type": "message",
+        "date": "2024-05-06T21:41:21",
+        "date_unixtime": "1715020881",
+        "edited": "2024-05-06T21:42:18",
+        "edited_unixtime": "1715020938",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 60130,
+        "text": "Кутник",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Кутник"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-05-06T21:42:18"
+                    }
+                ]
+            }
+        ]
+    },
+    "81610": {
+        "id": 81610,
+        "type": "message",
+        "date": "2024-05-06T21:41:34",
+        "date_unixtime": "1715020894",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 60130,
+        "text": "Там еще и жабраки есть",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Там еще и жабраки есть"
+            }
+        ]
+    },
+    "81611": {
+        "id": 81611,
+        "type": "message",
+        "date": "2024-05-06T21:41:55",
+        "date_unixtime": "1715020915",
+        "edited": "2024-05-06T21:42:21",
+        "edited_unixtime": "1715020941",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 60130,
+        "text": "По польски kątnik",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "По польски kątnik"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-05-06T21:42:21"
+                    }
+                ]
+            }
+        ]
+    },
+    "81612": {
+        "id": 81612,
+        "type": "message",
+        "date": "2024-05-06T21:42:48",
+        "date_unixtime": "1715020968",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 81610,
+        "text": "Да, их распознала. А вот до кухарки сама не догадалась бы.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, их распознала. А вот до кухарки сама не догадалась бы."
+            }
+        ]
+    },
+    "81613": {
+        "id": 81613,
+        "type": "message",
+        "date": "2024-05-06T22:31:59",
+        "date_unixtime": "1715023919",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 81390,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1166,
+        "height": 422,
+        "text": "Напрыклад",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Напрыклад"
+            }
+        ]
+    },
+    "81614": {
+        "id": 81614,
+        "type": "message",
+        "date": "2024-05-06T22:32:00",
+        "date_unixtime": "1715023920",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 81390,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1197,
+        "height": 499,
+        "text": "",
+        "text_entities": []
+    },
+    "81615": {
+        "id": 81615,
+        "type": "message",
+        "date": "2024-05-06T22:49:20",
+        "date_unixtime": "1715024960",
+        "from": "Tacciana",
+        "from_id": "user6965994936",
+        "reply_to_message_id": 60130,
+        "text": "І што ? 1842 г. Былы уніяцкі храм.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "І што ? 1842 г. Былы уніяцкі храм."
+            }
+        ]
+    },
+    "81616": {
+        "id": 81616,
+        "type": "message",
+        "date": "2024-05-06T22:51:22",
+        "date_unixtime": "1715025082",
+        "edited": "2024-05-07T07:45:25",
+        "edited_unixtime": "1715057125",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 81615,
+        "text": "Былы святар, хутчэй. Калі за 5-10 год старая гвардыя сыйдзе, тады і скончацца Тамашоўны",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Былы святар, хутчэй. Калі за 5-10 год старая гвардыя сыйдзе, тады і скончацца Тамашоўны"
+            }
+        ]
+    },
+    "81754": {
+        "id": 81754,
+        "type": "message",
+        "date": "2024-05-07T12:31:08",
+        "date_unixtime": "1715074268",
+        "from": "Valery",
+        "from_id": "user982828746",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 753,
+        "height": 802,
+        "text": "",
+        "text_entities": []
+    },
+    "81755": {
+        "id": 81755,
+        "type": "message",
+        "date": "2024-05-07T12:32:11",
+        "date_unixtime": "1715074331",
+        "from": "Valery",
+        "from_id": "user982828746",
+        "reply_to_message_id": 60130,
+        "text": "Всем привет. Подскажите, пожалуйста, в чем измеряли зерновые для посева? Не разберу текст в колонках.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Всем привет. Подскажите, пожалуйста, в чем измеряли зерновые для посева? Не разберу текст в колонках."
+            }
+        ]
+    },
+    "81756": {
+        "id": 81756,
+        "type": "message",
+        "date": "2024-05-07T12:32:34",
+        "date_unixtime": "1715074354",
+        "from": "Valery",
+        "from_id": "user982828746",
+        "reply_to_message_id": 60130,
+        "text": "(инвентарь фальварка 1783 года)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "(инвентарь фальварка 1783 года)"
+            }
+        ]
+    },
+    "81758": {
+        "id": 81758,
+        "type": "message",
+        "date": "2024-05-07T12:39:15",
+        "date_unixtime": "1715074755",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 60130,
+        "text": "Бочки-гарнцы",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Бочки-гарнцы"
+            }
+        ]
+    },
+    "81759": {
+        "id": 81759,
+        "type": "message",
+        "date": "2024-05-07T12:41:59",
+        "date_unixtime": "1715074919",
+        "from": "~~AKH~~",
+        "from_id": "user133634873",
+        "reply_to_message_id": 60130,
+        "text": "И по центру осьмины",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И по центру осьмины"
+            }
+        ]
+    },
+    "81760": {
+        "id": 81760,
+        "type": "message",
+        "date": "2024-05-07T12:43:43",
+        "date_unixtime": "1715075023",
+        "edited": "2024-05-07T12:54:48",
+        "edited_unixtime": "1715075688",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 720,
+        "height": 1146,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-05-07T19:28:39"
+                    },
+                    {
+                        "from": "Valery",
+                        "from_id": "user982828746",
+                        "date": "2024-05-07T12:54:48"
+                    }
+                ]
+            }
+        ]
+    },
+    "81763": {
+        "id": 81763,
+        "type": "message",
+        "date": "2024-05-07T12:47:18",
+        "date_unixtime": "1715075238",
+        "from": "Valery",
+        "from_id": "user982828746",
+        "reply_to_message_id": 60130,
+        "text": "Спасибо!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо!"
+            }
+        ]
+    },
+    "81974": {
+        "id": 81974,
+        "type": "message",
+        "date": "2024-05-07T23:30:23",
+        "date_unixtime": "1715113823",
+        "edited": "2024-05-07T23:32:22",
+        "edited_unixtime": "1715113942",
+        "from": "Arciom Malinoŭski",
+        "from_id": "user884889101",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 828,
+        "height": 209,
+        "text": "Подскажите, что написано в 4 строке 😭 ??? curki Rosowskiego ??? i Hanny…\n\nВообще, они Rosolko там. Может, Rosolkowskiego так написали 🤔",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Подскажите, что написано в 4 строке 😭 ??? curki Rosowskiego ??? i Hanny…\n\nВообще, они Rosolko там. Может, Rosolkowskiego так написали 🤔"
+            }
+        ]
+    },
+    "81975": {
+        "id": 81975,
+        "type": "message",
+        "date": "2024-05-07T23:41:22",
+        "date_unixtime": "1715114482",
+        "edited": "2024-05-08T09:35:51",
+        "edited_unixtime": "1715150151",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 60130,
+        "text": "Радзивон Евхимов барабанщик Роты Шефской Полк Ростовского с Анной Мурашовной?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Радзивон Евхимов барабанщик Роты Шефской Полк Ростовского с Анной Мурашовной?"
+            }
+        ]
+    },
+    "81976": {
+        "id": 81976,
+        "type": "message",
+        "date": "2024-05-07T23:48:26",
+        "date_unixtime": "1715114906",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 81974,
+        "text": "А в каком слове вы Расолько увидели?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А в каком слове вы Расолько увидели?"
+            }
+        ]
+    },
+    "81977": {
+        "id": 81977,
+        "type": "message",
+        "date": "2024-05-07T23:54:57",
+        "date_unixtime": "1715115297",
+        "edited": "2024-05-08T10:49:46",
+        "edited_unixtime": "1715154586",
+        "from": "Arciom Malinoŭski",
+        "from_id": "user884889101",
+        "reply_to_message_id": 81975,
+        "text": "Тогда возникает другой вопрос: как барабанщик роты полка Ростовского в 1776 году оказался в Дукорской волости? 🤔😅",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тогда возникает другой вопрос: как барабанщик роты полка Ростовского в 1776 году оказался в Дукорской волости? 🤔😅"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-05-08T10:49:46"
+                    }
+                ]
+            }
+        ]
+    },
+    "81978": {
+        "id": 81978,
+        "type": "message",
+        "date": "2024-05-07T23:58:32",
+        "date_unixtime": "1715115512",
+        "edited": "2024-05-08T00:07:40",
+        "edited_unixtime": "1715116060",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 60130,
+        "text": "Проследите боевой или мирный  путь Полка Ростовского",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Проследите боевой или мирный  путь Полка Ростовского"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Arciom Malinoŭski",
+                        "from_id": "user884889101",
+                        "date": "2024-05-08T00:07:40"
+                    }
+                ]
+            }
+        ]
+    },
+    "81994": {
+        "id": 81994,
+        "type": "message",
+        "date": "2024-05-08T08:27:34",
+        "date_unixtime": "1715146054",
+        "edited": "2024-05-08T10:44:48",
+        "edited_unixtime": "1715154288",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 81977,
+        "text": "РП того времени представляла собой проходной двор. Возможно русские войска через ваши места возвращались домой (находились на зимних квартирах) после русско-турецкой войны или обеспечивали какие-то интересы РИ в РП.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "РП того времени представляла собой проходной двор. Возможно русские войска через ваши места возвращались домой (находились на зимних квартирах) после русско-турецкой войны или обеспечивали какие-то интересы РИ в РП."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Arciom Malinoŭski",
+                        "from_id": "user884889101",
+                        "date": "2024-05-08T10:44:49"
+                    }
+                ]
+            }
+        ]
+    },
+    "82031": {
+        "id": 82031,
+        "type": "message",
+        "date": "2024-05-08T14:50:01",
+        "date_unixtime": "1715169001",
+        "from": "💐🌷Nastazja🍓🍒",
+        "from_id": "user6724192744",
+        "reply_to_message_id": 60130,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "image_2024-05-08_14-50-00.png",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/png",
+        "width": 1366,
+        "height": 768,
+        "text": "",
+        "text_entities": []
+    }
+}

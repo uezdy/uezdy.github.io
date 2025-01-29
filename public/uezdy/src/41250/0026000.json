@@ -1,0 +1,23 @@
+{
+    "42029": {
+        "id": 42029,
+        "type": "message",
+        "date": "2023-04-10T14:03:47",
+        "date_unixtime": "1681124627",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 41250,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://ethno.by/temy/"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://ethno.by/temy/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "24228": {
+        "id": 24228,
+        "type": "message",
+        "date": "2022-11-06T16:20:00",
+        "date_unixtime": "1667740800",
+        "edited": "2023-06-22T20:46:56",
+        "edited_unixtime": "1687456016",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "reply_to_message_id": 24122,
+        "text": [
+            {
+                "type": "hashtag",
+                "text": "#карты"
+            },
+            "\nПодвижные карты (платная версия).\n",
+            {
+                "type": "link",
+                "text": "https://orda.of.by/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "hashtag",
+                "text": "#карты"
+            },
+            {
+                "type": "plain",
+                "text": "\nПодвижные карты (платная версия).\n"
+            },
+            {
+                "type": "link",
+                "text": "https://orda.of.by/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Надежда",
+                        "from_id": "user526360320",
+                        "date": "2024-01-30T21:47:35"
+                    },
+                    {
+                        "from": "🅺🅰️🅻🅸🅿️🆂🅾️",
+                        "from_id": "user954974979",
+                        "date": "2023-08-13T08:15:44"
+                    },
+                    {
+                        "from": "Olga",
+                        "from_id": "user1117086057",
+                        "date": "2023-06-22T20:46:56"
+                    }
+                ]
+            }
+        ]
+    }
+}

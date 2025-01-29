@@ -1,0 +1,48 @@
+{
+    "24253": {
+        "id": 24253,
+        "type": "message",
+        "date": "2022-11-06T17:45:00",
+        "date_unixtime": "1667745900",
+        "edited": "2023-02-23T20:01:59",
+        "edited_unixtime": "1677171719",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Rodziny_szlacheckie_na_Litwie_w_XIX_wieku_powiaty_lidzki,_oszmiański.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Cz. Malewski \"Rodziny szlacheckie na Litwie w XIX wieku powiaty lidzki, oszmiański i wileński\", Warszawa, 2016 . / Чеслав Малевский \"Семьи шляхетские на Литве в 19 века, поветы Лидский, Ошмянский и Виленский\", Варшава, 2016 г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Cz. Malewski \"Rodziny szlacheckie na Litwie w XIX wieku powiaty lidzki, oszmiański i wileński\", Warszawa, 2016 . / Чеслав Малевский \"Семьи шляхетские на Литве в 19 века, поветы Лидский, Ошмянский и Виленский\", Варшава, 2016 г."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 7,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Natalia Lu",
+                        "from_id": "user219698220",
+                        "date": "2024-09-30T22:39:35"
+                    },
+                    {
+                        "from": "Наталья",
+                        "from_id": "user382266006",
+                        "date": "2024-07-19T08:26:51"
+                    },
+                    {
+                        "from": "Christie",
+                        "from_id": "user383137298",
+                        "date": "2024-03-28T19:26:44"
+                    }
+                ]
+            }
+        ]
+    }
+}

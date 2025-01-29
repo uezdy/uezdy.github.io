@@ -1,0 +1,55 @@
+{
+    "92070": {
+        "id": 92070,
+        "type": "message",
+        "date": "2024-08-12T19:03:42",
+        "date_unixtime": "1723478622",
+        "edited": "2024-08-12T19:52:58",
+        "edited_unixtime": "1723481578",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 91995,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 946,
+        "height": 234,
+        "text": [
+            "Кто знает, по FamilySearch ",
+            {
+                "type": "text_link",
+                "text": "информация",
+                "href": "https://forum.vgd.ru/6049/129883/"
+            },
+            " еще актуальна?\nНаходится всего ",
+            {
+                "type": "text_link",
+                "text": "одно сообщение",
+                "href": "https://forum.vgd.ru/post/3467/25676/p4231867.htm#pp4231867"
+            },
+            " в теме Борисовского уезда."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Кто знает, по FamilySearch "
+            },
+            {
+                "type": "text_link",
+                "text": "информация",
+                "href": "https://forum.vgd.ru/6049/129883/"
+            },
+            {
+                "type": "plain",
+                "text": " еще актуальна?\nНаходится всего "
+            },
+            {
+                "type": "text_link",
+                "text": "одно сообщение",
+                "href": "https://forum.vgd.ru/post/3467/25676/p4231867.htm#pp4231867"
+            },
+            {
+                "type": "plain",
+                "text": " в теме Борисовского уезда."
+            }
+        ]
+    }
+}

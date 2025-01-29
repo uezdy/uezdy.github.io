@@ -1,0 +1,238 @@
+{
+    "78226": {
+        "id": 78226,
+        "type": "message",
+        "date": "2024-04-04T16:39:37",
+        "date_unixtime": "1712237977",
+        "edited": "2024-04-04T16:41:25",
+        "edited_unixtime": "1712238085",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 24122,
+        "text": [
+            "Вот полезная ссылка. НИАБ Фонд 10 Минская общая ремесленная управа, город Минск Минского уезда Минской губернии\n",
+            {
+                "type": "link",
+                "text": "https://drive.google.com/file/d/1nxuHe7MUm9869WDL_APogOiuqR0lfzed/view"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вот полезная ссылка. НИАБ Фонд 10 Минская общая ремесленная управа, город Минск Минского уезда Минской губернии\n"
+            },
+            {
+                "type": "link",
+                "text": "https://drive.google.com/file/d/1nxuHe7MUm9869WDL_APogOiuqR0lfzed/view"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "Olga Zhuravskaya",
+                        "from_id": "user1625076934",
+                        "date": "2024-10-04T03:27:44"
+                    },
+                    {
+                        "from": "Marina Yurochka",
+                        "from_id": "user6971824773",
+                        "date": "2024-04-04T18:17:35"
+                    },
+                    {
+                        "from": "Александр Папин",
+                        "from_id": "user698870737",
+                        "date": "2024-04-04T16:43:12"
+                    }
+                ]
+            }
+        ]
+    },
+    "78227": {
+        "id": 78227,
+        "type": "message",
+        "date": "2024-04-04T16:41:07",
+        "date_unixtime": "1712238067",
+        "edited": "2024-04-04T16:41:55",
+        "edited_unixtime": "1712238115",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 24122,
+        "text": "Есть списки и алфавиты мастеров и подмастерьев за разные года. Попадаются дела о выдаче паспортов ремесленникам и их семействам.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Есть списки и алфавиты мастеров и подмастерьев за разные года. Попадаются дела о выдаче паспортов ремесленникам и их семействам."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-04-04T20:46:15"
+                    },
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2024-04-04T19:32:46"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "K.",
+                        "from_id": "user1470689869",
+                        "date": "2024-04-04T16:41:55"
+                    }
+                ]
+            }
+        ]
+    },
+    "78608": {
+        "id": 78608,
+        "type": "message",
+        "date": "2024-04-06T19:33:10",
+        "date_unixtime": "1712421190",
+        "edited": "2024-04-06T19:40:27",
+        "edited_unixtime": "1712421627",
+        "from": "🤫🏍⛺",
+        "from_id": "user6213882374",
+        "reply_to_message_id": 24122,
+        "text": [
+            "Рады паведаміць — мы аднавілі онлайн-архіў VEHA ",
+            {
+                "type": "link",
+                "text": "https://veha-archive.org/"
+            },
+            "  \n\nЗараз сайт у працэсе напаўнення. Кожны дзень будуць абнаўляцца і дадавацца новыя дадзеныя, тэксты, фотаздымкі.\n\nКалі вы заўважылі памылку, хочаце абнавіць подпіс да апублікованай фатаграфіі, даслаць новыя фота, ці прапанаваць для публікацыі тэкст: пішыце нам — ",
+            {
+                "type": "email",
+                "text": "archive.veha@gmail.com"
+            },
+            "\n\n",
+            {
+                "type": "link",
+                "text": "https://veha-archive.org/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Рады паведаміць — мы аднавілі онлайн-архіў VEHA "
+            },
+            {
+                "type": "link",
+                "text": "https://veha-archive.org/"
+            },
+            {
+                "type": "plain",
+                "text": "  \n\nЗараз сайт у працэсе напаўнення. Кожны дзень будуць абнаўляцца і дадавацца новыя дадзеныя, тэксты, фотаздымкі.\n\nКалі вы заўважылі памылку, хочаце абнавіць подпіс да апублікованай фатаграфіі, даслаць новыя фота, ці прапанаваць для публікацыі тэкст: пішыце нам — "
+            },
+            {
+                "type": "email",
+                "text": "archive.veha@gmail.com"
+            },
+            {
+                "type": "plain",
+                "text": "\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://veha-archive.org/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 9,
+                "emoji": "👏",
+                "recent": [
+                    {
+                        "from": "Galina",
+                        "from_id": "user1258511999",
+                        "date": "2024-08-19T23:19:36"
+                    },
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-04-28T07:43:26"
+                    },
+                    {
+                        "from": "Ирина",
+                        "from_id": "user982481614",
+                        "date": "2024-04-08T00:24:00"
+                    }
+                ]
+            }
+        ]
+    },
+    "78756": {
+        "id": 78756,
+        "type": "message",
+        "date": "2024-04-08T16:27:54",
+        "date_unixtime": "1712582874",
+        "from": "Julia Koleda",
+        "from_id": "user454470533",
+        "reply_to_message_id": 24122,
+        "text": [
+            "Радуньскі р-н, в Матылі і іншыя\n\n",
+            {
+                "type": "link",
+                "text": "https://www.facebook.com/share/p/2eGbi7erii6C7vd7/?mibextid=oFDknk"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Радуньскі р-н, в Матылі і іншыя\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://www.facebook.com/share/p/2eGbi7erii6C7vd7/?mibextid=oFDknk"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "80763": {
+        "id": 80763,
+        "type": "message",
+        "date": "2024-04-28T07:37:24",
+        "date_unixtime": "1714279044",
+        "from": "Elena",
+        "from_id": "user1022523832",
+        "reply_to_message_id": 78608,
+        "text": "Прям сразу на ошибка на странице runes вместо ruins.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Прям сразу на ошибка на странице runes вместо ruins."
+            }
+        ]
+    }
+}

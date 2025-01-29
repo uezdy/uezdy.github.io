@@ -1,0 +1,21 @@
+{
+    "24525": {
+        "id": 24525,
+        "type": "message",
+        "date": "2022-11-07T20:16:56",
+        "date_unixtime": "1667841416",
+        "from": "Victor",
+        "from_id": "user512489139",
+        "reply_to_message_id": 24422,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Список_беженцев_направленных_в_Витебскую_губернию_1917.zip",
+        "mime_type": "application/zip",
+        "text": "Список беженцев направленных в Витебскую губернию 1917",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Список беженцев направленных в Витебскую губернию 1917"
+            }
+        ]
+    }
+}

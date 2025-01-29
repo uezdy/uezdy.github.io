@@ -1,0 +1,19 @@
+{
+    "35214": {
+        "id": 35214,
+        "type": "message",
+        "date": "2023-02-23T21:28:57",
+        "date_unixtime": "1677176937",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "forwarded_from": "YN",
+        "reply_to_message_id": 35213,
+        "text": "ну так, ён жа прадстаўляе літоўскіх палякаў",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ну так, ён жа прадстаўляе літоўскіх палякаў"
+            }
+        ]
+    }
+}

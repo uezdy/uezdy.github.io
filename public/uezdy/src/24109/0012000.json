@@ -1,0 +1,47 @@
+{
+    "24251": {
+        "id": 24251,
+        "type": "message",
+        "date": "2022-11-06T17:35:00",
+        "date_unixtime": "1667745300",
+        "edited": "2022-11-24T13:04:17",
+        "edited_unixtime": "1669284257",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "J. Zyskar NASZE KOSCIOLY 1913.pdf",
+        "mime_type": "application/pdf",
+        "text": "J. Zyskar \"NASZE KOSCIOLY\", 1913 r.  / Жискар \"Наши костёлы\", 1913 г. (польский язык).",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "J. Zyskar \"NASZE KOSCIOLY\", 1913 r.  / Жискар \"Наши костёлы\", 1913 г. (польский язык)."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 10,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Татьяна Ракитская",
+                        "from_id": "user968186113",
+                        "date": "2024-10-25T21:33:04"
+                    },
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-08-23T19:54:22"
+                    },
+                    {
+                        "from": "Наталья",
+                        "from_id": "user382266006",
+                        "date": "2024-07-19T08:26:47"
+                    }
+                ]
+            }
+        ]
+    }
+}

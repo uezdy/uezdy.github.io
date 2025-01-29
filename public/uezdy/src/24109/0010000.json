@@ -1,0 +1,47 @@
+{
+    "24248": {
+        "id": 24248,
+        "type": "message",
+        "date": "2022-11-06T17:24:34",
+        "date_unixtime": "1667744674",
+        "edited": "2023-01-10T12:42:51",
+        "edited_unixtime": "1673343771",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "BelorusskayaSSR_ATD_1947god.djvu",
+        "mime_type": "image/vnd.djvu+multipage",
+        "text": "Белорусская ССР, Административно-территориальное деление. 1947 г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Белорусская ССР, Административно-территориальное деление. 1947 г."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Наталья",
+                        "from_id": "user382266006",
+                        "date": "2024-07-19T08:26:45"
+                    },
+                    {
+                        "from": "Natasha",
+                        "from_id": "user1230705279",
+                        "date": "2024-01-16T13:23:05"
+                    },
+                    {
+                        "from": "Alena",
+                        "from_id": "user262554096",
+                        "date": "2023-05-07T00:05:29"
+                    }
+                ]
+            }
+        ]
+    }
+}

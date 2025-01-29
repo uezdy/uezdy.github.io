@@ -1,0 +1,49 @@
+{
+    "52120": {
+        "id": 52120,
+        "type": "message",
+        "date": "2023-07-18T00:02:02",
+        "date_unixtime": "1689627722",
+        "edited": "2023-07-18T09:19:06",
+        "edited_unixtime": "1689661146",
+        "from": null,
+        "from_id": "user1647115375",
+        "reply_to_message_id": 24219,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://t.me/Navahrudak"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://t.me/Navahrudak"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "$€£¥ €£¥₩$",
+                        "from_id": "user6871021372",
+                        "date": "2024-11-12T12:23:58"
+                    },
+                    {
+                        "from": "Vasi Vasi",
+                        "from_id": "user7071190955",
+                        "date": "2024-10-20T20:35:07"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2024-05-08T15:34:09"
+                    }
+                ]
+            }
+        ]
+    }
+}

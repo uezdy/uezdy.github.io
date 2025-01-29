@@ -1,0 +1,60 @@
+{
+    "93656": {
+        "id": 93656,
+        "type": "message",
+        "date": "2024-08-22T16:03:44",
+        "date_unixtime": "1724331824",
+        "edited": "2024-08-22T16:42:37",
+        "edited_unixtime": "1724334157",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "T.A",
+        "reply_to_message_id": 24219,
+        "text": [
+            "Принимайте Чат Минского уезда\n ",
+            {
+                "type": "link",
+                "text": "https://t.me/minskujezd"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Принимайте Чат Минского уезда\n "
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/minskujezd"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 9,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Яська Гаспадар з-пад Вільні",
+                        "from_id": "user787777714",
+                        "date": "2024-11-11T21:11:42"
+                    },
+                    {
+                        "from": "Nastka🦩",
+                        "from_id": "user492656669",
+                        "date": "2024-08-31T13:08:09"
+                    },
+                    {
+                        "from": "Л",
+                        "from_id": "user1311507774",
+                        "date": "2024-08-23T00:05:23"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "85297": {
+        "id": 85297,
+        "type": "message",
+        "date": "2024-06-08T17:34:50",
+        "date_unixtime": "1717857290",
+        "edited": "2024-06-08T18:28:13",
+        "edited_unixtime": "1717860493",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Euheniya Yanuschenko",
+        "reply_to_message_id": 24219,
+        "text": [
+            "Чат по Городокскому уезду ",
+            {
+                "type": "link",
+                "text": "https://t.me/gorodokskij"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Чат по Городокскому уезду "
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/gorodokskij"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Анна Сорокина",
+                        "from_id": "user5856602803",
+                        "date": "2024-11-06T16:33:19"
+                    },
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-06-08T20:33:17"
+                    },
+                    {
+                        "from": "P",
+                        "from_id": "user201810877",
+                        "date": "2024-06-08T18:28:13"
+                    }
+                ]
+            }
+        ]
+    }
+}

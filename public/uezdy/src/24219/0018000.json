@@ -1,0 +1,44 @@
+{
+    "54231": {
+        "id": 54231,
+        "type": "message",
+        "date": "2023-08-11T10:58:22",
+        "date_unixtime": "1691740702",
+        "edited": "2023-11-19T11:29:50",
+        "edited_unixtime": "1700382590",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 24219,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://t.me/Ashmiany"
+            },
+            "\nГруппа Ошмянского Уезда"
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://t.me/Ashmiany"
+            },
+            {
+                "type": "plain",
+                "text": "\nГруппа Ошмянского Уезда"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user1647115375",
+                        "date": "2023-11-19T11:29:50"
+                    }
+                ]
+            }
+        ]
+    }
+}

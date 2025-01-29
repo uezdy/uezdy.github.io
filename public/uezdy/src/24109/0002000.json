@@ -1,0 +1,54 @@
+{
+    "24181": {
+        "id": 24181,
+        "type": "message",
+        "date": "2022-11-06T15:00:05",
+        "date_unixtime": "1667736005",
+        "edited": "2022-11-06T15:06:37",
+        "edited_unixtime": "1667736397",
+        "from": "Екатерина",
+        "from_id": "user5201994014",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Витебская губерния_1906.pdf",
+        "mime_type": "application/pdf",
+        "text": "Список населенных мест Витебской губернии 1906",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Список населенных мест Витебской губернии 1906"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 8,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Наталья",
+                        "from_id": "user382266006",
+                        "date": "2024-07-19T08:26:35"
+                    },
+                    {
+                        "from": "Ірына Мышкавец",
+                        "from_id": "user1271760870",
+                        "date": "2024-03-08T21:53:50"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Елена Нефедова",
+                        "from_id": "user1335525990",
+                        "date": "2024-12-30T01:12:49"
+                    }
+                ]
+            }
+        ]
+    }
+}

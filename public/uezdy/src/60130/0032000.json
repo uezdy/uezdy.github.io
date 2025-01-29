@@ -1,0 +1,21 @@
+{
+    "60208": {
+        "id": 60208,
+        "type": "message",
+        "date": "2023-10-28T15:24:42",
+        "date_unixtime": "1698495882",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 719,
+        "height": 139,
+        "text": "А вот еще дети Агаты Липницкой",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А вот еще дети Агаты Липницкой"
+            }
+        ]
+    }
+}

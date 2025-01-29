@@ -1,0 +1,124 @@
+{
+    "67482": {
+        "id": 67482,
+        "type": "message",
+        "date": "2024-01-08T21:34:08",
+        "date_unixtime": "1704738848",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Чысты Гуманітарый",
+        "reply_to_message_id": 24122,
+        "text": "Про архив ДАЖО в открытом доступе на wiki Вы же знаете?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Про архив ДАЖО в открытом доступе на wiki Вы же знаете?"
+            }
+        ]
+    },
+    "67483": {
+        "id": 67483,
+        "type": "message",
+        "date": "2024-01-08T21:34:08",
+        "date_unixtime": "1704738848",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Чысты Гуманітарый",
+        "reply_to_message_id": 24122,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%96%D0%9E"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%96%D0%9E"
+            }
+        ]
+    },
+    "67484": {
+        "id": 67484,
+        "type": "message",
+        "date": "2024-01-08T21:34:09",
+        "date_unixtime": "1704738849",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Чысты Гуманітарый",
+        "reply_to_message_id": 24122,
+        "text": "И по Волыни есть чудный ресурс",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И по Волыни есть чудный ресурс"
+            }
+        ]
+    },
+    "67485": {
+        "id": 67485,
+        "type": "message",
+        "date": "2024-01-08T21:34:09",
+        "date_unixtime": "1704738849",
+        "edited": "2024-01-08T21:39:29",
+        "edited_unixtime": "1704739169",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Чысты Гуманітарый",
+        "reply_to_message_id": 24122,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://wolyn-metryki.pl/joomla/index.php"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://wolyn-metryki.pl/joomla/index.php"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-01-08T21:39:29"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👌",
+                "recent": [
+                    {
+                        "from": "Чысты Гуманітарый",
+                        "from_id": "user453928472",
+                        "date": "2024-01-08T21:56:40"
+                    }
+                ]
+            }
+        ]
+    },
+    "68955": {
+        "id": 68955,
+        "type": "message",
+        "date": "2024-01-16T10:18:36",
+        "date_unixtime": "1705389516",
+        "from": "Valery",
+        "from_id": "user982828746",
+        "reply_to_message_id": 58225,
+        "text": "А в каком чате не помните?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А в каком чате не помните?"
+            }
+        ]
+    }
+}

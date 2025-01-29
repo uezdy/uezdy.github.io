@@ -1,0 +1,57 @@
+{
+    "24226": {
+        "id": 24226,
+        "type": "message",
+        "date": "2022-11-06T16:14:35",
+        "date_unixtime": "1667740475",
+        "edited": "2024-08-10T10:52:00",
+        "edited_unixtime": "1723276320",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "reply_to_message_id": 24122,
+        "text": [
+            {
+                "type": "hashtag",
+                "text": "#архивы"
+            },
+            "\nЦентральный фондовый каталог Российской Федерации.\n",
+            {
+                "type": "link",
+                "text": "https://cfc.rusarchives.ru/CFC-search/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "hashtag",
+                "text": "#архивы"
+            },
+            {
+                "type": "plain",
+                "text": "\nЦентральный фондовый каталог Российской Федерации.\n"
+            },
+            {
+                "type": "link",
+                "text": "https://cfc.rusarchives.ru/CFC-search/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Galina Yukhnovich",
+                        "from_id": "user537360092",
+                        "date": "2024-08-10T10:52:00"
+                    }
+                ]
+            }
+        ]
+    }
+}

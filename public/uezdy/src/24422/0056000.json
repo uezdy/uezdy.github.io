@@ -1,0 +1,383 @@
+{
+    "54196": {
+        "id": 54196,
+        "type": "message",
+        "date": "2023-08-10T20:35:25",
+        "date_unixtime": "1691688925",
+        "edited": "2023-08-11T14:23:07",
+        "edited_unixtime": "1691752987",
+        "from": "Алексей Билецкий",
+        "from_id": "user1133915357",
+        "reply_to_message_id": 24422,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 720,
+        "height": 960,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "EscapeFromPolesie",
+                        "from_id": "user786733941",
+                        "date": "2023-08-11T18:32:04"
+                    },
+                    {
+                        "from": "Antikom",
+                        "from_id": "user305556701",
+                        "date": "2023-08-11T14:23:07"
+                    }
+                ]
+            }
+        ]
+    },
+    "54197": {
+        "id": 54197,
+        "type": "message",
+        "date": "2023-08-10T20:35:32",
+        "date_unixtime": "1691688932",
+        "edited": "2023-08-11T14:23:07",
+        "edited_unixtime": "1691752987",
+        "from": "Алексей Билецкий",
+        "from_id": "user1133915357",
+        "reply_to_message_id": 24422,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 720,
+        "height": 770,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Antikom",
+                        "from_id": "user305556701",
+                        "date": "2023-08-11T14:23:07"
+                    }
+                ]
+            }
+        ]
+    },
+    "54198": {
+        "id": 54198,
+        "type": "message",
+        "date": "2023-08-10T20:36:32",
+        "date_unixtime": "1691688992",
+        "edited": "2023-08-11T14:23:09",
+        "edited_unixtime": "1691752989",
+        "from": "Алексей Билецкий",
+        "from_id": "user1133915357",
+        "reply_to_message_id": 24422,
+        "text": "Записи мещан Минской губернии за 1917 год фамилия Жилинские. Они родили двух детей 1912 и 1914 в м.Полонное Хмельницкая область. Может кто ищет своих",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Записи мещан Минской губернии за 1917 год фамилия Жилинские. Они родили двух детей 1912 и 1914 в м.Полонное Хмельницкая область. Может кто ищет своих"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Antikom",
+                        "from_id": "user305556701",
+                        "date": "2023-08-11T14:25:33"
+                    }
+                ]
+            }
+        ]
+    },
+    "55490": {
+        "id": 55490,
+        "type": "message",
+        "date": "2023-08-29T00:28:02",
+        "date_unixtime": "1693258082",
+        "edited": "2023-08-29T00:43:26",
+        "edited_unixtime": "1693259006",
+        "from": "P",
+        "from_id": "user201810877",
+        "reply_to_message_id": 24422,
+        "text": [
+            {
+                "type": "bold",
+                "text": "НАРБ ф. 30 оп. 2 д. 6981 \"Владенные ведомости за 1926 г. по г. Витебску и г. Минску\""
+            },
+            ", по факту в деле кроме владенных ведомостей по этим городам присутствуют владенные ведомости и по ",
+            {
+                "type": "bold",
+                "text": "г. Гомелю"
+            },
+            "."
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "НАРБ ф. 30 оп. 2 д. 6981 \"Владенные ведомости за 1926 г. по г. Витебску и г. Минску\""
+            },
+            {
+                "type": "plain",
+                "text": ", по факту в деле кроме владенных ведомостей по этим городам присутствуют владенные ведомости и по "
+            },
+            {
+                "type": "bold",
+                "text": "г. Гомелю"
+            },
+            {
+                "type": "plain",
+                "text": "."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "N.Y.",
+                        "from_id": "user1841363435",
+                        "date": "2023-08-29T12:08:34"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Ks Arche",
+                        "from_id": "user1705348657",
+                        "date": "2023-08-29T00:43:26"
+                    }
+                ]
+            }
+        ]
+    },
+    "55740": {
+        "id": 55740,
+        "type": "message",
+        "date": "2023-09-05T13:48:19",
+        "date_unixtime": "1693910899",
+        "edited": "2023-09-05T13:49:07",
+        "edited_unixtime": "1693910947",
+        "from": "Alla Lebedeva",
+        "from_id": "user1345556165",
+        "reply_to_message_id": 24422,
+        "text": "ГАКК ( Государственный архив Красноярского края ) ,в доступе ( при регистрации на сайте ) дело ,встречаются жители Варшавской губернии ,Гроденской ,Витебской ,Виленской .,период 1921 г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ГАКК ( Государственный архив Красноярского края ) ,в доступе ( при регистрации на сайте ) дело ,встречаются жители Варшавской губернии ,Гроденской ,Витебской ,Виленской .,период 1921 г."
+            }
+        ]
+    },
+    "55741": {
+        "id": 55741,
+        "type": "message",
+        "date": "2023-09-05T13:48:37",
+        "date_unixtime": "1693910917",
+        "edited": "2023-10-14T06:43:07",
+        "edited_unixtime": "1697254987",
+        "from": "Alla Lebedeva",
+        "from_id": "user1345556165",
+        "reply_to_message_id": 24422,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 573,
+        "height": 705,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Geor Gina",
+                        "from_id": "user1049446400",
+                        "date": "2023-10-14T06:43:07"
+                    }
+                ]
+            }
+        ]
+    },
+    "55744": {
+        "id": 55744,
+        "type": "message",
+        "date": "2023-09-05T14:43:34",
+        "date_unixtime": "1693914214",
+        "from": "Anatoly Sazanovich",
+        "from_id": "user5542313094",
+        "reply_to_message_id": 55740,
+        "text": "Ссылку на сайт дайте, пожалуйста.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ссылку на сайт дайте, пожалуйста."
+            }
+        ]
+    },
+    "55745": {
+        "id": 55745,
+        "type": "message",
+        "date": "2023-09-05T14:44:16",
+        "date_unixtime": "1693914256",
+        "from": "Alla Lebedeva",
+        "from_id": "user1345556165",
+        "reply_to_message_id": 55744,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://catalog.krasarh.ru/"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://catalog.krasarh.ru/"
+            }
+        ]
+    },
+    "55748": {
+        "id": 55748,
+        "type": "message",
+        "date": "2023-09-05T14:53:59",
+        "date_unixtime": "1693914839",
+        "edited": "2023-09-06T09:05:05",
+        "edited_unixtime": "1693980305",
+        "from": "Alla Lebedeva",
+        "from_id": "user1345556165",
+        "reply_to_message_id": 55740,
+        "text": "И ещё добавлю ,может кто не знает .Это не потеряшки ,а целый фонд по переселенцам из разных губерний ф.160 ,оп.1,доступ также при регистрации на сайте .",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И ещё добавлю ,может кто не знает .Это не потеряшки ,а целый фонд по переселенцам из разных губерний ф.160 ,оп.1,доступ также при регистрации на сайте ."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Седелкин Лев",
+                        "from_id": "user5290556400",
+                        "date": "2024-03-03T09:45:17"
+                    },
+                    {
+                        "from": "Ju Grb",
+                        "from_id": "user1309155436",
+                        "date": "2023-12-12T17:19:01"
+                    },
+                    {
+                        "from": "Alena",
+                        "from_id": "user5267069615",
+                        "date": "2023-10-29T00:43:55"
+                    }
+                ]
+            }
+        ]
+    },
+    "55756": {
+        "id": 55756,
+        "type": "message",
+        "date": "2023-09-05T15:19:42",
+        "date_unixtime": "1693916382",
+        "edited": "2023-09-05T15:20:20",
+        "edited_unixtime": "1693916420",
+        "from": "Владимир Бойко",
+        "from_id": "user443664253",
+        "reply_to_message_id": 55748,
+        "text": "Такой же есть в Челябинске. Ребята. Увы я там своих не нашел.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Такой же есть в Челябинске. Ребята. Увы я там своих не нашел."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Ирина Бадьина",
+                        "from_id": "user233333536",
+                        "date": "2023-09-08T14:05:53"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2023-09-06T09:05:20"
+                    },
+                    {
+                        "from": "Alla Lebedeva",
+                        "from_id": "user1345556165",
+                        "date": "2023-09-05T15:20:20"
+                    }
+                ]
+            }
+        ]
+    },
+    "55760": {
+        "id": 55760,
+        "type": "message",
+        "date": "2023-09-05T15:21:46",
+        "date_unixtime": "1693916506",
+        "from": "Владимир Бойко",
+        "from_id": "user443664253",
+        "reply_to_message_id": 24422,
+        "text": "Ветка семьи переселенцев Батюшкиных для меня пока загадка.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ветка семьи переселенцев Батюшкиных для меня пока загадка."
+            }
+        ]
+    },
+    "56230": {
+        "id": 56230,
+        "type": "message",
+        "date": "2023-09-13T10:27:15",
+        "date_unixtime": "1694590035",
+        "edited": "2023-09-14T22:07:08",
+        "edited_unixtime": "1694718428",
+        "from": "Yalena",
+        "from_id": "user5540334104",
+        "reply_to_message_id": 24422,
+        "text": "ГАТО Тамбов\n1049-5-8298\n21.08.1916 г\nГродненской губернии села Татарья крна Демиана Васильева Пунько сын Михаил, 2,5 года от поноса",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ГАТО Тамбов\n1049-5-8298\n21.08.1916 г\nГродненской губернии села Татарья крна Демиана Васильева Пунько сын Михаил, 2,5 года от поноса"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2023-09-14T22:07:08"
+                    }
+                ]
+            }
+        ]
+    }
+}

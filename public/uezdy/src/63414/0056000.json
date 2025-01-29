@@ -1,0 +1,18 @@
+{
+    "63503": {
+        "id": 63503,
+        "type": "message",
+        "date": "2023-11-20T13:20:12",
+        "date_unixtime": "1700475612",
+        "from": "Andrei",
+        "from_id": "user448787412",
+        "reply_to_message_id": 63414,
+        "text": "она вам ничего особо не даст",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "она вам ничего особо не даст"
+            }
+        ]
+    }
+}

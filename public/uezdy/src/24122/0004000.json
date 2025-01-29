@@ -1,0 +1,57 @@
+{
+    "24225": {
+        "id": 24225,
+        "type": "message",
+        "date": "2022-11-06T16:12:53",
+        "date_unixtime": "1667740373",
+        "edited": "2024-08-10T10:51:58",
+        "edited_unixtime": "1723276318",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "reply_to_message_id": 24122,
+        "text": [
+            {
+                "type": "hashtag",
+                "text": "#архивы"
+            },
+            "\nФондовый каталог государственных архивов Республики Беларусь.\n",
+            {
+                "type": "link",
+                "text": "https://fk.archives.gov.by/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "hashtag",
+                "text": "#архивы"
+            },
+            {
+                "type": "plain",
+                "text": "\nФондовый каталог государственных архивов Республики Беларусь.\n"
+            },
+            {
+                "type": "link",
+                "text": "https://fk.archives.gov.by/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Galina Yukhnovich",
+                        "from_id": "user537360092",
+                        "date": "2024-08-10T10:51:58"
+                    }
+                ]
+            }
+        ]
+    }
+}

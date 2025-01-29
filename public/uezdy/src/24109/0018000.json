@@ -1,0 +1,52 @@
+{
+    "24254": {
+        "id": 24254,
+        "type": "message",
+        "date": "2022-11-06T17:53:57",
+        "date_unixtime": "1667746437",
+        "edited": "2022-11-07T03:39:59",
+        "edited_unixtime": "1667781599",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Trusman_Etimologya_Vitebskaya_gub_1907.pdf",
+        "mime_type": "application/pdf",
+        "text": "Ю. Ю. Трусман \"Этимология местных названий Витебской губернии\", Ревель, 1907 г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ю. Ю. Трусман \"Этимология местных названий Витебской губернии\", Ревель, 1907 г."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Наталья",
+                        "from_id": "user382266006",
+                        "date": "2024-07-19T08:26:53"
+                    },
+                    {
+                        "from": "Lora",
+                        "from_id": "user5939158071",
+                        "date": "2023-10-15T12:35:25"
+                    },
+                    {
+                        "from": "Evgeniy Shabanov",
+                        "from_id": "user387659235",
+                        "date": "2023-02-28T09:14:24"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤"
+            }
+        ]
+    }
+}

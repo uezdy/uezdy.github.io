@@ -1,0 +1,59 @@
+{
+    "24231": {
+        "id": 24231,
+        "type": "message",
+        "date": "2022-11-06T16:23:04",
+        "date_unixtime": "1667740984",
+        "edited": "2022-11-07T09:06:47",
+        "edited_unixtime": "1667801207",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "reply_to_message_id": 24122,
+        "text": [
+            "Проект по сохранению архивного наследия Беларуси.\n",
+            {
+                "type": "link",
+                "text": "https://www.zhnivo.ga/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Проект по сохранению архивного наследия Беларуси.\n"
+            },
+            {
+                "type": "link",
+                "text": "https://www.zhnivo.ga/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 7,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ekatherine87 Ekatherine87",
+                        "from_id": "user5273530573",
+                        "date": "2024-06-30T13:29:07"
+                    },
+                    {
+                        "from": "დ",
+                        "from_id": "user5017731844",
+                        "date": "2024-03-10T18:11:23"
+                    },
+                    {
+                        "from": "李 怡梅",
+                        "from_id": "user592924730",
+                        "date": "2024-03-03T17:32:28"
+                    }
+                ]
+            }
+        ]
+    }
+}

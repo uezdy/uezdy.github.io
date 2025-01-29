@@ -1,0 +1,55 @@
+{
+    "24279": {
+        "id": 24279,
+        "type": "message",
+        "date": "2022-11-06T19:44:52",
+        "date_unixtime": "1667753092",
+        "edited": "2022-11-25T09:02:04",
+        "edited_unixtime": "1669356124",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Евсеева_О_С_Топонимия_смоленско_витебского_приграничья.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Евсеева О. С. \"Топонимия смоленско-витебского приграничья\". (На правах рукописи), Смоленск, 2015 г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Евсеева О. С. \"Топонимия смоленско-витебского приграничья\". (На правах рукописи), Смоленск, 2015 г."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-08-28T15:22:20"
+                    },
+                    {
+                        "from": "Natasha",
+                        "from_id": "user1230705279",
+                        "date": "2024-01-16T13:23:27"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Печенег",
+                        "from_id": "user957375105",
+                        "date": "2024-09-30T23:39:45"
+                    }
+                ]
+            }
+        ]
+    }
+}
