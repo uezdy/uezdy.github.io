@@ -1,8 +1,8 @@
 const path = require('path');
 const fs = require('fs');
 
-const perChunk = 2000;
-const targetDir = path.resolve('public/uezdy/src1');
+const targetUezd = path.resolve('public/uezdy');
+const targetDir = path.resolve('public/uezdy/src');
 const pathJSON = path.join('public/uezdy/result.json');
 const file = fs.readFileSync(pathJSON, 'utf8');
 const data = JSON.parse(file);
@@ -83,6 +83,8 @@ for (const topicId in pool) {
     }
 
 }
+
+fs.writeFileSync(`${targetUezd}/topics.json`, JSON.stringify(poolTopics, null, 4), {encoding: 'utf8', flag: 'w'});
 
 function normalazePageNumb(page) {
     let additional = '';
