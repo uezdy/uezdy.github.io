@@ -2,58 +2,24 @@ import path from "path";
 import fs from "fs";
 import {TGMessage} from "@/app/components/types";
 
-const messages: Array<TGMessage> = [];
-const files = await fs.readdirSync(path.resolve('./public/uezdy/src'), 'utf8')
+const pathUezd = path.resolve('public/uezdy');
+const pathSrc = path.resolve('public/uezdy/src');
 
-const topicsPool: any = {
-    '0': {
-        title: 'default',
-        id: 0,
-        messages: []
+const topics: any = {};
+const filesTopics = fs.readdirSync(pathSrc, 'utf8');
+
+const topicsPool = JSON.parse(fs.readFileSync(path.resolve(`${pathUezd}/topics.json`), 'utf8'));
+
+filesTopics.forEach((topicID: string) => {
+    if (!topics[topicID]) {
+        topics[topicID] = {};
     }
-};
-export const perChunk = 500;
-
-files.forEach((file: string) => {
-    const pathJSON = path.join('./public/uezdy/src', file);
-    const fileData = fs.readFileSync(pathJSON, 'utf8');
-    const data = JSON.parse(fileData);
-    data.forEach((msg: TGMessage) => {
-        if (msg.action === 'topic_created') {
-            topicsPool[msg.id] = msg;
-            topicsPool[msg.id].messages = [];
-        }
-
+    const pathTopic = path.join(pathSrc, topicID);
+    const filesMsgs = fs.readdirSync(pathTopic, 'utf8');
+    filesMsgs.forEach((msgsPoolFile: string) => {
+        const mesagesObj = JSON.parse(fs.readFileSync(path.join(pathTopic, msgsPoolFile), 'utf8'));
+        topics[topicID] = {...topics[topicID], ...Object.values(mesagesObj)};
     });
-    messages.push(...data);
 });
-
-messages.forEach((msg: TGMessage) => {
-    if (msg.reply_to_message_id) {
-        if (topicsPool[msg.reply_to_message_id]) {
-            topicsPool[msg.reply_to_message_id].messages.push(msg);
-        }
-    } else {
-        topicsPool['0'].messages.push(msg);
-    }
-});
-
-
-
-
-for (const topicsPoolKey in topicsPool) {
-    const msg: TGMessage = topicsPool[topicsPoolKey];
-
-    topicsPool[topicsPoolKey].messages = msg.messages.reduce((resultArray: any, item: any, index: number) => {
-        const chunkIndex = Math.floor(index/perChunk)
-
-        if(!resultArray[chunkIndex]) {
-            resultArray[chunkIndex] = [] // start a new chunk
-        }
-
-        resultArray[chunkIndex].push(item)
-
-        return resultArray
-    }, [])
-}
+console.log(Object.values(topics[0]));
 export {topicsPool};
