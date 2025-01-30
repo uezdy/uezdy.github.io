@@ -1,10 +1,12 @@
 const path = require('path');
 const fs = require('fs');
 
+const groupNickName = 'uezdy';
+
 const perChunk = 2000;
-const targetUezd = path.resolve('public/uezdy');
-const targetDir = path.resolve('public/uezdy/src');
-const pathJSON = path.join('public/uezdy/result.json');
+const targetUezd = path.resolve(`public/${groupNickName}`);
+const targetDir = path.resolve(`public/${groupNickName}/src`);
+const pathJSON = path.join(`public/${groupNickName}/result.json`);
 const file = fs.readFileSync(pathJSON, 'utf8');
 const data = JSON.parse(file);
 
