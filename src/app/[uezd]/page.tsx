@@ -21,8 +21,8 @@ export async function generateStaticParams() {
 
 export default async function Home({params}: any) {
     const {uezd} = await params;
-    console.log('@uezdy', uezd)
+
     return <>
-        <TopicsMenu topicsPool={topicsPool} />
+        <TopicsMenu topicsPool={topicsPool[uezd]} />
     </>;
 }
