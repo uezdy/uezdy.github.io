@@ -1,36 +1,50 @@
 import Message from "@/app/components/Message";
-import React from "react";
+import {Metadata} from "next";
 import {TGMessage} from "@/app/components/types";
 import "./topicPage.css";
-import {topicsPool, topics} from "@/app/services/service.data";
+import {topics, aboutGroups} from "@/app/services/service.data";
+
+export async function generateMetadata({ params }: any): Promise<Metadata> {
+    const {uezd, topicId} = await params;
+    return {
+        icons: {
+            icon: `/${uezd}/favicon.ico`,
+        }
+    };
+}
+
 
 export async function generateStaticParams() {
     const stPropsArr: Array<any> = [];
-    const ids: Array<any> = Object.values(topicsPool);
 
-    ids.forEach(({id}: any) => {
+    Object
+        .keys(aboutGroups)
+        .forEach((uezd: string) => {
+            const topicsList = Object.keys(topics[uezd]);
+            topicsList.forEach((topic: any) => {
 
-        const pagesArr = Object.keys(topics[id]);
-        pagesArr
-            .forEach((v: any, index: number) => {
-                stPropsArr.push({
-                    topicId: `${id}`,
-                    page: `${index + 1}`,
-                    uezd: 'uezdy'
-                })
-            })
+                Object.keys(topics[uezd][topic]).forEach((page: string) => {
+                    // console.log('uezd/topic/page', `${uezd}/${topic}/${page}`);
+                    stPropsArr.push({
+                        uezd,
+                        topicId: `${topic}`,
+                        page: `${+page + 1}`
+                    })
+                });
+            });
     });
+
     return stPropsArr;
 }
 
 export default async function Page({params}: any) {
 
     const {topicId, page, uezd} = await params;
-
+    console.log('topicId, page, uezd', Object.keys(topics[uezd][topicId]), page)
     return (
         <>
             {
-                topics[topicId][page - 1]
+                topics[uezd][topicId][+page - 1]
                     .map((msg: TGMessage) => {
                         return msg.text && msg.type === 'message' &&
                             <Message key={msg.id} topicId={topicId} page={page} msg={msg}/>

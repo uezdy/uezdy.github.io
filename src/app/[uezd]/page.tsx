@@ -23,6 +23,6 @@ export default async function Home({params}: any) {
     const {uezd} = await params;
 
     return <>
-        <TopicsMenu topicsPool={topicsPool[uezd]} />
+        <TopicsMenu uezd={uezd} topicsPool={topicsPool[uezd]} />
     </>;
 }

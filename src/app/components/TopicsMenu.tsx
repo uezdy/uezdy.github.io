@@ -5,7 +5,7 @@ import List from '@mui/material/List';
 import ListItem from '@mui/material/ListItem';
 import CommentIcon from '@mui/icons-material/Comment';
 
-export default function TopicsMenu({topicsPool}: any) {
+export default function TopicsMenu({uezd, topicsPool}: any) {
     const [tops, setTops] = React.useState<any>([]);
     React.useEffect(() => {
         if (topicsPool) {
@@ -27,7 +27,7 @@ export default function TopicsMenu({topicsPool}: any) {
             {
                 tops.map((top: any) => <ListItem key={top.id}>
                     <CommentIcon className="comment-icon"/>
-                    <Link className="topic-list-item" href={`/uezdy/${top.id}/1`}>
+                    <Link className="topic-list-item" href={`/${uezd}/${top.id}/1`}>
                         {top.title}
                     </Link>
                 </ListItem>)
