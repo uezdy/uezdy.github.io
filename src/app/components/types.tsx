@@ -53,3 +53,9 @@ export interface SiteMapItem {
     changeFrequency: string;
     priority: number;
 }
+
+export interface AboutItem {
+    title: string;
+    description: string;
+    groupNickName: number;
+}

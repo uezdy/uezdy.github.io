@@ -7,6 +7,7 @@ import MenuItem from '@mui/material/MenuItem';
 import MoreVertIcon from '@mui/icons-material/MoreVert';
 
 import { useRouter } from 'next/navigation';
+import {AboutItem} from "@/app/components/types";
 
 export default function ChatsListMenuNavigation({aboutGroups, uezd}: any) {
     const router = useRouter();
@@ -17,10 +18,12 @@ export default function ChatsListMenuNavigation({aboutGroups, uezd}: any) {
     const handleClick = (event: React.MouseEvent<HTMLElement>) => {
         setAnchorEl(event.currentTarget);
     };
-    const handleClose = (event: React.MouseEvent<HTMLElement>, groupNickName: string) => {
+    const handleClose = (event: React.MouseEvent<HTMLElement>, option: AboutItem | null) => {
         setAnchorEl(null);
-        setSelectedIndex(groupNickName);
-        router.push(`/${groupNickName}`);
+        if (option) {
+            setSelectedIndex(option.groupNickName);
+            router.push(`/${option.groupNickName}`);
+        }
     };
 
     return (
@@ -44,11 +47,11 @@ export default function ChatsListMenuNavigation({aboutGroups, uezd}: any) {
                 anchorEl={anchorEl}
                 open={open}
                 className="chats-list-menu-navigation"
-                onClose={handleClose}
+                onClose={(e: React.MouseEvent<HTMLElement>) => handleClose(e, null)}
             >
-                {Object.values(aboutGroups).map((option) => (
+                {Object.values(aboutGroups).map((option: AboutItem) => (
                     <MenuItem key={option.groupNickName} className={option.groupNickName} selected={option.groupNickName === selectedIndex}
-                              onClick={(e: React.MouseEvent<HTMLElement>) => handleClose(e, option.groupNickName)}>
+                              onClick={(e: React.MouseEvent<HTMLElement>) => handleClose(e, option)}>
                         {option.title}
                     </MenuItem>
                 ))}

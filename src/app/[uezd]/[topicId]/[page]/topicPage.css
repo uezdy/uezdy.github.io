@@ -5,6 +5,7 @@
     }
     .static-navigation-bar {
         padding-left: 62px;
+        width: calc(100%);
     }
 }
 
@@ -31,7 +32,7 @@ main p {
 .static-navigation-bar {
     position: fixed;
     background-color: #ffffff;
-    width: 100%;
+
     opacity: 1;
     z-index: 1;
     top: 0;
