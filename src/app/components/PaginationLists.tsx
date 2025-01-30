@@ -26,5 +26,5 @@ export default function PaginationLists({pagesCount, topicId, page}: any) {
         siblingCount={currentWidth < 700 && pagesCount > 7 ? 1 : 3}
         defaultPage={+page || 1}
         onChange={clickHandler}
-    /> : <></>
+    /> : <div />
 };
