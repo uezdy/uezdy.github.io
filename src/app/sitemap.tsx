@@ -1,25 +1,29 @@
-import {topics, topicsPool} from "@/app/services/service.data";
-import {TGMessage} from "@/app/components/types";
+import {aboutGroups, topics} from "@/app/services/service.data";
+import {SiteMapItem} from "@/app/components/types";
 
 export const dynamic = 'force-static';
 
+
 export default async function sitemap() {
-    const nestedURLs: Array<any> = [];
-    const ids: Array<any> = Object.values(topicsPool);
+    const nestedURLs: Array<SiteMapItem> = [];
+    Object
+        .keys(aboutGroups)
+        .forEach((uezd: string) => {
+            const topicsList = Object.keys(topics[uezd]);
+            topicsList.forEach((topic: string) => {
 
-    ids.forEach(({id}: any) => {
+                Object.keys(topics[uezd][topic]).forEach((page: string) => {
+                    nestedURLs.push({
+                        url: `https://uezdy.github.io/${uezd}/${topic}/${+page + 1}`,
+                        lastModified: new Date(),
+                        changeFrequency: 'weekly',
+                        priority: 1,
+                    })
+                });
+            });
+        });
 
-        const pagesArr = Object.keys(topics[id]);
-        pagesArr
-            .forEach((v: any, index: number) => {
-                nestedURLs.push({
-                    url: `https://uezdy.github.io/uezdy/${id}/${index + 1}`,
-                    lastModified: new Date(),
-                    changeFrequency: 'weekly',
-                    priority: 1,
-                })
-            })
-    });
+
 
     return [
         {

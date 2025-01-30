@@ -23,3 +23,10 @@ export interface TextEntity {
     text: string;
     href?: string;
 }
+
+export interface SiteMapItem {
+    url: string;
+    lastModified: Date;
+    changeFrequency: string;
+    priority: number;
+}

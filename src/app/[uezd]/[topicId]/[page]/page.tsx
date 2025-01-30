@@ -40,7 +40,7 @@ export async function generateStaticParams() {
 export default async function Page({params}: any) {
 
     const {topicId, page, uezd} = await params;
-    console.log('topicId, page, uezd', Object.keys(topics[uezd][topicId]), page)
+    // console.log('topicId, page, uezd', Object.keys(topics[uezd][topicId]), page)
     return (
         <>
             {

@@ -9,7 +9,7 @@ import Dropdown from '@mui/joy/Dropdown';
 import {TGMessage} from "@/app/components/types";
 import { useRouter } from 'next/navigation';
 
-export default function SelectedMenu({topicsPool, topicId, uezd}: {topicsPool: Array<TGMessage>, topicId: number}) {
+export default function SelectedMenu({topicsPool, topicId, uezd}: {topicsPool: any, topicId: number, uezd: string}) {
     const [selectedIndex, setSelectedIndex] = React.useState<number>(+topicId);
     const router = useRouter();
 
