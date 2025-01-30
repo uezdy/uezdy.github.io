@@ -32,12 +32,6 @@ export default async function sitemap() {
             changeFrequency: 'weekly',
             priority: 0.5,
         },
-        {
-            url: 'https://uezdy.github.io/uezdy',
-            lastModified: new Date(),
-            changeFrequency: 'weekly',
-            priority: 0.6,
-        },
         ...nestedURLs
     ]
 }
