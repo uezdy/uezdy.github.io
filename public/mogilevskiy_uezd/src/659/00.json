@@ -1,0 +1,768 @@
+[
+    {
+        "id": 726,
+        "type": "message",
+        "date": "2023-09-29T00:54:26",
+        "date_unixtime": "1695938066",
+        "from": "Svetlana Palkina",
+        "from_id": "user1221217100",
+        "reply_to_message_id": 659,
+        "text": "Добрый день ищу род Козловских из Могилёва",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день ищу род Козловских из Могилёва"
+            }
+        ]
+    },
+    {
+        "id": 727,
+        "type": "message",
+        "date": "2023-09-29T11:48:19",
+        "date_unixtime": "1695977299",
+        "from": "New Ded",
+        "from_id": "user1496913616",
+        "reply_to_message_id": 659,
+        "text": "Здравствуйте. А что вам о нём уже известно?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте. А что вам о нём уже известно?"
+            }
+        ]
+    },
+    {
+        "id": 728,
+        "type": "message",
+        "date": "2023-09-29T12:01:49",
+        "date_unixtime": "1695978109",
+        "edited": "2024-01-09T07:31:58",
+        "edited_unixtime": "1704774718",
+        "from": "Svetlana Palkina",
+        "from_id": "user1221217100",
+        "reply_to_message_id": 659,
+        "text": "Очень мало, в свидетельстве о рождении бабушки Жиловачик Натальи Васильевны 1922 г указанны родители Василий Осипович 32 года( 1890 примерно год рождения) и Зинаида Станиславовна 25 лет ( 1897 примерно год рождения) урожденная Козловская. Написано что жили в Могилёве.  Есть старая фотография в альбоме от некого Григория Станиславовича Козловского датируемая1920 годом. Возможно брат, на фото молодой человек. Вот и вся информация. По воспоминаниям от родни Козловские были из дворян. Сама Зинаида Станиславовна умерла молодой, возможно самоубийство. Была она учителем, так же как и её муж. Но оканчивала ли что-то не известно, в те времена я так понимаю если ты был грамотным, то мог учить...",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Очень мало, в свидетельстве о рождении бабушки Жиловачик Натальи Васильевны 1922 г указанны родители Василий Осипович 32 года( 1890 примерно год рождения) и Зинаида Станиславовна 25 лет ( 1897 примерно год рождения) урожденная Козловская. Написано что жили в Могилёве.  Есть старая фотография в альбоме от некого Григория Станиславовича Козловского датируемая1920 годом. Возможно брат, на фото молодой человек. Вот и вся информация. По воспоминаниям от родни Козловские были из дворян. Сама Зинаида Станиславовна умерла молодой, возможно самоубийство. Была она учителем, так же как и её муж. Но оканчивала ли что-то не известно, в те времена я так понимаю если ты был грамотным, то мог учить..."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Сергей",
+                        "from_id": "user2018987907",
+                        "date": "2024-01-09T07:31:58"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 729,
+        "type": "message",
+        "date": "2023-09-29T12:05:09",
+        "date_unixtime": "1695978309",
+        "from": "Svetlana Palkina",
+        "from_id": "user1221217100",
+        "reply_to_message_id": 659,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 720,
+        "height": 1280,
+        "text": "Фото от Палкина Светлана",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Фото от Палкина Светлана"
+            }
+        ]
+    },
+    {
+        "id": 730,
+        "type": "message",
+        "date": "2023-09-29T12:05:38",
+        "date_unixtime": "1695978338",
+        "from": "Svetlana Palkina",
+        "from_id": "user1221217100",
+        "reply_to_message_id": 659,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 720,
+        "height": 1280,
+        "text": "Фото от Палкина Светлана",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Фото от Палкина Светлана"
+            }
+        ]
+    },
+    {
+        "id": 731,
+        "type": "message",
+        "date": "2023-09-29T12:07:16",
+        "date_unixtime": "1695978436",
+        "from": "Svetlana Palkina",
+        "from_id": "user1221217100",
+        "reply_to_message_id": 659,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "Фото от Палкина Светлана",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Фото от Палкина Светлана"
+            }
+        ]
+    },
+    {
+        "id": 732,
+        "type": "message",
+        "date": "2023-09-29T12:07:36",
+        "date_unixtime": "1695978456",
+        "from": "Svetlana Palkina",
+        "from_id": "user1221217100",
+        "reply_to_message_id": 659,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "Фото от Палкина Светлана",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Фото от Палкина Светлана"
+            }
+        ]
+    },
+    {
+        "id": 733,
+        "type": "message",
+        "date": "2023-09-29T12:09:34",
+        "date_unixtime": "1695978574",
+        "from": "Svetlana Palkina",
+        "from_id": "user1221217100",
+        "reply_to_message_id": 659,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 540,
+        "height": 1170,
+        "text": "Смотри, у поляков по Могилеву есть запись о смерти Генриеты станиславовны Козловской в 1905 году",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Смотри, у поляков по Могилеву есть запись о смерти Генриеты станиславовны Козловской в 1905 году"
+            }
+        ]
+    },
+    {
+        "id": 734,
+        "type": "message",
+        "date": "2023-09-29T12:12:29",
+        "date_unixtime": "1695978749",
+        "from": "New Ded",
+        "from_id": "user1496913616",
+        "reply_to_message_id": 659,
+        "text": "У моей прабабушки в записи о крещении в метрической книге указана воспреемница Иозефа Козловская в 1875 году",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У моей прабабушки в записи о крещении в метрической книге указана воспреемница Иозефа Козловская в 1875 году"
+            }
+        ]
+    },
+    {
+        "id": 735,
+        "type": "message",
+        "date": "2023-09-29T12:13:58",
+        "date_unixtime": "1695978838",
+        "from": "Svetlana Palkina",
+        "from_id": "user1221217100",
+        "reply_to_message_id": 659,
+        "text": "А книга какого прихода? Какой церкви?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А книга какого прихода? Какой церкви?"
+            }
+        ]
+    },
+    {
+        "id": 736,
+        "type": "message",
+        "date": "2023-09-29T12:14:46",
+        "date_unixtime": "1695978886",
+        "from": "Svetlana Palkina",
+        "from_id": "user1221217100",
+        "reply_to_message_id": 659,
+        "text": "Мы хотели в ЗАГС наш обратиться, но они по Белоруссии естественно не имеют данных",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мы хотели в ЗАГС наш обратиться, но они по Белоруссии естественно не имеют данных"
+            }
+        ]
+    },
+    {
+        "id": 737,
+        "type": "message",
+        "date": "2023-09-29T12:18:21",
+        "date_unixtime": "1695979101",
+        "from": "New Ded",
+        "from_id": "user1496913616",
+        "reply_to_message_id": 659,
+        "text": "Мариинский костел",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мариинский костел"
+            }
+        ]
+    },
+    {
+        "id": 738,
+        "type": "message",
+        "date": "2023-09-29T12:35:34",
+        "date_unixtime": "1695980134",
+        "edited": "2023-09-29T12:37:18",
+        "edited_unixtime": "1695980238",
+        "from": "Svetlana Palkina",
+        "from_id": "user1221217100",
+        "reply_to_message_id": 659,
+        "text": "Раз костёл, значит все же католики?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Раз костёл, значит все же католики?"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤝",
+                "recent": [
+                    {
+                        "from": "New Ded",
+                        "from_id": "user1496913616",
+                        "date": "2023-09-29T12:37:18"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 815,
+        "type": "message",
+        "date": "2024-01-03T18:30:35",
+        "date_unixtime": "1704295835",
+        "from": "Анастасия Муравьёва",
+        "from_id": "user1228444591",
+        "reply_to_message_id": 736,
+        "text": "Вы можете обратиться в любой загс России и сделать запрос в загс Беларуси, это не быстро, но ответы из Беларуси всегда приходят. Получаете справку в том загсе, где оформляли запрос",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вы можете обратиться в любой загс России и сделать запрос в загс Беларуси, это не быстро, но ответы из Беларуси всегда приходят. Получаете справку в том загсе, где оформляли запрос"
+            }
+        ]
+    },
+    {
+        "id": 838,
+        "type": "message",
+        "date": "2024-01-30T16:01:00",
+        "date_unixtime": "1706619660",
+        "edited": "2024-01-30T16:49:18",
+        "edited_unixtime": "1706622558",
+        "from": "Darya",
+        "from_id": "user353969106",
+        "reply_to_message_id": 659,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 65,
+        "text": "Вдруг кто-то ищет, Сысоев Григорий",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вдруг кто-то ищет, Сысоев Григорий"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Могилевский уезд, Могилевская губерния",
+                        "from_id": "channel1956283303",
+                        "date": "2024-01-30T16:49:18"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 840,
+        "type": "message",
+        "date": "2024-01-30T17:20:59",
+        "date_unixtime": "1706624459",
+        "from": "Tatiana",
+        "from_id": "user129636997",
+        "reply_to_message_id": 733,
+        "text": "А как на этот сайт зайти? Не знала что там могилев есть. Подскажите пожалуйста",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А как на этот сайт зайти? Не знала что там могилев есть. Подскажите пожалуйста"
+            }
+        ]
+    },
+    {
+        "id": 841,
+        "type": "message",
+        "date": "2024-01-30T23:34:20",
+        "date_unixtime": "1706646860",
+        "edited": "2024-01-30T23:44:51",
+        "edited_unixtime": "1706647491",
+        "from": "Svetlana Palkina",
+        "from_id": "user1221217100",
+        "reply_to_message_id": 840,
+        "text": "Когда фото откроете, то же скрин, там наверху адресная строка",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Когда фото откроете, то же скрин, там наверху адресная строка"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Tatiana",
+                        "from_id": "user129636997",
+                        "date": "2024-02-04T08:12:24"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 945,
+        "type": "message",
+        "date": "2024-04-05T16:08:00",
+        "date_unixtime": "1712322480",
+        "edited": "2024-04-05T16:09:48",
+        "edited_unixtime": "1712322588",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "Historyja",
+        "reply_to_message_id": 659,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 999,
+        "height": 726,
+        "text": "Магілёў, вуліца Шклоўская, 1918 год. Бачна былы езуіцкі касцёл, які быў знішчаны саветамі.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Магілёў, вуліца Шклоўская, 1918 год. Бачна былы езуіцкі касцёл, які быў знішчаны саветамі."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Al Ehm",
+                        "from_id": "user5780145437",
+                        "date": "2024-04-15T10:11:42"
+                    },
+                    {
+                        "from": "Любовь",
+                        "from_id": "user1745829524",
+                        "date": "2024-04-05T16:09:54"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1057,
+        "type": "message",
+        "date": "2024-06-25T11:59:47",
+        "date_unixtime": "1719305987",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "Белорусская глубинка",
+        "reply_to_message_id": 659,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 900,
+        "height": 566,
+        "text": [
+            "Губернский город Могилев рано обзавелся каменным центром, некоторыми важными культовыми строениями, яркой ратушей и массивным мостом через Днепр, но фотографировался в начале развития эпохи фотографического искусства неохотно. Заметное увеличение числа снимков в дореволюционные годы происходит лишь с образованием ставки главнокомандующего (1915-й год), хотя и отснятого в предыдущие полвека в целом достаточно, чтобы получить представление о том, каким парнем был Могилев невообразимую прорву лет назад: ",
+            {
+                "type": "link",
+                "text": "https://blisch.by/mogilev-old"
+            },
+            "\n\nИсточник: ",
+            {
+                "type": "text_link",
+                "text": "Белорусская глубинка",
+                "href": "http://t.me/glubinka_by"
+            },
+            "\n\nЕще:\n- ",
+            {
+                "type": "text_link",
+                "text": "Минск и минчанин",
+                "href": "http://t.me/pureminsk"
+            },
+            "\n- ",
+            {
+                "type": "text_link",
+                "text": "Нетуризм. Фотопрогулки по земле",
+                "href": "http://t.me/glubinka_world"
+            },
+            "\n\nПодпишись: ",
+            {
+                "type": "text_link",
+                "text": "Inst",
+                "href": "https://www.instagram.com/blisch/"
+            },
+            " | ",
+            {
+                "type": "text_link",
+                "text": "VK",
+                "href": "https://vk.com/blischby"
+            },
+            " | ",
+            {
+                "type": "text_link",
+                "text": "X",
+                "href": "https://x.com/blisch"
+            },
+            " | ",
+            {
+                "type": "text_link",
+                "text": "FB",
+                "href": "https://www.facebook.com/blisch.by"
+            },
+            " | ",
+            {
+                "type": "text_link",
+                "text": "OK",
+                "href": "https://ok.ru/blischby/"
+            },
+            " |",
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://ok.ru/blischby/"
+            },
+            {
+                "type": "text_link",
+                "text": "TT",
+                "href": "https://www.tiktok.com/@blisch"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Губернский город Могилев рано обзавелся каменным центром, некоторыми важными культовыми строениями, яркой ратушей и массивным мостом через Днепр, но фотографировался в начале развития эпохи фотографического искусства неохотно. Заметное увеличение числа снимков в дореволюционные годы происходит лишь с образованием ставки главнокомандующего (1915-й год), хотя и отснятого в предыдущие полвека в целом достаточно, чтобы получить представление о том, каким парнем был Могилев невообразимую прорву лет назад: "
+            },
+            {
+                "type": "link",
+                "text": "https://blisch.by/mogilev-old"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nИсточник: "
+            },
+            {
+                "type": "text_link",
+                "text": "Белорусская глубинка",
+                "href": "http://t.me/glubinka_by"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nЕще:\n- "
+            },
+            {
+                "type": "text_link",
+                "text": "Минск и минчанин",
+                "href": "http://t.me/pureminsk"
+            },
+            {
+                "type": "plain",
+                "text": "\n- "
+            },
+            {
+                "type": "text_link",
+                "text": "Нетуризм. Фотопрогулки по земле",
+                "href": "http://t.me/glubinka_world"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nПодпишись: "
+            },
+            {
+                "type": "text_link",
+                "text": "Inst",
+                "href": "https://www.instagram.com/blisch/"
+            },
+            {
+                "type": "plain",
+                "text": " | "
+            },
+            {
+                "type": "text_link",
+                "text": "VK",
+                "href": "https://vk.com/blischby"
+            },
+            {
+                "type": "plain",
+                "text": " | "
+            },
+            {
+                "type": "text_link",
+                "text": "X",
+                "href": "https://x.com/blisch"
+            },
+            {
+                "type": "plain",
+                "text": " | "
+            },
+            {
+                "type": "text_link",
+                "text": "FB",
+                "href": "https://www.facebook.com/blisch.by"
+            },
+            {
+                "type": "plain",
+                "text": " | "
+            },
+            {
+                "type": "text_link",
+                "text": "OK",
+                "href": "https://ok.ru/blischby/"
+            },
+            {
+                "type": "plain",
+                "text": " |"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://ok.ru/blischby/"
+            },
+            {
+                "type": "text_link",
+                "text": "TT",
+                "href": "https://www.tiktok.com/@blisch"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 1058,
+        "type": "message",
+        "date": "2024-06-26T04:29:40",
+        "date_unixtime": "1719365380",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "Генеалагічная дрыгва / Шафа",
+        "reply_to_message_id": 659,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "LVIA 567-1-1924.zip",
+        "mime_type": "application/zip",
+        "text": "567-1-1924 Дело о статистических сведениях о количестве училищ с именными списками учеников\n\n- Гусинское Оршанского у. - 61 ученик\n- Залесское Дисненского у. - 59 учеников\n- Плешковское Полоцкого у. - только часть А и Б\n- Никитинское Пружанского у. - 62 ученика\n- Чижевичское Слуцкого у. - только часть А\n- Любашевское Слуцкого у. - только часть В, список из 57 учеников\n- Рашкутанское Свенцянского у. - 32 ученика\n- Хальчанское Гомельского у. - только части А и Б\n- Поколюбичское Гомельского у. - только части А и Б\n- Новоалександровское Ковенской губернии - 70 учеников\n- Рудне-Маримоновское Гомельского у. - только листы о бюджете\n- Рыбакское Слонимского у. - только лист о бюджете\n- Бруновишское Поневежского у. - только части А и Б\n- Хоминское Гомельского у. -50 учеников, часть Б отсутствует\n- Глыбовское Гомельского у. - только часть А\n- Барсуковское (Обуховское) Оршанского у. - только часть В, 50 учеников\n- Могилевское еврейское Могилевского у. - 199 учеников\n- Болотнянское Рогачевского у. - 44 учеников",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "567-1-1924 Дело о статистических сведениях о количестве училищ с именными списками учеников\n\n- Гусинское Оршанского у. - 61 ученик\n- Залесское Дисненского у. - 59 учеников\n- Плешковское Полоцкого у. - только часть А и Б\n- Никитинское Пружанского у. - 62 ученика\n- Чижевичское Слуцкого у. - только часть А\n- Любашевское Слуцкого у. - только часть В, список из 57 учеников\n- Рашкутанское Свенцянского у. - 32 ученика\n- Хальчанское Гомельского у. - только части А и Б\n- Поколюбичское Гомельского у. - только части А и Б\n- Новоалександровское Ковенской губернии - 70 учеников\n- Рудне-Маримоновское Гомельского у. - только листы о бюджете\n- Рыбакское Слонимского у. - только лист о бюджете\n- Бруновишское Поневежского у. - только части А и Б\n- Хоминское Гомельского у. -50 учеников, часть Б отсутствует\n- Глыбовское Гомельского у. - только часть А\n- Барсуковское (Обуховское) Оршанского у. - только часть В, 50 учеников\n- Могилевское еврейское Могилевского у. - 199 учеников\n- Болотнянское Рогачевского у. - 44 учеников"
+            }
+        ]
+    },
+    {
+        "id": 1059,
+        "type": "message",
+        "date": "2024-06-26T04:29:40",
+        "date_unixtime": "1719365380",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "Генеалагічная дрыгва / Шафа",
+        "reply_to_message_id": 659,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "LVIA 567-1-1924.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1133,
+        "type": "message",
+        "date": "2024-08-27T22:22:42",
+        "date_unixtime": "1724786562",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 659,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 864,
+        "text": [
+            "Comissions - To Foreign Nations - Russian - First photo of American Mission in Russian headed by Elihu Root and General Scott\nNAID: 26432610 Local ID: 165-WW-133E-4 First photo of American Mission in Russian headed by Elihu Root and General Scott. General Brusiloff, the commander in chief of the Russian forces, welcoming Mr. Root on the arrival of the American Mission at General Headquarters, Mogilo. 1917.  (Генерал Брусилов приветствует Американскую миссию в Могилеве). ",
+            {
+                "type": "hashtag",
+                "text": "#РИА"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#ПМВ"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#США"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Могилев"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Comissions - To Foreign Nations - Russian - First photo of American Mission in Russian headed by Elihu Root and General Scott\nNAID: 26432610 Local ID: 165-WW-133E-4 First photo of American Mission in Russian headed by Elihu Root and General Scott. General Brusiloff, the commander in chief of the Russian forces, welcoming Mr. Root on the arrival of the American Mission at General Headquarters, Mogilo. 1917.  (Генерал Брусилов приветствует Американскую миссию в Могилеве). "
+            },
+            {
+                "type": "hashtag",
+                "text": "#РИА"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#ПМВ"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#США"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Могилев"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 1192,
+        "type": "message",
+        "date": "2024-10-15T23:17:28",
+        "date_unixtime": "1729023448",
+        "edited": "2024-10-16T00:05:46",
+        "edited_unixtime": "1729026346",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "Geor Gina",
+        "reply_to_message_id": 659,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 661,
+        "height": 492,
+        "text": "На просторах Интернета, а конкретнее, на Фейсбуке найдено данное фото. 1959 год, 1-й класс средней школы г.Могилёв.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На просторах Интернета, а конкретнее, на Фейсбуке найдено данное фото. 1959 год, 1-й класс средней школы г.Могилёв."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👏",
+                "recent": [
+                    {
+                        "from": "Noname No Name",
+                        "from_id": "user1878251399",
+                        "date": "2024-10-16T00:05:46"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1269,
+        "type": "message",
+        "date": "2024-11-26T00:18:50",
+        "date_unixtime": "1732569530",
+        "from": "Роман",
+        "from_id": "user1819081203",
+        "reply_to_message_id": 659,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 967,
+        "height": 1251,
+        "text": "Марцинкевич Дарья Петровна (слева)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Марцинкевич Дарья Петровна (слева)"
+            }
+        ]
+    },
+    {
+        "id": 1270,
+        "type": "message",
+        "date": "2024-11-26T00:18:50",
+        "date_unixtime": "1732569530",
+        "from": "Роман",
+        "from_id": "user1819081203",
+        "reply_to_message_id": 659,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    }
+]

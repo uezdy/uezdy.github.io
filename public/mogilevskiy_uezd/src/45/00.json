@@ -1,0 +1,1606 @@
+[
+    {
+        "id": 47,
+        "type": "message",
+        "date": "2023-05-02T17:31:43",
+        "date_unixtime": "1683037903",
+        "edited": "2023-05-22T18:36:59",
+        "edited_unixtime": "1684769819",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "reply_to_message_id": 45,
+        "text": [
+            "Волости:\n\n",
+            {
+                "type": "text_link",
+                "text": "Белыничская",
+                "href": "https://www.radzima.net/ru/volost/belynichskaya.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Вейнянская",
+                "href": "https://www.radzima.net/ru/volost/veynyanskaya.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Вендорожская",
+                "href": "https://www.radzima.net/ru/volost/vendorozhskaya.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Княжицкая",
+                "href": "https://www.radzima.net/ru/volost/knyazhitskaya.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Круглянская",
+                "href": "https://www.radzima.net/ru/volost/kruglyanskaya_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Могилёв (город)",
+                "href": "https://www.radzima.net/ru/gorod/mogilyev.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Нежковская",
+                "href": "https://www.radzima.net/ru/volost/nezhkovskaya.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Павловичская",
+                "href": "https://www.radzima.net/ru/volost/pavlovichskaya.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Полыковичская",
+                "href": "https://www.radzima.net/ru/volost/polykovichskaya.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Тетеринская",
+                "href": "https://www.radzima.net/ru/volost/teterinskaya.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Толпечицкая",
+                "href": "https://www.radzima.net/ru/volost/tolpechitskaya.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Церковищская",
+                "href": "https://www.radzima.net/ru/volost/tserkovishchskaya_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Черноручская",
+                "href": "https://www.radzima.net/ru/volost/chernoruchskaya.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Шкловская",
+                "href": "https://www.radzima.net/ru/volost/shklovskaya.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Волости:\n\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Белыничская",
+                "href": "https://www.radzima.net/ru/volost/belynichskaya.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Вейнянская",
+                "href": "https://www.radzima.net/ru/volost/veynyanskaya.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Вендорожская",
+                "href": "https://www.radzima.net/ru/volost/vendorozhskaya.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Княжицкая",
+                "href": "https://www.radzima.net/ru/volost/knyazhitskaya.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Круглянская",
+                "href": "https://www.radzima.net/ru/volost/kruglyanskaya_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Могилёв (город)",
+                "href": "https://www.radzima.net/ru/gorod/mogilyev.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Нежковская",
+                "href": "https://www.radzima.net/ru/volost/nezhkovskaya.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Павловичская",
+                "href": "https://www.radzima.net/ru/volost/pavlovichskaya.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Полыковичская",
+                "href": "https://www.radzima.net/ru/volost/polykovichskaya.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Тетеринская",
+                "href": "https://www.radzima.net/ru/volost/teterinskaya.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Толпечицкая",
+                "href": "https://www.radzima.net/ru/volost/tolpechitskaya.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Церковищская",
+                "href": "https://www.radzima.net/ru/volost/tserkovishchskaya_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Черноручская",
+                "href": "https://www.radzima.net/ru/volost/chernoruchskaya.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Шкловская",
+                "href": "https://www.radzima.net/ru/volost/shklovskaya.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Наталья Natallia",
+                        "from_id": "user1149675280",
+                        "date": "2023-05-22T18:36:59"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "type": "message",
+        "date": "2023-05-02T17:33:08",
+        "date_unixtime": "1683037988",
+        "edited": "2023-05-02T18:10:35",
+        "edited_unixtime": "1683040235",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 961,
+        "height": 1280,
+        "text": "Список садовладельцев \nМогилевский уезд, 1911 г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Список садовладельцев \nМогилевский уезд, 1911 г."
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "type": "message",
+        "date": "2023-05-02T17:33:08",
+        "date_unixtime": "1683037988",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 862,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 52,
+        "type": "message",
+        "date": "2023-05-02T17:33:08",
+        "date_unixtime": "1683037988",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 847,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 53,
+        "type": "message",
+        "date": "2023-05-02T17:33:08",
+        "date_unixtime": "1683037988",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 748,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 54,
+        "type": "message",
+        "date": "2023-05-02T17:33:08",
+        "date_unixtime": "1683037988",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 832,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 55,
+        "type": "message",
+        "date": "2023-05-02T17:33:08",
+        "date_unixtime": "1683037988",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1125,
+        "height": 684,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 56,
+        "type": "message",
+        "date": "2023-05-02T17:38:47",
+        "date_unixtime": "1683038327",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 45,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Опыт_описания_Могилевской_губернии_КНИГА_№3.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 122,
+        "type": "message",
+        "date": "2023-05-14T22:38:18",
+        "date_unixtime": "1684093098",
+        "edited": "2023-05-14T22:44:08",
+        "edited_unixtime": "1684093448",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1024,
+        "height": 1280,
+        "text": [
+            {
+                "type": "text_link",
+                "text": "озеро Космачевское\nСлавновский сельсовет, Толочинский район, Витебская область",
+                "href": "https://yandex.ru/maps/?ol=geo&text=%D0%BE%D0%B7%D0%B5%D1%80%D0%BE%20%D0%9A%D0%BE%D1%81%D0%BC%D0%B0%D1%87%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B5&sll=29.444475%2C54.252100&sspn=0.011194%2C0.010160"
+            },
+            "\n\n",
+            {
+                "type": "text_link",
+                "text": "@slavnoemyplace",
+                "href": "https://instagram.com/slavnoemyplace"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "text_link",
+                "text": "озеро Космачевское\nСлавновский сельсовет, Толочинский район, Витебская область",
+                "href": "https://yandex.ru/maps/?ol=geo&text=%D0%BE%D0%B7%D0%B5%D1%80%D0%BE%20%D0%9A%D0%BE%D1%81%D0%BC%D0%B0%D1%87%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B5&sll=29.444475%2C54.252100&sspn=0.011194%2C0.010160"
+            },
+            {
+                "type": "plain",
+                "text": "\n\n"
+            },
+            {
+                "type": "text_link",
+                "text": "@slavnoemyplace",
+                "href": "https://instagram.com/slavnoemyplace"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Vitaly Khor Vitaut",
+                        "from_id": "user7511581",
+                        "date": "2023-11-16T10:46:34"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Алексей Билецкий",
+                        "from_id": "user1133915357",
+                        "date": "2023-05-15T23:16:03"
+                    },
+                    {
+                        "from": "N.Y.",
+                        "from_id": "user1841363435",
+                        "date": "2023-05-14T22:55:15"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "type": "message",
+        "date": "2023-05-14T22:38:18",
+        "date_unixtime": "1684093098",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1024,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 124,
+        "type": "message",
+        "date": "2023-05-14T22:38:18",
+        "date_unixtime": "1684093098",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1024,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 125,
+        "type": "message",
+        "date": "2023-05-14T22:38:18",
+        "date_unixtime": "1684093098",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1024,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 126,
+        "type": "message",
+        "date": "2023-05-14T22:38:18",
+        "date_unixtime": "1684093098",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1027,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 127,
+        "type": "message",
+        "date": "2023-05-14T22:38:19",
+        "date_unixtime": "1684093099",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1024,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 219,
+        "type": "message",
+        "date": "2023-05-22T23:19:18",
+        "date_unixtime": "1684786758",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 45,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://telegra.ph/Volosti-Mogilyovskogo-uezda-05-22"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://telegra.ph/Volosti-Mogilyovskogo-uezda-05-22"
+            }
+        ]
+    },
+    {
+        "id": 280,
+        "type": "message",
+        "date": "2023-05-23T11:12:58",
+        "date_unixtime": "1684829578",
+        "edited": "2024-01-30T18:03:28",
+        "edited_unixtime": "1706627008",
+        "from": "Максім Гацак / Maksim Hacak",
+        "from_id": "user631904562",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 252,
+        "text": "Добры дзень! Дапамажыце, пліз, зразумець, дзе была Казлоўка, у якой у 1907 валодаў зямлёй магілёўскі мешчанін Якаў Васілевіч Падлобка. Пакуль знайшоў адразу дзве воласці, у якой яна магла быць. І падобна, што гэта зусім розныя Казлоўкі",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добры дзень! Дапамажыце, пліз, зразумець, дзе была Казлоўка, у якой у 1907 валодаў зямлёй магілёўскі мешчанін Якаў Васілевіч Падлобка. Пакуль знайшоў адразу дзве воласці, у якой яна магла быць. І падобна, што гэта зусім розныя Казлоўкі"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Лянок",
+                        "from_id": "user6033553161",
+                        "date": "2024-01-30T18:03:28"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 281,
+        "type": "message",
+        "date": "2023-05-23T11:12:58",
+        "date_unixtime": "1684829578",
+        "from": "Максім Гацак / Maksim Hacak",
+        "from_id": "user631904562",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1130,
+        "height": 204,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 282,
+        "type": "message",
+        "date": "2023-05-23T11:12:58",
+        "date_unixtime": "1684829578",
+        "from": "Максім Гацак / Maksim Hacak",
+        "from_id": "user631904562",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 600,
+        "height": 415,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 283,
+        "type": "message",
+        "date": "2023-05-23T11:12:58",
+        "date_unixtime": "1684829578",
+        "from": "Максім Гацак / Maksim Hacak",
+        "from_id": "user631904562",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 868,
+        "height": 477,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 294,
+        "type": "message",
+        "date": "2023-05-23T21:47:17",
+        "date_unixtime": "1684867637",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 280,
+        "text": [
+            "А вы на старых картах уже смотрели?\nНапример ",
+            {
+                "type": "link",
+                "text": "http://www.etomesto.ru/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А вы на старых картах уже смотрели?\nНапример "
+            },
+            {
+                "type": "link",
+                "text": "http://www.etomesto.ru/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 295,
+        "type": "message",
+        "date": "2023-05-23T21:52:27",
+        "date_unixtime": "1684867947",
+        "from": "Максім Гацак / Maksim Hacak",
+        "from_id": "user631904562",
+        "reply_to_message_id": 294,
+        "text": [
+            "Я шчыра кажучы нават не ўпэўнены, ці тая Казлоўка, што на helper ",
+            {
+                "type": "link",
+                "text": "archonline.by"
+            },
+            ", гэта менавіта тая, што трэба, а не нейкая іншая. Бо нават пошук паказвае яе ў дзвюх валасцях"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я шчыра кажучы нават не ўпэўнены, ці тая Казлоўка, што на helper "
+            },
+            {
+                "type": "link",
+                "text": "archonline.by"
+            },
+            {
+                "type": "plain",
+                "text": ", гэта менавіта тая, што трэба, а не нейкая іншая. Бо нават пошук паказвае яе ў дзвюх валасцях"
+            }
+        ]
+    },
+    {
+        "id": 296,
+        "type": "message",
+        "date": "2023-05-23T22:01:28",
+        "date_unixtime": "1684868488",
+        "from": "Максім Гацак / Maksim Hacak",
+        "from_id": "user631904562",
+        "reply_to_message_id": 45,
+        "text": "І нешта нічога не знаходзіць у тым месцы з такой назвай",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "І нешта нічога не знаходзіць у тым месцы з такой назвай"
+            }
+        ]
+    },
+    {
+        "id": 326,
+        "type": "message",
+        "date": "2023-05-24T11:19:02",
+        "date_unixtime": "1684916342",
+        "from": "Валентина ✨️генеалог✨️родословие✨️",
+        "from_id": "user886323736",
+        "reply_to_message_id": 45,
+        "text": "Здравствуйте! Подскажите, пожалуйста,  мне нужна Беларусь, Могилёвская обл - я туда попала?)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте! Подскажите, пожалуйста,  мне нужна Беларусь, Могилёвская обл - я туда попала?)"
+            }
+        ]
+    },
+    {
+        "id": 327,
+        "type": "message",
+        "date": "2023-05-24T11:19:59",
+        "date_unixtime": "1684916399",
+        "edited": "2023-05-24T11:22:10",
+        "edited_unixtime": "1684916530",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 326,
+        "text": "Какой вам нужен уезд?\nЗдесь Могилевский уезд.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Какой вам нужен уезд?\nЗдесь Могилевский уезд."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Сергей",
+                        "from_id": "user2018987907",
+                        "date": "2023-05-24T11:22:10"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 328,
+        "type": "message",
+        "date": "2023-05-24T11:22:40",
+        "date_unixtime": "1684916560",
+        "from": "Валентина ✨️генеалог✨️родословие✨️",
+        "from_id": "user886323736",
+        "reply_to_message_id": 45,
+        "text": "Мне нужно советское время. 1984-1990гг",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мне нужно советское время. 1984-1990гг"
+            }
+        ]
+    },
+    {
+        "id": 329,
+        "type": "message",
+        "date": "2023-05-24T11:23:10",
+        "date_unixtime": "1684916590",
+        "from": "Сергей",
+        "from_id": "user2018987907",
+        "reply_to_message_id": 45,
+        "text": "это через ЗАГС поиск информации",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "это через ЗАГС поиск информации"
+            }
+        ]
+    },
+    {
+        "id": 330,
+        "type": "message",
+        "date": "2023-05-24T11:23:32",
+        "date_unixtime": "1684916612",
+        "from": "Сергей",
+        "from_id": "user2018987907",
+        "reply_to_message_id": 45,
+        "text": "или если проживали в деревне через сельсоветы которые хранят похозяйственные книги.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "или если проживали в деревне через сельсоветы которые хранят похозяйственные книги."
+            }
+        ]
+    },
+    {
+        "id": 331,
+        "type": "message",
+        "date": "2023-05-24T11:23:52",
+        "date_unixtime": "1684916632",
+        "from": "Валентина ✨️генеалог✨️родословие✨️",
+        "from_id": "user886323736",
+        "reply_to_message_id": 329,
+        "text": "Там ж только родственников. А я ищу человека) надеюсь живого)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Там ж только родственников. А я ищу человека) надеюсь живого)"
+            }
+        ]
+    },
+    {
+        "id": 332,
+        "type": "message",
+        "date": "2023-05-24T11:24:08",
+        "date_unixtime": "1684916648",
+        "from": "Сергей",
+        "from_id": "user2018987907",
+        "reply_to_message_id": 45,
+        "text": "где жил?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "где жил?"
+            }
+        ]
+    },
+    {
+        "id": 333,
+        "type": "message",
+        "date": "2023-05-24T11:24:10",
+        "date_unixtime": "1684916650",
+        "from": "Валентина ✨️генеалог✨️родословие✨️",
+        "from_id": "user886323736",
+        "reply_to_message_id": 45,
+        "text": "Человека, не родственника)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Человека, не родственника)"
+            }
+        ]
+    },
+    {
+        "id": 334,
+        "type": "message",
+        "date": "2023-05-24T11:24:11",
+        "date_unixtime": "1684916651",
+        "from": "Сергей",
+        "from_id": "user2018987907",
+        "reply_to_message_id": 45,
+        "text": "живет?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "живет?"
+            }
+        ]
+    },
+    {
+        "id": 335,
+        "type": "message",
+        "date": "2023-05-24T11:24:43",
+        "date_unixtime": "1684916683",
+        "from": "Валентина ✨️генеалог✨️родословие✨️",
+        "from_id": "user886323736",
+        "reply_to_message_id": 45,
+        "text": "Могилёвская область, Быховский район, п Сущёв или Сущев",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Могилёвская область, Быховский район, п Сущёв или Сущев"
+            }
+        ]
+    },
+    {
+        "id": 336,
+        "type": "message",
+        "date": "2023-05-24T11:24:58",
+        "date_unixtime": "1684916698",
+        "from": "Сергей",
+        "from_id": "user2018987907",
+        "reply_to_message_id": 45,
+        "text": "счас дам телефон сельсовета",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "счас дам телефон сельсовета"
+            }
+        ]
+    },
+    {
+        "id": 337,
+        "type": "message",
+        "date": "2023-05-24T11:25:05",
+        "date_unixtime": "1684916705",
+        "from": "Валентина ✨️генеалог✨️родословие✨️",
+        "from_id": "user886323736",
+        "reply_to_message_id": 45,
+        "text": "🙌",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "🙌"
+            }
+        ]
+    },
+    {
+        "id": 339,
+        "type": "message",
+        "date": "2023-05-24T11:25:55",
+        "date_unixtime": "1684916755",
+        "from": "Валентина ✨️генеалог✨️родословие✨️",
+        "from_id": "user886323736",
+        "reply_to_message_id": 45,
+        "text": "И если , есть почту, боюсь из России будет дорого звонить)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И если , есть почту, боюсь из России будет дорого звонить)"
+            }
+        ]
+    },
+    {
+        "id": 340,
+        "type": "message",
+        "date": "2023-05-24T11:26:02",
+        "date_unixtime": "1684916762",
+        "from": "Сергей",
+        "from_id": "user2018987907",
+        "reply_to_message_id": 45,
+        "text": "ок",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ок"
+            }
+        ]
+    },
+    {
+        "id": 341,
+        "type": "message",
+        "date": "2023-05-24T11:27:11",
+        "date_unixtime": "1684916831",
+        "from": "Сергей",
+        "from_id": "user2018987907",
+        "reply_to_message_id": 45,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://bykhov.gov.by/vlast/sel-isp/itemlist/category/367-holst"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://bykhov.gov.by/vlast/sel-isp/itemlist/category/367-holst"
+            }
+        ]
+    },
+    {
+        "id": 343,
+        "type": "message",
+        "date": "2023-05-24T11:27:40",
+        "date_unixtime": "1684916860",
+        "from": "Сергей",
+        "from_id": "user2018987907",
+        "reply_to_message_id": 45,
+        "text": "там и телефоны и почта, пишите что ищите \"РОДСТВЕННИКА\"   и вам ответят.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "там и телефоны и почта, пишите что ищите \"РОДСТВЕННИКА\"   и вам ответят."
+            }
+        ]
+    },
+    {
+        "id": 345,
+        "type": "message",
+        "date": "2023-05-24T11:29:17",
+        "date_unixtime": "1684916957",
+        "from": "Валентина ✨️генеалог✨️родословие✨️",
+        "from_id": "user886323736",
+        "reply_to_message_id": 45,
+        "text": "Благодарю 🙌",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Благодарю 🙌"
+            }
+        ]
+    },
+    {
+        "id": 373,
+        "type": "message",
+        "date": "2023-05-24T19:17:25",
+        "date_unixtime": "1684945045",
+        "edited": "2023-05-26T12:24:55",
+        "edited_unixtime": "1685093095",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 45,
+        "text": [
+            "Восстановление родословной по открытым источникам\n\n",
+            {
+                "type": "link",
+                "text": "https://telegra.ph/Vosstanovlenie-rodoslovnoj-po-otkrytym-istochnikam-05-24"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Восстановление родословной по открытым источникам\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://telegra.ph/Vosstanovlenie-rodoslovnoj-po-otkrytym-istochnikam-05-24"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Olga",
+                        "from_id": "user849202193",
+                        "date": "2023-05-31T06:54:31"
+                    },
+                    {
+                        "from": "Юлия",
+                        "from_id": "user1811070580",
+                        "date": "2023-05-26T12:24:55"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 475,
+        "type": "message",
+        "date": "2023-06-02T13:11:37",
+        "date_unixtime": "1685700697",
+        "from": "Елена",
+        "from_id": "user1188569382",
+        "reply_to_message_id": 45,
+        "text": "Здравствуйте! Подскажите, г. Кричев к какой волости относился? Ищу Григорьевых.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте! Подскажите, г. Кричев к какой волости относился? Ищу Григорьевых."
+            }
+        ]
+    },
+    {
+        "id": 476,
+        "type": "message",
+        "date": "2023-06-02T13:14:54",
+        "date_unixtime": "1685700894",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 475,
+        "text": "это Чериковский уезд, Кричевская волость",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "это Чериковский уезд, Кричевская волость"
+            }
+        ]
+    },
+    {
+        "id": 477,
+        "type": "message",
+        "date": "2023-06-02T13:18:06",
+        "date_unixtime": "1685701086",
+        "from": "Елена",
+        "from_id": "user1188569382",
+        "reply_to_message_id": 45,
+        "text": "Благодарю! Где лучше искать?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Благодарю! Где лучше искать?"
+            }
+        ]
+    },
+    {
+        "id": 478,
+        "type": "message",
+        "date": "2023-06-02T13:25:05",
+        "date_unixtime": "1685701505",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 477,
+        "text": "что искать?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "что искать?"
+            }
+        ]
+    },
+    {
+        "id": 479,
+        "type": "message",
+        "date": "2023-06-02T13:25:36",
+        "date_unixtime": "1685701536",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 45,
+        "text": "но вообще, это группа Могилевского уезда, не Чериковского",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "но вообще, это группа Могилевского уезда, не Чериковского"
+            }
+        ]
+    },
+    {
+        "id": 480,
+        "type": "message",
+        "date": "2023-06-02T14:24:31",
+        "date_unixtime": "1685705071",
+        "edited": "2023-06-06T06:15:57",
+        "edited_unixtime": "1686021357",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 477,
+        "text": [
+            "Спросите здесь \n",
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спросите здесь \n"
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user1607797409",
+                        "date": "2023-06-06T06:15:57"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 610,
+        "type": "message",
+        "date": "2023-08-07T16:15:33",
+        "date_unixtime": "1691414133",
+        "edited": "2023-08-07T16:15:50",
+        "edited_unixtime": "1691414150",
+        "from": "Anastasiya",
+        "from_id": "user382708538",
+        "reply_to_message_id": 45,
+        "text": "Добрый день \nМожет кто подсказать с чего начать поиск по деревням Самулки и Войнилы (Голеневская волость, Чаусский уезд, Могилевской губернии)?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день \nМожет кто подсказать с чего начать поиск по деревням Самулки и Войнилы (Голеневская волость, Чаусский уезд, Могилевской губернии)?"
+            }
+        ]
+    },
+    {
+        "id": 611,
+        "type": "message",
+        "date": "2023-08-07T22:58:02",
+        "date_unixtime": "1691438282",
+        "from": "Олег Дьяченко",
+        "from_id": "user495950832",
+        "reply_to_message_id": 45,
+        "text": "Добрый вечер! Необходимо определить, к какому церковному приходу относились эти две деревни. Затем посмотреть фонды Национального исторического архива на предмет наличия метрических книг по этому приходу.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый вечер! Необходимо определить, к какому церковному приходу относились эти две деревни. Затем посмотреть фонды Национального исторического архива на предмет наличия метрических книг по этому приходу."
+            }
+        ]
+    },
+    {
+        "id": 613,
+        "type": "message",
+        "date": "2023-08-07T23:01:33",
+        "date_unixtime": "1691438493",
+        "edited": "2024-01-11T07:52:32",
+        "edited_unixtime": "1704948752",
+        "from": "Anastasiya",
+        "from_id": "user382708538",
+        "reply_to_message_id": 611,
+        "text": "Нашла, что д Войнилы может относиться к Хотетовскому православному приходу Святого Духа \n\nА д Самулки - Самулковский православному приходу Святого пропока Ильи\n\nНо информации в архивах не нашла",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Нашла, что д Войнилы может относиться к Хотетовскому православному приходу Святого Духа \n\nА д Самулки - Самулковский православному приходу Святого пропока Ильи\n\nНо информации в архивах не нашла"
+            }
+        ]
+    },
+    {
+        "id": 638,
+        "type": "message",
+        "date": "2023-08-12T23:57:43",
+        "date_unixtime": "1691873863",
+        "from": "Serxio",
+        "from_id": "user984133763",
+        "reply_to_message_id": 45,
+        "text": "Шалом, Дорогие Соседи!!! Живём в Калининграде. Давно мечтаем с Вами встретиться.. Пожалуйста подскажите, как найти какие либо документы. К сожалению владею малой информацией, дедушка ПЧЁЛКИН ПАВЕЛ ЯКОЛЕВИЧ-189...г.р Витебская область( или Латвия или Польша или ... ),  умер в 1951-1953гг., в Костюкевичи(Столовичи)\nБабушка:- ЛАУДРЕНСЕОН (ПЧЁЛКИНА) АЛЕКСАНДРА РОМАНОВНА 189..г.р.Витебская область( или Латвия или Польша или... ),умерла 1981 году в Карелии - БЕЗ ДОКУМЕНТОВ !!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Шалом, Дорогие Соседи!!! Живём в Калининграде. Давно мечтаем с Вами встретиться.. Пожалуйста подскажите, как найти какие либо документы. К сожалению владею малой информацией, дедушка ПЧЁЛКИН ПАВЕЛ ЯКОЛЕВИЧ-189...г.р Витебская область( или Латвия или Польша или ... ),  умер в 1951-1953гг., в Костюкевичи(Столовичи)\nБабушка:- ЛАУДРЕНСЕОН (ПЧЁЛКИНА) АЛЕКСАНДРА РОМАНОВНА 189..г.р.Витебская область( или Латвия или Польша или... ),умерла 1981 году в Карелии - БЕЗ ДОКУМЕНТОВ !!"
+            }
+        ]
+    },
+    {
+        "id": 888,
+        "type": "message",
+        "date": "2024-02-24T02:52:49",
+        "date_unixtime": "1708732369",
+        "edited": "2024-02-24T09:22:58",
+        "edited_unixtime": "1708755778",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "Historyja",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1058,
+        "height": 758,
+        "text": "Шклоў і сама ратуша, 1920 г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Шклоў і сама ратуша, 1920 г."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2024-02-24T10:38:23"
+                    },
+                    {
+                        "from": "Александр Спивак",
+                        "from_id": "user1772167588",
+                        "date": "2024-02-24T09:52:15"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user6172538998",
+                        "date": "2024-02-24T09:22:58"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 906,
+        "type": "message",
+        "date": "2024-03-11T15:56:01",
+        "date_unixtime": "1710161761",
+        "edited": "2024-03-11T16:16:09",
+        "edited_unixtime": "1710162969",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "История Толочина и Толочинского района",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1923,
+        "height": 2560,
+        "text": "Карта почв и лесов Могилевской губернии 1884 г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Карта почв и лесов Могилевской губернии 1884 г."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user6172538998",
+                        "date": "2024-03-11T16:16:09"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1033,
+        "type": "message",
+        "date": "2024-06-12T17:30:04",
+        "date_unixtime": "1718202604",
+        "edited": "2024-06-12T18:47:52",
+        "edited_unixtime": "1718207272",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "Может кому-то будет интересно",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Может кому-то будет интересно"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Marina Yurochka",
+                        "from_id": "user6971824773",
+                        "date": "2024-06-12T18:47:52"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1034,
+        "type": "message",
+        "date": "2024-06-12T17:30:04",
+        "date_unixtime": "1718202604",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1035,
+        "type": "message",
+        "date": "2024-06-12T17:30:04",
+        "date_unixtime": "1718202604",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1036,
+        "type": "message",
+        "date": "2024-06-12T17:30:04",
+        "date_unixtime": "1718202604",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1037,
+        "type": "message",
+        "date": "2024-06-12T17:30:04",
+        "date_unixtime": "1718202604",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1038,
+        "type": "message",
+        "date": "2024-06-12T17:30:04",
+        "date_unixtime": "1718202604",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1039,
+        "type": "message",
+        "date": "2024-06-12T17:30:04",
+        "date_unixtime": "1718202604",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1040,
+        "type": "message",
+        "date": "2024-06-12T17:30:04",
+        "date_unixtime": "1718202604",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1041,
+        "type": "message",
+        "date": "2024-06-12T17:30:04",
+        "date_unixtime": "1718202604",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1042,
+        "type": "message",
+        "date": "2024-06-12T17:30:04",
+        "date_unixtime": "1718202604",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1043,
+        "type": "message",
+        "date": "2024-06-12T17:30:04",
+        "date_unixtime": "1718202604",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1044,
+        "type": "message",
+        "date": "2024-06-12T17:30:04",
+        "date_unixtime": "1718202604",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1045,
+        "type": "message",
+        "date": "2024-06-12T17:30:04",
+        "date_unixtime": "1718202604",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1046,
+        "type": "message",
+        "date": "2024-06-12T17:30:04",
+        "date_unixtime": "1718202604",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1047,
+        "type": "message",
+        "date": "2024-06-12T17:30:05",
+        "date_unixtime": "1718202605",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1048,
+        "type": "message",
+        "date": "2024-06-12T17:30:05",
+        "date_unixtime": "1718202605",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1049,
+        "type": "message",
+        "date": "2024-06-12T17:30:05",
+        "date_unixtime": "1718202605",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1050,
+        "type": "message",
+        "date": "2024-06-12T17:30:05",
+        "date_unixtime": "1718202605",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1051,
+        "type": "message",
+        "date": "2024-06-12T17:30:05",
+        "date_unixtime": "1718202605",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "reply_to_message_id": 45,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    }
+]

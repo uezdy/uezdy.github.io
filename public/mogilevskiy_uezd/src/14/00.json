@@ -1,0 +1,3836 @@
+[
+    {
+        "id": 38,
+        "type": "message",
+        "date": "2023-05-02T15:04:56",
+        "date_unixtime": "1683029096",
+        "edited": "2023-10-08T09:43:16",
+        "edited_unixtime": "1696747396",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 14,
+        "text": [
+            "Список ",
+            {
+                "type": "text_link",
+                "text": "мест Павловичской волости",
+                "href": "https://www.radzima.net/ru/miejsce/avkhuty_1.html"
+            },
+            "\n\n???"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Список "
+            },
+            {
+                "type": "text_link",
+                "text": "мест Павловичской волости",
+                "href": "https://www.radzima.net/ru/miejsce/avkhuty_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n\n???"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "type": "message",
+        "date": "2023-05-02T22:12:53",
+        "date_unixtime": "1683054773",
+        "edited": "2023-10-08T09:44:35",
+        "edited_unixtime": "1696747475",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 14,
+        "text": "Моя поисковая фамилия: Санот - дер. Ильяне/Загорье, Павлов.вол., Могил.у., Могил.губ., \n(сейчас Толочинский р-н, Витебская обл.)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Моя поисковая фамилия: Санот - дер. Ильяне/Загорье, Павлов.вол., Могил.у., Могил.губ., \n(сейчас Толочинский р-н, Витебская обл.)"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "type": "message",
+        "date": "2023-05-02T22:14:37",
+        "date_unixtime": "1683054877",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 14,
+        "text": "Мои поисковые фамилии и места\nЛатушкин - д.Глинники\nМашкович - д.Залазье",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мои поисковые фамилии и места\nЛатушкин - д.Глинники\nМашкович - д.Залазье"
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "type": "message",
+        "date": "2023-05-08T22:13:18",
+        "date_unixtime": "1683573198",
+        "edited": "2023-07-13T21:13:51",
+        "edited_unixtime": "1689272031",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 14,
+        "text": [
+            {
+                "type": "bold",
+                "text": "Ильяни/Загорье история\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://telegra.ph/IlyaneZagore-05-23"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Ильяни/Загорье история\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://telegra.ph/IlyaneZagore-05-23"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "southern sommers",
+                        "from_id": "user2039046861",
+                        "date": "2023-07-13T21:13:51"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "type": "message",
+        "date": "2023-05-18T20:56:24",
+        "date_unixtime": "1684432584",
+        "edited": "2023-05-18T20:58:50",
+        "edited_unixtime": "1684432730",
+        "from": "Yana",
+        "from_id": "user6229242045",
+        "reply_to_message_id": 14,
+        "text": [
+            "Интересуют фамилии ",
+            {
+                "type": "hashtag",
+                "text": "#Бучко"
+            },
+            ", ",
+            {
+                "type": "hashtag",
+                "text": "#Авлуков"
+            },
+            " Населенные пункты Павловичи, Переселье. Метрические книги по ним не сохранились совсем, верно?"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Интересуют фамилии "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Бучко"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Авлуков"
+            },
+            {
+                "type": "plain",
+                "text": " Населенные пункты Павловичи, Переселье. Метрические книги по ним не сохранились совсем, верно?"
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "type": "message",
+        "date": "2023-05-18T21:36:52",
+        "date_unixtime": "1684435012",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 137,
+        "text": "Верно, ни по Павловичам, ни по соседним Круче и Шепелевичам",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Верно, ни по Павловичам, ни по соседним Круче и Шепелевичам"
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "type": "message",
+        "date": "2023-05-18T23:34:45",
+        "date_unixtime": "1684442085",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 137,
+        "text": [
+            "по Павловичам, посмотрите дело №17, вроде как там есть списки домохозяев за 1915 год\n\n",
+            {
+                "type": "link",
+                "text": "https://drive.google.com/file/d/14sQE0oWVGp5g_7KShL-2_6dpCas1xfdx/view"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "по Павловичам, посмотрите дело №17, вроде как там есть списки домохозяев за 1915 год\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://drive.google.com/file/d/14sQE0oWVGp5g_7KShL-2_6dpCas1xfdx/view"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "type": "message",
+        "date": "2023-05-18T23:36:15",
+        "date_unixtime": "1684442175",
+        "from": "Yana",
+        "from_id": "user6229242045",
+        "reply_to_message_id": 155,
+        "text": "Спасибо!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо!"
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "type": "message",
+        "date": "2023-05-20T17:50:07",
+        "date_unixtime": "1684594207",
+        "edited": "2023-05-21T00:40:40",
+        "edited_unixtime": "1684618840",
+        "from": "Yana",
+        "from_id": "user6229242045",
+        "reply_to_message_id": 14,
+        "text": [
+            "Данные с/х переписи 1925/1926 годов. ",
+            {
+                "type": "link",
+                "text": "https://drive.google.com/drive/folders/1GvsfWdxu1zOUkDya_m0zTnCvX4OZMyUP?usp=sharing"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Данные с/х переписи 1925/1926 годов. "
+            },
+            {
+                "type": "link",
+                "text": "https://drive.google.com/drive/folders/1GvsfWdxu1zOUkDya_m0zTnCvX4OZMyUP?usp=sharing"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 7,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Al Ehm",
+                        "from_id": "user5780145437",
+                        "date": "2024-04-22T15:14:24"
+                    },
+                    {
+                        "from": "Alexander Rakitko",
+                        "from_id": "user142881101",
+                        "date": "2023-08-20T22:42:17"
+                    },
+                    {
+                        "from": "Hanna",
+                        "from_id": "user424349340",
+                        "date": "2023-05-22T09:45:19"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "type": "message",
+        "date": "2023-05-22T09:44:46",
+        "date_unixtime": "1684737886",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 14,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "image-4.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4641,
+        "height": 5280,
+        "text": [
+            "Доброго утра!\n\nподскажите пожалуйста, возможно кто ни будь знает\n\nа где располагался - ",
+            {
+                "type": "bold",
+                "text": "хутор Хобци\n\n"
+            },
+            "я его встретил в переписи 1925\nон относился к Ульяновичскому с\\с, т.е. это должно быть где-то рядом возле д. Ильяни, Авхуты, Славное...\nт.е. Павловичская волость\n\nна старых картах ничего не нахожу"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Доброго утра!\n\nподскажите пожалуйста, возможно кто ни будь знает\n\nа где располагался - "
+            },
+            {
+                "type": "bold",
+                "text": "хутор Хобци\n\n"
+            },
+            {
+                "type": "plain",
+                "text": "я его встретил в переписи 1925\nон относился к Ульяновичскому с\\с, т.е. это должно быть где-то рядом возле д. Ильяни, Авхуты, Славное...\nт.е. Павловичская волость\n\nна старых картах ничего не нахожу"
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "type": "message",
+        "date": "2023-05-22T09:55:18",
+        "date_unixtime": "1684738518",
+        "from": "Yana",
+        "from_id": "user6229242045",
+        "reply_to_message_id": 14,
+        "text": "В книге Гарады и Вески Беларуси не искали?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В книге Гарады и Вески Беларуси не искали?"
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "type": "message",
+        "date": "2023-05-22T10:07:02",
+        "date_unixtime": "1684739222",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 162,
+        "text": "хм... сейчас только понял, что в электронном виде отсутствует как раз том Витебской области\nнужно заглянуть в библиотеку\nспасибо",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "хм... сейчас только понял, что в электронном виде отсутствует как раз том Витебской области\nнужно заглянуть в библиотеку\nспасибо"
+            }
+        ]
+    },
+    {
+        "id": 241,
+        "type": "message",
+        "date": "2023-05-23T06:47:26",
+        "date_unixtime": "1684813646",
+        "edited": "2023-05-23T06:52:23",
+        "edited_unixtime": "1684813943",
+        "from": "Сергей",
+        "from_id": "user2018987907",
+        "reply_to_message_id": 14,
+        "text": "Пох. книги 1944  Павловичи, Мартемьяново, Переселье-выписки делал.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Пох. книги 1944  Павловичи, Мартемьяново, Переселье-выписки делал."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Al Ehm",
+                        "from_id": "user5780145437",
+                        "date": "2024-04-22T21:38:49"
+                    },
+                    {
+                        "from": "arkebuza",
+                        "from_id": "user1335636692",
+                        "date": "2023-07-15T13:15:00"
+                    },
+                    {
+                        "from": "Yana",
+                        "from_id": "user6229242045",
+                        "date": "2023-05-23T06:52:23"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 306,
+        "type": "message",
+        "date": "2023-05-24T09:25:19",
+        "date_unixtime": "1684909519",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 159,
+        "text": "Хорошо бы это проиндексировать.\nКто-нибудь хочет свои местности сделать?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Хорошо бы это проиндексировать.\nКто-нибудь хочет свои местности сделать?"
+            }
+        ]
+    },
+    {
+        "id": 351,
+        "type": "message",
+        "date": "2023-05-24T13:36:06",
+        "date_unixtime": "1684924566",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 306,
+        "text": "Тихий этого ещё не сделал?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тихий этого ещё не сделал?"
+            }
+        ]
+    },
+    {
+        "id": 352,
+        "type": "message",
+        "date": "2023-05-24T13:54:05",
+        "date_unixtime": "1684925645",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 351,
+        "text": "Это кто?..🤔",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это кто?..🤔"
+            }
+        ]
+    },
+    {
+        "id": 353,
+        "type": "message",
+        "date": "2023-05-24T13:57:01",
+        "date_unixtime": "1684925821",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 352,
+        "text": "А есть такой, ищет, где бы макнуть. Охотится за такими картинками.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А есть такой, ищет, где бы макнуть. Охотится за такими картинками."
+            }
+        ]
+    },
+    {
+        "id": 354,
+        "type": "message",
+        "date": "2023-05-24T13:57:35",
+        "date_unixtime": "1684925855",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 14,
+        "text": "Индексирует доки по разным регионам, особенно эту перепись",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Индексирует доки по разным регионам, особенно эту перепись"
+            }
+        ]
+    },
+    {
+        "id": 355,
+        "type": "message",
+        "date": "2023-05-24T13:59:08",
+        "date_unixtime": "1684925948",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 354,
+        "text": "Я так понимаю в общий доступ он не выкладывает?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я так понимаю в общий доступ он не выкладывает?"
+            }
+        ]
+    },
+    {
+        "id": 356,
+        "type": "message",
+        "date": "2023-05-24T14:00:22",
+        "date_unixtime": "1684926022",
+        "from": "Anastasia",
+        "from_id": "user1042926037",
+        "reply_to_message_id": 14,
+        "text": "Это, который с дапаможника?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это, который с дапаможника?"
+            }
+        ]
+    },
+    {
+        "id": 357,
+        "type": "message",
+        "date": "2023-05-24T14:05:44",
+        "date_unixtime": "1684926344",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 355,
+        "text": "Почему, вроде сайт у него есть. Известный ресурс. Но что-то я к нему равнодушен",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Почему, вроде сайт у него есть. Известный ресурс. Но что-то я к нему равнодушен"
+            }
+        ]
+    },
+    {
+        "id": 358,
+        "type": "message",
+        "date": "2023-05-24T14:11:50",
+        "date_unixtime": "1684926710",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 356,
+        "text": "Ну этот, главный спец по всему мозырскому",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну этот, главный спец по всему мозырскому"
+            }
+        ]
+    },
+    {
+        "id": 359,
+        "type": "message",
+        "date": "2023-05-24T14:15:48",
+        "date_unixtime": "1684926948",
+        "from": "Anastasia",
+        "from_id": "user1042926037",
+        "reply_to_message_id": 14,
+        "text": "Год назад, даже больше сбрасывали ему перепись по своим деревням, но они до сих пор не опубликованы, к сожалению. Хотелось людям помочь, кто в архив попасть не может.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Год назад, даже больше сбрасывали ему перепись по своим деревням, но они до сих пор не опубликованы, к сожалению. Хотелось людям помочь, кто в архив попасть не может."
+            }
+        ]
+    },
+    {
+        "id": 360,
+        "type": "message",
+        "date": "2023-05-24T14:16:30",
+        "date_unixtime": "1684926990",
+        "edited": "2023-05-24T15:03:19",
+        "edited_unixtime": "1684929799",
+        "from": "Kasia",
+        "from_id": "user496064814",
+        "reply_to_message_id": 159,
+        "text": "Я своего прапрадеда и прадедушку (двух прадедов) нашла. Спасибо, кто опубликовал",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я своего прапрадеда и прадедушку (двух прадедов) нашла. Спасибо, кто опубликовал"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Anastasia",
+                        "from_id": "user1042926037",
+                        "date": "2023-05-24T14:28:25"
+                    },
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-05-24T14:16:48"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 361,
+        "type": "message",
+        "date": "2023-05-24T14:21:52",
+        "date_unixtime": "1684927312",
+        "edited": "2023-05-24T14:33:53",
+        "edited_unixtime": "1684928033",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 359,
+        "text": "Ну, может, Вы и помогли. Ему в его коммерческих интересах",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну, может, Вы и помогли. Ему в его коммерческих интересах"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "😢",
+                "recent": [
+                    {
+                        "from": "Древослав Русов .",
+                        "from_id": "user956963811",
+                        "date": "2024-07-06T08:19:14"
+                    },
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-05-24T14:33:53"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 362,
+        "type": "message",
+        "date": "2023-05-24T14:27:34",
+        "date_unixtime": "1684927654",
+        "from": "Yana",
+        "from_id": "user6229242045",
+        "reply_to_message_id": 360,
+        "text": "Рада, что нашли. А из какого ваши населенного пункта?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Рада, что нашли. А из какого ваши населенного пункта?"
+            }
+        ]
+    },
+    {
+        "id": 363,
+        "type": "message",
+        "date": "2023-05-24T14:29:25",
+        "date_unixtime": "1684927765",
+        "edited": "2023-05-24T15:14:35",
+        "edited_unixtime": "1684930475",
+        "from": "Kasia",
+        "from_id": "user496064814",
+        "reply_to_message_id": 362,
+        "text": "Красково, Ручьё, тетеринский сельсовет. Но мне надо ещё надо прапрадеда из Симонович найти",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Красково, Ручьё, тетеринский сельсовет. Но мне надо ещё надо прапрадеда из Симонович найти"
+            }
+        ]
+    },
+    {
+        "id": 366,
+        "type": "message",
+        "date": "2023-05-24T14:46:11",
+        "date_unixtime": "1684928771",
+        "edited": "2023-05-24T14:46:37",
+        "edited_unixtime": "1684928797",
+        "from": "Yana",
+        "from_id": "user6229242045",
+        "reply_to_message_id": 306,
+        "text": "Да, хорошо бы. Но времени пока нет. Внесла по Переселью фамилии в Familio",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, хорошо бы. Но времени пока нет. Внесла по Переселью фамилии в Familio"
+            }
+        ]
+    },
+    {
+        "id": 378,
+        "type": "message",
+        "date": "2023-05-24T22:57:08",
+        "date_unixtime": "1684958228",
+        "edited": "2023-05-24T22:57:55",
+        "edited_unixtime": "1684958275",
+        "from": "Kasia",
+        "from_id": "user496064814",
+        "reply_to_message_id": 159,
+        "text": "Подскажите, пожалуйста,  где взять данные переписи населения по этому же сельсовету за те же года? (В этом списке нет именно моей деревни, откуда родители моей прабабушки). В архив я попасть, к сожалению,  не могу",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Подскажите, пожалуйста,  где взять данные переписи населения по этому же сельсовету за те же года? (В этом списке нет именно моей деревни, откуда родители моей прабабушки). В архив я попасть, к сожалению,  не могу"
+            }
+        ]
+    },
+    {
+        "id": 379,
+        "type": "message",
+        "date": "2023-05-24T23:01:43",
+        "date_unixtime": "1684958503",
+        "from": "Yana",
+        "from_id": "user6229242045",
+        "reply_to_message_id": 14,
+        "text": "Я заказывала эти данные в архиве, так как тоже нахожусь далеко и не могла оплатить, заказывала через посредников.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я заказывала эти данные в архиве, так как тоже нахожусь далеко и не могла оплатить, заказывала через посредников."
+            }
+        ]
+    },
+    {
+        "id": 404,
+        "type": "message",
+        "date": "2023-05-25T22:18:41",
+        "date_unixtime": "1685042321",
+        "from": "Kasia",
+        "from_id": "user496064814",
+        "reply_to_message_id": 379,
+        "text": "Спасибо за ответ. А могли бы вы поделиться контактами ваших посредников?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо за ответ. А могли бы вы поделиться контактами ваших посредников?"
+            }
+        ]
+    },
+    {
+        "id": 405,
+        "type": "message",
+        "date": "2023-05-25T22:34:12",
+        "date_unixtime": "1685043252",
+        "edited": "2023-05-25T22:34:39",
+        "edited_unixtime": "1685043279",
+        "from": "Kasia",
+        "from_id": "user496064814",
+        "reply_to_message_id": 379,
+        "text": "А в каком вы архиве вы заказывали? Национальном историческом (niab)?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А в каком вы архиве вы заказывали? Национальном историческом (niab)?"
+            }
+        ]
+    },
+    {
+        "id": 406,
+        "type": "message",
+        "date": "2023-05-25T23:22:42",
+        "date_unixtime": "1685046162",
+        "from": "Yana",
+        "from_id": "user6229242045",
+        "reply_to_message_id": 404,
+        "text": "Она уже не в Минске",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Она уже не в Минске"
+            }
+        ]
+    },
+    {
+        "id": 407,
+        "type": "message",
+        "date": "2023-05-25T23:22:57",
+        "date_unixtime": "1685046177",
+        "from": "Yana",
+        "from_id": "user6229242045",
+        "reply_to_message_id": 405,
+        "text": "НАРБ",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "НАРБ"
+            }
+        ]
+    },
+    {
+        "id": 408,
+        "type": "message",
+        "date": "2023-05-25T23:23:48",
+        "date_unixtime": "1685046228",
+        "from": "Yana",
+        "from_id": "user6229242045",
+        "reply_to_message_id": 14,
+        "text": "Вы можете напрямую в архив написать. Единственная проблема, оплатить может только кто-то в Беларуси",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вы можете напрямую в архив написать. Единственная проблема, оплатить может только кто-то в Беларуси"
+            }
+        ]
+    },
+    {
+        "id": 409,
+        "type": "message",
+        "date": "2023-05-25T23:24:19",
+        "date_unixtime": "1685046259",
+        "from": "Yana",
+        "from_id": "user6229242045",
+        "reply_to_message_id": 14,
+        "text": "Спросите в группе, вдруг помогут вам заказать и олатить",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спросите в группе, вдруг помогут вам заказать и олатить"
+            }
+        ]
+    },
+    {
+        "id": 411,
+        "type": "message",
+        "date": "2023-05-26T00:14:44",
+        "date_unixtime": "1685049284",
+        "edited": "2023-05-26T00:15:48",
+        "edited_unixtime": "1685049348",
+        "from": "Kasia",
+        "from_id": "user496064814",
+        "reply_to_message_id": 408,
+        "text": "Я писала. Они сказали, что уже не оказывают такие услуги сами, нужно приезжать и на месте заказывать и работать с документами самим, а они научат, как работать. Но я писала в ниаб",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я писала. Они сказали, что уже не оказывают такие услуги сами, нужно приезжать и на месте заказывать и работать с документами самим, а они научат, как работать. Но я писала в ниаб"
+            }
+        ]
+    },
+    {
+        "id": 414,
+        "type": "message",
+        "date": "2023-05-26T01:50:10",
+        "date_unixtime": "1685055010",
+        "from": "Yana",
+        "from_id": "user6229242045",
+        "reply_to_message_id": 14,
+        "text": "Но это документы советского периода, они в НАРБ",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Но это документы советского периода, они в НАРБ"
+            }
+        ]
+    },
+    {
+        "id": 415,
+        "type": "message",
+        "date": "2023-05-26T01:53:03",
+        "date_unixtime": "1685055183",
+        "from": "Kasia",
+        "from_id": "user496064814",
+        "reply_to_message_id": 14,
+        "text": "Спасибо! Буду шукаць:). Я только начинаю, поэтому тыкаюсь туда-сюда, не зная куда",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо! Буду шукаць:). Я только начинаю, поэтому тыкаюсь туда-сюда, не зная куда"
+            }
+        ]
+    },
+    {
+        "id": 416,
+        "type": "message",
+        "date": "2023-05-26T01:57:44",
+        "date_unixtime": "1685055464",
+        "from": "Yana",
+        "from_id": "user6229242045",
+        "reply_to_message_id": 14,
+        "text": "Как ваша деревня называется? Что именно вы ищете? Можете писать в личку",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Как ваша деревня называется? Что именно вы ищете? Можете писать в личку"
+            }
+        ]
+    },
+    {
+        "id": 417,
+        "type": "message",
+        "date": "2023-05-26T01:58:27",
+        "date_unixtime": "1685055507",
+        "from": "Yana",
+        "from_id": "user6229242045",
+        "reply_to_message_id": 14,
+        "text": "Я, вроде, заказала все по этому сельсовету",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я, вроде, заказала все по этому сельсовету"
+            }
+        ]
+    },
+    {
+        "id": 418,
+        "type": "message",
+        "date": "2023-05-26T01:58:40",
+        "date_unixtime": "1685055520",
+        "from": "Yana",
+        "from_id": "user6229242045",
+        "reply_to_message_id": 14,
+        "text": "Странно, что вашей деревни нет",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Странно, что вашей деревни нет"
+            }
+        ]
+    },
+    {
+        "id": 419,
+        "type": "message",
+        "date": "2023-05-26T02:03:33",
+        "date_unixtime": "1685055813",
+        "edited": "2023-05-26T02:04:07",
+        "edited_unixtime": "1685055847",
+        "from": "Kasia",
+        "from_id": "user496064814",
+        "reply_to_message_id": 14,
+        "text": "Спасибо. Сейчас напишу в личку",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо. Сейчас напишу в личку"
+            }
+        ]
+    },
+    {
+        "id": 448,
+        "type": "message",
+        "date": "2023-06-01T16:25:52",
+        "date_unixtime": "1685625952",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 162,
+        "text": "Посмотрел сегодня, увы нет ничего похожего(",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Посмотрел сегодня, увы нет ничего похожего("
+            }
+        ]
+    },
+    {
+        "id": 451,
+        "type": "message",
+        "date": "2023-06-02T08:35:31",
+        "date_unixtime": "1685684131",
+        "edited": "2023-06-02T09:36:26",
+        "edited_unixtime": "1685687786",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 14,
+        "text": "Пофоткал деревни, которые знакомы",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Пофоткал деревни, которые знакомы"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-06-02T09:36:26"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 452,
+        "type": "message",
+        "date": "2023-06-02T08:36:45",
+        "date_unixtime": "1685684205",
+        "edited": "2023-06-02T09:36:33",
+        "edited_unixtime": "1685687793",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 551,
+        "height": 1280,
+        "text": "Авхуты",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Авхуты"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-06-02T09:36:33"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 453,
+        "type": "message",
+        "date": "2023-06-02T08:36:45",
+        "date_unixtime": "1685684205",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 1171,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 454,
+        "type": "message",
+        "date": "2023-06-02T08:36:45",
+        "date_unixtime": "1685684205",
+        "edited": "2023-06-02T09:36:38",
+        "edited_unixtime": "1685687798",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 802,
+        "height": 1280,
+        "text": "Горожоны",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Горожоны"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-06-02T09:36:38"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 455,
+        "type": "message",
+        "date": "2023-06-02T08:36:45",
+        "date_unixtime": "1685684205",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 547,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 456,
+        "type": "message",
+        "date": "2023-06-02T08:36:45",
+        "date_unixtime": "1685684205",
+        "edited": "2023-06-02T09:36:42",
+        "edited_unixtime": "1685687802",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 443,
+        "height": 1280,
+        "text": "Глинники",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Глинники"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-06-02T09:36:42"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 457,
+        "type": "message",
+        "date": "2023-06-02T08:36:45",
+        "date_unixtime": "1685684205",
+        "edited": "2023-06-02T09:36:46",
+        "edited_unixtime": "1685687806",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 860,
+        "height": 1280,
+        "text": "Залазье",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Залазье"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-06-02T09:36:46"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 458,
+        "type": "message",
+        "date": "2023-06-02T08:36:45",
+        "date_unixtime": "1685684205",
+        "edited": "2023-06-02T09:36:53",
+        "edited_unixtime": "1685687813",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 622,
+        "height": 1280,
+        "text": "Загорье",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Загорье"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "southern sommers",
+                        "from_id": "user2039046861",
+                        "date": "2023-07-13T21:23:27"
+                    },
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-06-02T09:36:53"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 459,
+        "type": "message",
+        "date": "2023-06-02T08:36:45",
+        "date_unixtime": "1685684205",
+        "edited": "2023-06-02T09:36:59",
+        "edited_unixtime": "1685687819",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 485,
+        "height": 1280,
+        "text": "Ильяне",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ильяне"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-06-02T09:36:59"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "southern sommers",
+                        "from_id": "user2039046861",
+                        "date": "2023-07-13T21:23:31"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 460,
+        "type": "message",
+        "date": "2023-06-02T08:36:45",
+        "date_unixtime": "1685684205",
+        "edited": "2023-06-02T09:37:10",
+        "edited_unixtime": "1685687830",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 801,
+        "height": 1280,
+        "text": "Курчи",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Курчи"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-06-02T09:37:10"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 461,
+        "type": "message",
+        "date": "2023-06-02T08:36:45",
+        "date_unixtime": "1685684205",
+        "edited": "2023-06-02T09:37:07",
+        "edited_unixtime": "1685687827",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 943,
+        "height": 1280,
+        "text": "Славное",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Славное"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-06-02T09:37:07"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 462,
+        "type": "message",
+        "date": "2023-06-02T08:36:45",
+        "date_unixtime": "1685684205",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 775,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 463,
+        "type": "message",
+        "date": "2023-06-02T08:36:45",
+        "date_unixtime": "1685684205",
+        "edited": "2023-06-02T09:37:14",
+        "edited_unixtime": "1685687834",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 888,
+        "height": 1280,
+        "text": "Яблонка",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Яблонка"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-06-02T09:37:14"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 464,
+        "type": "message",
+        "date": "2023-06-02T09:02:16",
+        "date_unixtime": "1685685736",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 14,
+        "text": "Честно признаться, автор порой все путает",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Честно признаться, автор порой все путает"
+            }
+        ]
+    },
+    {
+        "id": 465,
+        "type": "message",
+        "date": "2023-06-02T09:02:23",
+        "date_unixtime": "1685685743",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 461,
+        "text": [
+            "Например – Славное\n\n",
+            {
+                "type": "italic",
+                "text": "После первого раздела РП село в Копыском повете\n\n"
+            },
+            "Тут видимо путают со Словенями \nСлавное никогда не было селом, да и появилась после появления ЖД в 1871-ом\n\nА путаница из-за того, что станция Славное раньше называлась Славяны"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Например – Славное\n\n"
+            },
+            {
+                "type": "italic",
+                "text": "После первого раздела РП село в Копыском повете\n\n"
+            },
+            {
+                "type": "plain",
+                "text": "Тут видимо путают со Словенями \nСлавное никогда не было селом, да и появилась после появления ЖД в 1871-ом\n\nА путаница из-за того, что станция Славное раньше называлась Славяны"
+            }
+        ]
+    },
+    {
+        "id": 466,
+        "type": "message",
+        "date": "2023-06-02T09:08:16",
+        "date_unixtime": "1685686096",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 454,
+        "text": "Тут я может чего то не знаю, но раз в деревне живут евреи, почему они в 1910-ом они относятся к Молявскому православному приходу",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тут я может чего то не знаю, но раз в деревне живут евреи, почему они в 1910-ом они относятся к Молявскому православному приходу"
+            }
+        ]
+    },
+    {
+        "id": 467,
+        "type": "message",
+        "date": "2023-06-02T09:13:47",
+        "date_unixtime": "1685686427",
+        "from": "Сергей",
+        "from_id": "user2018987907",
+        "reply_to_message_id": 14,
+        "text": "может есть смысл посмотреть ПГМ 1795 года?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "может есть смысл посмотреть ПГМ 1795 года?"
+            }
+        ]
+    },
+    {
+        "id": 468,
+        "type": "message",
+        "date": "2023-06-02T09:16:35",
+        "date_unixtime": "1685686595",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 457,
+        "text": "По моей деревне о школе в 1890, возможно и правда, я просто не встречал такой информации \n\nНо то, что она в Павловичском приходе - ошибка\nМежду Залазьем и Павловичами – болото и Кручанский приход, этотесли напрямую идти проще в Круче креститься\n\nВообще все метрики в Молявке",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "По моей деревне о школе в 1890, возможно и правда, я просто не встречал такой информации \n\nНо то, что она в Павловичском приходе - ошибка\nМежду Залазьем и Павловичами – болото и Кручанский приход, этотесли напрямую идти проще в Круче креститься\n\nВообще все метрики в Молявке"
+            }
+        ]
+    },
+    {
+        "id": 469,
+        "type": "message",
+        "date": "2023-06-02T09:23:17",
+        "date_unixtime": "1685686997",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 467,
+        "text": "Да, смотрел\nИ еще раз посмотрю, чуть позже",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, смотрел\nИ еще раз посмотрю, чуть позже"
+            }
+        ]
+    },
+    {
+        "id": 470,
+        "type": "message",
+        "date": "2023-06-02T09:25:22",
+        "date_unixtime": "1685687122",
+        "edited": "2023-06-02T09:39:32",
+        "edited_unixtime": "1685687972",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 14,
+        "text": "Вообще, вернусь ка я в библиотеку и сфоткаю источники из этого справочника\nА то больше вопросов, чем ответов",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вообще, вернусь ка я в библиотеку и сфоткаю источники из этого справочника\nА то больше вопросов, чем ответов"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-06-02T09:39:32"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 471,
+        "type": "message",
+        "date": "2023-06-02T09:35:42",
+        "date_unixtime": "1685687742",
+        "from": "Anastasia",
+        "from_id": "user1042926037",
+        "reply_to_message_id": 14,
+        "text": "Серёжа, а это какой том книги, тоже хочу её глянуть на следующей неделе.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Серёжа, а это какой том книги, тоже хочу её глянуть на следующей неделе."
+            }
+        ]
+    },
+    {
+        "id": 472,
+        "type": "message",
+        "date": "2023-06-02T09:41:10",
+        "date_unixtime": "1685688070",
+        "edited": "2023-10-08T09:53:01",
+        "edited_unixtime": "1696747981",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 451,
+        "text": [
+            "Благодарю за мои вёскі :)\n\nСлавновский сельсовет\nАдминистративная принадлежность",
+            {
+                "type": "bold",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Витебская область",
+                "href": "https://www.radzima.net/ru/oblasc/vicebskaya.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Толочинский район",
+                "href": "https://www.radzima.net/ru/rayon/talachynski.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Славновский сельсовет",
+                "href": "https://www.radzima.net/ru/selsovet/slavnovskij.html"
+            },
+            "\n\nСписок мест\n",
+            {
+                "type": "text_link",
+                "text": "Авхуты, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/avkhuty_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Антоново, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/antonovo_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Глинники, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/glinniki_2.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Горожоны, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/gorozhanovo_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Губарево, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/gubarevo_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Гута, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/guta_8.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Загорье, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/zahorje-v.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Залазье, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/zalazje_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Заречье, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/zarechno-sloveni.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Зяблица, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/zyablitsa_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Ильяни, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/iljyany_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Каменица, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/kamianica-v.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Каменка, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/kamenka_6.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Курчи, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/kurchi_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Ломинщина, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/laminshchyna-v.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Майдан, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/maydan.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Молявка, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/molyavka_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Нарцызово, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/nartsyzyvo.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Новая Яблынка, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/novaya_yablonka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Славное, посёлок",
+                "href": "https://www.radzima.net/ru/miejsce/slavnoe_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Словени, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/sloveni_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Тростянка, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/trostyanka_3.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Химец, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/khimets.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Яблонка, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/yablonka.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Благодарю за мои вёскі :)\n\nСлавновский сельсовет\nАдминистративная принадлежность"
+            },
+            {
+                "type": "bold",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Витебская область",
+                "href": "https://www.radzima.net/ru/oblasc/vicebskaya.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Толочинский район",
+                "href": "https://www.radzima.net/ru/rayon/talachynski.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Славновский сельсовет",
+                "href": "https://www.radzima.net/ru/selsovet/slavnovskij.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nСписок мест\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Авхуты, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/avkhuty_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Антоново, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/antonovo_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Глинники, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/glinniki_2.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Горожоны, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/gorozhanovo_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Губарево, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/gubarevo_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Гута, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/guta_8.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Загорье, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/zahorje-v.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Залазье, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/zalazje_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Заречье, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/zarechno-sloveni.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Зяблица, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/zyablitsa_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Ильяни, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/iljyany_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Каменица, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/kamianica-v.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Каменка, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/kamenka_6.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Курчи, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/kurchi_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Ломинщина, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/laminshchyna-v.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Майдан, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/maydan.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Молявка, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/molyavka_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Нарцызово, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/nartsyzyvo.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Новая Яблынка, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/novaya_yablonka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Славное, посёлок",
+                "href": "https://www.radzima.net/ru/miejsce/slavnoe_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Словени, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/sloveni_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Тростянка, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/trostyanka_3.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Химец, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/khimets.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Яблонка, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/yablonka.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 473,
+        "type": "message",
+        "date": "2023-06-02T09:47:58",
+        "date_unixtime": "1685688478",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 471,
+        "text": "Гарады и Вески Беларуси",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Гарады и Вески Беларуси"
+            }
+        ]
+    },
+    {
+        "id": 481,
+        "type": "message",
+        "date": "2023-06-02T18:51:57",
+        "date_unixtime": "1685721117",
+        "from": null,
+        "from_id": "user6172538998",
+        "reply_to_message_id": 14,
+        "text": "Добрый день.\nИнтересует деревня Воргутьево. Есть ли тут кто-то кто имеет корни из данного населённого пункта?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день.\nИнтересует деревня Воргутьево. Есть ли тут кто-то кто имеет корни из данного населённого пункта?"
+            }
+        ]
+    },
+    {
+        "id": 482,
+        "type": "message",
+        "date": "2023-06-02T20:22:01",
+        "date_unixtime": "1685726521",
+        "edited": "2023-06-02T20:44:47",
+        "edited_unixtime": "1685727887",
+        "from": "Валерий",
+        "from_id": "user6234873196",
+        "reply_to_message_id": 14,
+        "text": "Уважаемые Сергей и\n\n\n форумчане! Не принимайте информацию по деревням вокруг Славного (из книги Гарады и вески ...) за истину. Там масса грубых ошибок.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Уважаемые Сергей и\n\n\n форумчане! Не принимайте информацию по деревням вокруг Славного (из книги Гарады и вески ...) за истину. Там масса грубых ошибок."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-06-02T20:44:47"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 490,
+        "type": "message",
+        "date": "2023-06-03T04:56:09",
+        "date_unixtime": "1685757369",
+        "edited": "2023-06-03T11:52:28",
+        "edited_unixtime": "1685782348",
+        "from": "Сергей",
+        "from_id": "user2018987907",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1848,
+        "height": 882,
+        "text": "Залазье на карте",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Залазье на карте"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "aalto",
+                        "from_id": "user5402646138",
+                        "date": "2023-06-03T11:52:28"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 491,
+        "type": "message",
+        "date": "2023-06-03T05:00:34",
+        "date_unixtime": "1685757634",
+        "from": "Сергей",
+        "from_id": "user2018987907",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1589,
+        "height": 851,
+        "text": "Славное",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Славное"
+            }
+        ]
+    },
+    {
+        "id": 513,
+        "type": "message",
+        "date": "2023-06-12T10:40:31",
+        "date_unixtime": "1686555631",
+        "from": "Witold Chanecki",
+        "from_id": "user1177911510",
+        "reply_to_message_id": 481,
+        "text": "Гэта шляхецкая ваколіца... Маіх каранёў там няма, але я займаўся радаводамі пару сямей адтуль... Што вас цікавіць?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Гэта шляхецкая ваколіца... Маіх каранёў там няма, але я займаўся радаводамі пару сямей адтуль... Што вас цікавіць?"
+            }
+        ]
+    },
+    {
+        "id": 514,
+        "type": "message",
+        "date": "2023-06-12T13:46:50",
+        "date_unixtime": "1686566810",
+        "from": null,
+        "from_id": "user6172538998",
+        "reply_to_message_id": 513,
+        "text": "Добрый день.\nНапишу в личку.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день.\nНапишу в личку."
+            }
+        ]
+    },
+    {
+        "id": 539,
+        "type": "message",
+        "date": "2023-07-15T12:40:34",
+        "date_unixtime": "1689414034",
+        "edited": "2023-07-15T15:39:39",
+        "edited_unixtime": "1689424779",
+        "from": "southern sommers",
+        "from_id": "user2039046861",
+        "reply_to_message_id": 14,
+        "text": "Ребята, если есть моменты которые нужно узнать или уточнить, то сообщество slavnoemyplace в ИГ к Вашему распоряжению. Пишите в лс интересующий вопрос и попытаемся найти подписчиков из числа местных обладающих информацией. В перспективе планируются к созданию аналогичные сообщества г.п. Бобр и г.Толочин",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ребята, если есть моменты которые нужно узнать или уточнить, то сообщество slavnoemyplace в ИГ к Вашему распоряжению. Пишите в лс интересующий вопрос и попытаемся найти подписчиков из числа местных обладающих информацией. В перспективе планируются к созданию аналогичные сообщества г.п. Бобр и г.Толочин"
+            }
+        ]
+    },
+    {
+        "id": 540,
+        "type": "message",
+        "date": "2023-07-15T22:26:28",
+        "date_unixtime": "1689449188",
+        "edited": "2023-07-15T22:50:43",
+        "edited_unixtime": "1689450643",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 14,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "IMG_8311.JPG",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 1875,
+        "height": 2500,
+        "text": "из Крестьянского поземельного банка по Сенненскому уезду,\nПавловичская волость Могилевского уезда",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "из Крестьянского поземельного банка по Сенненскому уезду,\nПавловичская волость Могилевского уезда"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "aalto",
+                        "from_id": "user5402646138",
+                        "date": "2023-07-16T09:30:40"
+                    },
+                    {
+                        "from": "Yana",
+                        "from_id": "user6229242045",
+                        "date": "2023-07-15T23:06:39"
+                    },
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-07-15T22:50:43"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 541,
+        "type": "message",
+        "date": "2023-07-15T22:57:56",
+        "date_unixtime": "1689451076",
+        "from": "Олег Дьяченко",
+        "from_id": "user495950832",
+        "reply_to_message_id": 14,
+        "text": "А Вендорожская волость есть?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А Вендорожская волость есть?"
+            }
+        ]
+    },
+    {
+        "id": 542,
+        "type": "message",
+        "date": "2023-07-15T23:07:09",
+        "date_unixtime": "1689451629",
+        "from": "Yana",
+        "from_id": "user6229242045",
+        "reply_to_message_id": 540,
+        "text": "А остальное когда будет?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А остальное когда будет?"
+            }
+        ]
+    },
+    {
+        "id": 543,
+        "type": "message",
+        "date": "2023-07-15T23:20:52",
+        "date_unixtime": "1689452452",
+        "edited": "2023-07-15T23:38:27",
+        "edited_unixtime": "1689453507",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 541,
+        "text": [
+            "Не встречал\nНо можете посмотреть сами\n\n",
+            {
+                "type": "link",
+                "text": "https://t.me/sennenskiy/1/1328"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Не встречал\nНо можете посмотреть сами\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/sennenskiy/1/1328"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 544,
+        "type": "message",
+        "date": "2023-07-15T23:21:51",
+        "date_unixtime": "1689452511",
+        "edited": "2023-07-15T23:22:12",
+        "edited_unixtime": "1689452532",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 542,
+        "text": "Я не в курсе, ждем…\nДумаю осенью",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я не в курсе, ждем…\nДумаю осенью"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Yana",
+                        "from_id": "user6229242045",
+                        "date": "2023-07-15T23:22:12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 545,
+        "type": "message",
+        "date": "2023-07-16T09:31:02",
+        "date_unixtime": "1689489062",
+        "from": "aalto",
+        "from_id": "user5402646138",
+        "reply_to_message_id": 540,
+        "text": "Это нашлось в соседнем уезде?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это нашлось в соседнем уезде?"
+            }
+        ]
+    },
+    {
+        "id": 546,
+        "type": "message",
+        "date": "2023-07-16T11:29:10",
+        "date_unixtime": "1689496150",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 545,
+        "text": "Да, по Сенненскому\nтам же встречал еще Гомельский уезд\nНо далеко не все просмотрел",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, по Сенненскому\nтам же встречал еще Гомельский уезд\nНо далеко не все просмотрел"
+            }
+        ]
+    },
+    {
+        "id": 549,
+        "type": "message",
+        "date": "2023-07-24T00:00:10",
+        "date_unixtime": "1690146010",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 459,
+        "text": "Добрый вечер! Кто-нибудь работал с РС Могилевской губ. Интересуют крестьяне. Д. Ильяны/Ильяни/Ильяне. Середина 19 в. — Могилевский уезд. 18 в. — Оршанский повет. АТД могло на каком-то этапе и поменяться — не знаю пока что. Например, ф. 2151, оп. 1, д. 128. Кто-нибудь работал? Что в нем?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый вечер! Кто-нибудь работал с РС Могилевской губ. Интересуют крестьяне. Д. Ильяны/Ильяни/Ильяне. Середина 19 в. — Могилевский уезд. 18 в. — Оршанский повет. АТД могло на каком-то этапе и поменяться — не знаю пока что. Например, ф. 2151, оп. 1, д. 128. Кто-нибудь работал? Что в нем?"
+            }
+        ]
+    },
+    {
+        "id": 550,
+        "type": "message",
+        "date": "2023-07-24T00:04:39",
+        "date_unixtime": "1690146279",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 549,
+        "text": "именно в 2151, оп. 1, д. 128 - ничего по этим местам нет\nя его смотрел\n\nвообще, я РС смотреть пока перестал\nиз того, что сохранилось - это пальцем небо",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "именно в 2151, оп. 1, д. 128 - ничего по этим местам нет\nя его смотрел\n\nвообще, я РС смотреть пока перестал\nиз того, что сохранилось - это пальцем небо"
+            }
+        ]
+    },
+    {
+        "id": 551,
+        "type": "message",
+        "date": "2023-07-24T00:06:08",
+        "date_unixtime": "1690146368",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 550,
+        "text": "Спасибо, Сергей! А в российские архивы РС не попадали?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо, Сергей! А в российские архивы РС не попадали?"
+            }
+        ]
+    },
+    {
+        "id": 552,
+        "type": "message",
+        "date": "2023-07-24T00:06:14",
+        "date_unixtime": "1690146374",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 549,
+        "text": "а вам известно в составе какого имения были Ильяне в 19в?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "а вам известно в составе какого имения были Ильяне в 19в?"
+            }
+        ]
+    },
+    {
+        "id": 553,
+        "type": "message",
+        "date": "2023-07-24T00:07:08",
+        "date_unixtime": "1690146428",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 562,
+        "height": 502,
+        "text": "Все, что известно..",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Все, что известно.."
+            }
+        ]
+    },
+    {
+        "id": 554,
+        "type": "message",
+        "date": "2023-07-24T00:07:26",
+        "date_unixtime": "1690146446",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 14,
+        "text": "Видимо, ничего и не указано потому, что РС нет.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Видимо, ничего и не указано потому, что РС нет."
+            }
+        ]
+    },
+    {
+        "id": 555,
+        "type": "message",
+        "date": "2023-07-24T00:12:47",
+        "date_unixtime": "1690146767",
+        "edited": "2023-07-24T00:13:42",
+        "edited_unixtime": "1690146822",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 59,
+        "text": "Татьяна, добрый вечер! Вам доводилось работать с МК Молявковской церкви? Прихожане с фамилиями? Спасибо!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Татьяна, добрый вечер! Вам доводилось работать с МК Молявковской церкви? Прихожане с фамилиями? Спасибо!"
+            }
+        ]
+    },
+    {
+        "id": 556,
+        "type": "message",
+        "date": "2023-07-24T00:15:51",
+        "date_unixtime": "1690146951",
+        "edited": "2023-07-24T00:35:32",
+        "edited_unixtime": "1690148132",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 14,
+        "text": "Молявка/Малявка\nМК, церковь\nНИАБ Минск\nФ. 2301, оп. 2\nГод — дело №\n1863 — 189\n1874 — 197\n1875 — 199\n1877 — 201\n1878 — 202\n1879 — 204\n1880 — 206\n1883 — 214\n1884 — 215\n1885 — 217\n1887 — 219",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Молявка/Малявка\nМК, церковь\nНИАБ Минск\nФ. 2301, оп. 2\nГод — дело №\n1863 — 189\n1874 — 197\n1875 — 199\n1877 — 201\n1878 — 202\n1879 — 204\n1880 — 206\n1883 — 214\n1884 — 215\n1885 — 217\n1887 — 219"
+            }
+        ]
+    },
+    {
+        "id": 557,
+        "type": "message",
+        "date": "2023-07-24T00:16:09",
+        "date_unixtime": "1690146969",
+        "edited": "2023-07-24T00:17:14",
+        "edited_unixtime": "1690147034",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 556,
+        "text": "фамилий там нет(",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "фамилий там нет("
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2023-07-24T01:10:01"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 558,
+        "type": "message",
+        "date": "2023-07-24T00:17:06",
+        "date_unixtime": "1690147026",
+        "edited": "2024-08-15T14:11:58",
+        "edited_unixtime": "1723720318",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 556,
+        "text": "Приход:\nАвхуты\nВыгода\nГлинники\nЕленка\nЗалазье\nЗяблица\nИльяны\nКрасновка\nКурчи\nЛомск\nЛядное\nМолявка\nМочулище\nНавесы\nНовая Молявка\nОбча\nОльшаники\nОпенковичи\nПодсосонка\nСакульщина\nСлавное\nТростянка\nХимец",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Приход:\nАвхуты\nВыгода\nГлинники\nЕленка\nЗалазье\nЗяблица\nИльяны\nКрасновка\nКурчи\nЛомск\nЛядное\nМолявка\nМочулище\nНавесы\nНовая Молявка\nОбча\nОльшаники\nОпенковичи\nПодсосонка\nСакульщина\nСлавное\nТростянка\nХимец"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Любовь Александровна",
+                        "from_id": "user6788444951",
+                        "date": "2024-08-15T14:11:58"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 559,
+        "type": "message",
+        "date": "2023-07-24T00:17:20",
+        "date_unixtime": "1690147040",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 557,
+        "text": "Спасибо, Сергей!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо, Сергей!"
+            }
+        ]
+    },
+    {
+        "id": 560,
+        "type": "message",
+        "date": "2023-07-24T00:34:26",
+        "date_unixtime": "1690148066",
+        "edited": "2023-07-24T00:34:44",
+        "edited_unixtime": "1690148084",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 551,
+        "text": "такой инфы не встречал",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "такой инфы не встречал"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2023-07-24T00:34:44"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 561,
+        "type": "message",
+        "date": "2023-07-24T00:36:42",
+        "date_unixtime": "1690148202",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 549,
+        "text": "а вы по каким фамилиям ищите в Ильянах?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "а вы по каким фамилиям ищите в Ильянах?"
+            }
+        ]
+    },
+    {
+        "id": 562,
+        "type": "message",
+        "date": "2023-07-24T00:37:25",
+        "date_unixtime": "1690148245",
+        "edited": "2023-07-24T00:42:15",
+        "edited_unixtime": "1690148535",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 14,
+        "text": "Санот (Ильяни), Хреновский (Славное), Чирик(ов) (Ильяни)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Санот (Ильяни), Хреновский (Славное), Чирик(ов) (Ильяни)"
+            }
+        ]
+    },
+    {
+        "id": 563,
+        "type": "message",
+        "date": "2023-07-24T01:05:37",
+        "date_unixtime": "1690149937",
+        "edited": "2023-07-24T01:05:50",
+        "edited_unixtime": "1690149950",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 553,
+        "text": "У меня подозрение, что Ильяне в 19ом были в составе имения Навесы\nВроде это ближайшее имение\nНужно проверить, сохранились ли по нему инвентари \nВ имении Глинники, Ильянь нету",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У меня подозрение, что Ильяне в 19ом были в составе имения Навесы\nВроде это ближайшее имение\nНужно проверить, сохранились ли по нему инвентари \nВ имении Глинники, Ильянь нету"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2023-07-24T01:05:50"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 564,
+        "type": "message",
+        "date": "2023-07-24T01:07:16",
+        "date_unixtime": "1690150036",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 563,
+        "text": "Большое спасибо, Сергей!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Большое спасибо, Сергей!"
+            }
+        ]
+    },
+    {
+        "id": 565,
+        "type": "message",
+        "date": "2023-07-24T01:10:29",
+        "date_unixtime": "1690150229",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 563,
+        "text": "А Славного в им. Глинники?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А Славного в им. Глинники?"
+            }
+        ]
+    },
+    {
+        "id": 566,
+        "type": "message",
+        "date": "2023-07-24T01:21:50",
+        "date_unixtime": "1690150910",
+        "edited": "2023-07-24T01:22:10",
+        "edited_unixtime": "1690150930",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 565,
+        "text": "Нету, но тут сложно \nСлавное появилось как поселок при станции Славяны после 1871-го\nА самый последний инвентарь 1849-го",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Нету, но тут сложно \nСлавное появилось как поселок при станции Славяны после 1871-го\nА самый последний инвентарь 1849-го"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2023-07-24T01:22:10"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 568,
+        "type": "message",
+        "date": "2023-07-24T10:15:49",
+        "date_unixtime": "1690182949",
+        "edited": "2023-07-24T10:23:07",
+        "edited_unixtime": "1690183387",
+        "from": "Валерий",
+        "from_id": "user6234873196",
+        "reply_to_message_id": 14,
+        "text": "Славное (разъезд Славяны) появилось на землях выкупленных государством у помещика Корсака во время прокладки Смоленско - Брестской железной дороги.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Славное (разъезд Славяны) появилось на землях выкупленных государством у помещика Корсака во время прокладки Смоленско - Брестской железной дороги."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Kasia",
+                        "from_id": "user496064814",
+                        "date": "2023-08-15T03:58:50"
+                    },
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-07-24T10:23:07"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 569,
+        "type": "message",
+        "date": "2023-07-24T10:26:54",
+        "date_unixtime": "1690183614",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 568,
+        "text": "а сохранились дела по этому выкупу?)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "а сохранились дела по этому выкупу?)"
+            }
+        ]
+    },
+    {
+        "id": 570,
+        "type": "message",
+        "date": "2023-07-24T10:31:41",
+        "date_unixtime": "1690183901",
+        "edited": "2023-07-24T10:32:15",
+        "edited_unixtime": "1690183935",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 568,
+        "text": "Земли получается выкупили примерно в 1870-1871 годах.\nМожно поинтересоваться откуда информация?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Земли получается выкупили примерно в 1870-1871 годах.\nМожно поинтересоваться откуда информация?"
+            }
+        ]
+    },
+    {
+        "id": 571,
+        "type": "message",
+        "date": "2023-07-24T10:38:41",
+        "date_unixtime": "1690184321",
+        "edited": "2023-07-24T10:45:18",
+        "edited_unixtime": "1690184718",
+        "from": "Валерий",
+        "from_id": "user6234873196",
+        "reply_to_message_id": 14,
+        "text": "Поскольку это происходило централизовано по всей трассе прокладки ж.д., то я думаю такие дела нужно искать в Москве. Первая колея ж.д. запущена в 1871 г. Строилась она несколько (2-3) лет. Выкуплены земли были до начала строительства. Откуда информация не помню. Скорее всего из истории Белорусской ж.д.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Поскольку это происходило централизовано по всей трассе прокладки ж.д., то я думаю такие дела нужно искать в Москве. Первая колея ж.д. запущена в 1871 г. Строилась она несколько (2-3) лет. Выкуплены земли были до начала строительства. Откуда информация не помню. Скорее всего из истории Белорусской ж.д."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Kasia",
+                        "from_id": "user496064814",
+                        "date": "2023-08-15T03:59:16"
+                    },
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-07-24T10:45:18"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 573,
+        "type": "message",
+        "date": "2023-07-24T10:51:52",
+        "date_unixtime": "1690185112",
+        "edited": "2023-07-24T10:52:44",
+        "edited_unixtime": "1690185164",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 571,
+        "text": "Вот очень интересно найти эту книгу. От многих уже слышала, что там много интересной информации и есть фамилии рабочих ж.д. Но к сожалению, ни у кого в личной библиотеке нет..",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вот очень интересно найти эту книгу. От многих уже слышала, что там много интересной информации и есть фамилии рабочих ж.д. Но к сожалению, ни у кого в личной библиотеке нет.."
+            }
+        ]
+    },
+    {
+        "id": 574,
+        "type": "message",
+        "date": "2023-07-24T10:58:33",
+        "date_unixtime": "1690185513",
+        "edited": "2023-07-24T11:52:37",
+        "edited_unixtime": "1690188757",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 571,
+        "text": "ну... это еще ничего не говорит, централизовано - это если земля в собственности была\nиз того, что я изучил могу лишь предположить - земля уже давно государственная к 1871-му (потому и спрашиваю про документы, которые не видел)\n\nмне кажется, что государство отжало ее после восстания 1830-х годов, ибо в 18-м веке владели Цехановецкие\nа в 1837 - уже государственная\nдокументов мало сохранилось, потому не могу это подтвердить, но после восстания был огромный тренд по отжиманию имений за участие",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ну... это еще ничего не говорит, централизовано - это если земля в собственности была\nиз того, что я изучил могу лишь предположить - земля уже давно государственная к 1871-му (потому и спрашиваю про документы, которые не видел)\n\nмне кажется, что государство отжало ее после восстания 1830-х годов, ибо в 18-м веке владели Цехановецкие\nа в 1837 - уже государственная\nдокументов мало сохранилось, потому не могу это подтвердить, но после восстания был огромный тренд по отжиманию имений за участие"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-07-24T11:52:37"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 575,
+        "type": "message",
+        "date": "2023-07-24T11:00:40",
+        "date_unixtime": "1690185640",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 568,
+        "text": "а почему Корсаки?\nвы где-то читали про это?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "а почему Корсаки?\nвы где-то читали про это?"
+            }
+        ]
+    },
+    {
+        "id": 630,
+        "type": "message",
+        "date": "2023-08-09T09:30:18",
+        "date_unixtime": "1691562618",
+        "edited": "2023-08-09T10:01:59",
+        "edited_unixtime": "1691564519",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 14,
+        "text": [
+            "Доброго дня!\nКто сдавал тесты ДНК, информация для вас! \nНа сайте familytreedna (ftdna) создан проект для тех, чьи предки проживали в Бобрской, Павловичской, Ухвальской, Эсьмонской, Дмитровичской, Заречно-Толочинской волостях, ",
+            {
+                "type": "text_link",
+                "text": "запрос на присоединение можно отправить по ссылке",
+                "href": "https://www.familytreedna.com/groups/bel-b-u-p-e-d/about"
+            },
+            " Если вы сдавали тест в другой лаборатории, его бесплатно можно загрузить на сайт ",
+            {
+                "type": "text_link",
+                "text": "здесь можно узнать как это сделать.",
+                "href": "https://telegra.ph/Zagruzka-testov-na-httpswwwfamilytreednacom-kotorye-sdavali-v-drugoj-laboratorii-08-02"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Доброго дня!\nКто сдавал тесты ДНК, информация для вас! \nНа сайте familytreedna (ftdna) создан проект для тех, чьи предки проживали в Бобрской, Павловичской, Ухвальской, Эсьмонской, Дмитровичской, Заречно-Толочинской волостях, "
+            },
+            {
+                "type": "text_link",
+                "text": "запрос на присоединение можно отправить по ссылке",
+                "href": "https://www.familytreedna.com/groups/bel-b-u-p-e-d/about"
+            },
+            {
+                "type": "plain",
+                "text": " Если вы сдавали тест в другой лаборатории, его бесплатно можно загрузить на сайт "
+            },
+            {
+                "type": "text_link",
+                "text": "здесь можно узнать как это сделать.",
+                "href": "https://telegra.ph/Zagruzka-testov-na-httpswwwfamilytreednacom-kotorye-sdavali-v-drugoj-laboratorii-08-02"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Kasia",
+                        "from_id": "user496064814",
+                        "date": "2023-08-15T04:01:16"
+                    },
+                    {
+                        "from": "Yana",
+                        "from_id": "user6229242045",
+                        "date": "2023-08-10T05:53:53"
+                    },
+                    {
+                        "from": "Olga",
+                        "from_id": "user539295928",
+                        "date": "2023-08-09T10:01:59"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 643,
+        "type": "message",
+        "date": "2023-08-14T23:27:55",
+        "date_unixtime": "1692044875",
+        "from": null,
+        "from_id": "user6172538998",
+        "reply_to_message_id": 14,
+        "text": "Очень живописно",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Очень живописно"
+            }
+        ]
+    },
+    {
+        "id": 644,
+        "type": "message",
+        "date": "2023-08-16T09:19:44",
+        "date_unixtime": "1692166784",
+        "edited": "2023-08-16T10:20:07",
+        "edited_unixtime": "1692170407",
+        "from": "aalto",
+        "from_id": "user5402646138",
+        "reply_to_message_id": 14,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://glubinka.by/vitebskaya-oblast/tolochinskij-rajon/slavnoe.html"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://glubinka.by/vitebskaya-oblast/tolochinskij-rajon/slavnoe.html"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-08-16T10:20:07"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 646,
+        "type": "message",
+        "date": "2023-08-20T22:39:47",
+        "date_unixtime": "1692560387",
+        "edited": "2023-08-20T22:42:02",
+        "edited_unixtime": "1692560522",
+        "from": "southern sommers",
+        "from_id": "user2039046861",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 981,
+        "height": 1280,
+        "text": "События августа 1942 года. Карательная операция фашистских войск (одобрена лично Гитлером) в отношении мирных жителей пос. Славное (совр.Толочинский район) на фоне проведенной партизанами операции по разгрому немецкого гарнизона и остановке железнодорожного движения на трое суток",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "События августа 1942 года. Карательная операция фашистских войск (одобрена лично Гитлером) в отношении мирных жителей пос. Славное (совр.Толочинский район) на фоне проведенной партизанами операции по разгрому немецкого гарнизона и остановке железнодорожного движения на трое суток"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "😢",
+                "recent": [
+                    {
+                        "from": "Kasia",
+                        "from_id": "user496064814",
+                        "date": "2023-08-21T04:44:01"
+                    },
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-08-20T23:25:24"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user6172538998",
+                        "date": "2023-08-20T23:04:01"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 647,
+        "type": "message",
+        "date": "2023-08-20T22:39:48",
+        "date_unixtime": "1692560388",
+        "from": "southern sommers",
+        "from_id": "user2039046861",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 981,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 648,
+        "type": "message",
+        "date": "2023-08-20T22:39:48",
+        "date_unixtime": "1692560388",
+        "from": "southern sommers",
+        "from_id": "user2039046861",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 981,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 649,
+        "type": "message",
+        "date": "2023-08-20T22:39:48",
+        "date_unixtime": "1692560388",
+        "from": "southern sommers",
+        "from_id": "user2039046861",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 981,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 650,
+        "type": "message",
+        "date": "2023-08-20T22:39:48",
+        "date_unixtime": "1692560388",
+        "from": "southern sommers",
+        "from_id": "user2039046861",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 981,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 651,
+        "type": "message",
+        "date": "2023-08-20T22:59:03",
+        "date_unixtime": "1692561543",
+        "edited": "2023-08-20T23:25:08",
+        "edited_unixtime": "1692563108",
+        "from": "Alexander Rakitko",
+        "from_id": "user142881101",
+        "reply_to_message_id": 14,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Говор_Павловичской_волости_Могилевского_уезда_Zhivaya_starina_1893.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Статья \"Говор Павловичской волости Могилевского уезда\"",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Статья \"Говор Павловичской волости Могилевского уезда\""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-08-20T23:25:08"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Al Ehm",
+                        "from_id": "user5780145437",
+                        "date": "2024-04-14T23:00:00"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 690,
+        "type": "message",
+        "date": "2023-09-02T10:28:01",
+        "date_unixtime": "1693639681",
+        "edited": "2023-09-02T10:30:24",
+        "edited_unixtime": "1693639824",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 14,
+        "text": [
+            "ГАРАЖОНЫ\n\nСтатья предоставлена нашим участником группы Валерием Николаенко, на беларуском и русс.языке.\nОгромная благодарность от всей группы!🌹🌹🌹\n\n",
+            {
+                "type": "link",
+                "text": "https://telegra.ph/Garazhony-09-01"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ГАРАЖОНЫ\n\nСтатья предоставлена нашим участником группы Валерием Николаенко, на беларуском и русс.языке.\nОгромная благодарность от всей группы!🌹🌹🌹\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://telegra.ph/Garazhony-09-01"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 701,
+        "type": "message",
+        "date": "2023-09-09T21:58:59",
+        "date_unixtime": "1694285939",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1154,
+        "height": 1276,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 702,
+        "type": "message",
+        "date": "2023-09-09T21:58:59",
+        "date_unixtime": "1694285939",
+        "edited": "2023-09-09T21:59:23",
+        "edited_unixtime": "1694285963",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1135,
+        "height": 1270,
+        "text": "Молявка: от села до деревни",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Молявка: от села до деревни"
+            }
+        ]
+    },
+    {
+        "id": 703,
+        "type": "message",
+        "date": "2023-09-09T23:17:16",
+        "date_unixtime": "1694290636",
+        "edited": "2023-09-09T23:33:41",
+        "edited_unixtime": "1694291621",
+        "from": null,
+        "from_id": "user5882332801",
+        "reply_to_message_id": 14,
+        "text": "История храма начинается с 1841 года. Не факт. Сколько уже таких историй было. Местные краеведы, пытайтесь найти истоки. А что же было до 1841 года? Когда такие статьи пишут, не вдаваясь в исторические моменты, то это похоже зачастую на доклад студента 4 курса, который половину года пропустил и не ходил на лекции.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "История храма начинается с 1841 года. Не факт. Сколько уже таких историй было. Местные краеведы, пытайтесь найти истоки. А что же было до 1841 года? Когда такие статьи пишут, не вдаваясь в исторические моменты, то это похоже зачастую на доклад студента 4 курса, который половину года пропустил и не ходил на лекции."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-09-09T23:33:41"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 704,
+        "type": "message",
+        "date": "2023-09-09T23:19:00",
+        "date_unixtime": "1694290740",
+        "edited": "2023-09-09T23:19:29",
+        "edited_unixtime": "1694290769",
+        "from": "Валерий",
+        "from_id": "user6234873196",
+        "reply_to_message_id": 14,
+        "text": "Добрый вечер форумчане! Всегда с удовольствием читаю краеведческие заметки в районных газетах. Удаётся узнать что то ранее не известное, а заодно и повеселиться из за фантазии некоторых авторов. Несколько лет назад в той же \"Нашай Талачыншчыне\" была заметка о том, что название деревни Тростянки якобы от тростника, который рос в речке Плиса. Об этом на полном серьёзе заявляла местный библиотекарь. Ну во первых тростник это русское слово. У беларускай мове гэта расліна называецца трыснёг. Это сейчас мы дащэнту русифицированы, а лет 40 - 50 деревня ещё говорила па беларуску. Если уж от чего пытаться отталкиваться, то уж лучше от трасты (постеленый после обмолота на траву лён). А учитывая",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый вечер форумчане! Всегда с удовольствием читаю краеведческие заметки в районных газетах. Удаётся узнать что то ранее не известное, а заодно и повеселиться из за фантазии некоторых авторов. Несколько лет назад в той же \"Нашай Талачыншчыне\" была заметка о том, что название деревни Тростянки якобы от тростника, который рос в речке Плиса. Об этом на полном серьёзе заявляла местный библиотекарь. Ну во первых тростник это русское слово. У беларускай мове гэта расліна называецца трыснёг. Это сейчас мы дащэнту русифицированы, а лет 40 - 50 деревня ещё говорила па беларуску. Если уж от чего пытаться отталкиваться, то уж лучше от трасты (постеленый после обмолота на траву лён). А учитывая"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Al Ehm",
+                        "from_id": "user5780145437",
+                        "date": "2024-04-22T15:50:25"
+                    },
+                    {
+                        "from": "Любовь",
+                        "from_id": "user1745829524",
+                        "date": "2023-09-09T23:48:50"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "💯",
+                "recent": [
+                    {
+                        "from": "Marina Yurochka",
+                        "from_id": "user6971824773",
+                        "date": "2024-12-17T17:26:01"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥"
+            }
+        ]
+    },
+    {
+        "id": 705,
+        "type": "message",
+        "date": "2023-09-09T23:30:38",
+        "date_unixtime": "1694291438",
+        "edited": "2023-09-10T00:09:47",
+        "edited_unixtime": "1694293787",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 703,
+        "text": "Не скажите.\nКак минимум знают , что церковь входила в состав 4-го Сенненского благочинного округа; про церковно- приходскую школу даже нашли, кто был и какой оклад! Это всё из Епархиальных ведомостей, а их немало, и,кто-то потрудился перечитать и найти.\nПлюс воспоминания зафиксировали, хорошо что есть ещё у кого спросить , и кому хоть что-то рассказать ( пусть даже как умеют).",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Не скажите.\nКак минимум знают , что церковь входила в состав 4-го Сенненского благочинного округа; про церковно- приходскую школу даже нашли, кто был и какой оклад! Это всё из Епархиальных ведомостей, а их немало, и,кто-то потрудился перечитать и найти.\nПлюс воспоминания зафиксировали, хорошо что есть ещё у кого спросить , и кому хоть что-то рассказать ( пусть даже как умеют)."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-10-07T08:49:44"
+                    },
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2023-09-29T03:02:31"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 710,
+        "type": "message",
+        "date": "2023-09-10T00:03:15",
+        "date_unixtime": "1694293395",
+        "edited": "2023-09-10T00:57:05",
+        "edited_unixtime": "1694296625",
+        "from": "Могилевский уезд, Могилевская губерния",
+        "from_id": "channel1956283303",
+        "reply_to_message_id": 701,
+        "text": [
+            "У них на сайте есть эта статья\n\n",
+            {
+                "type": "link",
+                "text": "http://www.natal.by/2023/09/09/istoriya-pravoslaviya-na-tolochinshhine-molyavka-ot-sela-do-derevni/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У них на сайте есть эта статья\n\n"
+            },
+            {
+                "type": "link",
+                "text": "http://www.natal.by/2023/09/09/istoriya-pravoslaviya-na-tolochinshhine-molyavka-ot-sela-do-derevni/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Любовь Александровна",
+                        "from_id": "user6788444951",
+                        "date": "2024-05-05T14:34:16"
+                    },
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-09-10T00:57:06"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 711,
+        "type": "message",
+        "date": "2023-09-10T00:04:57",
+        "date_unixtime": "1694293497",
+        "edited": "2023-09-10T00:08:43",
+        "edited_unixtime": "1694293723",
+        "from": "Валерий",
+        "from_id": "user6234873196",
+        "reply_to_message_id": 14,
+        "text": "что в селе Малявка было имение, то вполне возможно, что название Тростянка (не претендую на бесспорную истину) возникла на месте где стелили лён. Тростянка сравнительно молодая деревня. Кстати деревни с таким названием встречаются и в Молодеченском районе и даже на Белосточчине. Или и туда добрался тростник? Теперь насчёт фантазий о Малявке. Как известно хутора появились при Столыпине (а это начало ХХ века). А сселяли их в 30 я годы когда сгоняли народ в колхозы. Само же село Малявка значительно старше даже 1812 г. К слову чем село отличается от деревни. Обязательным условием было наличие в селе церкви. Так вот в книге \"Святары\" значатся Акалович Мялет святар Малявскай церкви в 1682 г. Федарович (Кашаед) Ян был святаром в 1703 г.  Акалович Антон - святар у 1760 - 1784 гг  этой же церкви. У него была жена Марыяна и сын Мацей.  Мацей Акалович был викарием Малявской церкви в 1803 г. А жену его звали Пракседа. и  т. д.  Разумеется церковь эта была греко - униацкой. До ликвидации унии на Толочинщине не было ни одной православной церкви.  Первая появилась (дай бог памяти) в 1830 х годах по настойчивой \"просьбе\" размещавшейся в Толочине конвойной команды т. к. им негде было молиться. И тогда им передали Заречно  - Толочинскую Ильинскую униатскую церковь. Малявскую церковь  закрыли когда начали строить новую (теперешнее шоссе) дорогу. Старая значительно петляла. К примеру со Словень она шла почти до мост около Глинник а затем через Тростянку  и Малявку выходила на ныне действующую.  В закрытой церкви размещались заключённые, которые её и сожгли. Якобы когда было холодно развели костёр. Касаемо названия Малявка. На одной из карт видел аналогичное название речки около Глинник . Возможно ранее Плиса начиналась после слияния нескольких более мелки речек: та же Ильянская Сава, речка, которая течёт через Авхуты и т. д. Опять же не претендую на истину.  Как то так . С уважением!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "что в селе Малявка было имение, то вполне возможно, что название Тростянка (не претендую на бесспорную истину) возникла на месте где стелили лён. Тростянка сравнительно молодая деревня. Кстати деревни с таким названием встречаются и в Молодеченском районе и даже на Белосточчине. Или и туда добрался тростник? Теперь насчёт фантазий о Малявке. Как известно хутора появились при Столыпине (а это начало ХХ века). А сселяли их в 30 я годы когда сгоняли народ в колхозы. Само же село Малявка значительно старше даже 1812 г. К слову чем село отличается от деревни. Обязательным условием было наличие в селе церкви. Так вот в книге \"Святары\" значатся Акалович Мялет святар Малявскай церкви в 1682 г. Федарович (Кашаед) Ян был святаром в 1703 г.  Акалович Антон - святар у 1760 - 1784 гг  этой же церкви. У него была жена Марыяна и сын Мацей.  Мацей Акалович был викарием Малявской церкви в 1803 г. А жену его звали Пракседа. и  т. д.  Разумеется церковь эта была греко - униацкой. До ликвидации унии на Толочинщине не было ни одной православной церкви.  Первая появилась (дай бог памяти) в 1830 х годах по настойчивой \"просьбе\" размещавшейся в Толочине конвойной команды т. к. им негде было молиться. И тогда им передали Заречно  - Толочинскую Ильинскую униатскую церковь. Малявскую церковь  закрыли когда начали строить новую (теперешнее шоссе) дорогу. Старая значительно петляла. К примеру со Словень она шла почти до мост около Глинник а затем через Тростянку  и Малявку выходила на ныне действующую.  В закрытой церкви размещались заключённые, которые её и сожгли. Якобы когда было холодно развели костёр. Касаемо названия Малявка. На одной из карт видел аналогичное название речки около Глинник . Возможно ранее Плиса начиналась после слияния нескольких более мелки речек: та же Ильянская Сава, речка, которая течёт через Авхуты и т. д. Опять же не претендую на истину.  Как то так . С уважением!"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 9,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Любовь Александровна",
+                        "from_id": "user6788444951",
+                        "date": "2024-09-03T09:31:18"
+                    },
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2023-09-29T03:04:29"
+                    },
+                    {
+                        "from": "Сергей",
+                        "from_id": "user2018987907",
+                        "date": "2023-09-23T08:38:11"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥"
+            }
+        ]
+    },
+    {
+        "id": 712,
+        "type": "message",
+        "date": "2023-09-10T01:07:21",
+        "date_unixtime": "1694297241",
+        "edited": "2023-09-29T03:04:36",
+        "edited_unixtime": "1695945876",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 711,
+        "text": "Вот это доклад!\nСпасибо Вам Валерий огромное!🌹🌹🌹",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вот это доклад!\nСпасибо Вам Валерий огромное!🌹🌹🌹"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2023-09-29T03:04:36"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 741,
+        "type": "message",
+        "date": "2023-10-06T21:20:33",
+        "date_unixtime": "1696616433",
+        "edited": "2023-10-07T08:49:16",
+        "edited_unixtime": "1696657756",
+        "from": "Валерий",
+        "from_id": "user6234873196",
+        "reply_to_message_id": 14,
+        "text": "Добрый вечер Форумчане!  Возвращаясь к вопросу о владельце земли на которой была построена станция Славное (Славяны) и пристанционный посёлок.  В соответствии  со списком населённых мест Могилёвского уезда на 1910 г.: Славное - владение дворян П. Пав. , П и В. Корсаков.   58 домов, 454 человека",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый вечер Форумчане!  Возвращаясь к вопросу о владельце земли на которой была построена станция Славное (Славяны) и пристанционный посёлок.  В соответствии  со списком населённых мест Могилёвского уезда на 1910 г.: Славное - владение дворян П. Пав. , П и В. Корсаков.   58 домов, 454 человека"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-10-07T08:49:16"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 742,
+        "type": "message",
+        "date": "2023-10-07T09:22:06",
+        "date_unixtime": "1696659726",
+        "from": "Могилевский уезд, Могилевская губерния",
+        "from_id": "channel1956283303",
+        "reply_to_message_id": 741,
+        "text": "Так если Корсаки владеют этой землей в 1910-м, значит у них государство ничего и не выкупало в 1871-м для постройки жд станции?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так если Корсаки владеют этой землей в 1910-м, значит у них государство ничего и не выкупало в 1871-м для постройки жд станции?"
+            }
+        ]
+    },
+    {
+        "id": 743,
+        "type": "message",
+        "date": "2023-10-07T09:22:42",
+        "date_unixtime": "1696659762",
+        "from": "Могилевский уезд, Могилевская губерния",
+        "from_id": "channel1956283303",
+        "forwarded_from": "Валерий",
+        "reply_to_message_id": 14,
+        "text": "Славное (разъезд Славяны) появилось на землях выкупленных государством у помещика Корсака во время прокладки Смоленско - Брестской железной дороги.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Славное (разъезд Славяны) появилось на землях выкупленных государством у помещика Корсака во время прокладки Смоленско - Брестской железной дороги."
+            }
+        ]
+    },
+    {
+        "id": 744,
+        "type": "message",
+        "date": "2023-10-07T10:17:58",
+        "date_unixtime": "1696663078",
+        "from": "Валерий",
+        "from_id": "user6234873196",
+        "reply_to_message_id": 14,
+        "text": "Государство выкупило землю под железную дорогу , станции и пристанционные сооружения обеспечивающие работу ж. д.  А вот окружающая земля под посёлок была собственностью Корсаков, которые скорее всего сдавали её в долговременную аренду или в долговременный выкуп.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Государство выкупило землю под железную дорогу , станции и пристанционные сооружения обеспечивающие работу ж. д.  А вот окружающая земля под посёлок была собственностью Корсаков, которые скорее всего сдавали её в долговременную аренду или в долговременный выкуп."
+            }
+        ]
+    },
+    {
+        "id": 745,
+        "type": "message",
+        "date": "2023-10-07T14:07:22",
+        "date_unixtime": "1696676842",
+        "from": "Могилевский уезд, Могилевская губерния",
+        "from_id": "channel1956283303",
+        "reply_to_message_id": 744,
+        "text": "Вы все эти выводы сделали лишь по этой записи, сделанной через 40 лет после постройки жд? Это не серьезно…",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вы все эти выводы сделали лишь по этой записи, сделанной через 40 лет после постройки жд? Это не серьезно…"
+            }
+        ]
+    },
+    {
+        "id": 746,
+        "type": "message",
+        "date": "2023-10-07T14:08:20",
+        "date_unixtime": "1696676900",
+        "edited": "2024-11-10T13:34:26",
+        "edited_unixtime": "1731234866",
+        "from": "Могилевский уезд, Могилевская губерния",
+        "from_id": "channel1956283303",
+        "reply_to_message_id": 14,
+        "text": [
+            "У меня другие факты\nЕдинственное, непонятно к чему относилась земля будущей станции: д. Ильяне или им. Глинники к моменту 1871, станция примерно между ними, но оба варианта без Корсаков…\n\n",
+            {
+                "type": "bold",
+                "text": "Глинники"
+            },
+            " по самой ранней сохранившейся метрике 1863 года - казенное имение, т.е. государственное\nТам все упоминания деревень имения с припиской – казенное имение\n\n",
+            {
+                "type": "bold",
+                "text": "Ильянами"
+            },
+            ", как и Навесами давно владели Бартошевичи"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У меня другие факты\nЕдинственное, непонятно к чему относилась земля будущей станции: д. Ильяне или им. Глинники к моменту 1871, станция примерно между ними, но оба варианта без Корсаков…\n\n"
+            },
+            {
+                "type": "bold",
+                "text": "Глинники"
+            },
+            {
+                "type": "plain",
+                "text": " по самой ранней сохранившейся метрике 1863 года - казенное имение, т.е. государственное\nТам все упоминания деревень имения с припиской – казенное имение\n\n"
+            },
+            {
+                "type": "bold",
+                "text": "Ильянами"
+            },
+            {
+                "type": "plain",
+                "text": ", как и Навесами давно владели Бартошевичи"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Андрей",
+                        "from_id": "user5573706269",
+                        "date": "2024-11-10T13:34:26"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 747,
+        "type": "message",
+        "date": "2023-10-07T14:08:49",
+        "date_unixtime": "1696676929",
+        "from": "Могилевский уезд, Могилевская губерния",
+        "from_id": "channel1956283303",
+        "reply_to_message_id": 14,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://www.prlib.ru/item/1117819"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://www.prlib.ru/item/1117819"
+            }
+        ]
+    },
+    {
+        "id": 748,
+        "type": "message",
+        "date": "2023-10-07T14:30:24",
+        "date_unixtime": "1696678224",
+        "from": "Валерий",
+        "from_id": "user6234873196",
+        "reply_to_message_id": 14,
+        "text": "Уважаемый оппонент!  При постройке всех ж.д . (Московско - Брестской, Либаво - Роменской и т. д)  был один подход: государством выкупалась земля у землевладельцев (а их от Москвы до Бреста я думаю было множество) для прокладки ж. д путей и необходимых сооружений. Всё остальное отдельные договорные отношения землевладельцев с желающими поселиться при ж, д. станциями.  Касаясь собственности Ильянь и Навес посмотрите (есть в свободном доступе в интернете) Список землевладельцев Могилёвского уезда на начало 20 века. Там чётко записано Корсаки.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Уважаемый оппонент!  При постройке всех ж.д . (Московско - Брестской, Либаво - Роменской и т. д)  был один подход: государством выкупалась земля у землевладельцев (а их от Москвы до Бреста я думаю было множество) для прокладки ж. д путей и необходимых сооружений. Всё остальное отдельные договорные отношения землевладельцев с желающими поселиться при ж, д. станциями.  Касаясь собственности Ильянь и Навес посмотрите (есть в свободном доступе в интернете) Список землевладельцев Могилёвского уезда на начало 20 века. Там чётко записано Корсаки."
+            }
+        ]
+    },
+    {
+        "id": 749,
+        "type": "message",
+        "date": "2023-10-07T15:31:42",
+        "date_unixtime": "1696681902",
+        "from": "Могилевский уезд, Могилевская губерния",
+        "from_id": "channel1956283303",
+        "reply_to_message_id": 748,
+        "text": "Вы меня не услышали\nЯ не про 20 век",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вы меня не услышали\nЯ не про 20 век"
+            }
+        ]
+    },
+    {
+        "id": 750,
+        "type": "message",
+        "date": "2023-10-07T16:31:22",
+        "date_unixtime": "1696685482",
+        "from": "Могилевский уезд, Могилевская губерния",
+        "from_id": "channel1956283303",
+        "reply_to_message_id": 744,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 591,
+        "text": "Все таки Бартошевич владел\nВспомнил про еще один источник 1882-го года\n#18 в списке",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Все таки Бартошевич владел\nВспомнил про еще один источник 1882-го года\n#18 в списке"
+            }
+        ]
+    },
+    {
+        "id": 751,
+        "type": "message",
+        "date": "2023-10-07T20:49:08",
+        "date_unixtime": "1696700948",
+        "from": "Валерий",
+        "from_id": "user6234873196",
+        "reply_to_message_id": 14,
+        "text": "Да  мы действительно говорили о разных периодах.  Спасибо за Вашу уточнённую информацию.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да  мы действительно говорили о разных периодах.  Спасибо за Вашу уточнённую информацию."
+            }
+        ]
+    },
+    {
+        "id": 781,
+        "type": "message",
+        "date": "2023-10-19T18:23:57",
+        "date_unixtime": "1697729037",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 14,
+        "text": [
+            "Могилевской губ. Павловичской волости Иван Антонов и Александры Семеновны, урожденной ",
+            {
+                "type": "hashtag",
+                "text": "#Лабутиной"
+            },
+            ", ",
+            {
+                "type": "hashtag",
+                "text": "#Краевскихъ"
+            },
+            ".\n\n",
+            {
+                "type": "link",
+                "text": "https://yandex.ru/archive/catalog/03667660-48a4-4048-ac5e-481252ca28ba/481?text=Павловичская+волость&snippet=Восприемниками+бынутве+%5C007%5BПавловичской%5C007%5D+%5C007%5Bволости%5C007%5D+Станислав+АрИвана+Антонова+и+Алек-чСвященник+Савелей+Софиенов+гандры+Семеновны%2C+уронефн+ной+Лабутиной%2C+Краевских"
+            },
+            "..."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Могилевской губ. Павловичской волости Иван Антонов и Александры Семеновны, урожденной "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Лабутиной"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Краевскихъ"
+            },
+            {
+                "type": "plain",
+                "text": ".\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://yandex.ru/archive/catalog/03667660-48a4-4048-ac5e-481252ca28ba/481?text=Павловичская+волость&snippet=Восприемниками+бынутве+%5C007%5BПавловичской%5C007%5D+%5C007%5Bволости%5C007%5D+Станислав+АрИвана+Антонова+и+Алек-чСвященник+Савелей+Софиенов+гандры+Семеновны%2C+уронефн+ной+Лабутиной%2C+Краевских"
+            },
+            {
+                "type": "plain",
+                "text": "..."
+            }
+        ]
+    },
+    {
+        "id": 911,
+        "type": "message",
+        "date": "2024-03-19T23:24:02",
+        "date_unixtime": "1710879842",
+        "edited": "2024-03-19T23:34:08",
+        "edited_unixtime": "1710880448",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "История Толочина и Толочинского района",
+        "reply_to_message_id": 14,
+        "text": "Кража товаров на станции Коханово\n\nИз \"Могилевских губернских ведомостей\" за 1881 год:\n\nМировой судья 2 участка Оршанского судебно-мирового округа на основании 846, 847, 848 и 851 ст. уст. уголов. суда разыскивает крестьянина Могилевского уезда деревни Варгутьево Ивана Гаврилова Устиновича, обвиняемого в краже товаров на ст. Коханово Московско-Брестской железной дороги. Приметы отыскиваемого неизвестны. Всякий, кому известноместопребывание Устиновича, обязан указать суду, где он находится. Установления, в ведомстве которых окажется имущество Устиновича, обязаны немедленно отдать его в опекунское управление.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Кража товаров на станции Коханово\n\nИз \"Могилевских губернских ведомостей\" за 1881 год:\n\nМировой судья 2 участка Оршанского судебно-мирового округа на основании 846, 847, 848 и 851 ст. уст. уголов. суда разыскивает крестьянина Могилевского уезда деревни Варгутьево Ивана Гаврилова Устиновича, обвиняемого в краже товаров на ст. Коханово Московско-Брестской железной дороги. Приметы отыскиваемого неизвестны. Всякий, кому известноместопребывание Устиновича, обязан указать суду, где он находится. Установления, в ведомстве которых окажется имущество Устиновича, обязаны немедленно отдать его в опекунское управление."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user6172538998",
+                        "date": "2024-03-20T06:14:09"
+                    },
+                    {
+                        "from": "Александр Спивак",
+                        "from_id": "user1772167588",
+                        "date": "2024-03-19T23:34:08"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 960,
+        "type": "message",
+        "date": "2024-04-20T15:11:31",
+        "date_unixtime": "1713615091",
+        "from": "Могилевский уезд, Могилевская губерния",
+        "from_id": "channel1956283303",
+        "forwarded_from": "История Толочина и Толочинского района",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1080,
+        "height": 520,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 971,
+        "type": "message",
+        "date": "2024-05-02T22:04:22",
+        "date_unixtime": "1714676662",
+        "edited": "2024-05-02T22:09:41",
+        "edited_unixtime": "1714676981",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "История Толочина и Толочинского района",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 318,
+        "height": 252,
+        "text": "Источник: «Беларуская работнiца i сялянка» №5, 1929 года.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Источник: «Беларуская работнiца i сялянка» №5, 1929 года."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Софья",
+                        "from_id": "user642072285",
+                        "date": "2024-05-02T22:29:44"
+                    },
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2024-05-02T22:09:41"
+                    }
+                ]
+            }
+        ]
+    }
+]

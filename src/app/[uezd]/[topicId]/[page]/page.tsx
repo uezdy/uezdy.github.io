@@ -11,6 +11,7 @@ export async function generateMetadata({ params }: any): Promise<Metadata> {
     const {uezd, topicId} = await params;
     return {
         title: topicsPool[uezd][topicId].title,
+        description: topicsPool[uezd][topicId].description,
         icons: {
             icon: `/${uezd}/favicon.ico`,
         }

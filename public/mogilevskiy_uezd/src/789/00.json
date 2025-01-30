@@ -1,0 +1,66 @@
+[
+    {
+        "id": 790,
+        "type": "message",
+        "date": "2023-11-13T16:55:38",
+        "date_unixtime": "1699883738",
+        "edited": "2023-11-13T17:27:52",
+        "edited_unixtime": "1699885672",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 789,
+        "text": [
+            "НИАБ описи на сайте архива\n\n",
+            {
+                "type": "link",
+                "text": "https://niab.by/newsite/ru/nsa"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "НИАБ описи на сайте архива\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://niab.by/newsite/ru/nsa"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ivan T",
+                        "from_id": "user5497309679",
+                        "date": "2024-11-24T19:21:44"
+                    },
+                    {
+                        "from": "Александр Спивак",
+                        "from_id": "user1772167588",
+                        "date": "2024-01-03T13:48:03"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😁",
+                "recent": [
+                    {
+                        "from": "K.",
+                        "from_id": "user1470689869",
+                        "date": "2023-11-13T17:05:55"
+                    }
+                ]
+            }
+        ]
+    }
+]
