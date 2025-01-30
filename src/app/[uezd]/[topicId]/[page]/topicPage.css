@@ -8,6 +8,11 @@
         width: calc(100%);
     }
 }
+@media (max-width: 600px) {
+    .static-navigation-bar.top-navigation-bar {
+        width: calc(100%);
+    }
+}
 
 main p {
     display: block;
