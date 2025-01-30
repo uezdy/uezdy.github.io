@@ -1,12 +1,18 @@
+import path from "path";
+import fs from "fs";
+
 import SelectedMenu from "@/app/components/SelectedMenu";
-import {topicsPool, topics, aboutGroups} from "@/app/services/service.data";
+import {topicsPool, aboutGroups} from "@/app/services/service.data";
 import PaginationLists from "@/app/components/PaginationLists";
 import ChatsListMenuNavigation from "@/app/components/ChatsListMenuNavigation";
 
 export default async function Layout({ params, children }: any) {
 
     const {topicId, page, uezd} = await params;
-    const pagesCount = topics[uezd][topicId].length;
+    const pagePath = path.resolve(`public/${uezd}/src/${topicId}`);
+    const pagesList = fs.readdirSync(pagePath, 'utf8');
+
+    const pagesCount = pagesList.length;
 
     return (
         <>

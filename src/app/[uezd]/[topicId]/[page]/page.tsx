@@ -1,3 +1,6 @@
+import path from "path";
+import fs from "fs";
+
 import Message from "@/app/components/Message";
 import {Metadata} from "next";
 import {TGMessage} from "@/app/components/types";
@@ -25,7 +28,6 @@ export async function generateStaticParams() {
             topicsList.forEach((topic: any) => {
 
                 Object.keys(topics[uezd][topic]).forEach((page: string) => {
-                    // console.log('uezd/topic/page', `${uezd}/${topic}/${page}`);
                     stPropsArr.push({
                         uezd,
                         topicId: `${topic}`,
@@ -41,12 +43,14 @@ export async function generateStaticParams() {
 export default async function Page({params}: any) {
 
     const {topicId, page, uezd} = await params;
-    // console.log('topicId, page, uezd', Object.keys(topics[uezd][topicId]), page)
+    const pagePath = path.resolve(`public/${uezd}/src/${topicId}/0${page - 1}.json`);
+    const pageJson = JSON.parse(fs.readFileSync(pagePath, 'utf8'));
+
     return (
         <>
             {
-                topics[uezd][topicId][+page - 1]
-                    .map((msg: TGMessage) => {
+                Object.values(pageJson)
+                    .map((msg: TGMessage | any) => {
                         return msg.text && msg.type === 'message' &&
                             <Message key={msg.id} topicId={topicId} page={page} msg={msg}/>
                     })

@@ -29,13 +29,7 @@ topicsList.forEach((groupNickName) => {
         }
         const pathTopic = path.join(pathSrc, topicID);
         const filesMsgs = fs.readdirSync(pathTopic, 'utf8');
-        filesMsgs.forEach((msgsPoolFile: string, index: number) => {
-            const mesagesObj = JSON.parse(fs.readFileSync(path.join(pathTopic, msgsPoolFile), 'utf8'));
-            if (topicID === '0' && index === 0) {
-
-            }
-            topics[groupNickName][topicID].push(Object.values(mesagesObj));
-        });
+        topics[groupNickName][topicID].push(...filesMsgs);
     });
 });
 
