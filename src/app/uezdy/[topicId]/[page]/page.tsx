@@ -2,27 +2,19 @@ import Message from "@/app/components/Message";
 import React from "react";
 import {TGMessage} from "@/app/components/types";
 import "./topicPage.css";
-import {topicsPool} from "@/app/services/service.data";
+import {topicsPool, topics} from "@/app/services/service.data";
 
 export async function generateStaticParams() {
     const stPropsArr: Array<any> = [];
-    const ids: Array<any> = [];
+    const ids: Array<any> = Object.values(topicsPool);
 
-    for (const topicsPoolKey in topicsPool) {
-        const msg: TGMessage = topicsPool[topicsPoolKey];
-        ids.push({
-            topicId: `${msg.id}`,
-            page: `${1}`
-        });
-    }
+    ids.forEach(({id}: any) => {
 
-    ids.forEach(({topicId}: any) => {
-        const pagesArr = topicsPool[topicId].messages;
-        new Array(pagesArr.length)
-            .fill(0)
+        const pagesArr = Object.keys(topics[id]);
+        pagesArr
             .forEach((v: any, index: number) => {
                 stPropsArr.push({
-                    topicId,
+                    topicId: `${id}`,
                     page: `${index + 1}`
                 })
             })
@@ -37,8 +29,7 @@ export default async function Page({params}: any) {
     return (
         <>
             {
-                topicsPool[topicId]
-                    .messages[page - 1]
+                topics[topicId][page - 1]
                     .map((msg: TGMessage) => {
                         return msg.text && msg.type === 'message' &&
                             <Message key={msg.id} topicId={topicId} page={page} msg={msg}/>

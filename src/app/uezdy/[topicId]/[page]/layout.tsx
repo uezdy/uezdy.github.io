@@ -1,11 +1,11 @@
 import SelectedMenu from "@/app/components/SelectedMenu";
-import {topicsPool} from "@/app/services/service.data";
+import {topicsPool, topics} from "@/app/services/service.data";
 import PaginationLists from "@/app/components/PaginationLists";
 
 export default async function Layout({ params, children }: any) {
 
     const {topicId, page} = await params;
-    const pagesCount = topicsPool[topicId].messages.length - 1;
+    const pagesCount = topics[topicId].length;
 
     return (
         <>

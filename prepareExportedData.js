@@ -1,8 +1,9 @@
 const path = require('path');
 const fs = require('fs');
 
+const perChunk = 2000;
 const targetUezd = path.resolve('public/uezdy');
-const targetDir = path.resolve('public/uezdy/src');
+const targetDir = path.resolve('public/uezdy/src1');
 const pathJSON = path.join('public/uezdy/result.json');
 const file = fs.readFileSync(pathJSON, 'utf8');
 const data = JSON.parse(file);
@@ -60,28 +61,23 @@ for (const topicId in pool) {
     if (!fs.existsSync(`${targetDir}/${topicId}`)){
         fs.mkdirSync(`${targetDir}/${topicId}`);
     }
-    let count = 2000;
-    let topicChunk = {};
-    const messagesObject = pool[topicId];
-    const messagesLength = Object.keys(messagesObject).length;
-    let index = 0;
-    for (const messageId in messagesObject) {
-        topicChunk[messageId] = messagesObject[messageId];
-        if (+messageId >= (count - 1)) {
-            const fileName = normalazePageNumb(`${count}`);
-            fs.writeFileSync(`${targetDir}/${topicId}/${fileName}.json`, JSON.stringify(topicChunk, null, 4), {encoding: 'utf8', flag: 'w'});
-            topicChunk = {};
-            count += 2000;
-        }
-        if (index === (messagesLength - 1)) {
-            count += 2000;
-            const fileName = normalazePageNumb(`${count}`);
-            fs.writeFileSync(`${targetDir}/${topicId}/${fileName}.json`, JSON.stringify(topicChunk, null, 4), {encoding: 'utf8', flag: 'w'});
-            topicChunk = {};
-        }
-        ++index;
-    }
+    const messagesArray = Object.values(pool[topicId]);
 
+    const chunckArray = messagesArray.reduce((resultArray, item, index) => {
+        const chunkIndex = Math.floor(index/perChunk)
+
+        if(!resultArray[chunkIndex]) {
+            resultArray[chunkIndex] = [] // start a new chunk
+        }
+
+        resultArray[chunkIndex].push(item)
+
+        return resultArray
+    }, []);
+
+    chunckArray.forEach((chunck, index) => {
+        fs.writeFileSync(`${targetDir}/${topicId}/${normalazePageNumb(index)}.json`, JSON.stringify(chunck, null, 4), {encoding: 'utf8', flag: 'w'});
+    });
 }
 
 fs.writeFileSync(`${targetUezd}/topics.json`, JSON.stringify(poolTopics, null, 4), {encoding: 'utf8', flag: 'w'});
