@@ -15,7 +15,8 @@ export async function generateStaticParams() {
             .forEach((v: any, index: number) => {
                 stPropsArr.push({
                     topicId: `${id}`,
-                    page: `${index + 1}`
+                    page: `${index + 1}`,
+                    uezd: 'uezdy'
                 })
             })
     });
@@ -24,7 +25,7 @@ export async function generateStaticParams() {
 
 export default async function Page({params}: any) {
 
-    const {topicId, page} = await params;
+    const {topicId, page, uezd} = await params;
 
     return (
         <>
