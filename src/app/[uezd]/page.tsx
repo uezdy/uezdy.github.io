@@ -1,12 +1,17 @@
 import {Metadata} from "next";
 import React from "react";
 import TopicsMenu from "@/app/components/TopicsMenu";
-import {topics, topicsPool, aboutGroups} from "@/app/services/service.data";
+import {topicsPool, aboutGroups} from "@/app/services/service.data";
 
-export const metadata: Metadata = {
-    title: "Уезды Беларуси (Генеалогия Беларуси)",
-    description: `Группа для общения на тему генеалогии Беларуси. Обмен опытом, поиск совета и помощи. При вступлении рекомендуется назвать ваши искомые уезды, чтобы найти единомышленников по вашим местам.`,
-};
+export async function generateMetadata({ params }: any): Promise<Metadata> {
+    const {uezd} = await params;
+    const f = {
+        icons: {
+            icon: `/${uezd}/favicon.ico`,
+        }
+    };
+    return {...aboutGroups[uezd], ...f};
+}
 
 export async function generateStaticParams() {
     return Object
@@ -18,7 +23,6 @@ export default async function Home({params}: any) {
     const {uezd} = await params;
     console.log('@uezdy', uezd)
     return <>
-        {uezd}
         <TopicsMenu topicsPool={topicsPool} />
     </>;
 }
