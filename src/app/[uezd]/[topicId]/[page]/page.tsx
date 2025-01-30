@@ -2,11 +2,12 @@ import Message from "@/app/components/Message";
 import {Metadata} from "next";
 import {TGMessage} from "@/app/components/types";
 import "./topicPage.css";
-import {topics, aboutGroups} from "@/app/services/service.data";
+import {topics, aboutGroups, topicsPool} from "@/app/services/service.data";
 
 export async function generateMetadata({ params }: any): Promise<Metadata> {
     const {uezd, topicId} = await params;
     return {
+        title: topicsPool[uezd][topicId].title,
         icons: {
             icon: `/${uezd}/favicon.ico`,
         }
