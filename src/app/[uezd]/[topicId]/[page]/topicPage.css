@@ -36,6 +36,8 @@ main p {
     z-index: 1;
     top: 0;
     border-bottom: 1px solid #d7e3ec;
+    display: flex;
+    justify-content: space-between;
 }
 
 main {

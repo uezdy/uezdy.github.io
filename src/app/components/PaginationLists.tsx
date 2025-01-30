@@ -22,8 +22,8 @@ export default function PaginationLists({pagesCount, topicId, page}: any) {
         size="small"
         className="pagination-native-mui"
         count={pagesCount}
-        boundaryCount={currentWidth < 700 && pagesCount > 10 ? 1 : 3}
-        siblingCount={currentWidth < 700 && pagesCount > 10 ? 1 : 3}
+        boundaryCount={currentWidth < 700 && pagesCount > 7 ? 1 : 3}
+        siblingCount={currentWidth < 700 && pagesCount > 7 ? 1 : 3}
         defaultPage={+page || 1}
         onChange={clickHandler}
     /> : <></>
