@@ -13,7 +13,7 @@ export default function SelectedMenu({topicsPool, topicId, uezd}: {topicsPool: a
     const [selectedIndex, setSelectedIndex] = React.useState<number>(+topicId);
     const router = useRouter();
 
-    const [tops, setTops] = React.useState<Array<TGMessage>>([]);
+    const [tops, setTops] = React.useState<Array<any>>([]);
     React.useEffect(() => {
         if (topicId) {setSelectedIndex(+topicId);}
     }, [topicId]);
@@ -46,7 +46,7 @@ export default function SelectedMenu({topicsPool, topicId, uezd}: {topicsPool: a
             <MenuButton startDecorator={<Apps />}>Topics</MenuButton>
             <Menu>
                 {
-                    tops.map((top: TGMessage) => {
+                    tops.map((top: any) => {
                         return <MenuItem key={top.id} selected={selectedIndex === +top.id} onClick={(e: any) => handleClose(e, +top.id)}>
                             {top.title}
                         </MenuItem>

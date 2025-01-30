@@ -49,7 +49,7 @@ export default function ChatsListMenuNavigation({aboutGroups, uezd}: any) {
                 className="chats-list-menu-navigation"
                 onClose={(e: React.MouseEvent<HTMLElement>) => handleClose(e, null)}
             >
-                {Object.values(aboutGroups).map((option: AboutItem) => (
+                {Object.values(aboutGroups).map((option: AboutItem | any) => (
                     <MenuItem key={option.groupNickName} className={option.groupNickName} selected={option.groupNickName === selectedIndex}
                               onClick={(e: React.MouseEvent<HTMLElement>) => handleClose(e, option)}>
                         {option.title}
