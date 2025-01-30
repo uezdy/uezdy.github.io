@@ -8117,14 +8117,9 @@
         "reactions": [
             {
                 "type": "emoji",
-                "count": 3,
+                "count": 2,
                 "emoji": "😁",
                 "recent": [
-                    {
-                        "from": "Виктория",
-                        "from_id": "user1069039166",
-                        "date": "2025-01-25T08:24:37"
-                    },
                     {
                         "from": "Elena",
                         "from_id": "user823477307",
@@ -8972,7 +8967,7 @@
         "date_unixtime": "1733771802",
         "edited": "2024-12-09T22:17:16",
         "edited_unixtime": "1733771836",
-        "from": "Damian P",
+        "from": "Damian Koziol-Priamursky",
         "from_id": "user7216423110",
         "reply_to_message_id": 105855,
         "text": "Я Козел. Я здесь!",
@@ -9088,7 +9083,7 @@
         "date_unixtime": "1733772649",
         "edited": "2024-12-09T22:41:48",
         "edited_unixtime": "1733773308",
-        "from": "Damian P",
+        "from": "Damian Koziol-Priamursky",
         "from_id": "user7216423110",
         "reply_to_message_id": 105859,
         "text": "Выслал вам в dm",
@@ -14465,23 +14460,18 @@
         "reactions": [
             {
                 "type": "emoji",
-                "count": 4,
+                "count": 2,
                 "emoji": "❤",
                 "recent": [
-                    {
-                        "from": "დ",
-                        "from_id": "user5017731844",
-                        "date": "2025-01-25T11:54:19"
-                    },
-                    {
-                        "from": "A.",
-                        "from_id": "user853091369",
-                        "date": "2025-01-24T09:34:52"
-                    },
                     {
                         "from": "В",
                         "from_id": "user5050312544",
                         "date": "2025-01-22T16:14:58"
+                    },
+                    {
+                        "from": "Sviatlana",
+                        "from_id": "user380543352",
+                        "date": "2025-01-22T15:30:33"
                     }
                 ]
             }

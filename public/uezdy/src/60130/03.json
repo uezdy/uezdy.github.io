@@ -1,5 +1,158 @@
 [
     {
+        "id": 96641,
+        "type": "message",
+        "date": "2024-09-11T12:19:21",
+        "date_unixtime": "1726046361",
+        "from": "▷ ◉───── 03:00♪♡",
+        "from_id": "user380531444",
+        "reply_to_message_id": 60130,
+        "text": "Здраствуйте  как понять в скобках нелегальный Андрей Петров Кондратьев)?                                                    О дезертире 6-го саперного батальона из крестьян Могилевской губернии Сеннивского уезда Обчурской волости деревни Лютые Михаиле Никифорове Юркевич (нелегальный Андрей Петров Кондратьев). // Гос. архив Российской Федерации. Фонд 63. Опись 30. Дело 1330",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здраствуйте  как понять в скобках нелегальный Андрей Петров Кондратьев)?                                                    О дезертире 6-го саперного батальона из крестьян Могилевской губернии Сеннивского уезда Обчурской волости деревни Лютые Михаиле Никифорове Юркевич (нелегальный Андрей Петров Кондратьев). // Гос. архив Российской Федерации. Фонд 63. Опись 30. Дело 1330"
+            }
+        ]
+    },
+    {
+        "id": 96644,
+        "type": "message",
+        "date": "2024-09-11T13:10:49",
+        "date_unixtime": "1726049449",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 96635,
+        "text": "В Фб есть группы по переводу",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В Фб есть группы по переводу"
+            }
+        ]
+    },
+    {
+        "id": 96645,
+        "type": "message",
+        "date": "2024-09-11T13:11:43",
+        "date_unixtime": "1726049503",
+        "edited": "2024-09-11T16:14:22",
+        "edited_unixtime": "1726060462",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 96641,
+        "text": "Может чужим именем назвался?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Может чужим именем назвался?"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2024-09-11T16:14:22"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 96840,
+        "type": "message",
+        "date": "2024-09-13T15:11:48",
+        "date_unixtime": "1726229508",
+        "from": "Grigory",
+        "from_id": "user286320928",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 611,
+        "height": 494,
+        "text": "Как звали владельца? Фамилию разобрал - Выщинский, а имя?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Как звали владельца? Фамилию разобрал - Выщинский, а имя?"
+            }
+        ]
+    },
+    {
+        "id": 96841,
+        "type": "message",
+        "date": "2024-09-13T15:13:16",
+        "date_unixtime": "1726229596",
+        "edited": "2024-09-13T15:16:32",
+        "edited_unixtime": "1726229792",
+        "from": "Tacciana",
+        "from_id": "user6965994936",
+        "reply_to_message_id": 60130,
+        "text": "Гэта не імя . \"В владении дедича\"\nТо бок спадчыннік",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Гэта не імя . \"В владении дедича\"\nТо бок спадчыннік"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Grigory",
+                        "from_id": "user286320928",
+                        "date": "2024-09-13T15:16:32"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 96890,
+        "type": "message",
+        "date": "2024-09-13T19:42:30",
+        "date_unixtime": "1726245750",
+        "edited": "2024-09-13T19:42:59",
+        "edited_unixtime": "1726245779",
+        "from": "Grigory",
+        "from_id": "user286320928",
+        "reply_to_message_id": 60130,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 542,
+        "height": 237,
+        "text": [
+            "Помогите с фамилией домовладельца ",
+            {
+                "type": "text_link",
+                "text": "источник",
+                "href": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSM4-X8DY?view=explore&groupId=TH-909-54224-9191-36"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Помогите с фамилией домовладельца "
+            },
+            {
+                "type": "text_link",
+                "text": "источник",
+                "href": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSM4-X8DY?view=explore&groupId=TH-909-54224-9191-36"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
         "id": 96896,
         "type": "message",
         "date": "2024-09-13T20:09:40",
@@ -2198,7 +2351,7 @@
         "date_unixtime": "1726981535",
         "edited": "2024-09-22T08:05:46",
         "edited_unixtime": "1726981546",
-        "from": "Damian P",
+        "from": "Damian Koziol-Priamursky",
         "from_id": "user7216423110",
         "reply_to_message_id": 60130,
         "text": [

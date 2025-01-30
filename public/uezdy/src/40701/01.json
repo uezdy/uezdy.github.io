@@ -978,14 +978,9 @@
         "reactions": [
             {
                 "type": "emoji",
-                "count": 5,
+                "count": 4,
                 "emoji": "😁",
                 "recent": [
-                    {
-                        "from": "Алена",
-                        "from_id": "user1617817551",
-                        "date": "2025-01-24T09:15:09"
-                    },
                     {
                         "from": "Paul von Nachtigall",
                         "from_id": "user251308718",
@@ -995,6 +990,11 @@
                         "from": "$€£¥ €£¥₩$",
                         "from_id": "user6871021372",
                         "date": "2025-01-16T14:57:59"
+                    },
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2025-01-16T14:39:32"
                     }
                 ]
             }
@@ -1380,18 +1380,6 @@
                         "date": "2025-01-22T13:37:32"
                     }
                 ]
-            },
-            {
-                "type": "emoji",
-                "count": 1,
-                "emoji": "😁",
-                "recent": [
-                    {
-                        "from": "64471",
-                        "from_id": "user6227044304",
-                        "date": "2025-01-25T09:38:52"
-                    }
-                ]
             }
         ]
     },
@@ -1422,6 +1410,134 @@
             {
                 "type": "plain",
                 "text": "мне мои знакомые делали так"
+            }
+        ]
+    },
+    {
+        "id": 111174,
+        "type": "message",
+        "date": "2025-01-22T13:56:08",
+        "date_unixtime": "1737543368",
+        "from": "Владимир",
+        "from_id": "user831316871",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 842,
+        "height": 1280,
+        "text": "было",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "было"
+            }
+        ]
+    },
+    {
+        "id": 111175,
+        "type": "message",
+        "date": "2025-01-22T13:56:14",
+        "date_unixtime": "1737543374",
+        "edited": "2025-01-22T14:22:06",
+        "edited_unixtime": "1737544926",
+        "from": "Владимир",
+        "from_id": "user831316871",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 896,
+        "height": 1280,
+        "text": "стало",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "стало"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 11,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": ";",
+                        "from_id": "user5579643927",
+                        "date": "2025-01-23T07:36:38"
+                    },
+                    {
+                        "from": "Alena Rusakovich",
+                        "from_id": "user455467923",
+                        "date": "2025-01-23T02:37:12"
+                    },
+                    {
+                        "from": "Anpiel",
+                        "from_id": "user7460713234",
+                        "date": "2025-01-22T22:39:44"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 111176,
+        "type": "message",
+        "date": "2025-01-22T13:56:23",
+        "date_unixtime": "1737543383",
+        "from": "Владимир",
+        "from_id": "user831316871",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 666,
+        "height": 960,
+        "text": "было",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "было"
+            }
+        ]
+    },
+    {
+        "id": 111177,
+        "type": "message",
+        "date": "2025-01-22T13:56:29",
+        "date_unixtime": "1737543389",
+        "edited": "2025-01-22T14:06:06",
+        "edited_unixtime": "1737543966",
+        "from": "Владимир",
+        "from_id": "user831316871",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 853,
+        "height": 1280,
+        "text": "стало",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "стало"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 15,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": ";",
+                        "from_id": "user5579643927",
+                        "date": "2025-01-23T07:36:45"
+                    },
+                    {
+                        "from": "Alena Rusakovich",
+                        "from_id": "user455467923",
+                        "date": "2025-01-23T02:37:23"
+                    },
+                    {
+                        "from": "Anpiel",
+                        "from_id": "user7460713234",
+                        "date": "2025-01-22T22:39:47"
+                    }
+                ]
             }
         ]
     },
@@ -1483,37 +1599,119 @@
         "reactions": [
             {
                 "type": "emoji",
-                "count": 5,
-                "emoji": "👍"
-            },
-            {
-                "type": "emoji",
-                "count": 2,
-                "emoji": "🌚",
+                "count": 4,
+                "emoji": "👍",
                 "recent": [
                     {
-                        "from": "Y M",
-                        "from_id": "user5035576209",
-                        "date": "2025-01-24T00:20:03"
+                        "from": "Яна",
+                        "from_id": "user1171558336",
+                        "date": "2025-01-22T20:59:14"
                     },
                     {
-                        "from": "Детидетей",
-                        "from_id": "user668121919",
-                        "date": "2025-01-23T23:37:25"
+                        "from": "В",
+                        "from_id": "user5050312544",
+                        "date": "2025-01-22T20:39:36"
+                    },
+                    {
+                        "from": "Helen",
+                        "from_id": "user982746756",
+                        "date": "2025-01-22T15:54:39"
                     }
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "id": 111181,
+        "type": "message",
+        "date": "2025-01-22T14:05:51",
+        "date_unixtime": "1737543951",
+        "edited": "2025-01-22T14:06:29",
+        "edited_unixtime": "1737543989",
+        "from": "Szkapa",
+        "from_id": "user478727343",
+        "reply_to_message_id": 111177,
+        "text": "У вас хорошо сделали",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У вас хорошо сделали"
+            }
+        ]
+    },
+    {
+        "id": 111182,
+        "type": "message",
+        "date": "2025-01-22T14:06:13",
+        "date_unixtime": "1737543973",
+        "edited": "2025-01-22T14:06:21",
+        "edited_unixtime": "1737543981",
+        "from": "Владимир",
+        "from_id": "user831316871",
+        "reply_to_message_id": 111181,
+        "text": "здесь художник трудился своими ручками)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "здесь художник трудился своими ручками)"
+            }
+        ],
+        "reactions": [
             {
                 "type": "emoji",
-                "count": 1,
-                "emoji": "😁",
+                "count": 7,
+                "emoji": "👍",
                 "recent": [
                     {
-                        "from": "64471",
-                        "from_id": "user6227044304",
-                        "date": "2025-01-25T09:40:08"
+                        "from": "В",
+                        "from_id": "user5050312544",
+                        "date": "2025-01-22T20:39:41"
+                    },
+                    {
+                        "from": "Марина",
+                        "from_id": "user1874881112",
+                        "date": "2025-01-22T15:23:06"
+                    },
+                    {
+                        "from": "Paul von Nachtigall",
+                        "from_id": "user251308718",
+                        "date": "2025-01-22T14:21:31"
                     }
                 ]
+            }
+        ]
+    },
+    {
+        "id": 111183,
+        "type": "message",
+        "date": "2025-01-22T15:15:43",
+        "date_unixtime": "1737548143",
+        "edited": "2025-01-22T15:16:17",
+        "edited_unixtime": "1737548177",
+        "from": "Роман",
+        "from_id": "user1819081203",
+        "reply_to_message_id": 111182,
+        "text": "интересно узнать, что же делал художник в Испании..., а вообще у вас идеально восстановленная фотография, может даже лучше чем была сначала",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "интересно узнать, что же делал художник в Испании..., а вообще у вас идеально восстановленная фотография, может даже лучше чем была сначала"
+            }
+        ]
+    },
+    {
+        "id": 111184,
+        "type": "message",
+        "date": "2025-01-22T15:20:04",
+        "date_unixtime": "1737548404",
+        "from": "Владимир",
+        "from_id": "user831316871",
+        "reply_to_message_id": 111183,
+        "text": "Это не у меня спрашивайте))) а у автора сообщения",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это не у меня спрашивайте))) а у автора сообщения"
             }
         ]
     },
@@ -1537,14 +1735,9 @@
         "reactions": [
             {
                 "type": "emoji",
-                "count": 3,
+                "count": 2,
                 "emoji": "😁",
                 "recent": [
-                    {
-                        "from": "Viktar",
-                        "from_id": "user283664960",
-                        "date": "2025-01-23T11:42:17"
-                    },
                     {
                         "from": "В",
                         "from_id": "user5050312544",
@@ -1591,6 +1784,70 @@
         ]
     },
     {
+        "id": 111190,
+        "type": "message",
+        "date": "2025-01-22T15:46:44",
+        "date_unixtime": "1737550004",
+        "from": "Гарик",
+        "from_id": "user7087009637",
+        "reply_to_message_id": 111175,
+        "text": "Здорово. Но я бы оставил сепию",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здорово. Но я бы оставил сепию"
+            }
+        ]
+    },
+    {
+        "id": 111191,
+        "type": "message",
+        "date": "2025-01-22T15:47:39",
+        "date_unixtime": "1737550059",
+        "edited": "2025-01-22T15:51:07",
+        "edited_unixtime": "1737550267",
+        "from": "Владимир",
+        "from_id": "user831316871",
+        "reply_to_message_id": 111190,
+        "text": "Согласен...но мне для моего проекта нужно было именно так)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Согласен...но мне для моего проекта нужно было именно так)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Гарик",
+                        "from_id": "user7087009637",
+                        "date": "2025-01-22T15:51:07"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 111192,
+        "type": "message",
+        "date": "2025-01-22T15:52:56",
+        "date_unixtime": "1737550376",
+        "from": "Helen",
+        "from_id": "user982746756",
+        "reply_to_message_id": 111175,
+        "text": "👌🏻Браво",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "👌🏻Браво"
+            }
+        ]
+    },
+    {
         "id": 111194,
         "type": "message",
         "date": "2025-01-22T16:04:07",
@@ -1603,6 +1860,77 @@
             {
                 "type": "plain",
                 "text": "либо вот пример"
+            }
+        ]
+    },
+    {
+        "id": 111195,
+        "type": "message",
+        "date": "2025-01-22T16:04:17",
+        "date_unixtime": "1737551057",
+        "from": "Владимир",
+        "from_id": "user831316871",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 845,
+        "height": 1207,
+        "text": "было",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "было"
+            }
+        ]
+    },
+    {
+        "id": 111196,
+        "type": "message",
+        "date": "2025-01-22T16:04:23",
+        "date_unixtime": "1737551063",
+        "edited": "2025-01-22T16:14:41",
+        "edited_unixtime": "1737551681",
+        "from": "Владимир",
+        "from_id": "user831316871",
+        "reply_to_message_id": 40701,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 896,
+        "height": 1280,
+        "text": "стало",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "стало"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 10,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": ";",
+                        "from_id": "user5579643927",
+                        "date": "2025-01-23T07:37:40"
+                    },
+                    {
+                        "from": "Alena Rusakovich",
+                        "from_id": "user455467923",
+                        "date": "2025-01-23T02:38:41"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Natalia E",
+                        "from_id": "user1544534782",
+                        "date": "2025-01-23T08:03:31"
+                    }
+                ]
             }
         ]
     },
@@ -1674,37 +2002,32 @@
         "reactions": [
             {
                 "type": "emoji",
-                "count": 11,
+                "count": 8,
                 "emoji": "💯",
                 "recent": [
                     {
-                        "from": "Natalia Lu",
-                        "from_id": "user219698220",
-                        "date": "2025-01-27T03:26:25"
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2025-01-22T20:34:27"
                     },
                     {
-                        "from": "Jury Pleskačeŭski",
-                        "from_id": "user326667641",
-                        "date": "2025-01-24T13:09:06"
-                    }
-                ]
-            },
-            {
-                "type": "emoji",
-                "count": 2,
-                "emoji": "👏",
-                "recent": [
-                    {
-                        "from": "Олеся",
-                        "from_id": "user504035445",
-                        "date": "2025-01-25T15:46:03"
+                        "from": "Viktoriay O",
+                        "from_id": "user2119893161",
+                        "date": "2025-01-22T19:42:43"
                     }
                 ]
             },
             {
                 "type": "emoji",
                 "count": 1,
-                "emoji": "😢"
+                "emoji": "😢",
+                "recent": [
+                    {
+                        "from": "Igor",
+                        "from_id": "user1465163315",
+                        "date": "2025-01-22T18:16:17"
+                    }
+                ]
             }
         ]
     },
@@ -1760,30 +2083,32 @@
         "reactions": [
             {
                 "type": "emoji",
-                "count": 5,
+                "count": 2,
                 "emoji": "🔥",
                 "recent": [
                     {
-                        "from": "Anastasia Nichiporovich",
-                        "from_id": "user251428128",
-                        "date": "2025-01-24T08:25:35"
+                        "from": "В",
+                        "from_id": "user5050312544",
+                        "date": "2025-01-22T20:42:58"
                     },
                     {
-                        "from": "AV",
-                        "from_id": "user484872692",
-                        "date": "2025-01-23T20:38:55"
-                    },
-                    {
-                        "from": "Машп Либо",
-                        "from_id": "user374860965",
-                        "date": "2025-01-23T18:26:06"
+                        "from": "Arbores",
+                        "from_id": "user872011640",
+                        "date": "2025-01-22T20:38:25"
                     }
                 ]
             },
             {
                 "type": "emoji",
                 "count": 1,
-                "emoji": "❤"
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Alena Vaitsiakhouskaya",
+                        "from_id": "user532861942",
+                        "date": "2025-01-22T20:35:17"
+                    }
+                ]
             }
         ]
     },
@@ -1807,30 +2132,23 @@
         "reactions": [
             {
                 "type": "emoji",
-                "count": 5,
+                "count": 3,
                 "emoji": "👍",
                 "recent": [
                     {
-                        "from": "Машп Либо",
-                        "from_id": "user374860965",
-                        "date": "2025-01-23T18:26:17"
-                    }
-                ]
-            },
-            {
-                "type": "emoji",
-                "count": 2,
-                "emoji": "🥴",
-                "recent": [
-                    {
-                        "from": "Tacciana",
-                        "from_id": "user6965994936",
-                        "date": "2025-01-25T11:02:02"
+                        "from": "Alena Vaitsiakhouskaya",
+                        "from_id": "user532861942",
+                        "date": "2025-01-22T21:41:01"
                     },
                     {
-                        "from": "Детидетей",
-                        "from_id": "user668121919",
-                        "date": "2025-01-23T23:58:52"
+                        "from": "Гарик",
+                        "from_id": "user7087009637",
+                        "date": "2025-01-22T21:33:04"
+                    },
+                    {
+                        "from": "Szkapa",
+                        "from_id": "user478727343",
+                        "date": "2025-01-22T20:43:57"
                     }
                 ]
             }

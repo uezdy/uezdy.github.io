@@ -43525,18 +43525,20 @@
             {
                 "type": "emoji",
                 "count": 5,
-                "emoji": "✍"
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "Елизавета Т.",
+                        "from_id": "user290703965",
+                        "date": "2024-01-23T14:19:41"
+                    }
+                ]
             },
             {
                 "type": "emoji",
-                "count": 5,
+                "count": 4,
                 "emoji": "🎉",
                 "recent": [
-                    {
-                        "from": "Алексей Арт-Хща",
-                        "from_id": "user207514160",
-                        "date": "2025-01-23T11:00:46"
-                    },
                     {
                         "from": "I D",
                         "from_id": "user5726368881",

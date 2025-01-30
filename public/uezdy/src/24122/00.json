@@ -42,14 +42,9 @@
         "reactions": [
             {
                 "type": "emoji",
-                "count": 14,
+                "count": 13,
                 "emoji": "👍",
                 "recent": [
-                    {
-                        "from": "Kats",
-                        "from_id": "user543969229",
-                        "date": "2025-01-24T17:02:38"
-                    },
                     {
                         "from": "Максим Горностай",
                         "from_id": "user342311613",
@@ -59,6 +54,11 @@
                         "from": "Galina Yukhnovich",
                         "from_id": "user537360092",
                         "date": "2024-08-10T10:51:25"
+                    },
+                    {
+                        "from": "NinaEK",
+                        "from_id": "user1168230259",
+                        "date": "2024-05-18T09:42:05"
                     }
                 ]
             }
@@ -437,14 +437,9 @@
         "reactions": [
             {
                 "type": "emoji",
-                "count": 5,
+                "count": 4,
                 "emoji": "👍",
                 "recent": [
-                    {
-                        "from": "Kats",
-                        "from_id": "user543969229",
-                        "date": "2025-01-24T17:03:12"
-                    },
                     {
                         "from": "დ",
                         "from_id": "user5017731844",
@@ -454,6 +449,11 @@
                         "from": "Надежда",
                         "from_id": "user526360320",
                         "date": "2024-01-30T21:47:28"
+                    },
+                    {
+                        "from": "Katerina Yurchenko",
+                        "from_id": "user1224199707",
+                        "date": "2023-12-23T13:46:14"
                     }
                 ]
             }
@@ -1011,7 +1011,7 @@
         "date_unixtime": "1669106651",
         "edited": "2022-11-23T11:33:47",
         "edited_unixtime": "1669192427",
-        "from": "Сергей Шаппо",
+        "from": "Сергей",
         "from_id": "user162676802",
         "forwarded_from": "Уезды Беларуси (Генеалогия Беларуси)",
         "reply_to_message_id": 24122,
@@ -17935,14 +17935,9 @@
         "reactions": [
             {
                 "type": "emoji",
-                "count": 9,
+                "count": 8,
                 "emoji": "👍",
                 "recent": [
-                    {
-                        "from": "В",
-                        "from_id": "user5050312544",
-                        "date": "2025-01-23T20:09:30"
-                    },
                     {
                         "from": "Anatoly Sazanovich",
                         "from_id": "user5542313094",
@@ -17952,6 +17947,11 @@
                         "from": "Воля",
                         "from_id": "user1294673686",
                         "date": "2024-06-15T22:38:15"
+                    },
+                    {
+                        "from": "Сергей",
+                        "from_id": "user6832955016",
+                        "date": "2024-06-01T00:16:23"
                     }
                 ]
             }
@@ -23754,23 +23754,13 @@
         "reactions": [
             {
                 "type": "emoji",
-                "count": 4,
+                "count": 1,
                 "emoji": "👍",
                 "recent": [
                     {
-                        "from": "Katya Makarevich",
-                        "from_id": "user521432070",
-                        "date": "2025-01-26T23:14:25"
-                    },
-                    {
-                        "from": "Helena Pozharitckaia",
-                        "from_id": "user956631283",
-                        "date": "2025-01-25T19:09:57"
-                    },
-                    {
-                        "from": "Viktar",
-                        "from_id": "user283664960",
-                        "date": "2025-01-23T10:41:56"
+                        "from": "Y M",
+                        "from_id": "user5035576209",
+                        "date": "2025-01-23T05:15:48"
                     }
                 ]
             }

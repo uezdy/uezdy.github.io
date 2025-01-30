@@ -1630,14 +1630,9 @@
         "reactions": [
             {
                 "type": "emoji",
-                "count": 5,
+                "count": 4,
                 "emoji": "❤",
                 "recent": [
-                    {
-                        "from": "Kats",
-                        "from_id": "user543969229",
-                        "date": "2025-01-23T18:06:31"
-                    },
                     {
                         "from": null,
                         "from_id": "user1647115375",
@@ -1647,6 +1642,11 @@
                         "from": "MikhailR Kubasov",
                         "from_id": "user918899531",
                         "date": "2024-01-24T12:51:30"
+                    },
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-01-24T07:22:58"
                     }
                 ]
             }
