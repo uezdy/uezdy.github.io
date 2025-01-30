@@ -1,0 +1,123 @@
+[
+    {
+        "id": 66402,
+        "type": "message",
+        "date": "2023-12-27T00:09:37",
+        "date_unixtime": "1703624977",
+        "edited": "2023-12-27T00:49:56",
+        "edited_unixtime": "1703627396",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 24135,
+        "text": [
+            "🗳 Анкета участников чата «Уезды Беларуси» для систематизации поисковых фамилий и территорий\n\n",
+            {
+                "type": "bold",
+                "text": "Заполнить"
+            },
+            ": ",
+            {
+                "type": "link",
+                "text": "https://forms.gle/Tjv4Je9kCwJ3f7o99"
+            },
+            "\n\n",
+            {
+                "type": "bold",
+                "text": "Таблица"
+            },
+            " обновляется автоматически (только просмотр): ",
+            {
+                "type": "link",
+                "text": "https://docs.google.com/spreadsheets/d/1yBzlwZ4dws5pk60cnM9mtxrHFIxKFno4IHSuJ7g9ZHo"
+            },
+            "\n\nТеперь можно самостоятельно вносить изменения в свои записи. Для этого при заполнении достаточно указать e-mail или сохранить ссылку на редактирование. Работает только для новых записей, с уже существующими так не получится.\n\nДля правок в таблице можно обратиться ко мне: ",
+            {
+                "type": "mention",
+                "text": "@nik0is"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "🗳 Анкета участников чата «Уезды Беларуси» для систематизации поисковых фамилий и территорий\n\n"
+            },
+            {
+                "type": "bold",
+                "text": "Заполнить"
+            },
+            {
+                "type": "plain",
+                "text": ": "
+            },
+            {
+                "type": "link",
+                "text": "https://forms.gle/Tjv4Je9kCwJ3f7o99"
+            },
+            {
+                "type": "plain",
+                "text": "\n\n"
+            },
+            {
+                "type": "bold",
+                "text": "Таблица"
+            },
+            {
+                "type": "plain",
+                "text": " обновляется автоматически (только просмотр): "
+            },
+            {
+                "type": "link",
+                "text": "https://docs.google.com/spreadsheets/d/1yBzlwZ4dws5pk60cnM9mtxrHFIxKFno4IHSuJ7g9ZHo"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nТеперь можно самостоятельно вносить изменения в свои записи. Для этого при заполнении достаточно указать e-mail или сохранить ссылку на редактирование. Работает только для новых записей, с уже существующими так не получится.\n\nДля правок в таблице можно обратиться ко мне: "
+            },
+            {
+                "type": "mention",
+                "text": "@nik0is"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 12,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Olesya P",
+                        "from_id": "user1184786842",
+                        "date": "2024-09-13T17:10:05"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "👍"
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Kamil Kulawik",
+                        "from_id": "user7050414511",
+                        "date": "2024-09-26T18:42:26"
+                    },
+                    {
+                        "from": "Sergey Fedosenkov",
+                        "from_id": "user989610685",
+                        "date": "2024-07-20T02:29:15"
+                    }
+                ]
+            }
+        ]
+    }
+]

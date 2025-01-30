@@ -2,7 +2,7 @@ import path from "path";
 import fs from "fs";
 
 const pathUezd = path.resolve('public/uezdy');
-const pathSrc = path.resolve('public/uezdy/src1');
+const pathSrc = path.resolve('public/uezdy/src');
 
 const topics: any = {};
 const filesTopics = fs.readdirSync(pathSrc, 'utf8');

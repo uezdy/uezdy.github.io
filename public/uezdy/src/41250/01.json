@@ -1,0 +1,2733 @@
+[
+    {
+        "id": 105709,
+        "type": "message",
+        "date": "2024-12-08T10:50:36",
+        "date_unixtime": "1733644236",
+        "from": "Alexander",
+        "from_id": "user6377445633",
+        "reply_to_message_id": 41250,
+        "text": [
+            {
+                "type": "link",
+                "text": "http://maps.mapywig.org/m/City_plans/Central_Europe/PLAN_MIASTA_BIALEGOSTOKU_10K.jpg"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "http://maps.mapywig.org/m/City_plans/Central_Europe/PLAN_MIASTA_BIALEGOSTOKU_10K.jpg"
+            }
+        ]
+    },
+    {
+        "id": 105710,
+        "type": "message",
+        "date": "2024-12-08T10:51:00",
+        "date_unixtime": "1733644260",
+        "edited": "2024-12-08T11:47:42",
+        "edited_unixtime": "1733647662",
+        "from": "Alexander",
+        "from_id": "user6377445633",
+        "reply_to_message_id": 105708,
+        "text": "Да. Вот собственно и карта. Rabinska",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да. Вот собственно и карта. Rabinska"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Роман",
+                        "from_id": "user1819081203",
+                        "date": "2024-12-08T11:49:09"
+                    },
+                    {
+                        "from": "Elena",
+                        "from_id": "user823477307",
+                        "date": "2024-12-08T11:47:42"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 105724,
+        "type": "message",
+        "date": "2024-12-08T11:56:26",
+        "date_unixtime": "1733648186",
+        "edited": "2024-12-09T08:42:49",
+        "edited_unixtime": "1733722969",
+        "from": "Elena",
+        "from_id": "user823477307",
+        "reply_to_message_id": 105710,
+        "text": "Спасибо всем. Может, тогда кто-то еще знает или знает, где поискать такую инфу, действительно ли в этом доме 13 был до войны публичный дом? Мои жили там с 1940 и всю оккупацию. Рассказывали, что на улице реально светили красные фонари, а дом внутри был, вот как в кино бордели показывают: внизу зал, на втором этаже как галерея, комнаты по кругу. Им дали одну комнату🤣",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо всем. Может, тогда кто-то еще знает или знает, где поискать такую инфу, действительно ли в этом доме 13 был до войны публичный дом? Мои жили там с 1940 и всю оккупацию. Рассказывали, что на улице реально светили красные фонари, а дом внутри был, вот как в кино бордели показывают: внизу зал, на втором этаже как галерея, комнаты по кругу. Им дали одну комнату🤣"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-12-09T08:42:49"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 105725,
+        "type": "message",
+        "date": "2024-12-08T12:04:05",
+        "date_unixtime": "1733648645",
+        "edited": "2024-12-08T14:00:42",
+        "edited_unixtime": "1733655642",
+        "from": "Victor",
+        "from_id": "user512489139",
+        "reply_to_message_id": 105724,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://poranny.pl/ulica-targowa-byla-w-centrum-miasta/ar/5532696"
+            },
+            "\n\nсмотреть надо через VPN\nтут есть дом 13b (а на фото Рабинская 13а)\nчто пишут:\nGdzie była Targowa? To pytanie nie o główną arterię warszawskiej Pragi, która mimo budowy metra ma się dobrze, ale o białostocką Targową. Nie tak wielką i ważną, ale położoną w centrum miasta. Przed wojną i tuż po wojnie była to ulica Rabińska, a przecinała Śledziową. No, to na pewno jesteśmy w Białymstoku! Dodam tylko, że Targowa biegła równolegle do istniejących jeszcze ulic: Wiejskiej, Żelaznej i Szpitalnej, a dochodziła do narożnika Siennego Rynku. Obecnie na tym miejscu stoją bloki osiedla \"Piaski\".\nГугл-переводчик говорит: Речь идет не о главной артерии варшавской Праги, которая, несмотря на строительство метро, а о Тарговой в Белостоке. Не такой большой и важной, но расположенной в центре города. До и сразу после войны это была улица Рабинская, пересекавшая улицу Слёнскую. Таргова шла параллельно существующим улицам: Вейской, Желязна и Шпитальной и доходила до угла Сенного рынка. В настоящее время на этом месте стоят кварталы жилого комплекса «Пяски»."
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://poranny.pl/ulica-targowa-byla-w-centrum-miasta/ar/5532696"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nсмотреть надо через VPN\nтут есть дом 13b (а на фото Рабинская 13а)\nчто пишут:\nGdzie była Targowa? To pytanie nie o główną arterię warszawskiej Pragi, która mimo budowy metra ma się dobrze, ale o białostocką Targową. Nie tak wielką i ważną, ale położoną w centrum miasta. Przed wojną i tuż po wojnie była to ulica Rabińska, a przecinała Śledziową. No, to na pewno jesteśmy w Białymstoku! Dodam tylko, że Targowa biegła równolegle do istniejących jeszcze ulic: Wiejskiej, Żelaznej i Szpitalnej, a dochodziła do narożnika Siennego Rynku. Obecnie na tym miejscu stoją bloki osiedla \"Piaski\".\nГугл-переводчик говорит: Речь идет не о главной артерии варшавской Праги, которая, несмотря на строительство метро, а о Тарговой в Белостоке. Не такой большой и важной, но расположенной в центре города. До и сразу после войны это была улица Рабинская, пересекавшая улицу Слёнскую. Таргова шла параллельно существующим улицам: Вейской, Желязна и Шпитальной и доходила до угла Сенного рынка. В настоящее время на этом месте стоят кварталы жилого комплекса «Пяски»."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-12-10T08:05:47"
+                    },
+                    {
+                        "from": "Elena",
+                        "from_id": "user823477307",
+                        "date": "2024-12-08T14:00:42"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 105726,
+        "type": "message",
+        "date": "2024-12-08T12:15:13",
+        "date_unixtime": "1733649313",
+        "edited": "2024-12-08T14:00:49",
+        "edited_unixtime": "1733655649",
+        "from": "Victor",
+        "from_id": "user512489139",
+        "reply_to_message_id": 41250,
+        "text": "из статьи можно сделать вывод, что скорее всего этот дом был обычным домом, где жили обычные люди, дом 13а находился напротив дома 13b, с другой стороны улицы, вот про жителей - Moi rozmówcy zapamiętali inne jeszcze nazwiska mieszkańców: Więcko pod dwójką, Kaniewscy pod dziesiątką, Leszek Muszyński i pan Hryniewicki pod czternastką, Derpeńscy, Skowrońscy i Korzenieccy pod jedynką, Granaccy i Stoma pod 13 A. Zostało wiele miłych wspomnień, Targowa - Rabińska skończyła się w połowie lat 60.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "из статьи можно сделать вывод, что скорее всего этот дом был обычным домом, где жили обычные люди, дом 13а находился напротив дома 13b, с другой стороны улицы, вот про жителей - Moi rozmówcy zapamiętali inne jeszcze nazwiska mieszkańców: Więcko pod dwójką, Kaniewscy pod dziesiątką, Leszek Muszyński i pan Hryniewicki pod czternastką, Derpeńscy, Skowrońscy i Korzenieccy pod jedynką, Granaccy i Stoma pod 13 A. Zostało wiele miłych wspomnień, Targowa - Rabińska skończyła się w połowie lat 60."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Kris Romanyuk",
+                        "from_id": "user173177233",
+                        "date": "2024-12-29T09:57:56"
+                    },
+                    {
+                        "from": "Elena",
+                        "from_id": "user823477307",
+                        "date": "2024-12-08T14:00:49"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 105728,
+        "type": "message",
+        "date": "2024-12-08T12:26:20",
+        "date_unixtime": "1733649980",
+        "edited": "2024-12-08T14:01:35",
+        "edited_unixtime": "1733655695",
+        "from": "Victor",
+        "from_id": "user512489139",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 733,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Elena",
+                        "from_id": "user823477307",
+                        "date": "2024-12-08T14:01:35"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 105735,
+        "type": "message",
+        "date": "2024-12-08T13:37:13",
+        "date_unixtime": "1733654233",
+        "from": "Sb",
+        "from_id": "user6512553342",
+        "reply_to_message_id": 41250,
+        "text": [
+            "В Витебской области продают памятник архитектуры XIX века. Цена вопроса — 40 рублей\n",
+            {
+                "type": "link",
+                "text": "https://virtualbrest.ru/pda.php?pdaurl=1&pdaid=144174"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В Витебской области продают памятник архитектуры XIX века. Цена вопроса — 40 рублей\n"
+            },
+            {
+                "type": "link",
+                "text": "https://virtualbrest.ru/pda.php?pdaurl=1&pdaid=144174"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 105736,
+        "type": "message",
+        "date": "2024-12-08T14:08:45",
+        "date_unixtime": "1733656125",
+        "edited": "2024-12-08T18:29:27",
+        "edited_unixtime": "1733671767",
+        "from": "Elena",
+        "from_id": "user823477307",
+        "reply_to_message_id": 105726,
+        "text": "Да, выглядит, как обычный снаружи. Люди там и жили обычные после 1940го. Если это он. Еще, как вариант, может, на Рабинскую они потом переехали.\nВижу там рядом рынок. Вот там, наверное, бабушка с подругой и продавали нитки, которые их мужья таскали с немецкой ткацкой фабрики, где работали))\nЕще бы эту фабрику найти. И роддом ближайший, где дядя родился. Роды принимал немецкий врач. Не знаете, можно ли где-то немецкие документы по рождению найти?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, выглядит, как обычный снаружи. Люди там и жили обычные после 1940го. Если это он. Еще, как вариант, может, на Рабинскую они потом переехали.\nВижу там рядом рынок. Вот там, наверное, бабушка с подругой и продавали нитки, которые их мужья таскали с немецкой ткацкой фабрики, где работали))\nЕще бы эту фабрику найти. И роддом ближайший, где дядя родился. Роды принимал немецкий врач. Не знаете, можно ли где-то немецкие документы по рождению найти?"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2024-12-08T18:29:27"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 105742,
+        "type": "message",
+        "date": "2024-12-08T14:54:37",
+        "date_unixtime": "1733658877",
+        "edited": "2024-12-08T19:04:07",
+        "edited_unixtime": "1733673847",
+        "from": "Victor",
+        "from_id": "user512489139",
+        "reply_to_message_id": 105736,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 743,
+        "text": "было две ткацких фабрики,\nдалековато от Сенного рынка и улицы Рабинской",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "было две ткацких фабрики,\nдалековато от Сенного рынка и улицы Рабинской"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Elena",
+                        "from_id": "user823477307",
+                        "date": "2024-12-08T19:04:07"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 105743,
+        "type": "message",
+        "date": "2024-12-08T14:54:37",
+        "date_unixtime": "1733658877",
+        "from": "Victor",
+        "from_id": "user512489139",
+        "reply_to_message_id": 105736,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 278,
+        "height": 146,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 105744,
+        "type": "message",
+        "date": "2024-12-08T15:00:00",
+        "date_unixtime": "1733659200",
+        "edited": "2024-12-08T18:29:57",
+        "edited_unixtime": "1733671797",
+        "from": "Victor",
+        "from_id": "user512489139",
+        "reply_to_message_id": 105736,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 820,
+        "height": 722,
+        "text": "а вот больница была рядом",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "а вот больница была рядом"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Elena",
+                        "from_id": "user823477307",
+                        "date": "2024-12-08T19:02:02"
+                    },
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2024-12-08T18:29:57"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 105745,
+        "type": "message",
+        "date": "2024-12-08T15:00:00",
+        "date_unixtime": "1733659200",
+        "from": "Victor",
+        "from_id": "user512489139",
+        "reply_to_message_id": 105736,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 419,
+        "height": 99,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 105774,
+        "type": "message",
+        "date": "2024-12-08T19:08:07",
+        "date_unixtime": "1733674087",
+        "from": "Elena",
+        "from_id": "user823477307",
+        "reply_to_message_id": 105743,
+        "text": "Далековато, но, может, тогда особо выбирать не приходилось. Может, на велосипеде ездил. У них с бабушкой там точно велосипеды были",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Далековато, но, может, тогда особо выбирать не приходилось. Может, на велосипеде ездил. У них с бабушкой там точно велосипеды были"
+            }
+        ]
+    },
+    {
+        "id": 105808,
+        "type": "message",
+        "date": "2024-12-09T12:50:52",
+        "date_unixtime": "1733737852",
+        "edited": "2024-12-09T15:51:52",
+        "edited_unixtime": "1733748712",
+        "from": "Elena",
+        "from_id": "user823477307",
+        "reply_to_message_id": 105774,
+        "text": "А, еще вспомнили факт, что в роддом они с дедушкой ехали на трамвае, и было очень страшно, потому что в районе гетто стреляли. Это было 01.09.42 или накануне.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А, еще вспомнили факт, что в роддом они с дедушкой ехали на трамвае, и было очень страшно, потому что в районе гетто стреляли. Это было 01.09.42 или накануне."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-12-10T15:05:11"
+                    },
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2024-12-09T15:51:52"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 105925,
+        "type": "message",
+        "date": "2024-12-10T17:38:50",
+        "date_unixtime": "1733841530",
+        "edited": "2024-12-10T21:06:17",
+        "edited_unixtime": "1733853977",
+        "from": "Viktar",
+        "from_id": "user283664960",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 968,
+        "text": "На днях в деревне Сушицк в Пинском районе снесли школу, в которую в 1 класс пошла моя мама. Соседи предлагали председателю сельсовета купить за базовую, отказали и снесли 😢. У меня даже фото не осталось... Когда школа перестала действовать, в ней жили приезжие семьи. Построена в 1969 году",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На днях в деревне Сушицк в Пинском районе снесли школу, в которую в 1 класс пошла моя мама. Соседи предлагали председателю сельсовета купить за базовую, отказали и снесли 😢. У меня даже фото не осталось... Когда школа перестала действовать, в ней жили приезжие семьи. Построена в 1969 году"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "😱",
+                "recent": [
+                    {
+                        "from": "AV",
+                        "from_id": "user484872692",
+                        "date": "2024-12-11T15:05:15"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Geor Gina",
+                        "from_id": "user1049446400",
+                        "date": "2024-12-30T00:42:22"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😢",
+                "recent": [
+                    {
+                        "from": "Kris Romanyuk",
+                        "from_id": "user173177233",
+                        "date": "2024-12-29T09:59:01"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 105926,
+        "type": "message",
+        "date": "2024-12-10T17:40:26",
+        "date_unixtime": "1733841626",
+        "from": "В В",
+        "from_id": "user770204124",
+        "reply_to_message_id": 105100,
+        "text": "Да, напишите. Моего тоже нигде не было. В кгб нашли. Но у меня 1944 год.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, напишите. Моего тоже нигде не было. В кгб нашли. Но у меня 1944 год."
+            }
+        ]
+    },
+    {
+        "id": 105930,
+        "type": "message",
+        "date": "2024-12-10T18:22:26",
+        "date_unixtime": "1733844146",
+        "from": "Y M",
+        "from_id": "user5035576209",
+        "reply_to_message_id": 105926,
+        "text": "Электронно через сайт или физически к ним идти куда-то писать заявление?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Электронно через сайт или физически к ним идти куда-то писать заявление?"
+            }
+        ]
+    },
+    {
+        "id": 105935,
+        "type": "message",
+        "date": "2024-12-10T18:31:08",
+        "date_unixtime": "1733844668",
+        "from": "В В",
+        "from_id": "user770204124",
+        "reply_to_message_id": 105930,
+        "text": "Я писала, через обращение бел",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я писала, через обращение бел"
+            }
+        ]
+    },
+    {
+        "id": 105936,
+        "type": "message",
+        "date": "2024-12-10T18:31:24",
+        "date_unixtime": "1733844684",
+        "from": "В В",
+        "from_id": "user770204124",
+        "reply_to_message_id": 105930,
+        "text": "Ой, не",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ой, не"
+            }
+        ]
+    },
+    {
+        "id": 105937,
+        "type": "message",
+        "date": "2024-12-10T18:32:53",
+        "date_unixtime": "1733844773",
+        "from": "В В",
+        "from_id": "user770204124",
+        "reply_to_message_id": 105930,
+        "text": "Писала письмом бумажным и туда запихнула копии подтверждения родства. Только тогда я полусила ответ, что дело у них. Мо другому точно не отвечали. Требовали родство живыми бумагами",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Писала письмом бумажным и туда запихнула копии подтверждения родства. Только тогда я полусила ответ, что дело у них. Мо другому точно не отвечали. Требовали родство живыми бумагами"
+            }
+        ]
+    },
+    {
+        "id": 105940,
+        "type": "message",
+        "date": "2024-12-10T20:13:57",
+        "date_unixtime": "1733850837",
+        "edited": "2024-12-12T21:33:59",
+        "edited_unixtime": "1734028439",
+        "from": "Южа",
+        "from_id": "user5193976349",
+        "reply_to_message_id": 41250,
+        "text": "Читаю и так и чешутся руки рассказать о моём печальном опыте общения с беларуским КГБ по репрессированным. Но история такая длинная, что напишу только одно - сильно результаты отличаются по аналогичным запросам в РФ, что меня сильно удивило и разочаровало.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Читаю и так и чешутся руки рассказать о моём печальном опыте общения с беларуским КГБ по репрессированным. Но история такая длинная, что напишу только одно - сильно результаты отличаются по аналогичным запросам в РФ, что меня сильно удивило и разочаровало."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Geor Gina",
+                        "from_id": "user1049446400",
+                        "date": "2024-12-30T00:41:52"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 105941,
+        "type": "message",
+        "date": "2024-12-10T21:19:19",
+        "date_unixtime": "1733854759",
+        "from": "Игорь Лигаев",
+        "from_id": "user815578581",
+        "reply_to_message_id": 105940,
+        "text": "Вопрос, который я неоднократно слышал от служащего архива КГБ: а зачем вообще Вам это надо? Да, и в архиве КГБ вы получаете дело из 5-6-ти листов, а допустим из ПермГАНИ (теперь ПермГАСПИ) из 60-ти. Как говорится - почувствуте разницу 😁)))",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вопрос, который я неоднократно слышал от служащего архива КГБ: а зачем вообще Вам это надо? Да, и в архиве КГБ вы получаете дело из 5-6-ти листов, а допустим из ПермГАНИ (теперь ПермГАСПИ) из 60-ти. Как говорится - почувствуте разницу 😁)))"
+            }
+        ]
+    },
+    {
+        "id": 105942,
+        "type": "message",
+        "date": "2024-12-10T21:27:46",
+        "date_unixtime": "1733855266",
+        "edited": "2024-12-11T19:56:06",
+        "edited_unixtime": "1733936166",
+        "from": "Гарик",
+        "from_id": "user7087009637",
+        "reply_to_message_id": 105941,
+        "text": "Беларусь ваше будущее. Можете смотреть и понимать, что скоро будет.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Беларусь ваше будущее. Можете смотреть и понимать, что скоро будет."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Natali Шелганова",
+                        "from_id": "user879160135",
+                        "date": "2024-12-21T23:25:56"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😱",
+                "recent": [
+                    {
+                        "from": "Яна",
+                        "from_id": "user1171558336",
+                        "date": "2024-12-11T19:56:06"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 105943,
+        "type": "message",
+        "date": "2024-12-10T21:30:26",
+        "date_unixtime": "1733855426",
+        "from": "Игорь Лигаев",
+        "from_id": "user815578581",
+        "reply_to_message_id": 105942,
+        "text": "И что же будет?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И что же будет?"
+            }
+        ]
+    },
+    {
+        "id": 106956,
+        "type": "message",
+        "date": "2024-12-19T21:16:00",
+        "date_unixtime": "1734632160",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 41250,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://www.instagram.com/belarus_traditional_interior?igsh=emdqZ3oyc2hnM2Rj"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://www.instagram.com/belarus_traditional_interior?igsh=emdqZ3oyc2hnM2Rj"
+            }
+        ]
+    },
+    {
+        "id": 106957,
+        "type": "message",
+        "date": "2024-12-19T21:16:54",
+        "date_unixtime": "1734632214",
+        "edited": "2024-12-19T21:17:39",
+        "edited_unixtime": "1734632259",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 41250,
+        "text": "Фота інтэр’ераў хат з розных куткоў Беларусі. Можа хто свае мясціны пазнае.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Фота інтэр’ераў хат з розных куткоў Беларусі. Можа хто свае мясціны пазнае."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "AV",
+                        "from_id": "user484872692",
+                        "date": "2024-12-19T21:49:49"
+                    },
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-12-19T21:17:39"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-12-20T09:46:35"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 107210,
+        "type": "message",
+        "date": "2024-12-22T15:14:18",
+        "date_unixtime": "1734869658",
+        "edited": "2024-12-22T19:47:06",
+        "edited_unixtime": "1734886026",
+        "from": "Sb",
+        "from_id": "user6512553342",
+        "reply_to_message_id": 41250,
+        "text": [
+            "В Бресте начали строительство лапидария. Работы на начальной стадии\n",
+            {
+                "type": "link",
+                "text": "https://virtualbrest.ru/pda.php?pdaurl=1&pdaid=145158"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В Бресте начали строительство лапидария. Работы на начальной стадии\n"
+            },
+            {
+                "type": "link",
+                "text": "https://virtualbrest.ru/pda.php?pdaurl=1&pdaid=145158"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-12-22T19:47:06"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 107470,
+        "type": "message",
+        "date": "2024-12-24T23:36:25",
+        "date_unixtime": "1735072585",
+        "edited": "2024-12-24T23:58:18",
+        "edited_unixtime": "1735073898",
+        "from": "Sb",
+        "from_id": "user6512553342",
+        "reply_to_message_id": 41250,
+        "text": [
+            "Сенсация? Ученые в шоке от реконструкции человека, жившего на территории Беларуси 4 000 лет назад\n",
+            {
+                "type": "link",
+                "text": "https://virtualbrest.ru/pda.php?pdaurl=1&pdaid=145290"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сенсация? Ученые в шоке от реконструкции человека, жившего на территории Беларуси 4 000 лет назад\n"
+            },
+            {
+                "type": "link",
+                "text": "https://virtualbrest.ru/pda.php?pdaurl=1&pdaid=145290"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "😁",
+                "recent": [
+                    {
+                        "from": "Jens Yngvarsson",
+                        "from_id": "user1320755991",
+                        "date": "2025-01-10T15:13:35"
+                    },
+                    {
+                        "from": "Paul von Nachtigall",
+                        "from_id": "user251308718",
+                        "date": "2025-01-10T14:15:15"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Y M",
+                        "from_id": "user5035576209",
+                        "date": "2024-12-25T13:51:09"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 107542,
+        "type": "message",
+        "date": "2024-12-25T16:35:43",
+        "date_unixtime": "1735133743",
+        "edited": "2024-12-25T16:45:26",
+        "edited_unixtime": "1735134326",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": [
+            "Д. Уласовцы\nОт лесника Осипа Вдовина\n\nФото предоставлены ",
+            {
+                "type": "mention",
+                "text": "@ancapboy"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Д. Уласовцы\nОт лесника Осипа Вдовина\n\nФото предоставлены "
+            },
+            {
+                "type": "mention",
+                "text": "@ancapboy"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-12-26T08:51:06"
+                    },
+                    {
+                        "from": "Aeternus ⛓️‍💥🗡️",
+                        "from_id": "user1462341336",
+                        "date": "2024-12-25T19:19:30"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-12-25T17:45:01"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤"
+            }
+        ]
+    },
+    {
+        "id": 107543,
+        "type": "message",
+        "date": "2024-12-25T16:35:43",
+        "date_unixtime": "1735133743",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 107551,
+        "type": "message",
+        "date": "2024-12-25T17:52:49",
+        "date_unixtime": "1735138369",
+        "edited": "2024-12-25T17:53:13",
+        "edited_unixtime": "1735138393",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 107542,
+        "text": "Спасибо! одна из моих деревень, и вероятно родственник, по браку уж точно",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо! одна из моих деревень, и вероятно родственник, по браку уж точно"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Aeternus ⛓️‍💥🗡️",
+                        "from_id": "user1462341336",
+                        "date": "2024-12-25T19:19:25"
+                    },
+                    {
+                        "from": "Anpiel",
+                        "from_id": "user7460713234",
+                        "date": "2024-12-25T18:44:20"
+                    },
+                    {
+                        "from": "Alena Vaitsiakhouskaya",
+                        "from_id": "user532861942",
+                        "date": "2024-12-25T18:01:01"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 107552,
+        "type": "message",
+        "date": "2024-12-25T19:20:53",
+        "date_unixtime": "1735143653",
+        "edited": "2024-12-25T19:22:49",
+        "edited_unixtime": "1735143769",
+        "from": "Aeternus ⛓️‍💥🗡️",
+        "from_id": "user1462341336",
+        "reply_to_message_id": 107551,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 939,
+        "height": 1280,
+        "text": "В первой странице есть записи о рождении за 1927 год времён Первой Польской республики (см. слева).\n«AKTOW URODZEN»",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В первой странице есть записи о рождении за 1927 год времён Первой Польской республики (см. слева).\n«AKTOW URODZEN»"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-12-26T08:51:19"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-12-25T22:30:59"
+                    },
+                    {
+                        "from": "Helen",
+                        "from_id": "user982746756",
+                        "date": "2024-12-25T20:09:29"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 107553,
+        "type": "message",
+        "date": "2024-12-25T19:23:29",
+        "date_unixtime": "1735143809",
+        "edited": "2024-12-25T19:46:52",
+        "edited_unixtime": "1735145212",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 107552,
+        "text": "спасибо!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "спасибо!"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Aeternus ⛓️‍💥🗡️",
+                        "from_id": "user1462341336",
+                        "date": "2024-12-25T19:46:52"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 107668,
+        "type": "message",
+        "date": "2024-12-26T22:01:06",
+        "date_unixtime": "1735239666",
+        "edited": "2024-12-26T22:04:02",
+        "edited_unixtime": "1735239842",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 107542,
+        "text": "с/с[?] До Вельможнего пана Лесничего\n\nЛесника дер. Уласовцов Осипа Вдовина\n\nЗаявление\n\nЧесть имею заявить Вам, что мною было убито три лиса. 4[?] Жандармы приехали в дер. Уласовъ искать у меня мяса. Они безъ старосты а сами нахальным образом сделали труску и нашли три лиса и забрали за убитыми. После этого они услыхали, что Степан[?] Клютко нашли облупленого лиса въ своем сарае возле сена котораго затащила собаки.\nОни Прибыли в нашую дер. 10-го числа и зашли в дом къ этому кр. который нашел лиса и написали на меня протокол, что лисы затрученыя.\nНо эти три лиса убиты пулями. Но этотъ лисъ былъ убитъ ими ехавших зъ Вольки-Обровской и у меня в доме ... ...\nи выбросили на двор.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "с/с[?] До Вельможнего пана Лесничего\n\nЛесника дер. Уласовцов Осипа Вдовина\n\nЗаявление\n\nЧесть имею заявить Вам, что мною было убито три лиса. 4[?] Жандармы приехали в дер. Уласовъ искать у меня мяса. Они безъ старосты а сами нахальным образом сделали труску и нашли три лиса и забрали за убитыми. После этого они услыхали, что Степан[?] Клютко нашли облупленого лиса въ своем сарае возле сена котораго затащила собаки.\nОни Прибыли в нашую дер. 10-го числа и зашли в дом къ этому кр. который нашел лиса и написали на меня протокол, что лисы затрученыя.\nНо эти три лиса убиты пулями. Но этотъ лисъ былъ убитъ ими ехавших зъ Вольки-Обровской и у меня в доме ... ...\nи выбросили на двор."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 8,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Aeternus ⛓️‍💥🗡️",
+                        "from_id": "user1462341336",
+                        "date": "2025-01-02T01:47:51"
+                    },
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2024-12-29T10:01:08"
+                    },
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2024-12-27T20:31:20"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 107793,
+        "type": "message",
+        "date": "2024-12-29T09:48:14",
+        "date_unixtime": "1735454894",
+        "edited": "2024-12-29T10:17:32",
+        "edited_unixtime": "1735456652",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 107668,
+        "text": "доме сняли … по логике шкуру, но видится «…з…су» или «…з…жу»",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "доме сняли … по логике шкуру, но видится «…з…су» или «…з…жу»"
+            }
+        ]
+    },
+    {
+        "id": 107795,
+        "type": "message",
+        "date": "2024-12-29T09:57:21",
+        "date_unixtime": "1735455441",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 107668,
+        "text": "Степан Кмотко нашелъ",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Степан Кмотко нашелъ"
+            }
+        ]
+    },
+    {
+        "id": 107796,
+        "type": "message",
+        "date": "2024-12-29T09:57:57",
+        "date_unixtime": "1735455477",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 107668,
+        "text": "Собака",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Собака"
+            }
+        ]
+    },
+    {
+        "id": 107797,
+        "type": "message",
+        "date": "2024-12-29T10:12:44",
+        "date_unixtime": "1735456364",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 107668,
+        "text": "за долги, мне кажется",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "за долги, мне кажется"
+            }
+        ]
+    },
+    {
+        "id": 107798,
+        "type": "message",
+        "date": "2024-12-29T10:18:37",
+        "date_unixtime": "1735456717",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 107668,
+        "text": "ехавши изъ",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ехавши изъ"
+            }
+        ]
+    },
+    {
+        "id": 107799,
+        "type": "message",
+        "date": "2024-12-29T10:27:57",
+        "date_unixtime": "1735457277",
+        "edited": "2024-12-29T14:16:46",
+        "edited_unixtime": "1735471006",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 107552,
+        "text": [
+            "Уставъ повелеваетъ каждае пение исполнять благочинно. «Безчинный вопль поющихъ въ церкви не прияти ",
+            {
+                "type": "italic",
+                "text": "(не употреблять)"
+            },
+            " къ церковному пению, такожде и прилагаяй ",
+            {
+                "type": "italic",
+                "text": "(протягаяй безъ нужды, делая разные выводы голосомъ по своему)"
+            },
+            " къ церковному пению неприятенъ есть: подобаетъ бо пети благочинно и согласно, яко единемы усты отъ сердецъ своихъ»."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Уставъ повелеваетъ каждае пение исполнять благочинно. «Безчинный вопль поющихъ въ церкви не прияти "
+            },
+            {
+                "type": "italic",
+                "text": "(не употреблять)"
+            },
+            {
+                "type": "plain",
+                "text": " къ церковному пению, такожде и прилагаяй "
+            },
+            {
+                "type": "italic",
+                "text": "(протягаяй безъ нужды, делая разные выводы голосомъ по своему)"
+            },
+            {
+                "type": "plain",
+                "text": " къ церковному пению неприятенъ есть: подобаетъ бо пети благочинно и согласно, яко единемы усты отъ сердецъ своихъ»."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2024-12-29T10:35:37"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Aeternus ⛓️‍💥🗡️",
+                        "from_id": "user1462341336",
+                        "date": "2024-12-29T14:14:10"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 107800,
+        "type": "message",
+        "date": "2024-12-29T10:41:17",
+        "date_unixtime": "1735458077",
+        "edited": "2024-12-29T11:08:17",
+        "edited_unixtime": "1735459697",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 107795,
+        "text": "Спасибо! Уже не даёт исправить исходное сообщение, но вот фамилия точно Клютко",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо! Уже не даёт исправить исходное сообщение, но вот фамилия точно Клютко"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Aeternus ⛓️‍💥🗡️",
+                        "from_id": "user1462341336",
+                        "date": "2025-01-02T01:48:18"
+                    },
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2024-12-29T11:08:17"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 107927,
+        "type": "message",
+        "date": "2024-12-30T23:41:36",
+        "date_unixtime": "1735591296",
+        "from": "Alena Vaitsiakhouskaya",
+        "from_id": "user532861942",
+        "reply_to_message_id": 41250,
+        "text": [
+            "Здравствуйте! Подскажите, кто-то встречался с таким названием - Казённая Пуща Кулика в контексте Беловежской пущи? Нашла такую метрику порозовского костёла 1835 г. и не могу понять, что это за местность. Потом эта семья жила в Ощепе и Орлово , это тут: ",
+            {
+                "type": "link",
+                "text": "https://maps.app.goo.gl/GT9dLTKGmzB6AAZR7"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте! Подскажите, кто-то встречался с таким названием - Казённая Пуща Кулика в контексте Беловежской пущи? Нашла такую метрику порозовского костёла 1835 г. и не могу понять, что это за местность. Потом эта семья жила в Ощепе и Орлово , это тут: "
+            },
+            {
+                "type": "link",
+                "text": "https://maps.app.goo.gl/GT9dLTKGmzB6AAZR7"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 107928,
+        "type": "message",
+        "date": "2024-12-30T23:41:51",
+        "date_unixtime": "1735591311",
+        "from": "Alena Vaitsiakhouskaya",
+        "from_id": "user532861942",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1776,
+        "height": 547,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 107949,
+        "type": "message",
+        "date": "2024-12-31T09:43:04",
+        "date_unixtime": "1735627384",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 41250,
+        "text": "Часть земель принадлежала казне, видимо Ваши именно с этой части. Кулик скорее ксёндз? Там точка стоит вроде после казенной?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Часть земель принадлежала казне, видимо Ваши именно с этой части. Кулик скорее ксёндз? Там точка стоит вроде после казенной?"
+            }
+        ]
+    },
+    {
+        "id": 107950,
+        "type": "message",
+        "date": "2024-12-31T10:00:45",
+        "date_unixtime": "1735628445",
+        "from": "Alena Vaitsiakhouskaya",
+        "from_id": "user532861942",
+        "reply_to_message_id": 41250,
+        "text": "Я думаю эта точка это точка над \"j\" :)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я думаю эта точка это точка над \"j\" :)"
+            }
+        ]
+    },
+    {
+        "id": 107951,
+        "type": "message",
+        "date": "2024-12-31T10:43:12",
+        "date_unixtime": "1735630992",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 41250,
+        "text": "Как вариант возможно урочище с таким названием",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Как вариант возможно урочище с таким названием"
+            }
+        ]
+    },
+    {
+        "id": 107952,
+        "type": "message",
+        "date": "2024-12-31T10:43:57",
+        "date_unixtime": "1735631037",
+        "edited": "2024-12-31T11:07:37",
+        "edited_unixtime": "1735632457",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 41250,
+        "text": "А давайце на Радзіму паглядзім, на Поразаўскую парафію",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А давайце на Радзіму паглядзім, на Поразаўскую парафію"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Helena Pozharitckaia",
+                        "from_id": "user956631283",
+                        "date": "2024-12-31T22:05:48"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Alena Vaitsiakhouskaya",
+                        "from_id": "user532861942",
+                        "date": "2024-12-31T11:07:37"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 107953,
+        "type": "message",
+        "date": "2024-12-31T10:46:54",
+        "date_unixtime": "1735631214",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 41250,
+        "text": "Можа там дзе Кулікі побач ёсць",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Можа там дзе Кулікі побач ёсць"
+            }
+        ]
+    },
+    {
+        "id": 107954,
+        "type": "message",
+        "date": "2024-12-31T11:09:21",
+        "date_unixtime": "1735632561",
+        "from": "Alena Vaitsiakhouskaya",
+        "from_id": "user532861942",
+        "reply_to_message_id": 41250,
+        "text": "Да, я смотрела на Радзиме в волковысском уезде, ничего не нашла. Мы в соседнем чате так подумали, что это был регионализм, и так разово написали :) спросила у людей с деревни, которая там рядом, никто такого названия не слышал",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, я смотрела на Радзиме в волковысском уезде, ничего не нашла. Мы в соседнем чате так подумали, что это был регионализм, и так разово написали :) спросила у людей с деревни, которая там рядом, никто такого названия не слышал"
+            }
+        ]
+    },
+    {
+        "id": 107955,
+        "type": "message",
+        "date": "2024-12-31T11:26:43",
+        "date_unixtime": "1735633603",
+        "edited": "2024-12-31T12:09:55",
+        "edited_unixtime": "1735636195",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 41250,
+        "text": "А паглядзіце на картах Шуберта? На \"это место\"",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А паглядзіце на картах Шуберта? На \"это место\""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Alena Vaitsiakhouskaya",
+                        "from_id": "user532861942",
+                        "date": "2024-12-31T12:09:55"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 107956,
+        "type": "message",
+        "date": "2024-12-31T12:10:58",
+        "date_unixtime": "1735636258",
+        "from": "Alena Vaitsiakhouskaya",
+        "from_id": "user532861942",
+        "reply_to_message_id": 107955,
+        "text": "глянула, нету такого😅",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "глянула, нету такого😅"
+            }
+        ]
+    },
+    {
+        "id": 108044,
+        "type": "message",
+        "date": "2025-01-01T15:27:37",
+        "date_unixtime": "1735734457",
+        "edited": "2025-01-01T15:28:00",
+        "edited_unixtime": "1735734480",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 107950,
+        "text": "Там же y. Могли поставить сначала точку. Тем более под буквой К просматривается прочерк (= окончание предложения ._) А потом уточнили, донаписав название пущи. Точка осталась.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Там же y. Могли поставить сначала точку. Тем более под буквой К просматривается прочерк (= окончание предложения ._) А потом уточнили, донаписав название пущи. Точка осталась."
+            }
+        ]
+    },
+    {
+        "id": 108047,
+        "type": "message",
+        "date": "2025-01-01T15:30:44",
+        "date_unixtime": "1735734644",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 640,
+        "height": 376,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 108049,
+        "type": "message",
+        "date": "2025-01-01T15:41:44",
+        "date_unixtime": "1735735304",
+        "from": "Alena Vaitsiakhouskaya",
+        "from_id": "user532861942",
+        "reply_to_message_id": 108044,
+        "text": "Спасибо за помощь в прочтении! Я нашла ещё один акт о рождении ребёнка с этой семьи (перед этим со скрина), и там тоже как-то было написано типа \"со стражи Ощеп пущи храбего блабла\" (не Кулика, какое-то другое имя). И дети после тоже рождались в Ощепе (писали просто \"стража Ощеп\"). Видимо то место как-то так называли и это была та же самая местность. Для меня это основное, т.к. я думала может это была вообще другая местность, с которой они приехали в Ощеп",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо за помощь в прочтении! Я нашла ещё один акт о рождении ребёнка с этой семьи (перед этим со скрина), и там тоже как-то было написано типа \"со стражи Ощеп пущи храбего блабла\" (не Кулика, какое-то другое имя). И дети после тоже рождались в Ощепе (писали просто \"стража Ощеп\"). Видимо то место как-то так называли и это была та же самая местность. Для меня это основное, т.к. я думала может это была вообще другая местность, с которой они приехали в Ощеп"
+            }
+        ]
+    },
+    {
+        "id": 108051,
+        "type": "message",
+        "date": "2025-01-01T15:44:08",
+        "date_unixtime": "1735735448",
+        "edited": "2025-01-01T15:46:34",
+        "edited_unixtime": "1735735594",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 108049,
+        "text": "Стража — это типа застава/сторожка лесника",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Стража — это типа застава/сторожка лесника"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user864098668",
+                        "date": "2025-01-01T16:22:10"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Alena Vaitsiakhouskaya",
+                        "from_id": "user532861942",
+                        "date": "2025-01-01T15:46:34"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 108054,
+        "type": "message",
+        "date": "2025-01-01T15:46:17",
+        "date_unixtime": "1735735577",
+        "from": "Alena Vaitsiakhouskaya",
+        "from_id": "user532861942",
+        "reply_to_message_id": 41250,
+        "text": "Да, это я знаю, этот Ощеп и сейчас такую функцию несёт",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, это я знаю, этот Ощеп и сейчас такую функцию несёт"
+            }
+        ]
+    },
+    {
+        "id": 108056,
+        "type": "message",
+        "date": "2025-01-01T15:48:49",
+        "date_unixtime": "1735735729",
+        "edited": "2025-01-01T15:49:03",
+        "edited_unixtime": "1735735743",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 108051,
+        "text": "Год в записи 1835. До 1831 года эта пуща могла быть частной. После перехода в казну, могли начаться преобразования местного значения, в т.ч. появляться ранее не существовавшие стражи, новые названия, которые еще могли не успеть устояться.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Год в записи 1835. До 1831 года эта пуща могла быть частной. После перехода в казну, могли начаться преобразования местного значения, в т.ч. появляться ранее не существовавшие стражи, новые названия, которые еще могли не успеть устояться."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Alena Vaitsiakhouskaya",
+                        "from_id": "user532861942",
+                        "date": "2025-01-01T15:49:03"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 108057,
+        "type": "message",
+        "date": "2025-01-01T15:52:38",
+        "date_unixtime": "1735735958",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 41250,
+        "text": "Либо кусок пущи мог стать казенным. Поэтому сначала могли написать просто «казенная пуща», считая, что этого будет достаточно. После этого могло оказаться, что таких кусков несколько. Поэтому пришлось уточнить, в какой именно пуще родился ребенок.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Либо кусок пущи мог стать казенным. Поэтому сначала могли написать просто «казенная пуща», считая, что этого будет достаточно. После этого могло оказаться, что таких кусков несколько. Поэтому пришлось уточнить, в какой именно пуще родился ребенок."
+            }
+        ]
+    },
+    {
+        "id": 108060,
+        "type": "message",
+        "date": "2025-01-01T15:57:00",
+        "date_unixtime": "1735736220",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 41250,
+        "text": "Не было ли ранее на местности помещика по фамилии Кулик?  Хотя, думаю, в таком случае скорее написали бы puszczy kazienney kulikowskey, но не факт. Пуща чья? — Кулика — мог быть и такой ход мысли.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Не было ли ранее на местности помещика по фамилии Кулик?  Хотя, думаю, в таком случае скорее написали бы puszczy kazienney kulikowskey, но не факт. Пуща чья? — Кулика — мог быть и такой ход мысли."
+            }
+        ]
+    },
+    {
+        "id": 108061,
+        "type": "message",
+        "date": "2025-01-01T16:00:21",
+        "date_unixtime": "1735736421",
+        "edited": "2025-01-01T16:05:18",
+        "edited_unixtime": "1735736718",
+        "from": "Alena Vaitsiakhouskaya",
+        "from_id": "user532861942",
+        "reply_to_message_id": 108060,
+        "text": "Я уверена что Кулика это именно \"чья\" 😅 но суть в том, что раз и раньше был Ощеп и потом Ощеп, то это тоже самое место, а кому пуща принадлежала, это уже детали. Если что-то найду по теме, то напишу сюда :)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я уверена что Кулика это именно \"чья\" 😅 но суть в том, что раз и раньше был Ощеп и потом Ощеп, то это тоже самое место, а кому пуща принадлежала, это уже детали. Если что-то найду по теме, то напишу сюда :)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2025-01-01T16:05:18"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 108062,
+        "type": "message",
+        "date": "2025-01-01T17:21:47",
+        "date_unixtime": "1735741307",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 108060,
+        "text": "Если она казенная, то никак не может быть помещичьей.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Если она казенная, то никак не может быть помещичьей."
+            }
+        ]
+    },
+    {
+        "id": 108065,
+        "type": "message",
+        "date": "2025-01-01T18:08:04",
+        "date_unixtime": "1735744084",
+        "edited": "2025-01-01T18:18:13",
+        "edited_unixtime": "1735744693",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 108062,
+        "text": "Да, но по прежней принадлежности могли уточнить таким образом. Это гипотеза в любом случае.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, но по прежней принадлежности могли уточнить таким образом. Это гипотеза в любом случае."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👌",
+                "recent": [
+                    {
+                        "from": "Marina Yurochka",
+                        "from_id": "user6971824773",
+                        "date": "2025-01-01T18:18:13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 108085,
+        "type": "message",
+        "date": "2025-01-02T01:49:04",
+        "date_unixtime": "1735771744",
+        "edited": "2025-01-02T03:22:07",
+        "edited_unixtime": "1735777327",
+        "from": "Aeternus ⛓️‍💥🗡️",
+        "from_id": "user1462341336",
+        "reply_to_message_id": 107668,
+        "text": "Также на страницах было подписано «П Иванюку»",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Также на страницах было подписано «П Иванюку»"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2025-01-02T03:22:07"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 108223,
+        "type": "message",
+        "date": "2025-01-03T09:40:26",
+        "date_unixtime": "1735886426",
+        "edited": "2025-01-03T14:52:18",
+        "edited_unixtime": "1735905138",
+        "from": "Sb",
+        "from_id": "user6512553342",
+        "reply_to_message_id": 41250,
+        "text": [
+            "Самые интересные находки археологов в Беларуси в 2024 году\n",
+            {
+                "type": "link",
+                "text": "https://virtualbrest.ru/pda.php?pdaurl=1&pdaid=145780"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Самые интересные находки археологов в Беларуси в 2024 году\n"
+            },
+            {
+                "type": "link",
+                "text": "https://virtualbrest.ru/pda.php?pdaurl=1&pdaid=145780"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Галина",
+                        "from_id": "user5691652872",
+                        "date": "2025-01-03T14:52:18"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 108233,
+        "type": "message",
+        "date": "2025-01-03T13:04:32",
+        "date_unixtime": "1735898672",
+        "edited": "2025-01-03T13:56:25",
+        "edited_unixtime": "1735901785",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "reply_to_message_id": 41250,
+        "text": [
+            "У кано продкі з Раманавічаў Гомельскіх? ",
+            {
+                "type": "link",
+                "text": "https://www.instagram.com/reel/DEW5sRkoSeC/?igsh=eHAwNDR5Y3V2OWtj"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У кано продкі з Раманавічаў Гомельскіх? "
+            },
+            {
+                "type": "link",
+                "text": "https://www.instagram.com/reel/DEW5sRkoSeC/?igsh=eHAwNDR5Y3V2OWtj"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "AV",
+                        "from_id": "user484872692",
+                        "date": "2025-01-03T13:56:25"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 108925,
+        "type": "message",
+        "date": "2025-01-07T19:15:09",
+        "date_unixtime": "1736266509",
+        "edited": "2025-01-07T19:15:25",
+        "edited_unixtime": "1736266525",
+        "from": "Y M",
+        "from_id": "user5035576209",
+        "reply_to_message_id": 41250,
+        "text": "подскажите пожалуйста, в какой церкви могли крестить человека, рожденного в 1962г. в деревне Залужье Стародорожского района? Там есть Георгиевская церковь, но в интернете написано что с 1930 её преобразовали в клуб-дискотеку и восстановили только в 1990х. Я так понимаю, послевоенные записи о крещённых все хранятся в самих церквях и не передавались в архив, то есть надо в церковь ехать лично?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "подскажите пожалуйста, в какой церкви могли крестить человека, рожденного в 1962г. в деревне Залужье Стародорожского района? Там есть Георгиевская церковь, но в интернете написано что с 1930 её преобразовали в клуб-дискотеку и восстановили только в 1990х. Я так понимаю, послевоенные записи о крещённых все хранятся в самих церквях и не передавались в архив, то есть надо в церковь ехать лично?"
+            }
+        ]
+    },
+    {
+        "id": 108928,
+        "type": "message",
+        "date": "2025-01-07T19:34:07",
+        "date_unixtime": "1736267647",
+        "edited": "2025-01-09T01:15:02",
+        "edited_unixtime": "1736374502",
+        "from": "Vasi Vasi",
+        "from_id": "user7071190955",
+        "reply_to_message_id": 108925,
+        "text": "В 60 годах крестить могли в любой. Так как если родители были партийные то вообще крестили детей даже в других районах",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В 60 годах крестить могли в любой. Так как если родители были партийные то вообще крестили детей даже в других районах"
+            }
+        ]
+    },
+    {
+        "id": 108929,
+        "type": "message",
+        "date": "2025-01-07T19:34:55",
+        "date_unixtime": "1736267695",
+        "edited": "2025-01-07T19:37:37",
+        "edited_unixtime": "1736267857",
+        "from": "Y M",
+        "from_id": "user5035576209",
+        "reply_to_message_id": 108928,
+        "text": "отец был партийный поэтому был против крещения, поэтому мама её крестила тайно, пока она приехала в деревню. Но неизвестно, где именно",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "отец был партийный поэтому был против крещения, поэтому мама её крестила тайно, пока она приехала в деревню. Но неизвестно, где именно"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤷‍♂",
+                "recent": [
+                    {
+                        "from": "Vasi Vasi",
+                        "from_id": "user7071190955",
+                        "date": "2025-01-07T19:37:37"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 108930,
+        "type": "message",
+        "date": "2025-01-07T19:35:45",
+        "date_unixtime": "1736267745",
+        "edited": "2025-01-07T19:36:20",
+        "edited_unixtime": "1736267780",
+        "from": "Vasi Vasi",
+        "from_id": "user7071190955",
+        "reply_to_message_id": 41250,
+        "text": "Знаю как ребёнка с Минска привезли крестить вдаже не в город где бабушка жила а загород в деревню",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Знаю как ребёнка с Минска привезли крестить вдаже не в город где бабушка жила а загород в деревню"
+            }
+        ]
+    },
+    {
+        "id": 108931,
+        "type": "message",
+        "date": "2025-01-07T19:37:54",
+        "date_unixtime": "1736267874",
+        "from": "Vasi Vasi",
+        "from_id": "user7071190955",
+        "reply_to_message_id": 41250,
+        "text": "Ну тогда наврядли узнать можно",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну тогда наврядли узнать можно"
+            }
+        ]
+    },
+    {
+        "id": 108935,
+        "type": "message",
+        "date": "2025-01-07T19:46:38",
+        "date_unixtime": "1736268398",
+        "from": "Vasi Vasi",
+        "from_id": "user7071190955",
+        "reply_to_message_id": 41250,
+        "text": "Да и в церкви за эти года могут и не дать записи",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да и в церкви за эти года могут и не дать записи"
+            }
+        ]
+    },
+    {
+        "id": 108953,
+        "type": "message",
+        "date": "2025-01-07T21:46:19",
+        "date_unixtime": "1736275579",
+        "edited": "2025-01-09T13:36:44",
+        "edited_unixtime": "1736419004",
+        "from": "Y M",
+        "from_id": "user5035576209",
+        "reply_to_message_id": 41250,
+        "text": "Выяснилось, что 1. Её крёстные жили там же в деревне, в доме напротив; 2. её младшую двоюродную сестру крестили следующим образом: священник просто приехал в деревню, собрал всех детей кому нужно крещение и в чьем-то доме всех покрестил. Даже неизвестно хоть вёл ли он какие-то записи при этом. И где теперь их искать-проверять.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Выяснилось, что 1. Её крёстные жили там же в деревне, в доме напротив; 2. её младшую двоюродную сестру крестили следующим образом: священник просто приехал в деревню, собрал всех детей кому нужно крещение и в чьем-то доме всех покрестил. Даже неизвестно хоть вёл ли он какие-то записи при этом. И где теперь их искать-проверять."
+            }
+        ]
+    },
+    {
+        "id": 108955,
+        "type": "message",
+        "date": "2025-01-07T22:05:58",
+        "date_unixtime": "1736276758",
+        "edited": "2025-01-07T22:58:17",
+        "edited_unixtime": "1736279897",
+        "from": "Vasi Vasi",
+        "from_id": "user7071190955",
+        "reply_to_message_id": 41250,
+        "text": "Записи старались не делать.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Записи старались не делать."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "💯",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2025-01-23T16:39:55"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👀",
+                "recent": [
+                    {
+                        "from": "Y M",
+                        "from_id": "user5035576209",
+                        "date": "2025-01-07T22:58:17"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 108964,
+        "type": "message",
+        "date": "2025-01-07T22:17:50",
+        "date_unixtime": "1736277470",
+        "edited": "2025-01-07T22:49:24",
+        "edited_unixtime": "1736279364",
+        "from": "G B",
+        "from_id": "user1462701472",
+        "reply_to_message_id": 108953,
+        "text": "О, знакомая история) Меня так в 9-летнем возрасте крестили на дому в бочке😅",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "О, знакомая история) Меня так в 9-летнем возрасте крестили на дому в бочке😅"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Лилия",
+                        "from_id": "user1286674269",
+                        "date": "2025-01-09T21:28:01"
+                    },
+                    {
+                        "from": "Sviatlana",
+                        "from_id": "user380543352",
+                        "date": "2025-01-08T00:19:33"
+                    },
+                    {
+                        "from": "Y M",
+                        "from_id": "user5035576209",
+                        "date": "2025-01-07T22:57:41"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 108967,
+        "type": "message",
+        "date": "2025-01-07T22:19:11",
+        "date_unixtime": "1736277551",
+        "edited": "2025-01-07T22:20:24",
+        "edited_unixtime": "1736277624",
+        "from": "$€£¥ €£¥₩$",
+        "from_id": "user6871021372",
+        "reply_to_message_id": 108955,
+        "text": "Цікава-цікава, падобнае было і пад час вайны ў 1942-43г. немцы праінфармавалі старасту вёскі (случчына),  што ўсіх нехрышчоных (атэістаў) расстраляюць. Дык хутка пазвалі папа ў веску і ўсіх  пахрэсьцілі. Ці былі зроблены якія метрычныя запісы - ніхто не ведае.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Цікава-цікава, падобнае было і пад час вайны ў 1942-43г. немцы праінфармавалі старасту вёскі (случчына),  што ўсіх нехрышчоных (атэістаў) расстраляюць. Дык хутка пазвалі папа ў веску і ўсіх  пахрэсьцілі. Ці былі зроблены якія метрычныя запісы - ніхто не ведае."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "😱",
+                "recent": [
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2025-01-07T22:49:19"
+                    },
+                    {
+                        "from": "Vasi Vasi",
+                        "from_id": "user7071190955",
+                        "date": "2025-01-07T22:20:24"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 108986,
+        "type": "message",
+        "date": "2025-01-07T22:58:06",
+        "date_unixtime": "1736279886",
+        "from": "Y M",
+        "from_id": "user5035576209",
+        "reply_to_message_id": 108955,
+        "text": "Почему?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Почему?"
+            }
+        ]
+    },
+    {
+        "id": 108995,
+        "type": "message",
+        "date": "2025-01-07T23:40:41",
+        "date_unixtime": "1736282441",
+        "from": "Гарик",
+        "from_id": "user7087009637",
+        "reply_to_message_id": 108986,
+        "text": "Моя мама рассказывала, как ей как комсоргу пришла разнарядка наказать какую-то комсомолку, которая ребенка покрестила. И как моей маме было неловко потому, что незадолго до того она покрестила меня.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Моя мама рассказывала, как ей как комсоргу пришла разнарядка наказать какую-то комсомолку, которая ребенка покрестила. И как моей маме было неловко потому, что незадолго до того она покрестила меня."
+            }
+        ]
+    },
+    {
+        "id": 108996,
+        "type": "message",
+        "date": "2025-01-07T23:41:18",
+        "date_unixtime": "1736282478",
+        "edited": "2025-01-08T01:17:38",
+        "edited_unixtime": "1736288258",
+        "from": "Гарик",
+        "from_id": "user7087009637",
+        "reply_to_message_id": 41250,
+        "text": "Наказывали за это. Довольно больно.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Наказывали за это. Довольно больно."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "😢",
+                "recent": [
+                    {
+                        "from": "Юлия Шаргаева",
+                        "from_id": "user1449075098",
+                        "date": "2025-01-08T08:13:02"
+                    },
+                    {
+                        "from": "Y M",
+                        "from_id": "user5035576209",
+                        "date": "2025-01-08T01:17:38"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 109001,
+        "type": "message",
+        "date": "2025-01-08T01:17:34",
+        "date_unixtime": "1736288254",
+        "from": "Y M",
+        "from_id": "user5035576209",
+        "reply_to_message_id": 108995,
+        "text": "ох уж эти комуняки. Спасибо вам за историю.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ох уж эти комуняки. Спасибо вам за историю."
+            }
+        ]
+    },
+    {
+        "id": 109007,
+        "type": "message",
+        "date": "2025-01-08T11:04:04",
+        "date_unixtime": "1736323444",
+        "edited": "2025-01-08T11:05:08",
+        "edited_unixtime": "1736323508",
+        "from": "🤍",
+        "from_id": "user563203690",
+        "reply_to_message_id": 41250,
+        "text": "Меня тоже крестили тайно на дому. Никаких записей не дай Бог не делали.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Меня тоже крестили тайно на дому. Никаких записей не дай Бог не делали."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Anpiel",
+                        "from_id": "user7460713234",
+                        "date": "2025-01-08T12:49:25"
+                    },
+                    {
+                        "from": "Alena Vaitsiakhouskaya",
+                        "from_id": "user532861942",
+                        "date": "2025-01-08T11:05:08"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤯",
+                "recent": [
+                    {
+                        "from": "Y M",
+                        "from_id": "user5035576209",
+                        "date": "2025-01-08T12:39:23"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 109009,
+        "type": "message",
+        "date": "2025-01-08T11:14:12",
+        "date_unixtime": "1736324052",
+        "from": "Vasi Vasi",
+        "from_id": "user7071190955",
+        "reply_to_message_id": 41250,
+        "text": "В советские времена это вообще то было запрещено. И церкви тоже продолжали сносить",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В советские времена это вообще то было запрещено. И церкви тоже продолжали сносить"
+            }
+        ]
+    },
+    {
+        "id": 109010,
+        "type": "message",
+        "date": "2025-01-08T11:15:35",
+        "date_unixtime": "1736324135",
+        "edited": "2025-01-08T12:39:50",
+        "edited_unixtime": "1736329190",
+        "from": "Vasi Vasi",
+        "from_id": "user7071190955",
+        "reply_to_message_id": 41250,
+        "text": "До 1964 правил Хрущев а при нем много храмов снесли",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "До 1964 правил Хрущев а при нем много храмов снесли"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "Y M",
+                        "from_id": "user5035576209",
+                        "date": "2025-01-08T12:39:50"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 109012,
+        "type": "message",
+        "date": "2025-01-08T11:40:12",
+        "date_unixtime": "1736325612",
+        "edited": "2025-01-08T12:39:16",
+        "edited_unixtime": "1736329156",
+        "from": "ksenia",
+        "from_id": "user805895547",
+        "reply_to_message_id": 108925,
+        "text": "Очень часто крестил даже не батюшка, а миряне из бывших церковных, какой сын дореволюционного священника или просто верующая бабушка. Крещение без миропомазания может проводить любой христианин.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Очень часто крестил даже не батюшка, а миряне из бывших церковных, какой сын дореволюционного священника или просто верующая бабушка. Крещение без миропомазания может проводить любой христианин."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤯",
+                "recent": [
+                    {
+                        "from": "Y M",
+                        "from_id": "user5035576209",
+                        "date": "2025-01-08T12:39:16"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 109015,
+        "type": "message",
+        "date": "2025-01-08T11:47:33",
+        "date_unixtime": "1736326053",
+        "edited": "2025-01-08T11:57:28",
+        "edited_unixtime": "1736326648",
+        "from": "ksenia",
+        "from_id": "user805895547",
+        "reply_to_message_id": 109009,
+        "text": "Было по союзу несколько храмов, которые не закрывались и при советах. Они отчитывались разным инстанциям, от исполкомов до совета министров республики",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Было по союзу несколько храмов, которые не закрывались и при советах. Они отчитывались разным инстанциям, от исполкомов до совета министров республики"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "💯",
+                "recent": [
+                    {
+                        "from": "🤍",
+                        "from_id": "user563203690",
+                        "date": "2025-01-08T21:12:59"
+                    },
+                    {
+                        "from": "Vasi Vasi",
+                        "from_id": "user7071190955",
+                        "date": "2025-01-08T11:57:28"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "Y M",
+                        "from_id": "user5035576209",
+                        "date": "2025-01-08T12:40:16"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 109105,
+        "type": "message",
+        "date": "2025-01-08T23:11:43",
+        "date_unixtime": "1736367103",
+        "from": "Александр Пятницын",
+        "from_id": "user539983526",
+        "reply_to_message_id": 108953,
+        "text": "А что эти записи дадут для генеалогического поиска?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А что эти записи дадут для генеалогического поиска?"
+            }
+        ]
+    },
+    {
+        "id": 109108,
+        "type": "message",
+        "date": "2025-01-09T05:31:51",
+        "date_unixtime": "1736389911",
+        "from": "Y M",
+        "from_id": "user5035576209",
+        "reply_to_message_id": 109105,
+        "text": "религиозные данные, важные для человека",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "религиозные данные, важные для человека"
+            }
+        ]
+    },
+    {
+        "id": 109322,
+        "type": "message",
+        "date": "2025-01-10T14:10:27",
+        "date_unixtime": "1736507427",
+        "edited": "2025-01-10T14:17:12",
+        "edited_unixtime": "1736507832",
+        "from": "Aeternus ⛓️‍💥🗡️",
+        "from_id": "user1462341336",
+        "reply_to_message_id": 107542,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "4 записи о рождении за январь-февраль 1927 года",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "4 записи о рождении за январь-февраль 1927 года"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Sb",
+                        "from_id": "user6512553342",
+                        "date": "2025-01-10T16:10:03"
+                    },
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2025-01-10T14:35:48"
+                    },
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2025-01-10T14:18:32"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 109323,
+        "type": "message",
+        "date": "2025-01-10T14:18:39",
+        "date_unixtime": "1736507919",
+        "edited": "2025-01-10T14:34:24",
+        "edited_unixtime": "1736508864",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 109322,
+        "text": "Спасибо! А это уже другие места, Брестский повет",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо! А это уже другие места, Брестский повет"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Aeternus ⛓️‍💥🗡️",
+                        "from_id": "user1462341336",
+                        "date": "2025-01-10T14:34:24"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 109337,
+        "type": "message",
+        "date": "2025-01-10T16:01:35",
+        "date_unixtime": "1736514095",
+        "edited": "2025-01-10T16:08:07",
+        "edited_unixtime": "1736514487",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 109322,
+        "text": "1  Tatjana Kima...  z  2/I/1927  wieś Melniki gminy Małoryto pow. Brzeskiego\n1  Afanasy Piszczik  m  2/I/1927  wsi Melniki gminy Małoryto pow. Brzeskiego\n2  Afanasia Piszczik  z  3/II/1927  wsi Chocislawia gminy Ołtusz pow. Brzeskiego\n3  Wasilissa Smol  z  6/II/1927  wsi Chocislawia gminy Ołtusz pow. Brzeskiego\n\n\n1  Татьяна Кима...  ж  02.01.1927  д.Мельники, гмина Малорита, повет Брестский\n1  Афанасий Пищик  м  02.01.1927  д.Мельники, гмина Малорита, повет Брестский\n1  Афанасия Пищик  ж  03.02.1927  д.Хотислав, гмина Олтуш, повет Брестский\n3  Василиса Смоль  ж  06.02.1927  д.Хотислав, гмина Олтуш, повет Брестский",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "1  Tatjana Kima...  z  2/I/1927  wieś Melniki gminy Małoryto pow. Brzeskiego\n1  Afanasy Piszczik  m  2/I/1927  wsi Melniki gminy Małoryto pow. Brzeskiego\n2  Afanasia Piszczik  z  3/II/1927  wsi Chocislawia gminy Ołtusz pow. Brzeskiego\n3  Wasilissa Smol  z  6/II/1927  wsi Chocislawia gminy Ołtusz pow. Brzeskiego\n\n\n1  Татьяна Кима...  ж  02.01.1927  д.Мельники, гмина Малорита, повет Брестский\n1  Афанасий Пищик  м  02.01.1927  д.Мельники, гмина Малорита, повет Брестский\n1  Афанасия Пищик  ж  03.02.1927  д.Хотислав, гмина Олтуш, повет Брестский\n3  Василиса Смоль  ж  06.02.1927  д.Хотислав, гмина Олтуш, повет Брестский"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Kris Romanyuk",
+                        "from_id": "user173177233",
+                        "date": "2025-01-10T20:30:23"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2025-01-10T21:56:49"
+                    },
+                    {
+                        "from": "Marina Yurochka",
+                        "from_id": "user6971824773",
+                        "date": "2025-01-10T17:37:00"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 110995,
+        "type": "message",
+        "date": "2025-01-20T13:36:02",
+        "date_unixtime": "1737369362",
+        "edited": "2025-01-20T13:45:26",
+        "edited_unixtime": "1737369926",
+        "from": "Sb",
+        "from_id": "user6512553342",
+        "reply_to_message_id": 41250,
+        "text": [
+            "Коллекция старых шпионских снимков Бреста обновлена: посмотрите на уникальные кадры\n",
+            {
+                "type": "link",
+                "text": "https://virtualbrest.ru/pda.php?pdaurl=1&pdaid=146844"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Коллекция старых шпионских снимков Бреста обновлена: посмотрите на уникальные кадры\n"
+            },
+            {
+                "type": "link",
+                "text": "https://virtualbrest.ru/pda.php?pdaurl=1&pdaid=146844"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Vasi Vasi",
+                        "from_id": "user7071190955",
+                        "date": "2025-01-20T15:57:55"
+                    },
+                    {
+                        "from": "$€£¥ €£¥₩$",
+                        "from_id": "user6871021372",
+                        "date": "2025-01-20T15:18:37"
+                    },
+                    {
+                        "from": "Viktar",
+                        "from_id": "user283664960",
+                        "date": "2025-01-20T15:04:02"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍"
+            }
+        ]
+    },
+    {
+        "id": 111221,
+        "type": "message",
+        "date": "2025-01-22T21:08:23",
+        "date_unixtime": "1737569303",
+        "edited": "2025-01-22T21:10:32",
+        "edited_unixtime": "1737569432",
+        "from": "A.",
+        "from_id": "user853091369",
+        "reply_to_message_id": 41250,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 732,
+        "height": 900,
+        "text": [
+            {
+                "type": "text_link",
+                "text": "Poĺskaja paštoŭka z hierbami miest Litvy.",
+                "href": "https://x.com/paczvarny/status/1880279967218692598?t=XlXFprf8cMRV403kfuaYpA&s=19"
+            },
+            "\nŽyžmary, Viĺnia, Braslaŭ, Koŭnia, Bielastok, Horadnia, Viciebsk, Kiejdany, Lida."
+        ],
+        "text_entities": [
+            {
+                "type": "text_link",
+                "text": "Poĺskaja paštoŭka z hierbami miest Litvy.",
+                "href": "https://x.com/paczvarny/status/1880279967218692598?t=XlXFprf8cMRV403kfuaYpA&s=19"
+            },
+            {
+                "type": "plain",
+                "text": "\nŽyžmary, Viĺnia, Braslaŭ, Koŭnia, Bielastok, Horadnia, Viciebsk, Kiejdany, Lida."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 11,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Детидетей",
+                        "from_id": "user668121919",
+                        "date": "2025-01-28T01:50:58"
+                    },
+                    {
+                        "from": "Sb",
+                        "from_id": "user6512553342",
+                        "date": "2025-01-23T02:02:10"
+                    },
+                    {
+                        "from": "Яна",
+                        "from_id": "user1171558336",
+                        "date": "2025-01-23T01:14:14"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 111246,
+        "type": "message",
+        "date": "2025-01-23T16:38:31",
+        "date_unixtime": "1737639511",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 108929,
+        "text": "Записей не будет. Например, чтобы не осталось следов. Ну и это не было обязательным — чисто на усмотрение самого священника.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Записей не будет. Например, чтобы не осталось следов. Ну и это не было обязательным — чисто на усмотрение самого священника."
+            }
+        ]
+    },
+    {
+        "id": 111247,
+        "type": "message",
+        "date": "2025-01-23T16:41:35",
+        "date_unixtime": "1737639695",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 108986,
+        "text": "Ну вот Вы пишете, что отец был партийным. Потом раз — всплыло письменное подтверждение тому, что дочь при этом крестили. Что дальше? — Вон из партии.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну вот Вы пишете, что отец был партийным. Потом раз — всплыло письменное подтверждение тому, что дочь при этом крестили. Что дальше? — Вон из партии."
+            }
+        ]
+    },
+    {
+        "id": 111272,
+        "type": "message",
+        "date": "2025-01-24T00:10:44",
+        "date_unixtime": "1737666644",
+        "from": "Y M",
+        "from_id": "user5035576209",
+        "reply_to_message_id": 111247,
+        "text": "Благодарю, Алексей🙏🏻",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Благодарю, Алексей🙏🏻"
+            }
+        ]
+    }
+]

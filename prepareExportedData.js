@@ -3,7 +3,7 @@ const fs = require('fs');
 
 const perChunk = 2000;
 const targetUezd = path.resolve('public/uezdy');
-const targetDir = path.resolve('public/uezdy/src1');
+const targetDir = path.resolve('public/uezdy/src');
 const pathJSON = path.join('public/uezdy/result.json');
 const file = fs.readFileSync(pathJSON, 'utf8');
 const data = JSON.parse(file);
