@@ -1,0 +1,86 @@
+[
+    {
+        "id": 501,
+        "type": "message",
+        "date": "2023-05-02T11:02:12",
+        "date_unixtime": "1683014532",
+        "edited": "2023-05-23T10:59:47",
+        "edited_unixtime": "1684828787",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 500,
+        "text": [
+            "Список мест\n\n",
+            {
+                "type": "link",
+                "text": "https://telegra.ph/Spisok-mest-05-23"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Список мест\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://telegra.ph/Spisok-mest-05-23"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 834,
+        "type": "message",
+        "date": "2023-05-23T07:13:23",
+        "date_unixtime": "1684815203",
+        "from": "Alesinya",
+        "from_id": "user542600487",
+        "reply_to_message_id": 500,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1080,
+        "height": 1152,
+        "text": "Что-то всё перемешалось при копировании: имение Застаринье, застенок Застенки, фольварок Зуево... Может что-то ещё...",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Что-то всё перемешалось при копировании: имение Застаринье, застенок Застенки, фольварок Зуево... Может что-то ещё..."
+            }
+        ]
+    },
+    {
+        "id": 836,
+        "type": "message",
+        "date": "2023-05-23T11:00:21",
+        "date_unixtime": "1684828821",
+        "edited": "2023-05-23T18:48:39",
+        "edited_unixtime": "1684856919",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 834,
+        "text": "Подправила, посмотрите",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Подправила, посмотрите"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Alesinya",
+                        "from_id": "user542600487",
+                        "date": "2023-05-23T18:48:39"
+                    }
+                ]
+            }
+        ]
+    }
+]

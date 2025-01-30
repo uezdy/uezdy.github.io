@@ -1,0 +1,427 @@
+[
+    {
+        "id": 2227,
+        "type": "message",
+        "date": "2023-11-13T16:55:02",
+        "date_unixtime": "1699883702",
+        "edited": "2023-11-13T18:03:50",
+        "edited_unixtime": "1699887830",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 2226,
+        "text": [
+            "НИАБ описи на сайте архива\n\n",
+            {
+                "type": "link",
+                "text": "https://niab.by/newsite/ru/nsa"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "НИАБ описи на сайте архива\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://niab.by/newsite/ru/nsa"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🥰",
+                "recent": [
+                    {
+                        "from": "Svetla",
+                        "from_id": "user1010824532",
+                        "date": "2024-04-03T09:30:48"
+                    },
+                    {
+                        "from": "Tatsiana Trezubava-Toporkova",
+                        "from_id": "user2013268763",
+                        "date": "2023-11-13T18:03:50"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3973,
+        "type": "message",
+        "date": "2024-11-10T08:46:02",
+        "date_unixtime": "1731217562",
+        "edited": "2024-11-12T06:06:35",
+        "edited_unixtime": "1731380795",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "Николай Курпан",
+        "reply_to_message_id": 2226,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1080,
+        "height": 1080,
+        "text": [
+            {
+                "type": "bold",
+                "text": "Списки заемщиков Борисовского уезда Минской губернии Крестьянского поземельного банка (РГИА ф. 592)\n\n"
+            },
+            "Плохая сохранность метрик после 1860 года – боль белоруса. Тем более радостно публиковать оцифрованные списки заемщиков Крестьянского поземельного банка Борисовского уезда Минской губернии!\n\nУстановочные данные из 355 дел РГИА ф.592 уже загружены в сеть и ждут того, что бы Вы нашли там своих предков!\n\nСъемка этих пленок стала реальной благодаря 11 спонсорам из ",
+            {
+                "type": "text_link",
+                "text": "tg-чата «Борисовский уезд»",
+                "href": "https://t.me/borisov_uezd"
+            },
+            " и личному участию в процессе Марии Федюкович (примерно ¼ пленок сняла она)! Спасибо вам за популяризацию генеалогии Борисовского уезда!\n\nВ плане работ еще: 11 уездов - на оцифровку и 16 уездов - на публикацию. Всего опубликован 41 уезд, а суммарно отснято более 5089 дел, что составляет 5.45% от общего объема фонда РГИА 592.  В том числе начата работа над съемкой Климовичского уезда Могилевской губернии.\n\nСнимки списков заемщиков доступны по этой ссылке (и тут же описано, зачем нужен и кому может быть полезен фонд КПБ): ",
+            {
+                "type": "link",
+                "text": "https://gen.kurpan.ru/krestyanskij-pozemelnyj-bank-rgia-f-592/"
+            },
+            "\n\nТакже, для тех, кто не видел пример биографических сведений из фонда Крестьянского банка, рекомендую ознакомиться: ",
+            {
+                "type": "link",
+                "text": "https://gen.kurpan.ru/genealogicheskie-i-biograficheskie-svedeniya-v-fonde-krestyanskogo-pozemelnogo-banka-v-rgia-f-592/"
+            },
+            "\n\nЕсли Вы хотите заказать оцифровку какого-то уезда – пишите, сделаем!)\n\n",
+            {
+                "type": "hashtag",
+                "text": "#РГИА"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#КрестьянскийПоземельныйБанк"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#КПБ"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#МинскаяГуберния"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#БорисовскийУезд"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#спискизаемщиков"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#генеалогия"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#историярода"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#историясемьи"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#поискпредков"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#родословная"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Списки заемщиков Борисовского уезда Минской губернии Крестьянского поземельного банка (РГИА ф. 592)\n\n"
+            },
+            {
+                "type": "plain",
+                "text": "Плохая сохранность метрик после 1860 года – боль белоруса. Тем более радостно публиковать оцифрованные списки заемщиков Крестьянского поземельного банка Борисовского уезда Минской губернии!\n\nУстановочные данные из 355 дел РГИА ф.592 уже загружены в сеть и ждут того, что бы Вы нашли там своих предков!\n\nСъемка этих пленок стала реальной благодаря 11 спонсорам из "
+            },
+            {
+                "type": "text_link",
+                "text": "tg-чата «Борисовский уезд»",
+                "href": "https://t.me/borisov_uezd"
+            },
+            {
+                "type": "plain",
+                "text": " и личному участию в процессе Марии Федюкович (примерно ¼ пленок сняла она)! Спасибо вам за популяризацию генеалогии Борисовского уезда!\n\nВ плане работ еще: 11 уездов - на оцифровку и 16 уездов - на публикацию. Всего опубликован 41 уезд, а суммарно отснято более 5089 дел, что составляет 5.45% от общего объема фонда РГИА 592.  В том числе начата работа над съемкой Климовичского уезда Могилевской губернии.\n\nСнимки списков заемщиков доступны по этой ссылке (и тут же описано, зачем нужен и кому может быть полезен фонд КПБ): "
+            },
+            {
+                "type": "link",
+                "text": "https://gen.kurpan.ru/krestyanskij-pozemelnyj-bank-rgia-f-592/"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nТакже, для тех, кто не видел пример биографических сведений из фонда Крестьянского банка, рекомендую ознакомиться: "
+            },
+            {
+                "type": "link",
+                "text": "https://gen.kurpan.ru/genealogicheskie-i-biograficheskie-svedeniya-v-fonde-krestyanskogo-pozemelnogo-banka-v-rgia-f-592/"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nЕсли Вы хотите заказать оцифровку какого-то уезда – пишите, сделаем!)\n\n"
+            },
+            {
+                "type": "hashtag",
+                "text": "#РГИА"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#КрестьянскийПоземельныйБанк"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#КПБ"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#МинскаяГуберния"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#БорисовскийУезд"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#спискизаемщиков"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#генеалогия"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#историярода"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#историясемьи"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#поискпредков"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#родословная"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Yuliya Nikolaeva",
+                        "from_id": "user684046032",
+                        "date": "2025-01-29T09:34:22"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3974,
+        "type": "message",
+        "date": "2024-11-10T08:46:02",
+        "date_unixtime": "1731217562",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "Siarhei Andryjanau",
+        "reply_to_message_id": 2226,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 720,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 3975,
+        "type": "message",
+        "date": "2024-11-10T08:46:02",
+        "date_unixtime": "1731217562",
+        "edited": "2024-11-11T17:57:54",
+        "edited_unixtime": "1731337074",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "Siarhei Andryjanau",
+        "reply_to_message_id": 2226,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://gen.kurpan.ru/genealogicheskie-i-biograficheskie-svedeniya-v-fonde-krestyanskogo-pozemelnogo-banka-v-rgia-f-592/"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://gen.kurpan.ru/genealogicheskie-i-biograficheskie-svedeniya-v-fonde-krestyanskogo-pozemelnogo-banka-v-rgia-f-592/"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Dünya Y",
+                        "from_id": "user6762970066",
+                        "date": "2024-11-22T06:59:44"
+                    },
+                    {
+                        "from": "Larisa",
+                        "from_id": "user1591222382",
+                        "date": "2024-11-11T22:09:05"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user7475817356",
+                        "date": "2024-11-11T17:57:54"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4173,
+        "type": "message",
+        "date": "2024-11-26T14:17:25",
+        "date_unixtime": "1732619845",
+        "from": "Andrej",
+        "from_id": "user1466603494",
+        "reply_to_message_id": 2226,
+        "text": "👍",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "👍"
+            }
+        ]
+    },
+    {
+        "id": 4414,
+        "type": "message",
+        "date": "2025-01-29T06:25:15",
+        "date_unixtime": "1738121115",
+        "from": "Yuliya Nikolaeva",
+        "from_id": "user684046032",
+        "reply_to_message_id": 3974,
+        "text": "Добрый день! Никто не пробовал своих искать там? Там есть какая опись по фамилиям или нет? То есть возьмется архив или исследователь за поиск если фамилию и сказать уезд? Смутила ещё приписка фонд не сохранился, 4 дела, как думаете что означает?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день! Никто не пробовал своих искать там? Там есть какая опись по фамилиям или нет? То есть возьмется архив или исследователь за поиск если фамилию и сказать уезд? Смутила ещё приписка фонд не сохранился, 4 дела, как думаете что означает?"
+            }
+        ]
+    },
+    {
+        "id": 4415,
+        "type": "message",
+        "date": "2025-01-29T09:29:43",
+        "date_unixtime": "1738132183",
+        "edited": "2025-01-29T09:34:25",
+        "edited_unixtime": "1738132465",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 4414,
+        "text": "Эти дела, благодаря волонтерам, отсканированы, выложены в открытый доступ и проиндексированы. Смотрите по ссылкам выше или на Великих описях",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Эти дела, благодаря волонтерам, отсканированы, выложены в открытый доступ и проиндексированы. Смотрите по ссылкам выше или на Великих описях"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Yuliya Nikolaeva",
+                        "from_id": "user684046032",
+                        "date": "2025-01-29T09:34:25"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4416,
+        "type": "message",
+        "date": "2025-01-29T09:31:55",
+        "date_unixtime": "1738132315",
+        "from": "Yuliya Nikolaeva",
+        "from_id": "user684046032",
+        "reply_to_message_id": 4415,
+        "text": "Благодарю! 👍",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Благодарю! 👍"
+            }
+        ]
+    }
+]

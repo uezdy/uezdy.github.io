@@ -1,0 +1,1212 @@
+[
+    {
+        "id": 544,
+        "type": "message",
+        "date": "2023-05-02T12:58:33",
+        "date_unixtime": "1683021513",
+        "edited": "2023-05-02T23:46:18",
+        "edited_unixtime": "1683060378",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 542,
+        "text": [
+            "Список мест\n\n",
+            {
+                "type": "text_link",
+                "text": "Агризково, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/agrizkovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Бабинка, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/babinka_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Барашки, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/barashki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Белое, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/beloe.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Белуженки, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/beluzhenki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Беляи, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/belyai.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Берешево, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/bereshevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Берешево, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/bereshevo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Бествино, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/bestvino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Боровка, посёлок ",
+                "href": "https://www.radzima.net/ru/miejsce/borovka_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Бровки, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/brovki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Булавка, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/bulavka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Васечки 1-2, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/vasechki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Великое Село, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/velikoe_selo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Вилюги, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/vilyugi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Винтиково, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/vintikovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Войлево, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/voylevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ганковичи, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/gankovichi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Гать, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/gat.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Голошевка, застенок",
+                "href": "https://www.radzima.net/ru/miejsce/goloshevka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Голошевка, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/goloshevka_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Голошевка I, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/goloshevka_i.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Голошевка II, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/goloshevka_ii.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Голыни, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/golyni_bolshie.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Горбачи, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/gorbachi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Горново 1-2, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/gornovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Горново I-III, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/gornovo_i.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Горовское, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/gorovskoe.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Городец, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/gorodets_7.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Горы, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/gory_20.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Гребеники, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/grebeniki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Грудины, выселок ",
+                "href": "https://www.radzima.net/ru/miejsce/grudiny.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Длябино, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/dlyabino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Дубинино, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/dubinino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Дубки, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/dubki_khrebtovicha.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Дубки Мощенские, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/dubki_moshchenskie.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ездовщина, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/ezdovshchina.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ездовщина, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/ezdovshchina_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Жабино, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/zhabino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Жарцы, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/zhartsy.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Жданюки, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/zhdanyuki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Жеглево, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/zheglevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Зазерье, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/zazerye_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Закротунье, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/zakrotunye.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Запрудье, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/zaprudye_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Застаринье, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/zastarinye_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Заходно, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/zakhodno.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Кадино, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/kadino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Карповичи, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/karpovichi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Кишки, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/kishki.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/kishki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ковалевка, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/kovalevka_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ковальки, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/kovalki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Козиное Село, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/kazinoe_selo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Козлы, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/kozly_13.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Комаровка, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/komarovka_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Конец, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/konets.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Константово, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/konstantovo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Кореньки, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/korenki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Коробово, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/korobovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Курмели, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/kurmeli.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ладынцы, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/ladyntsy.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Латыгово, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/latygovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Латыши, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/latyshi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Липно, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/lipno_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Литвиново, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/litvinovo_4.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Логвино, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/logvino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лозовка, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/lozovka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лозово, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/lozovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лозово 1-2, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/lozovo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лугиновичи, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/luginovichi_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лугиновичи, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/luginovichi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лугиновичи, погост ",
+                "href": "https://www.radzima.net/ru/miejsce/luginovichi_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Малеваный Мост, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/malevanyy_most.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Малые Голыни, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/golyni_malye.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мартиньково, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/martinkovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мелихово, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/melikhovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мелихово, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/melikhovo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Милешки, имение ",
+                "href": "https://www.radzima.net/ru/miejsce/mileshki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Морги, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/morgi_14.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Моханево, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/mokhanevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мощеное, погост ",
+                "href": "https://www.radzima.net/ru/miejsce/moshchenoe.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Новосёлки, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/novoselki_10.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Обрезково, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/obrezkovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Орехвино, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/orekhvino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Осиновка, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/osinovka_9.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Осовец, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/osovets_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Осовец, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/osovets_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Островщина, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/ostrovshchina.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Островы, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/ostrovy_6.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Павловичи, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/pavlovichi_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Павловичи 1-3, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/pavlovichi_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Павловичи I-II, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/pavlovichi_i.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Павлюковщина, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/pavlyukovshchina.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Пальчики, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/palchiki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Паршни, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/parshni.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Перекопово, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/perekopovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Плянтовка, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/plyantovka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Подберезье, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/podberezye.html"
+            },
+            "Подворица, деревня Пожарище, деревня Пожарище, фольварк Романово, деревня Рубеж, деревня Рубеж 1-2, застенок Рубежек, застенок Рубежница, деревня Рябцы, деревня Рябцы, застенок Самсоны, деревня Сапеги, деревня Сауши, деревня Слободка, деревня Слободка, застенок Соболец, застенок Соино, деревня\nСороковщина, деревня Стожарье, застенок Сычики, деревня Телепни, деревня Тишковино, застенок Трубинино, деревня Тыльци, деревня Хаботино, фольварк Ходцы, село Ходцы Горные, фольварк Ходцы Нижние, фольварк Хотьково, деревня Цыганово, деревня Цыгоново, застенок Цыкулино, застенок Шаламы, деревня Шашелы, деревня Шетени, деревня Якубово, деревня \n",
+            {
+                "type": "link",
+                "text": "https://www.radzima.net/ru/volost/latygovskaya.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Список мест\n\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Агризково, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/agrizkovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Бабинка, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/babinka_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Барашки, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/barashki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Белое, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/beloe.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Белуженки, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/beluzhenki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Беляи, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/belyai.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Берешево, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/bereshevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Берешево, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/bereshevo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Бествино, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/bestvino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Боровка, посёлок ",
+                "href": "https://www.radzima.net/ru/miejsce/borovka_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Бровки, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/brovki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Булавка, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/bulavka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Васечки 1-2, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/vasechki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Великое Село, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/velikoe_selo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Вилюги, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/vilyugi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Винтиково, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/vintikovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Войлево, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/voylevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ганковичи, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/gankovichi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Гать, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/gat.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Голошевка, застенок",
+                "href": "https://www.radzima.net/ru/miejsce/goloshevka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Голошевка, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/goloshevka_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Голошевка I, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/goloshevka_i.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Голошевка II, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/goloshevka_ii.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Голыни, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/golyni_bolshie.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Горбачи, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/gorbachi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Горново 1-2, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/gornovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Горново I-III, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/gornovo_i.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Горовское, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/gorovskoe.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Городец, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/gorodets_7.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Горы, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/gory_20.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Гребеники, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/grebeniki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Грудины, выселок ",
+                "href": "https://www.radzima.net/ru/miejsce/grudiny.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Длябино, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/dlyabino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Дубинино, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/dubinino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Дубки, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/dubki_khrebtovicha.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Дубки Мощенские, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/dubki_moshchenskie.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ездовщина, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/ezdovshchina.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ездовщина, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/ezdovshchina_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Жабино, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/zhabino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Жарцы, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/zhartsy.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Жданюки, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/zhdanyuki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Жеглево, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/zheglevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Зазерье, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/zazerye_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Закротунье, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/zakrotunye.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Запрудье, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/zaprudye_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Застаринье, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/zastarinye_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Заходно, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/zakhodno.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Кадино, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/kadino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Карповичи, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/karpovichi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Кишки, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/kishki.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/kishki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ковалевка, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/kovalevka_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ковальки, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/kovalki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Козиное Село, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/kazinoe_selo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Козлы, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/kozly_13.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Комаровка, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/komarovka_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Конец, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/konets.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Константово, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/konstantovo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Кореньки, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/korenki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Коробово, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/korobovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Курмели, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/kurmeli.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ладынцы, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/ladyntsy.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Латыгово, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/latygovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Латыши, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/latyshi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Липно, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/lipno_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Литвиново, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/litvinovo_4.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Логвино, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/logvino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лозовка, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/lozovka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лозово, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/lozovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лозово 1-2, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/lozovo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лугиновичи, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/luginovichi_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лугиновичи, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/luginovichi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лугиновичи, погост ",
+                "href": "https://www.radzima.net/ru/miejsce/luginovichi_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Малеваный Мост, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/malevanyy_most.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Малые Голыни, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/golyni_malye.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мартиньково, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/martinkovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мелихово, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/melikhovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мелихово, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/melikhovo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Милешки, имение ",
+                "href": "https://www.radzima.net/ru/miejsce/mileshki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Морги, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/morgi_14.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Моханево, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/mokhanevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мощеное, погост ",
+                "href": "https://www.radzima.net/ru/miejsce/moshchenoe.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Новосёлки, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/novoselki_10.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Обрезково, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/obrezkovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Орехвино, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/orekhvino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Осиновка, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/osinovka_9.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Осовец, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/osovets_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Осовец, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/osovets_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Островщина, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/ostrovshchina.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Островы, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/ostrovy_6.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Павловичи, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/pavlovichi_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Павловичи 1-3, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/pavlovichi_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Павловичи I-II, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/pavlovichi_i.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Павлюковщина, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/pavlyukovshchina.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Пальчики, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/palchiki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Паршни, фольварк ",
+                "href": "https://www.radzima.net/ru/miejsce/parshni.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Перекопово, деревня ",
+                "href": "https://www.radzima.net/ru/miejsce/perekopovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Плянтовка, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/plyantovka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Подберезье, застенок ",
+                "href": "https://www.radzima.net/ru/miejsce/podberezye.html"
+            },
+            {
+                "type": "plain",
+                "text": "Подворица, деревня Пожарище, деревня Пожарище, фольварк Романово, деревня Рубеж, деревня Рубеж 1-2, застенок Рубежек, застенок Рубежница, деревня Рябцы, деревня Рябцы, застенок Самсоны, деревня Сапеги, деревня Сауши, деревня Слободка, деревня Слободка, застенок Соболец, застенок Соино, деревня\nСороковщина, деревня Стожарье, застенок Сычики, деревня Телепни, деревня Тишковино, застенок Трубинино, деревня Тыльци, деревня Хаботино, фольварк Ходцы, село Ходцы Горные, фольварк Ходцы Нижние, фольварк Хотьково, деревня Цыганово, деревня Цыгоново, застенок Цыкулино, застенок Шаламы, деревня Шашелы, деревня Шетени, деревня Якубово, деревня \n"
+            },
+            {
+                "type": "link",
+                "text": "https://www.radzima.net/ru/volost/latygovskaya.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 759,
+        "type": "message",
+        "date": "2023-05-18T20:28:16",
+        "date_unixtime": "1684430896",
+        "from": "Andreas",
+        "from_id": "user1099411512",
+        "reply_to_message_id": 542,
+        "text": [
+            {
+                "type": "italic",
+                "text": "Лугиновичская Преображенская церковь"
+            },
+            "\n2301 фонд, опись 2, дела:\n191 - МК о рождении, бракосочетании и смерти 1871\n195 - МК о рождении, бракосочетании и смерти 1873\n198 - МК о рождении, бракосочетании и смерти 1875\n200 - МК о рождении, бракосочетании и смерти 1877\n203 - МК о рождении, бракосочетании и смерти 1878\n205 - МК о рождении, бракосочетании и смерти 1879\n207 - МК о рождении, бракосочетании и смерти 1881\n208 - МК о рождении, бракосочетании и смерти 1882\n213 - МК о рождении, бракосочетании и смерти 1883\n221 - МК о рождении, бракосочетании и смерти 1890\n223 - МК о рождении, бракосочетании и смерти 1895"
+        ],
+        "text_entities": [
+            {
+                "type": "italic",
+                "text": "Лугиновичская Преображенская церковь"
+            },
+            {
+                "type": "plain",
+                "text": "\n2301 фонд, опись 2, дела:\n191 - МК о рождении, бракосочетании и смерти 1871\n195 - МК о рождении, бракосочетании и смерти 1873\n198 - МК о рождении, бракосочетании и смерти 1875\n200 - МК о рождении, бракосочетании и смерти 1877\n203 - МК о рождении, бракосочетании и смерти 1878\n205 - МК о рождении, бракосочетании и смерти 1879\n207 - МК о рождении, бракосочетании и смерти 1881\n208 - МК о рождении, бракосочетании и смерти 1882\n213 - МК о рождении, бракосочетании и смерти 1883\n221 - МК о рождении, бракосочетании и смерти 1890\n223 - МК о рождении, бракосочетании и смерти 1895"
+            }
+        ]
+    },
+    {
+        "id": 1938,
+        "type": "message",
+        "date": "2023-09-29T16:13:32",
+        "date_unixtime": "1695993212",
+        "from": "Larisa",
+        "from_id": "user1591222382",
+        "reply_to_message_id": 542,
+        "text": "Не встречались ли кому-нибудь по Латыговской волости в Ходцах или рядом фамилии Герольд и Женетте?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Не встречались ли кому-нибудь по Латыговской волости в Ходцах или рядом фамилии Герольд и Женетте?"
+            }
+        ]
+    },
+    {
+        "id": 3008,
+        "type": "message",
+        "date": "2024-07-14T18:08:05",
+        "date_unixtime": "1720969685",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 542,
+        "text": [
+            "Государственный архив Витебской области. ",
+            {
+                "type": "bold",
+                "text": "Ф. 1821"
+            },
+            " (Отдел управления исполнительного комитета Витебского губернского Совета рабочих, крестьянских и красноармейских депутатов). ",
+            {
+                "type": "bold",
+                "text": "Оп. 1. Д. 136."
+            },
+            " Дело о присоединении деревни Теляпы Островенской волости Витебского уезда к Латыговской волости Сенненского уезда (03.05.1922–18.02.1924). 4 л."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Государственный архив Витебской области. "
+            },
+            {
+                "type": "bold",
+                "text": "Ф. 1821"
+            },
+            {
+                "type": "plain",
+                "text": " (Отдел управления исполнительного комитета Витебского губернского Совета рабочих, крестьянских и красноармейских депутатов). "
+            },
+            {
+                "type": "bold",
+                "text": "Оп. 1. Д. 136."
+            },
+            {
+                "type": "plain",
+                "text": " Дело о присоединении деревни Теляпы Островенской волости Витебского уезда к Латыговской волости Сенненского уезда (03.05.1922–18.02.1924). 4 л."
+            }
+        ]
+    },
+    {
+        "id": 3354,
+        "type": "message",
+        "date": "2024-09-22T10:40:32",
+        "date_unixtime": "1726990832",
+        "edited": "2024-10-09T23:27:53",
+        "edited_unixtime": "1728505673",
+        "from": "Olya",
+        "from_id": "user460492324",
+        "reply_to_message_id": 542,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://www.sb.by/articles/v-vitebskoy-oblasti-vpervye-nachali-poisk-neftyanykh-zalezhey-uznali-podrobnosti.html?amp=1"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://www.sb.by/articles/v-vitebskoy-oblasti-vpervye-nachali-poisk-neftyanykh-zalezhey-uznali-podrobnosti.html?amp=1"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2024-10-18T09:21:10"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😁",
+                "recent": [
+                    {
+                        "from": "Amira Show",
+                        "from_id": "user5603889527",
+                        "date": "2024-10-09T23:27:53"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3707,
+        "type": "message",
+        "date": "2024-10-26T15:02:26",
+        "date_unixtime": "1729944146",
+        "edited": "2024-11-05T20:15:07",
+        "edited_unixtime": "1730826907",
+        "from": "Zhanna",
+        "from_id": "user6026428543",
+        "reply_to_message_id": 542,
+        "text": "Дай Бог. У людей работа будет и район станет богаче жить. Возможно. Лес вывезли, дороги лесные разбили, что к Пасхе убраться на кладбище только на внедорожнике с трудом можно добраться. Остается надеяться на лето, когда сама природа о дорогах лесных позаботится и подсушит их, чтобы дойти или доехать можно. И доводить до ума разбитые лесовозами дороги ни  лесхоз, ни сенненское ЖКХ за все годы так и не собираются. А вывозить лес начали ещё до 2013 года.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Дай Бог. У людей работа будет и район станет богаче жить. Возможно. Лес вывезли, дороги лесные разбили, что к Пасхе убраться на кладбище только на внедорожнике с трудом можно добраться. Остается надеяться на лето, когда сама природа о дорогах лесных позаботится и подсушит их, чтобы дойти или доехать можно. И доводить до ума разбитые лесовозами дороги ни  лесхоз, ни сенненское ЖКХ за все годы так и не собираются. А вывозить лес начали ещё до 2013 года."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Dünya Y",
+                        "from_id": "user6762970066",
+                        "date": "2024-11-22T07:00:41"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user6931963484",
+                        "date": "2024-11-06T16:05:04"
+                    },
+                    {
+                        "from": "Maisie MARCELENE",
+                        "from_id": "user6477664590",
+                        "date": "2024-11-05T20:15:07"
+                    }
+                ]
+            }
+        ]
+    }
+]

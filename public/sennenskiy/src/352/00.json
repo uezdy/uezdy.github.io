@@ -1,0 +1,2953 @@
+[
+    {
+        "id": 369,
+        "type": "message",
+        "date": "2023-05-01T19:06:02",
+        "date_unixtime": "1682957162",
+        "edited": "2023-05-01T19:41:36",
+        "edited_unixtime": "1682959296",
+        "from": "Eka",
+        "from_id": "user510598726",
+        "reply_to_message_id": 352,
+        "text": "Ломское, Обчугская волость, Сенненский уезд. \nРылько/Рыльковы",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ломское, Обчугская волость, Сенненский уезд. \nРылько/Рыльковы"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-05-01T19:41:36"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 442,
+        "type": "message",
+        "date": "2023-05-01T21:45:35",
+        "date_unixtime": "1682966735",
+        "edited": "2023-05-01T21:49:54",
+        "edited_unixtime": "1682966994",
+        "from": "Aleksey Alifer",
+        "from_id": "user70411580",
+        "reply_to_message_id": 352,
+        "text": "Барсучины. Гарминович",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Барсучины. Гарминович"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-05-01T21:49:54"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 449,
+        "type": "message",
+        "date": "2023-05-01T21:50:02",
+        "date_unixtime": "1682967002",
+        "edited": "2023-05-01T21:50:33",
+        "edited_unixtime": "1682967033",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 352,
+        "text": "Красоўскі з Шарнева і Шпакоўскі з Чырвонай Слабады.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Красоўскі з Шарнева і Шпакоўскі з Чырвонай Слабады."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-05-01T21:50:33"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 468,
+        "type": "message",
+        "date": "2023-05-01T23:09:34",
+        "date_unixtime": "1682971774",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 352,
+        "text": [
+            "Список мест\n",
+            {
+                "type": "text_link",
+                "text": "Адам-Лядо, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/adam-lyado.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/adam-lyado.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Антоновка, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/antonovka_7.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/antonovka_7.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Барсучина, застенок",
+                "href": "https://www.radzima.net/ru/miejsce/barsuchina.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/barsuchina.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Барсучины, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/barsuchiny.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/barsuchiny.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Буторы, село",
+                "href": "https://www.radzima.net/ru/miejsce/butory.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/butory.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Вальки, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/valki.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/valki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Габрилево, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/gabrilevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/gabrilevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Габрилево-Поповка, имение",
+                "href": "https://www.radzima.net/ru/miejsce/gabrilevo-popovka.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/gabrilevo-popovka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Гатчино, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/gatchino.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/gatchino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Головорушки, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/golovorushki.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/golovorushki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Головорушки, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/golovorushki_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/golovorushki_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Деньгубка, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/dengubka.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/dengubka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Дуновик, застенок",
+                "href": "https://www.radzima.net/ru/miejsce/dunovik.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/dunovik.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Журавы, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/zhuravy.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/zhuravy.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Иващиха, застенок",
+                "href": "https://www.radzima.net/ru/miejsce/ivashchikha.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/ivashchikha.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Калинки, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/kalinki.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/kalinki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Каменец, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/kamenets_5.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/kamenets_5.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Киевец, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/kievets.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/kievets.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Клянки, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/klyanki.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/klyanki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Колыбаново, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/kolybanovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/kolybanovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Копище, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/kopishche_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/kopishche_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Корощенка, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/koroshchenka.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/koroshchenka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Красная Слобода, застенок",
+                "href": "https://www.radzima.net/ru/miejsce/krasnaya_sloboda_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/krasnaya_sloboda_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Красная Слобода, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/krasnaya_sloboda_4.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/krasnaya_sloboda_4.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Крушинник, застенок",
+                "href": "https://www.radzima.net/ru/miejsce/krushinnik.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/krushinnik.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Кулаки, имение",
+                "href": "https://www.radzima.net/ru/miejsce/kulaki_4.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/kulaki_4.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Латыговка, застенок",
+                "href": "https://www.radzima.net/ru/miejsce/latygovka.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/latygovka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Липки, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/lipki_4.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/lipki_4.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Логи, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/logi_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/logi_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ломск, имение",
+                "href": "https://www.radzima.net/ru/miejsce/lomsk_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/lomsk_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ломск, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/lomsk_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/lomsk_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лутище, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/lutishche.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/lutishche.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лютые, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/lyutye.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/lyutye.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лядное, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/lyadnoe.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/lyadnoe.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мальцы, застенок",
+                "href": "https://www.radzima.net/ru/miejsce/maltsy.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/maltsy.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Маньково, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/mankovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/mankovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Маньковщина, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/mankovshchina.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/mankovshchina.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Михалин, имение",
+                "href": "https://www.radzima.net/ru/miejsce/mikhalin_3.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Новая Будовка, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/novaya_budovka.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/novaya_budovka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Новая Соколянка, застенок",
+                "href": "https://www.radzima.net/ru/miejsce/novaya_sokolyanka.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/novaya_sokolyanka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Новинки, застенок",
+                "href": "https://www.radzima.net/ru/miejsce/novinki.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/novinki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Новое Латышево, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/novoe_latyshevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/novoe_latyshevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Новосёлки, застенок",
+                "href": "https://www.radzima.net/ru/miejsce/novoselki_13.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/novoselki_13.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Обчуга, местечко",
+                "href": "https://www.radzima.net/ru/miejsce/obchuga.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/obchuga.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Обчуга, имение",
+                "href": "https://www.radzima.net/ru/miejsce/obchuga_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/obchuga_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Остров, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/ostrov_8.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/ostrov_8.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Островки, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/ostrovki_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/ostrovki_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Песчанка 1-2, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/peschanka_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/peschanka_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Плоское, село",
+                "href": "https://www.radzima.net/ru/miejsce/ploskoe_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/ploskoe_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Плюговка, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/plyugovka.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/plyugovka.html"
+            },
+            "Полянка, имение Прудинки, хутор Прудины, деревня Сакульщина, застенок Сани, деревня Слепцы, имение Смородинка, село Соколянка, фольварк Соколянка, деревня Старая Будовка, деревня Топорище, деревня Харлинцы, деревня Хватынка, деревня Шарнево, деревня Шарпиловка, деревня Шкорневка, деревня Язвы, деревня \n",
+            {
+                "type": "link",
+                "text": "https://www.radzima.net/ru/volost/obchugskaya.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Список мест\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Адам-Лядо, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/adam-lyado.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/adam-lyado.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Антоновка, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/antonovka_7.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/antonovka_7.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Барсучина, застенок",
+                "href": "https://www.radzima.net/ru/miejsce/barsuchina.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/barsuchina.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Барсучины, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/barsuchiny.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/barsuchiny.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Буторы, село",
+                "href": "https://www.radzima.net/ru/miejsce/butory.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/butory.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Вальки, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/valki.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/valki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Габрилево, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/gabrilevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/gabrilevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Габрилево-Поповка, имение",
+                "href": "https://www.radzima.net/ru/miejsce/gabrilevo-popovka.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/gabrilevo-popovka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Гатчино, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/gatchino.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/gatchino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Головорушки, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/golovorushki.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/golovorushki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Головорушки, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/golovorushki_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/golovorushki_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Деньгубка, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/dengubka.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/dengubka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Дуновик, застенок",
+                "href": "https://www.radzima.net/ru/miejsce/dunovik.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/dunovik.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Журавы, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/zhuravy.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/zhuravy.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Иващиха, застенок",
+                "href": "https://www.radzima.net/ru/miejsce/ivashchikha.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/ivashchikha.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Калинки, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/kalinki.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/kalinki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Каменец, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/kamenets_5.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/kamenets_5.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Киевец, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/kievets.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/kievets.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Клянки, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/klyanki.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/klyanki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Колыбаново, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/kolybanovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/kolybanovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Копище, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/kopishche_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/kopishche_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Корощенка, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/koroshchenka.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/koroshchenka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Красная Слобода, застенок",
+                "href": "https://www.radzima.net/ru/miejsce/krasnaya_sloboda_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/krasnaya_sloboda_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Красная Слобода, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/krasnaya_sloboda_4.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/krasnaya_sloboda_4.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Крушинник, застенок",
+                "href": "https://www.radzima.net/ru/miejsce/krushinnik.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/krushinnik.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Кулаки, имение",
+                "href": "https://www.radzima.net/ru/miejsce/kulaki_4.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/kulaki_4.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Латыговка, застенок",
+                "href": "https://www.radzima.net/ru/miejsce/latygovka.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/latygovka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Липки, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/lipki_4.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/lipki_4.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Логи, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/logi_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/logi_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ломск, имение",
+                "href": "https://www.radzima.net/ru/miejsce/lomsk_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/lomsk_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ломск, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/lomsk_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/lomsk_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лутище, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/lutishche.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/lutishche.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лютые, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/lyutye.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/lyutye.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лядное, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/lyadnoe.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/lyadnoe.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мальцы, застенок",
+                "href": "https://www.radzima.net/ru/miejsce/maltsy.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/maltsy.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Маньково, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/mankovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/mankovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Маньковщина, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/mankovshchina.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/mankovshchina.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Михалин, имение",
+                "href": "https://www.radzima.net/ru/miejsce/mikhalin_3.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Новая Будовка, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/novaya_budovka.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/novaya_budovka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Новая Соколянка, застенок",
+                "href": "https://www.radzima.net/ru/miejsce/novaya_sokolyanka.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/novaya_sokolyanka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Новинки, застенок",
+                "href": "https://www.radzima.net/ru/miejsce/novinki.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/novinki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Новое Латышево, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/novoe_latyshevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/novoe_latyshevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Новосёлки, застенок",
+                "href": "https://www.radzima.net/ru/miejsce/novoselki_13.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/novoselki_13.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Обчуга, местечко",
+                "href": "https://www.radzima.net/ru/miejsce/obchuga.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/obchuga.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Обчуга, имение",
+                "href": "https://www.radzima.net/ru/miejsce/obchuga_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/obchuga_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Остров, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/ostrov_8.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/ostrov_8.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Островки, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/ostrovki_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/ostrovki_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Песчанка 1-2, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/peschanka_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/peschanka_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Плоское, село",
+                "href": "https://www.radzima.net/ru/miejsce/ploskoe_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/ploskoe_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Плюговка, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/plyugovka.html"
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://www.radzima.net/ru/miejsce/plyugovka.html"
+            },
+            {
+                "type": "plain",
+                "text": "Полянка, имение Прудинки, хутор Прудины, деревня Сакульщина, застенок Сани, деревня Слепцы, имение Смородинка, село Соколянка, фольварк Соколянка, деревня Старая Будовка, деревня Топорище, деревня Харлинцы, деревня Хватынка, деревня Шарнево, деревня Шарпиловка, деревня Шкорневка, деревня Язвы, деревня \n"
+            },
+            {
+                "type": "link",
+                "text": "https://www.radzima.net/ru/volost/obchugskaya.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 1203,
+        "type": "message",
+        "date": "2023-07-04T23:50:09",
+        "date_unixtime": "1688503809",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 352,
+        "text": "Машковичи из деревни Дуновик, Обчугская волость, Сенненский уезд",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Машковичи из деревни Дуновик, Обчугская волость, Сенненский уезд"
+            }
+        ]
+    },
+    {
+        "id": 1439,
+        "type": "message",
+        "date": "2023-07-20T22:10:59",
+        "date_unixtime": "1689880259",
+        "from": null,
+        "from_id": "user6172538998",
+        "reply_to_message_id": 352,
+        "text": "Добрый вечер.\nКто-нибудь Обчугу находил в выложенных документах?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый вечер.\nКто-нибудь Обчугу находил в выложенных документах?"
+            }
+        ]
+    },
+    {
+        "id": 1440,
+        "type": "message",
+        "date": "2023-07-20T22:18:15",
+        "date_unixtime": "1689880695",
+        "from": "Лена",
+        "from_id": "user1918841697",
+        "reply_to_message_id": 352,
+        "text": "Была точно.\nВолость не моя, реквизитов дел не знаю.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Была точно.\nВолость не моя, реквизитов дел не знаю."
+            }
+        ]
+    },
+    {
+        "id": 1441,
+        "type": "message",
+        "date": "2023-07-20T22:52:31",
+        "date_unixtime": "1689882751",
+        "from": null,
+        "from_id": "user6172538998",
+        "reply_to_message_id": 352,
+        "text": "Обчугская волость была. Конкретно деревню Обчуга пока не нашёл. Отсмотрел примерно 50%. Если кто прошёл дальше дайте знать, пожалуйста.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Обчугская волость была. Конкретно деревню Обчуга пока не нашёл. Отсмотрел примерно 50%. Если кто прошёл дальше дайте знать, пожалуйста."
+            }
+        ]
+    },
+    {
+        "id": 1442,
+        "type": "message",
+        "date": "2023-07-21T09:27:15",
+        "date_unixtime": "1689920835",
+        "from": "Ira Tim",
+        "from_id": "user1975537567",
+        "reply_to_message_id": 352,
+        "text": "Добрый день. Не встречались ли записи по д. Харлинцы.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день. Не встречались ли записи по д. Харлинцы."
+            }
+        ]
+    },
+    {
+        "id": 1443,
+        "type": "message",
+        "date": "2023-07-21T10:10:55",
+        "date_unixtime": "1689923455",
+        "edited": "2023-07-23T07:51:04",
+        "edited_unixtime": "1690087864",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 1439,
+        "text": [
+            {
+                "type": "strikethrough",
+                "text": "2323"
+            },
+            " (2319, 2320) точно есть. И еще встречалась. Я быстро просмотрел все папки. В основном Мошканская, Высоко-Городецкая и Островенская волости. Процентов 80 по ним."
+        ],
+        "text_entities": [
+            {
+                "type": "strikethrough",
+                "text": "2323"
+            },
+            {
+                "type": "plain",
+                "text": " (2319, 2320) точно есть. И еще встречалась. Я быстро просмотрел все папки. В основном Мошканская, Высоко-Городецкая и Островенская волости. Процентов 80 по ним."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Darya",
+                        "from_id": "user1380251243",
+                        "date": "2023-07-23T07:51:04"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1444,
+        "type": "message",
+        "date": "2023-07-21T10:54:20",
+        "date_unixtime": "1689926060",
+        "from": null,
+        "from_id": "user6172538998",
+        "reply_to_message_id": 1443,
+        "text": "Спасибо, но дело 2323 посвящено 1-ому Шелуховскому товариществу, Мошканской волости 😀",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо, но дело 2323 посвящено 1-ому Шелуховскому товариществу, Мошканской волости 😀"
+            }
+        ]
+    },
+    {
+        "id": 1445,
+        "type": "message",
+        "date": "2023-07-21T11:13:23",
+        "date_unixtime": "1689927203",
+        "edited": "2023-07-21T11:17:39",
+        "edited_unixtime": "1689927459",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 1444,
+        "text": "Дела 2319, 2320. Сразу написал по последним цифрам папки",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Дела 2319, 2320. Сразу написал по последним цифрам папки"
+            }
+        ]
+    },
+    {
+        "id": 1446,
+        "type": "message",
+        "date": "2023-07-21T11:58:18",
+        "date_unixtime": "1689929898",
+        "edited": "2023-07-21T15:04:24",
+        "edited_unixtime": "1689941064",
+        "from": "Aleksey Alifer",
+        "from_id": "user70411580",
+        "reply_to_message_id": 352,
+        "text": "перебираю понемногу. Обчугская попадалась раньше помимо 2319 и 2320. Сам ищу Барсучины. Буду  тогда сюда номера дел кидать, где найду.\n2365 - но сохранность очень плохая. страницы порваны",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "перебираю понемногу. Обчугская попадалась раньше помимо 2319 и 2320. Сам ищу Барсучины. Буду  тогда сюда номера дел кидать, где найду.\n2365 - но сохранность очень плохая. страницы порваны"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "S",
+                        "from_id": "user655643922",
+                        "date": "2023-07-21T12:16:59"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1447,
+        "type": "message",
+        "date": "2023-07-21T12:10:24",
+        "date_unixtime": "1689930624",
+        "edited": "2023-07-21T14:08:35",
+        "edited_unixtime": "1689937715",
+        "from": "Aleksey Alifer",
+        "from_id": "user70411580",
+        "reply_to_message_id": 352,
+        "text": "ещё 2382,",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ещё 2382,"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🙏",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user6172538998",
+                        "date": "2023-07-21T14:08:35"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1565,
+        "type": "message",
+        "date": "2023-07-28T17:08:59",
+        "date_unixtime": "1690553339",
+        "edited": "2023-07-28T17:38:11",
+        "edited_unixtime": "1690555091",
+        "from": "Aleksey Alifer",
+        "from_id": "user70411580",
+        "reply_to_message_id": 352,
+        "text": "2513",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "2513"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user6172538998",
+                        "date": "2023-07-28T17:38:11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1566,
+        "type": "message",
+        "date": "2023-07-28T17:46:41",
+        "date_unixtime": "1690555601",
+        "from": "Aleksey Alifer",
+        "from_id": "user70411580",
+        "reply_to_message_id": 352,
+        "text": "2529",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "2529"
+            }
+        ]
+    },
+    {
+        "id": 1567,
+        "type": "message",
+        "date": "2023-07-28T18:14:45",
+        "date_unixtime": "1690557285",
+        "edited": "2023-07-28T18:14:59",
+        "edited_unixtime": "1690557299",
+        "from": "Алена Дедясова",
+        "from_id": "user5173137076",
+        "reply_to_message_id": 352,
+        "text": "Я просмотрела бегло, если где ошибусь поправьте меня, пожалуйста:\nП. 2323 Д 2319\nП. 2342 Д. 2336\nП. 2369 Д 2365\nП. 2382 Д. 2382\nП. 2514 Д. 2519\nП. 2529 Д. 2529\nП. 2533 Д 2531 возможно 2535\nП. 2543 Д 2543\nП. 2553 Д. 2552\nП. 2594 Д. 2592, 2593\nП. 2600 Д. 2596\nЭто было на быструю руку, поэтому буду благодарна, если кто дополнит и исправит. С уважением, Алена",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я просмотрела бегло, если где ошибусь поправьте меня, пожалуйста:\nП. 2323 Д 2319\nП. 2342 Д. 2336\nП. 2369 Д 2365\nП. 2382 Д. 2382\nП. 2514 Д. 2519\nП. 2529 Д. 2529\nП. 2533 Д 2531 возможно 2535\nП. 2543 Д 2543\nП. 2553 Д. 2552\nП. 2594 Д. 2592, 2593\nП. 2600 Д. 2596\nЭто было на быструю руку, поэтому буду благодарна, если кто дополнит и исправит. С уважением, Алена"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Aleksey Alifer",
+                        "from_id": "user70411580",
+                        "date": "2023-07-28T18:14:59"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1568,
+        "type": "message",
+        "date": "2023-07-28T18:16:26",
+        "date_unixtime": "1690557386",
+        "edited": "2023-07-28T18:17:05",
+        "edited_unixtime": "1690557425",
+        "from": "Алена Дедясова",
+        "from_id": "user5173137076",
+        "reply_to_message_id": 352,
+        "text": "Еще одна просьба, если кто встретит д. Осечено, д. Заборье Черейской волости напишите, пожалуйста.\nЯ встретила свои деревни именно в Обчугской волости, но моих там нет. Поэтому очень прошу помощи, вдруг просмотрела",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Еще одна просьба, если кто встретит д. Осечено, д. Заборье Черейской волости напишите, пожалуйста.\nЯ встретила свои деревни именно в Обчугской волости, но моих там нет. Поэтому очень прошу помощи, вдруг просмотрела"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Aleksey Alifer",
+                        "from_id": "user70411580",
+                        "date": "2023-07-28T18:16:42"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1569,
+        "type": "message",
+        "date": "2023-07-28T18:16:29",
+        "date_unixtime": "1690557389",
+        "edited": "2023-07-28T18:17:18",
+        "edited_unixtime": "1690557438",
+        "from": "Aleksey Alifer",
+        "from_id": "user70411580",
+        "reply_to_message_id": 352,
+        "text": "я тогда продолжу перебирать. и в конце можно будет списки сравнить. пока всё сходится (кроме куска который я перебрал не записывая номера до 2365)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "я тогда продолжу перебирать. и в конце можно будет списки сравнить. пока всё сходится (кроме куска который я перебрал не записывая номера до 2365)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Алена Дедясова",
+                        "from_id": "user5173137076",
+                        "date": "2023-07-28T18:17:18"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1570,
+        "type": "message",
+        "date": "2023-07-28T18:19:16",
+        "date_unixtime": "1690557556",
+        "from": "Алена Дедясова",
+        "from_id": "user5173137076",
+        "reply_to_message_id": 352,
+        "text": "Алексей если будет Черейская волость встречаться, выпишете мне, пожалуйста, пока нет возможности еще раз все пересмотреть. Хоть на бумажку и фото в личку. Буду очень признательна 🙏🙏🙏",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Алексей если будет Черейская волость встречаться, выпишете мне, пожалуйста, пока нет возможности еще раз все пересмотреть. Хоть на бумажку и фото в личку. Буду очень признательна 🙏🙏🙏"
+            }
+        ]
+    },
+    {
+        "id": 1571,
+        "type": "message",
+        "date": "2023-07-28T18:21:26",
+        "date_unixtime": "1690557686",
+        "edited": "2023-07-28T18:23:17",
+        "edited_unixtime": "1690557797",
+        "from": "Aleksey Alifer",
+        "from_id": "user70411580",
+        "reply_to_message_id": 1570,
+        "text": "Хорошо. но я уже на 2530. Если будет дальше , то выпишу",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Хорошо. но я уже на 2530. Если будет дальше , то выпишу"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👏",
+                "recent": [
+                    {
+                        "from": "Алена Дедясова",
+                        "from_id": "user5173137076",
+                        "date": "2023-07-28T18:23:17"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1572,
+        "type": "message",
+        "date": "2023-07-28T18:22:54",
+        "date_unixtime": "1690557774",
+        "from": "Алена Дедясова",
+        "from_id": "user5173137076",
+        "reply_to_message_id": 352,
+        "text": "Спасибо огромное 😘 😘 😘",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо огромное 😘 😘 😘"
+            }
+        ]
+    },
+    {
+        "id": 1573,
+        "type": "message",
+        "date": "2023-07-28T18:24:38",
+        "date_unixtime": "1690557878",
+        "edited": "2023-07-28T18:29:47",
+        "edited_unixtime": "1690558187",
+        "from": "Aleksey Alifer",
+        "from_id": "user70411580",
+        "reply_to_message_id": 1570,
+        "text": [
+            "с другой стороны Николай добавил возможность волонтерской индексации и создания описей. быть может кто-то возьмется\nО. даже делают уже ",
+            {
+                "type": "link",
+                "text": "https://inv.velikie.org/doc/did31/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "с другой стороны Николай добавил возможность волонтерской индексации и создания описей. быть может кто-то возьмется\nО. даже делают уже "
+            },
+            {
+                "type": "link",
+                "text": "https://inv.velikie.org/doc/did31/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "NinaEK",
+                        "from_id": "user1168230259",
+                        "date": "2023-07-28T19:16:55"
+                    },
+                    {
+                        "from": "Алена Дедясова",
+                        "from_id": "user5173137076",
+                        "date": "2023-07-28T18:29:47"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1574,
+        "type": "message",
+        "date": "2023-07-28T18:29:39",
+        "date_unixtime": "1690558179",
+        "from": "Алена Дедясова",
+        "from_id": "user5173137076",
+        "reply_to_message_id": 352,
+        "text": "Я завтра попробую с этим разобраться",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я завтра попробую с этим разобраться"
+            }
+        ]
+    },
+    {
+        "id": 1575,
+        "type": "message",
+        "date": "2023-07-28T18:33:19",
+        "date_unixtime": "1690558399",
+        "from": "Aleksey Alifer",
+        "from_id": "user70411580",
+        "reply_to_message_id": 352,
+        "text": "продолжу свой список 2531",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "продолжу свой список 2531"
+            }
+        ]
+    },
+    {
+        "id": 1576,
+        "type": "message",
+        "date": "2023-07-28T18:45:04",
+        "date_unixtime": "1690559104",
+        "from": "Aleksey Alifer",
+        "from_id": "user70411580",
+        "reply_to_message_id": 352,
+        "text": "2535",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "2535"
+            }
+        ]
+    },
+    {
+        "id": 1577,
+        "type": "message",
+        "date": "2023-07-28T18:48:55",
+        "date_unixtime": "1690559335",
+        "from": "Aleksey Alifer",
+        "from_id": "user70411580",
+        "reply_to_message_id": 352,
+        "text": "2543",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "2543"
+            }
+        ]
+    },
+    {
+        "id": 1578,
+        "type": "message",
+        "date": "2023-07-28T18:54:24",
+        "date_unixtime": "1690559664",
+        "from": "Aleksey Alifer",
+        "from_id": "user70411580",
+        "reply_to_message_id": 352,
+        "text": "2547 в списке заемщиков",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "2547 в списке заемщиков"
+            }
+        ]
+    },
+    {
+        "id": 1579,
+        "type": "message",
+        "date": "2023-07-28T18:57:58",
+        "date_unixtime": "1690559878",
+        "from": "Aleksey Alifer",
+        "from_id": "user70411580",
+        "reply_to_message_id": 352,
+        "text": "2552",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "2552"
+            }
+        ]
+    },
+    {
+        "id": 1580,
+        "type": "message",
+        "date": "2023-07-28T19:22:23",
+        "date_unixtime": "1690561343",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 1568,
+        "text": "Алёна, а фамилия Шукайло в Осечено Вам не встречалась?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Алёна, а фамилия Шукайло в Осечено Вам не встречалась?"
+            }
+        ]
+    },
+    {
+        "id": 1581,
+        "type": "message",
+        "date": "2023-07-28T19:46:16",
+        "date_unixtime": "1690562776",
+        "from": "Алена Дедясова",
+        "from_id": "user5173137076",
+        "reply_to_message_id": 352,
+        "text": "У вас перепись 1925 года есть?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У вас перепись 1925 года есть?"
+            }
+        ]
+    },
+    {
+        "id": 1582,
+        "type": "message",
+        "date": "2023-07-28T19:46:36",
+        "date_unixtime": "1690562796",
+        "from": "Алена Дедясова",
+        "from_id": "user5173137076",
+        "reply_to_message_id": 352,
+        "text": "У меня есть, но не полностью. Только мои",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У меня есть, но не полностью. Только мои"
+            }
+        ]
+    },
+    {
+        "id": 1583,
+        "type": "message",
+        "date": "2023-07-28T20:29:01",
+        "date_unixtime": "1690565341",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 352,
+        "text": "У меня только те деревни, которые имели отношение ко мне: Заборочье, Новоземово и Черея.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У меня только те деревни, которые имели отношение ко мне: Заборочье, Новоземово и Черея."
+            }
+        ]
+    },
+    {
+        "id": 1584,
+        "type": "message",
+        "date": "2023-07-28T23:11:34",
+        "date_unixtime": "1690575094",
+        "from": "Валерий",
+        "from_id": "user6234873196",
+        "reply_to_message_id": 352,
+        "text": "Будьте добры! Может кому - нибудь попадался фольварок  Томашполье Высоко Городецкой волости, А в нём Домбровские.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Будьте добры! Может кому - нибудь попадался фольварок  Томашполье Высоко Городецкой волости, А в нём Домбровские."
+            }
+        ]
+    },
+    {
+        "id": 1595,
+        "type": "message",
+        "date": "2023-07-31T11:07:25",
+        "date_unixtime": "1690790845",
+        "edited": "2023-07-31T11:11:24",
+        "edited_unixtime": "1690791084",
+        "from": "Aleksey Alifer",
+        "from_id": "user70411580",
+        "reply_to_message_id": 352,
+        "text": "2573, 2574 (списки заемчиков нечитаемы, такая сохранность)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "2573, 2574 (списки заемчиков нечитаемы, такая сохранность)"
+            }
+        ]
+    },
+    {
+        "id": 1596,
+        "type": "message",
+        "date": "2023-07-31T11:12:26",
+        "date_unixtime": "1690791146",
+        "edited": "2023-07-31T11:13:18",
+        "edited_unixtime": "1690791198",
+        "from": "Aleksey Alifer",
+        "from_id": "user70411580",
+        "reply_to_message_id": 352,
+        "text": "2578, 2580",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "2578, 2580"
+            }
+        ]
+    },
+    {
+        "id": 1597,
+        "type": "message",
+        "date": "2023-07-31T11:16:33",
+        "date_unixtime": "1690791393",
+        "edited": "2023-07-31T11:17:22",
+        "edited_unixtime": "1690791442",
+        "from": "Aleksey Alifer",
+        "from_id": "user70411580",
+        "reply_to_message_id": 352,
+        "text": "2592, 2593",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "2592, 2593"
+            }
+        ]
+    },
+    {
+        "id": 1598,
+        "type": "message",
+        "date": "2023-07-31T11:18:28",
+        "date_unixtime": "1690791508",
+        "from": "Aleksey Alifer",
+        "from_id": "user70411580",
+        "reply_to_message_id": 352,
+        "text": "2596",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "2596"
+            }
+        ]
+    },
+    {
+        "id": 1599,
+        "type": "message",
+        "date": "2023-07-31T11:27:47",
+        "date_unixtime": "1690792067",
+        "from": "Aleksey Alifer",
+        "from_id": "user70411580",
+        "reply_to_message_id": 352,
+        "text": "592-39-290",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "592-39-290"
+            }
+        ]
+    },
+    {
+        "id": 1602,
+        "type": "message",
+        "date": "2023-07-31T16:43:57",
+        "date_unixtime": "1690811037",
+        "from": "Алена Дедясова",
+        "from_id": "user5173137076",
+        "reply_to_message_id": 352,
+        "text": "👍👍👍",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "👍👍👍"
+            }
+        ]
+    },
+    {
+        "id": 1644,
+        "type": "message",
+        "date": "2023-08-02T10:46:40",
+        "date_unixtime": "1690962400",
+        "edited": "2023-08-02T11:47:04",
+        "edited_unixtime": "1690966024",
+        "from": null,
+        "from_id": "user6172538998",
+        "reply_to_message_id": 352,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1082,
+        "height": 626,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Eka",
+                        "from_id": "user510598726",
+                        "date": "2024-02-09T07:59:07"
+                    },
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-08-02T12:14:03"
+                    },
+                    {
+                        "from": "Алена Дедясова",
+                        "from_id": "user5173137076",
+                        "date": "2023-08-02T11:48:32"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤"
+            }
+        ]
+    },
+    {
+        "id": 1681,
+        "type": "message",
+        "date": "2023-08-02T11:47:19",
+        "date_unixtime": "1690966039",
+        "edited": "2023-08-02T12:20:11",
+        "edited_unixtime": "1690968011",
+        "from": "Aleksey Alifer",
+        "from_id": "user70411580",
+        "reply_to_message_id": 1644,
+        "text": "Спасибо огромное за работу.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо огромное за работу."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👏",
+                "recent": [
+                    {
+                        "from": "Лена",
+                        "from_id": "user1918841697",
+                        "date": "2023-08-02T12:20:11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1688,
+        "type": "message",
+        "date": "2023-08-02T12:26:28",
+        "date_unixtime": "1690968388",
+        "from": null,
+        "from_id": "user6172538998",
+        "reply_to_message_id": 352,
+        "text": "Да ладно, чай не чужие 😀",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да ладно, чай не чужие 😀"
+            }
+        ]
+    },
+    {
+        "id": 1795,
+        "type": "message",
+        "date": "2023-08-08T11:57:45",
+        "date_unixtime": "1691485065",
+        "from": "aalto",
+        "from_id": "user5402646138",
+        "reply_to_message_id": 352,
+        "text": "Есть информация о Бельских, переехавших в Липки Обчугской волости из Ухвальской Борисовского уезда. Пишите в личные",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Есть информация о Бельских, переехавших в Липки Обчугской волости из Ухвальской Борисовского уезда. Пишите в личные"
+            }
+        ]
+    },
+    {
+        "id": 1862,
+        "type": "message",
+        "date": "2023-08-16T15:08:54",
+        "date_unixtime": "1692187734",
+        "from": null,
+        "from_id": "user6172538998",
+        "reply_to_message_id": 352,
+        "text": "Добрый день.\nИщу любую информацию о Томашевских из д. Обчуга.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день.\nИщу любую информацию о Томашевских из д. Обчуга."
+            }
+        ]
+    },
+    {
+        "id": 2752,
+        "type": "message",
+        "date": "2024-03-17T12:41:58",
+        "date_unixtime": "1710668518",
+        "from": "Eka",
+        "from_id": "user510598726",
+        "reply_to_message_id": 352,
+        "text": "Добрый день! Нашла девичью фамилию прабабушки!! Ермашкович, родилась в деревни Козки, около Ламского.\nМожет встречалась кому?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день! Нашла девичью фамилию прабабушки!! Ермашкович, родилась в деревни Козки, около Ламского.\nМожет встречалась кому?"
+            }
+        ]
+    },
+    {
+        "id": 2755,
+        "type": "message",
+        "date": "2024-03-18T10:03:37",
+        "date_unixtime": "1710745417",
+        "from": "Pavel",
+        "from_id": "user1354985288",
+        "reply_to_message_id": 2752,
+        "text": "Лучше дописать с контекстом:  что бабушка такого-то года рождения, родственные фамилии такие-то, вероисповедание такое-то и шляхта/крестьяне:)\nP.s. сперва увидел Ермалович😅",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Лучше дописать с контекстом:  что бабушка такого-то года рождения, родственные фамилии такие-то, вероисповедание такое-то и шляхта/крестьяне:)\nP.s. сперва увидел Ермалович😅"
+            }
+        ]
+    },
+    {
+        "id": 2756,
+        "type": "message",
+        "date": "2024-03-18T21:14:56",
+        "date_unixtime": "1710785696",
+        "from": "Eka",
+        "from_id": "user510598726",
+        "reply_to_message_id": 352,
+        "text": "О, точно! Спасибо большое!!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "О, точно! Спасибо большое!!"
+            }
+        ]
+    },
+    {
+        "id": 2757,
+        "type": "message",
+        "date": "2024-03-18T21:23:24",
+        "date_unixtime": "1710786204",
+        "from": "Eka",
+        "from_id": "user510598726",
+        "reply_to_message_id": 352,
+        "text": "Ищу данные по прабабушке - Ермашкович (Ермашкевич, Ермашевич) Елена Петровна, 30.12.1888 (эта информация указана на памятнике, а муж родился позже...) в деревне Козки Толочинского района (Обчугская волость), скончалась в 1986 в Ламском. Из крестьян. Вышла замуж в дер Ламское за Рылькова Иосифа Кузьмича.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ищу данные по прабабушке - Ермашкович (Ермашкевич, Ермашевич) Елена Петровна, 30.12.1888 (эта информация указана на памятнике, а муж родился позже...) в деревне Козки Толочинского района (Обчугская волость), скончалась в 1986 в Ламском. Из крестьян. Вышла замуж в дер Ламское за Рылькова Иосифа Кузьмича."
+            }
+        ]
+    },
+    {
+        "id": 3036,
+        "type": "message",
+        "date": "2024-08-04T11:11:30",
+        "date_unixtime": "1722759090",
+        "edited": "2024-08-04T11:17:52",
+        "edited_unixtime": "1722759472",
+        "from": "Viktoriya Belka",
+        "from_id": "user478325908",
+        "reply_to_message_id": 352,
+        "text": "Белостокская Николаевская соборная церковь.\n8 января 1895 г\nБрачный обыск\nЖених: уволенный в запас… крестьянин Воронежской губернии…слободы Дьяченковой ,Иларион Анастасьев Манев, прав. испов., 1 браком, 26 лет\nНевеста: крестьянка Могил. губ. Сенненского у. дер. Соколянки, Евдокия Иванова Игнатьева, прав, 1 браком, 29 лет.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Белостокская Николаевская соборная церковь.\n8 января 1895 г\nБрачный обыск\nЖених: уволенный в запас… крестьянин Воронежской губернии…слободы Дьяченковой ,Иларион Анастасьев Манев, прав. испов., 1 браком, 26 лет\nНевеста: крестьянка Могил. губ. Сенненского у. дер. Соколянки, Евдокия Иванова Игнатьева, прав, 1 браком, 29 лет."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Sviatlana",
+                        "from_id": "user380543352",
+                        "date": "2024-08-04T11:17:52"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3180,
+        "type": "message",
+        "date": "2024-09-03T08:45:37",
+        "date_unixtime": "1725342337",
+        "from": "Алена Дедясова",
+        "from_id": "user5173137076",
+        "reply_to_message_id": 352,
+        "text": "Доброе утро, подскажите, пожалуйста, д. Киевец какому помещику принадлежала? Может у кого то есть информация по этой деревне? Буду очень благодарна за любые сведения  по данной деревне🙏🙏🙏🙏🙏",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Доброе утро, подскажите, пожалуйста, д. Киевец какому помещику принадлежала? Может у кого то есть информация по этой деревне? Буду очень благодарна за любые сведения  по данной деревне🙏🙏🙏🙏🙏"
+            }
+        ]
+    },
+    {
+        "id": 3181,
+        "type": "message",
+        "date": "2024-09-03T09:29:35",
+        "date_unixtime": "1725344975",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 3180,
+        "text": "В начале 19в принадлежала Нитославским",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В начале 19в принадлежала Нитославским"
+            }
+        ]
+    },
+    {
+        "id": 3182,
+        "type": "message",
+        "date": "2024-09-03T09:30:37",
+        "date_unixtime": "1725345037",
+        "edited": "2024-09-03T09:30:54",
+        "edited_unixtime": "1725345054",
+        "from": "Алена Дедясова",
+        "from_id": "user5173137076",
+        "reply_to_message_id": 352,
+        "text": "Простите уточню вопрос на момент РС 1858 года. Я хочу найти РС. Может есть шифр?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Простите уточню вопрос на момент РС 1858 года. Я хочу найти РС. Может есть шифр?"
+            }
+        ]
+    },
+    {
+        "id": 3183,
+        "type": "message",
+        "date": "2024-09-03T09:32:17",
+        "date_unixtime": "1725345137",
+        "edited": "2024-09-03T09:32:28",
+        "edited_unixtime": "1725345148",
+        "from": "Алена Дедясова",
+        "from_id": "user5173137076",
+        "reply_to_message_id": 352,
+        "text": "Я буду в НИАБе на следующей неделе, хотела бы посмотреть по этой деревне РС",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я буду в НИАБе на следующей неделе, хотела бы посмотреть по этой деревне РС"
+            }
+        ]
+    },
+    {
+        "id": 3184,
+        "type": "message",
+        "date": "2024-09-03T09:33:05",
+        "date_unixtime": "1725345185",
+        "from": "Алена Дедясова",
+        "from_id": "user5173137076",
+        "reply_to_message_id": 352,
+        "text": "Если кто поможет с шифром РС буду очень признательна",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Если кто поможет с шифром РС буду очень признательна"
+            }
+        ]
+    },
+    {
+        "id": 3185,
+        "type": "message",
+        "date": "2024-09-03T09:33:59",
+        "date_unixtime": "1725345239",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 3182,
+        "text": "Киевец - это вроде бы Копысский уезд. 2151-1-103",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Киевец - это вроде бы Копысский уезд. 2151-1-103"
+            }
+        ]
+    },
+    {
+        "id": 3186,
+        "type": "message",
+        "date": "2024-09-03T09:34:48",
+        "date_unixtime": "1725345288",
+        "from": "Алена Дедясова",
+        "from_id": "user5173137076",
+        "reply_to_message_id": 352,
+        "text": "Спасибо огромное 🙏🙏🙏",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо огромное 🙏🙏🙏"
+            }
+        ]
+    },
+    {
+        "id": 3187,
+        "type": "message",
+        "date": "2024-09-03T09:39:04",
+        "date_unixtime": "1725345544",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 3186,
+        "text": "кроме Киевца ничего смотреть не будете?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "кроме Киевца ничего смотреть не будете?"
+            }
+        ]
+    },
+    {
+        "id": 3188,
+        "type": "message",
+        "date": "2024-09-03T10:19:25",
+        "date_unixtime": "1725347965",
+        "edited": "2024-09-03T10:20:53",
+        "edited_unixtime": "1725348053",
+        "from": "Andrej",
+        "from_id": "user1466603494",
+        "reply_to_message_id": 352,
+        "text": "В Обчуге, на католическом кладбище несколько могил Нитославских 19 века.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В Обчуге, на католическом кладбище несколько могил Нитославских 19 века."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "S",
+                        "from_id": "user655643922",
+                        "date": "2024-09-03T11:10:33"
+                    },
+                    {
+                        "from": "Siarhei Andryjanau",
+                        "from_id": "user153886828",
+                        "date": "2024-09-03T11:04:16"
+                    },
+                    {
+                        "from": "Алена Дедясова",
+                        "from_id": "user5173137076",
+                        "date": "2024-09-03T10:20:53"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3190,
+        "type": "message",
+        "date": "2024-09-03T11:08:07",
+        "date_unixtime": "1725350887",
+        "edited": "2024-09-03T11:10:49",
+        "edited_unixtime": "1725351049",
+        "from": "Andrej",
+        "from_id": "user1466603494",
+        "reply_to_message_id": 352,
+        "text": "Тышкевичи лежат на каталицком кладбище д.Клишино, на берегу озера Сялява (и не только..).",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тышкевичи лежат на каталицком кладбище д.Клишино, на берегу озера Сялява (и не только..)."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "S",
+                        "from_id": "user655643922",
+                        "date": "2024-09-03T11:10:49"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3191,
+        "type": "message",
+        "date": "2024-09-03T11:12:07",
+        "date_unixtime": "1725351127",
+        "from": "Andrej",
+        "from_id": "user1466603494",
+        "reply_to_message_id": 352,
+        "text": "А Селицкие, кроме конечно кладбища деревни Сялицкае, встречаются в м.Бобр, дд.Радица, Клён, Старые Шчавры и нек. другие... . Но нужно уточнять, - мы их изучали больше 10 лет назад. Информация трэбует проверки.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А Селицкие, кроме конечно кладбища деревни Сялицкае, встречаются в м.Бобр, дд.Радица, Клён, Старые Шчавры и нек. другие... . Но нужно уточнять, - мы их изучали больше 10 лет назад. Информация трэбует проверки."
+            }
+        ]
+    },
+    {
+        "id": 3192,
+        "type": "message",
+        "date": "2024-09-03T11:12:59",
+        "date_unixtime": "1725351179",
+        "from": "Andrej",
+        "from_id": "user1466603494",
+        "reply_to_message_id": 352,
+        "text": "Требует.. ))",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Требует.. ))"
+            }
+        ]
+    },
+    {
+        "id": 3193,
+        "type": "message",
+        "date": "2024-09-03T11:14:22",
+        "date_unixtime": "1725351262",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 352,
+        "text": "На кладбище в Свидерщине Толочинского р-на есть могилки Селицких",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На кладбище в Свидерщине Толочинского р-на есть могилки Селицких"
+            }
+        ]
+    },
+    {
+        "id": 3195,
+        "type": "message",
+        "date": "2024-09-03T11:16:34",
+        "date_unixtime": "1725351394",
+        "from": "Andrej",
+        "from_id": "user1466603494",
+        "reply_to_message_id": 352,
+        "text": "Да, этл один из многочисленных шляхетских родов на Малом Полесье.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, этл один из многочисленных шляхетских родов на Малом Полесье."
+            }
+        ]
+    },
+    {
+        "id": 3204,
+        "type": "message",
+        "date": "2024-09-03T11:25:04",
+        "date_unixtime": "1725351904",
+        "from": "Andrej",
+        "from_id": "user1466603494",
+        "reply_to_message_id": 352,
+        "text": [
+            "Это Вам к ",
+            {
+                "type": "mention",
+                "text": "@scimencry"
+            },
+            "."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это Вам к "
+            },
+            {
+                "type": "mention",
+                "text": "@scimencry"
+            },
+            {
+                "type": "plain",
+                "text": "."
+            }
+        ]
+    },
+    {
+        "id": 3206,
+        "type": "message",
+        "date": "2024-09-03T11:25:47",
+        "date_unixtime": "1725351947",
+        "from": "Andrej",
+        "from_id": "user1466603494",
+        "reply_to_message_id": 352,
+        "text": "Главное, чтобы у Него появилось время! ))",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Главное, чтобы у Него появилось время! ))"
+            }
+        ]
+    },
+    {
+        "id": 3213,
+        "type": "message",
+        "date": "2024-09-04T08:26:47",
+        "date_unixtime": "1725427607",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 3195,
+        "text": "В середине 19 век. арендовали земли у Лось-Рошковского в Лошанцах, затем переехали в Гуту",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В середине 19 век. арендовали земли у Лось-Рошковского в Лошанцах, затем переехали в Гуту"
+            }
+        ]
+    },
+    {
+        "id": 3491,
+        "type": "message",
+        "date": "2024-10-03T12:28:29",
+        "date_unixtime": "1727947709",
+        "from": "Владимир",
+        "from_id": "user1322785890",
+        "reply_to_message_id": 352,
+        "text": "ДВС всем! Прошу помощи у знатоков в определении номера дела (дел) с РС по д.Лютые Обчугского прихода.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ДВС всем! Прошу помощи у знатоков в определении номера дела (дел) с РС по д.Лютые Обчугского прихода."
+            }
+        ]
+    },
+    {
+        "id": 3496,
+        "type": "message",
+        "date": "2024-10-03T13:06:44",
+        "date_unixtime": "1727950004",
+        "edited": "2024-10-03T13:08:54",
+        "edited_unixtime": "1727950134",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 3491,
+        "text": "Лютые - это вроде Копысский уезд, а с ним вариантов не много. 103 дело в 2151",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Лютые - это вроде Копысский уезд, а с ним вариантов не много. 103 дело в 2151"
+            }
+        ]
+    },
+    {
+        "id": 3497,
+        "type": "message",
+        "date": "2024-10-03T13:09:46",
+        "date_unixtime": "1727950186",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 3491,
+        "text": "А кто у Вас из Лютых? Какие поисковые фамилии? У меня есть предки из соседних Шарнева, Журавов, Слободы, Запуток.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А кто у Вас из Лютых? Какие поисковые фамилии? У меня есть предки из соседних Шарнева, Журавов, Слободы, Запуток."
+            }
+        ]
+    },
+    {
+        "id": 3498,
+        "type": "message",
+        "date": "2024-10-03T13:20:58",
+        "date_unixtime": "1727950858",
+        "from": "Владимир",
+        "from_id": "user1322785890",
+        "reply_to_message_id": 3497,
+        "text": "Беляковы точно, возможно Зайковы и Бокша (Бокшины)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Беляковы точно, возможно Зайковы и Бокша (Бокшины)"
+            }
+        ]
+    },
+    {
+        "id": 3499,
+        "type": "message",
+        "date": "2024-10-03T13:22:14",
+        "date_unixtime": "1727950934",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 3498,
+        "text": "Пока таких у меня нет. Бокша распространенная фамилия. Думаю и сейчас там много кто с такой фамилией живет",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Пока таких у меня нет. Бокша распространенная фамилия. Думаю и сейчас там много кто с такой фамилией живет"
+            }
+        ]
+    },
+    {
+        "id": 3500,
+        "type": "message",
+        "date": "2024-10-03T13:22:14",
+        "date_unixtime": "1727950934",
+        "from": "Владимир",
+        "from_id": "user1322785890",
+        "reply_to_message_id": 352,
+        "text": "вообще по всем материалам, что , находил, Лютые значатся Сенненского узд Обчугской влст.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "вообще по всем материалам, что , находил, Лютые значатся Сенненского узд Обчугской влст."
+            }
+        ]
+    },
+    {
+        "id": 3501,
+        "type": "message",
+        "date": "2024-10-03T13:23:46",
+        "date_unixtime": "1727951026",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 3500,
+        "text": "Во время последней РС еще не было деления на волости. Копысский был расформирован в 1860м и часть его присоеденилась к Сенненскому",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Во время последней РС еще не было деления на волости. Копысский был расформирован в 1860м и часть его присоеденилась к Сенненскому"
+            }
+        ]
+    },
+    {
+        "id": 3502,
+        "type": "message",
+        "date": "2024-10-03T13:27:06",
+        "date_unixtime": "1727951226",
+        "edited": "2024-10-03T13:27:30",
+        "edited_unixtime": "1727951250",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 352,
+        "text": "Поэтому Вы находили правильную информацию, только за более поздний период",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Поэтому Вы находили правильную информацию, только за более поздний период"
+            }
+        ]
+    },
+    {
+        "id": 3503,
+        "type": "message",
+        "date": "2024-10-03T13:46:18",
+        "date_unixtime": "1727952378",
+        "from": "Владимир",
+        "from_id": "user1322785890",
+        "reply_to_message_id": 352,
+        "text": "а теперь ищу РС основной ревизии по тем местам за 1858-1859гг",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "а теперь ищу РС основной ревизии по тем местам за 1858-1859гг"
+            }
+        ]
+    },
+    {
+        "id": 3504,
+        "type": "message",
+        "date": "2024-10-03T13:55:39",
+        "date_unixtime": "1727952939",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 3503,
+        "text": "Я Вам дал ответ в первом сообщении",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я Вам дал ответ в первом сообщении"
+            }
+        ]
+    },
+    {
+        "id": 3505,
+        "type": "message",
+        "date": "2024-10-03T14:12:10",
+        "date_unixtime": "1727953930",
+        "edited": "2024-11-05T20:15:45",
+        "edited_unixtime": "1730826945",
+        "from": "Владимир",
+        "from_id": "user1322785890",
+        "reply_to_message_id": 3504,
+        "text": "Спасибо!!! не обратил внимание ... а еще не подскажете, там еще бесфамильные крестьяне?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо!!! не обратил внимание ... а еще не подскажете, там еще бесфамильные крестьяне?"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user6931963484",
+                        "date": "2024-11-06T16:05:35"
+                    },
+                    {
+                        "from": "Maisie MARCELENE",
+                        "from_id": "user6477664590",
+                        "date": "2024-11-05T20:15:46"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3506,
+        "type": "message",
+        "date": "2024-10-03T14:15:45",
+        "date_unixtime": "1727954145",
+        "edited": "2024-10-03T14:25:37",
+        "edited_unixtime": "1727954737",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 3505,
+        "text": "В большей части. Но иногда встречаются. Только правильнее сказать, что безфасильные РС, т.к фамилии у крестьян уже были 🙂",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В большей части. Но иногда встречаются. Только правильнее сказать, что безфасильные РС, т.к фамилии у крестьян уже были 🙂"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Sviatlana",
+                        "from_id": "user380543352",
+                        "date": "2024-10-03T14:25:37"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3507,
+        "type": "message",
+        "date": "2024-10-03T17:52:58",
+        "date_unixtime": "1727967178",
+        "edited": "2024-11-05T20:15:40",
+        "edited_unixtime": "1730826940",
+        "from": "H Z",
+        "from_id": "user1370750685",
+        "reply_to_message_id": 3506,
+        "text": "Может вы знаете, почему в принципе в МК, в РС не писали фамилии крестьян? Не достойны такой чести?) обидно жуть.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Может вы знаете, почему в принципе в МК, в РС не писали фамилии крестьян? Не достойны такой чести?) обидно жуть."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user6931963484",
+                        "date": "2024-11-06T16:05:30"
+                    },
+                    {
+                        "from": "Maisie MARCELENE",
+                        "from_id": "user6477664590",
+                        "date": "2024-11-05T20:15:40"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3508,
+        "type": "message",
+        "date": "2024-10-03T18:13:50",
+        "date_unixtime": "1727968430",
+        "from": "Sviatlana",
+        "from_id": "user380543352",
+        "reply_to_message_id": 352,
+        "text": "Самой интересно, но как-то не встречала правдоподобной версии. Единственное, что могу сказать, что традиция эта российская, в западной части Беларуси в это время фамилии были.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Самой интересно, но как-то не встречала правдоподобной версии. Единственное, что могу сказать, что традиция эта российская, в западной части Беларуси в это время фамилии были."
+            }
+        ]
+    },
+    {
+        "id": 3509,
+        "type": "message",
+        "date": "2024-10-03T18:16:35",
+        "date_unixtime": "1727968595",
+        "edited": "2024-11-05T20:15:35",
+        "edited_unixtime": "1730826935",
+        "from": "Нинуля",
+        "from_id": "user1973298892",
+        "reply_to_message_id": 352,
+        "text": "Я думаю, что это от прихода зависит, а точнее от дьяка. По дедовской ветке из Воронежской губернии у всех есть фамилии.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я думаю, что это от прихода зависит, а точнее от дьяка. По дедовской ветке из Воронежской губернии у всех есть фамилии."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Dünya Y",
+                        "from_id": "user6762970066",
+                        "date": "2024-11-22T07:01:02"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user6931963484",
+                        "date": "2024-11-06T16:05:25"
+                    },
+                    {
+                        "from": "Maisie MARCELENE",
+                        "from_id": "user6477664590",
+                        "date": "2024-11-05T20:15:35"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3510,
+        "type": "message",
+        "date": "2024-10-03T18:33:27",
+        "date_unixtime": "1727969607",
+        "edited": "2024-10-03T19:43:35",
+        "edited_unixtime": "1727973815",
+        "from": "Лена",
+        "from_id": "user1918841697",
+        "reply_to_message_id": 3507,
+        "text": "У меня в деле 172 Г\nЕсть  почти  ВСЕ  фамилии у крестьян.\nКроме дворовых. У дворовых фамилий нет. Но  и их можно вычислить, ибо написано из какой они деревни или дома (куда переведены)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У меня в деле 172 Г\nЕсть  почти  ВСЕ  фамилии у крестьян.\nКроме дворовых. У дворовых фамилий нет. Но  и их можно вычислить, ибо написано из какой они деревни или дома (куда переведены)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Aleksey Alifer",
+                        "from_id": "user70411580",
+                        "date": "2024-10-07T17:38:21"
+                    },
+                    {
+                        "from": "S",
+                        "from_id": "user655643922",
+                        "date": "2024-10-04T09:59:02"
+                    },
+                    {
+                        "from": "Sviatlana",
+                        "from_id": "user7194254950",
+                        "date": "2024-10-03T19:43:35"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3513,
+        "type": "message",
+        "date": "2024-10-03T18:36:30",
+        "date_unixtime": "1727969790",
+        "edited": "2024-10-03T19:43:46",
+        "edited_unixtime": "1727973826",
+        "from": "Лена",
+        "from_id": "user1918841697",
+        "reply_to_message_id": 3509,
+        "text": "У меня в ревизии 1811 года в беЗ фамильной Новгородской губернии, подросток из моих, переведен в соседний уезд . И да, уже в 1811 записан под настоящей фамилией. Я обалдела от такого счастья, когда нашла.  Больше до 1912, фамилия ни разу не встречалась.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У меня в ревизии 1811 года в беЗ фамильной Новгородской губернии, подросток из моих, переведен в соседний уезд . И да, уже в 1811 записан под настоящей фамилией. Я обалдела от такого счастья, когда нашла.  Больше до 1912, фамилия ни разу не встречалась."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Нинуля",
+                        "from_id": "user1973298892",
+                        "date": "2024-10-04T10:09:51"
+                    },
+                    {
+                        "from": "S",
+                        "from_id": "user655643922",
+                        "date": "2024-10-04T09:59:08"
+                    },
+                    {
+                        "from": "Владимир",
+                        "from_id": "user1322785890",
+                        "date": "2024-10-03T21:12:02"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3520,
+        "type": "message",
+        "date": "2024-10-04T01:51:46",
+        "date_unixtime": "1727995906",
+        "edited": "2024-10-04T10:54:45",
+        "edited_unixtime": "1728028485",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 3507,
+        "text": "Это нужно у дьяков и священников спрашивать. У меня был забавный случай. В метриках за конец 19в все без фамилий. Но наступает новый год и священник, видимо в хорошем настроении, начинает указывать у всех поголовно. Проходит неделя и фамилии опять пропадают. Опомнился 😁",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это нужно у дьяков и священников спрашивать. У меня был забавный случай. В метриках за конец 19в все без фамилий. Но наступает новый год и священник, видимо в хорошем настроении, начинает указывать у всех поголовно. Проходит неделя и фамилии опять пропадают. Опомнился 😁"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Larisa",
+                        "from_id": "user1591222382",
+                        "date": "2024-11-05T23:47:54"
+                    },
+                    {
+                        "from": "Лена",
+                        "from_id": "user1918841697",
+                        "date": "2024-10-04T10:54:45"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3521,
+        "type": "message",
+        "date": "2024-10-04T09:58:28",
+        "date_unixtime": "1728025108",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 3508,
+        "text": "А вот с отчествами наоборот",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А вот с отчествами наоборот"
+            }
+        ]
+    },
+    {
+        "id": 3530,
+        "type": "message",
+        "date": "2024-10-07T17:37:47",
+        "date_unixtime": "1728311867",
+        "edited": "2024-10-07T18:37:38",
+        "edited_unixtime": "1728315458",
+        "from": "Aleksey Alifer",
+        "from_id": "user70411580",
+        "reply_to_message_id": 3508,
+        "text": "не российская точно. скорее что-то локальное. У меня и по Сумской области и по Рязанской все крестьяне с фамилиями о 16 века, а вот в Сенненском, Бобруйском и Полоцком все без фамилий  до 20го века и в РС и в МК, хотя есть другие документы, шде фамилии упоминаются",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "не российская точно. скорее что-то локальное. У меня и по Сумской области и по Рязанской все крестьяне с фамилиями о 16 века, а вот в Сенненском, Бобруйском и Полоцком все без фамилий  до 20го века и в РС и в МК, хотя есть другие документы, шде фамилии упоминаются"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Dünya Y",
+                        "from_id": "user6762970066",
+                        "date": "2024-11-22T07:00:57"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user6931963484",
+                        "date": "2024-11-06T16:05:20"
+                    },
+                    {
+                        "from": "Maisie MARCELENE",
+                        "from_id": "user6477664590",
+                        "date": "2024-11-05T20:15:29"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "💯"
+            }
+        ]
+    }
+]

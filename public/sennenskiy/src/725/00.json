@@ -1,0 +1,4368 @@
+[
+    {
+        "id": 729,
+        "type": "message",
+        "date": "2023-05-05T12:14:27",
+        "date_unixtime": "1683278067",
+        "edited": "2023-05-22T23:04:21",
+        "edited_unixtime": "1684785861",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 725,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://telegra.ph/Ssylki-na-poleznye-internet-resursy-provereno-opytom-05-22"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://telegra.ph/Ssylki-na-poleznye-internet-resursy-provereno-opytom-05-22"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Anastasia",
+                        "from_id": "user1042926037",
+                        "date": "2023-05-05T14:56:48"
+                    },
+                    {
+                        "from": "NinaEK",
+                        "from_id": "user1168230259",
+                        "date": "2023-05-05T12:23:36"
+                    },
+                    {
+                        "from": "Алена Дедясова",
+                        "from_id": "user5173137076",
+                        "date": "2023-05-05T12:20:59"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 732,
+        "type": "message",
+        "date": "2023-05-06T17:45:39",
+        "date_unixtime": "1683384339",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "oblastnye_i_zonalnye_arkhivy_belarusi.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 740,
+        "type": "message",
+        "date": "2023-05-10T12:28:26",
+        "date_unixtime": "1683710906",
+        "edited": "2023-05-10T12:43:39",
+        "edited_unixtime": "1683711819",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 725,
+        "text": [
+            {
+                "type": "bold",
+                "text": "Российский Государственный Исторический Архив\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Фонд 577 - опись 19\n",
+                "href": "https://fgurgia.ru/object/2840633"
+            },
+            "ГЛАВНОЕ ВЫКУПНОЕ УЧРЕЖДЕНИЕ МФ\n",
+            {
+                "type": "underline",
+                "text": "О выкупе земельных наделов временнообязанными крестьянами. Могилевская губ.\n\n"
+            },
+            "Список по ",
+            {
+                "type": "text_link",
+                "text": "Сенненский уезд 1862-1891 гг.\n\n\n",
+                "href": "https://docviewer.yandex.by/view/1528686800/?*=v4KLqstH49g75S0B2%2F66JJ1rWkd7InVybCI6InlhLWRpc2stcHVibGljOi8vUy9HSGN3bVRiVFdDcVU4SDNFTGdlY3QzUlRyZmk3QnAxQ3hSaFhOMGY5RT06L3JnaWEtNTc3LTE5LdCh0LXQvdC90LjQvdGB0LrQuNC5LnhscyIsInRpdGxlIjoicmdpYS01NzctMTkt0KHQtdC90L3QuNC90YHQutC40LkueGxzIiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIxNTI4Njg2ODAwIiwidHMiOjE2ODM3MDY1MjMzNjYsInl1IjoiNTE3ODQwMDMxNjY0NjE3MzQ4In0%3D"
+            },
+            "Источник: ",
+            {
+                "type": "text_link",
+                "text": "forum.vgd.ru",
+                "href": "https://forum.vgd.ru/2098/8272/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Российский Государственный Исторический Архив\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Фонд 577 - опись 19\n",
+                "href": "https://fgurgia.ru/object/2840633"
+            },
+            {
+                "type": "plain",
+                "text": "ГЛАВНОЕ ВЫКУПНОЕ УЧРЕЖДЕНИЕ МФ\n"
+            },
+            {
+                "type": "underline",
+                "text": "О выкупе земельных наделов временнообязанными крестьянами. Могилевская губ.\n\n"
+            },
+            {
+                "type": "plain",
+                "text": "Список по "
+            },
+            {
+                "type": "text_link",
+                "text": "Сенненский уезд 1862-1891 гг.\n\n\n",
+                "href": "https://docviewer.yandex.by/view/1528686800/?*=v4KLqstH49g75S0B2%2F66JJ1rWkd7InVybCI6InlhLWRpc2stcHVibGljOi8vUy9HSGN3bVRiVFdDcVU4SDNFTGdlY3QzUlRyZmk3QnAxQ3hSaFhOMGY5RT06L3JnaWEtNTc3LTE5LdCh0LXQvdC90LjQvdGB0LrQuNC5LnhscyIsInRpdGxlIjoicmdpYS01NzctMTkt0KHQtdC90L3QuNC90YHQutC40LkueGxzIiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIxNTI4Njg2ODAwIiwidHMiOjE2ODM3MDY1MjMzNjYsInl1IjoiNTE3ODQwMDMxNjY0NjE3MzQ4In0%3D"
+            },
+            {
+                "type": "plain",
+                "text": "Источник: "
+            },
+            {
+                "type": "text_link",
+                "text": "forum.vgd.ru",
+                "href": "https://forum.vgd.ru/2098/8272/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Anastasia",
+                        "from_id": "user1042926037",
+                        "date": "2023-05-25T13:16:13"
+                    },
+                    {
+                        "from": "Yulia S",
+                        "from_id": "user502425848",
+                        "date": "2023-05-13T08:08:43"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user1729158480",
+                        "date": "2023-08-03T07:33:22"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 923,
+        "type": "message",
+        "date": "2023-05-25T12:39:30",
+        "date_unixtime": "1685007570",
+        "edited": "2023-05-29T12:04:42",
+        "edited_unixtime": "1685351082",
+        "from": "Сергей",
+        "from_id": "user162676802",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Sennenskiy_2003.djvu",
+        "mime_type": "image/vnd.djvu+multipage",
+        "text": "Книга Память. Сенненский район.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Книга Память. Сенненский район."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "aalto",
+                        "from_id": "user5402646138",
+                        "date": "2023-05-29T12:04:42"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 992,
+        "type": "message",
+        "date": "2023-05-29T00:07:16",
+        "date_unixtime": "1685308036",
+        "edited": "2023-05-29T00:16:48",
+        "edited_unixtime": "1685308608",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 725,
+        "text": [
+            {
+                "type": "bold",
+                "text": "Сенненскі край: гісторыка-культурная спадчына рэгіёна : зб. навук. арт. / Нацыянальная акадэмія навук Беларусі, Інстытут гісторыі; уклад. A. В. Бараноўскі ; рэдкал.: В. Л. Лакіза (гал. рэд.) [і інш.]. — Мінск : Беларуская навука, 2023. — 335 с. (Беларусь праз прызму рэгіянальнай гісторыі).\n\n"
+            },
+            {
+                "type": "italic",
+                "text": "Зборнік навуковых артыкулаў уключае матэрыялы, прысвечаныя праблемам палітычнай, сацыяльнай, эканамічнай і культурнай гісторыі Сенненшчыны, якія прайшлі апрабацыю на навукова-практычнай канферэнцыі «Сенненскі край: гісторыка-культурная спадчына рэгіёна», што адбылася ў ліпені 2022 г. у г. Сянно Віцебскай вобласці. Разлічаны на вучоных, студэнтаў, настаўнікаў, краязнаўцаў і ўсіх тых, хто цікавіцца гісторыка-культурнай спадчынай Беларусі.\n\n"
+            },
+            "Крыніца: ",
+            {
+                "type": "link",
+                "text": "http://history.by/belarus_through_the_prism_of_regional_history/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Сенненскі край: гісторыка-культурная спадчына рэгіёна : зб. навук. арт. / Нацыянальная акадэмія навук Беларусі, Інстытут гісторыі; уклад. A. В. Бараноўскі ; рэдкал.: В. Л. Лакіза (гал. рэд.) [і інш.]. — Мінск : Беларуская навука, 2023. — 335 с. (Беларусь праз прызму рэгіянальнай гісторыі).\n\n"
+            },
+            {
+                "type": "italic",
+                "text": "Зборнік навуковых артыкулаў уключае матэрыялы, прысвечаныя праблемам палітычнай, сацыяльнай, эканамічнай і культурнай гісторыі Сенненшчыны, якія прайшлі апрабацыю на навукова-практычнай канферэнцыі «Сенненскі край: гісторыка-культурная спадчына рэгіёна», што адбылася ў ліпені 2022 г. у г. Сянно Віцебскай вобласці. Разлічаны на вучоных, студэнтаў, настаўнікаў, краязнаўцаў і ўсіх тых, хто цікавіцца гісторыка-культурнай спадчынай Беларусі.\n\n"
+            },
+            {
+                "type": "plain",
+                "text": "Крыніца: "
+            },
+            {
+                "type": "link",
+                "text": "http://history.by/belarus_through_the_prism_of_regional_history/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Dimitri Kudryashov",
+                        "from_id": "user1000489090",
+                        "date": "2024-08-31T23:36:47"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user1515478552",
+                        "date": "2023-06-28T12:49:09"
+                    },
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-06-02T14:23:12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1507,
+        "type": "message",
+        "date": "2023-07-24T21:01:41",
+        "date_unixtime": "1690221701",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 725,
+        "text": [
+            "Мінская шляхта пад час бескаралеўя 1733 г.\n",
+            {
+                "type": "text_link",
+                "text": "Andrei Macuk",
+                "href": "https://nasb-by.academia.edu/AndreiMacuk?swp=tc-au-31111252"
+            },
+            "\n\n",
+            {
+                "type": "link",
+                "text": "https://www.academia.edu/31111252/Мінская_шляхта_пад_час_бескаралеўя_1733_г?email_work_card=title"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мінская шляхта пад час бескаралеўя 1733 г.\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Andrei Macuk",
+                "href": "https://nasb-by.academia.edu/AndreiMacuk?swp=tc-au-31111252"
+            },
+            {
+                "type": "plain",
+                "text": "\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://www.academia.edu/31111252/Мінская_шляхта_пад_час_бескаралеўя_1733_г?email_work_card=title"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 1606,
+        "type": "message",
+        "date": "2023-08-01T16:39:06",
+        "date_unixtime": "1690897146",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1607,
+        "type": "message",
+        "date": "2023-08-01T16:39:06",
+        "date_unixtime": "1690897146",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1608,
+        "type": "message",
+        "date": "2023-08-01T16:39:07",
+        "date_unixtime": "1690897147",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1609,
+        "type": "message",
+        "date": "2023-08-01T16:39:07",
+        "date_unixtime": "1690897147",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1610,
+        "type": "message",
+        "date": "2023-08-01T16:39:07",
+        "date_unixtime": "1690897147",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1611,
+        "type": "message",
+        "date": "2023-08-01T16:39:08",
+        "date_unixtime": "1690897148",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1612,
+        "type": "message",
+        "date": "2023-08-01T16:39:08",
+        "date_unixtime": "1690897148",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1613,
+        "type": "message",
+        "date": "2023-08-01T16:39:08",
+        "date_unixtime": "1690897148",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1614,
+        "type": "message",
+        "date": "2023-08-01T16:39:09",
+        "date_unixtime": "1690897149",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1615,
+        "type": "message",
+        "date": "2023-08-01T16:39:09",
+        "date_unixtime": "1690897149",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1616,
+        "type": "message",
+        "date": "2023-08-01T16:40:07",
+        "date_unixtime": "1690897207",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1617,
+        "type": "message",
+        "date": "2023-08-01T16:40:07",
+        "date_unixtime": "1690897207",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1618,
+        "type": "message",
+        "date": "2023-08-01T16:40:08",
+        "date_unixtime": "1690897208",
+        "edited": "2023-08-01T16:48:08",
+        "edited_unixtime": "1690897688",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1619,
+        "type": "message",
+        "date": "2023-08-01T16:40:08",
+        "date_unixtime": "1690897208",
+        "edited": "2023-08-01T16:48:06",
+        "edited_unixtime": "1690897686",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Natasha",
+                        "from_id": "user1230705279",
+                        "date": "2024-04-06T09:19:52"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user1515478552",
+                        "date": "2023-10-08T10:12:18"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Eka",
+                        "from_id": "user510598726",
+                        "date": "2023-08-01T17:57:22"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1620,
+        "type": "message",
+        "date": "2023-08-01T16:40:12",
+        "date_unixtime": "1690897212",
+        "edited": "2023-08-01T16:43:16",
+        "edited_unixtime": "1690897396",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "text": "Может кому пригодится. ЦГАМ фонд 281 оп. 3 д. 5",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Может кому пригодится. ЦГАМ фонд 281 оп. 3 д. 5"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Natasha",
+                        "from_id": "user1230705279",
+                        "date": "2024-04-06T09:19:54"
+                    },
+                    {
+                        "from": "Лена",
+                        "from_id": "user1918841697",
+                        "date": "2023-08-01T17:50:22"
+                    },
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-08-01T16:48:02"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍"
+            }
+        ]
+    },
+    {
+        "id": 1621,
+        "type": "message",
+        "date": "2023-08-01T16:48:38",
+        "date_unixtime": "1690897718",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 1620,
+        "text": "Спасибо вам огромное!🌹",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо вам огромное!🌹"
+            }
+        ]
+    },
+    {
+        "id": 1623,
+        "type": "message",
+        "date": "2023-08-01T16:51:13",
+        "date_unixtime": "1690897873",
+        "edited": "2023-08-01T16:51:54",
+        "edited_unixtime": "1690897914",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-08-01T16:51:54"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1624,
+        "type": "message",
+        "date": "2023-08-01T16:51:27",
+        "date_unixtime": "1690897887",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "text": "Ещё один лист",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ещё один лист"
+            }
+        ]
+    },
+    {
+        "id": 1629,
+        "type": "message",
+        "date": "2023-08-01T17:09:04",
+        "date_unixtime": "1690898944",
+        "edited": "2023-08-01T17:11:55",
+        "edited_unixtime": "1690899115",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Natasha",
+                        "from_id": "user1230705279",
+                        "date": "2024-04-06T09:20:53"
+                    },
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-08-01T17:11:55"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1630,
+        "type": "message",
+        "date": "2023-08-01T17:09:05",
+        "date_unixtime": "1690898945",
+        "edited": "2023-08-01T17:11:58",
+        "edited_unixtime": "1690899118",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Natasha",
+                        "from_id": "user1230705279",
+                        "date": "2024-04-06T09:20:50"
+                    },
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-08-01T17:11:58"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1631,
+        "type": "message",
+        "date": "2023-08-01T17:09:05",
+        "date_unixtime": "1690898945",
+        "edited": "2023-08-01T17:12:01",
+        "edited_unixtime": "1690899121",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Natasha",
+                        "from_id": "user1230705279",
+                        "date": "2024-04-06T09:20:51"
+                    },
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-08-01T17:12:01"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1633,
+        "type": "message",
+        "date": "2023-08-01T17:10:22",
+        "date_unixtime": "1690899022",
+        "edited": "2023-08-01T17:16:47",
+        "edited_unixtime": "1690899407",
+        "from": "Alesinya",
+        "from_id": "user542600487",
+        "reply_to_message_id": 725,
+        "text": "Можете файлами прикрепить? Телеграм пережимает фото 😢",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Можете файлами прикрепить? Телеграм пережимает фото 😢"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Sviatlana",
+                        "from_id": "user380543352",
+                        "date": "2023-08-01T17:16:47"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1634,
+        "type": "message",
+        "date": "2023-08-01T17:55:26",
+        "date_unixtime": "1690901726",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 1633,
+        "text": "Как?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Как?"
+            }
+        ]
+    },
+    {
+        "id": 1635,
+        "type": "message",
+        "date": "2023-08-01T18:05:06",
+        "date_unixtime": "1690902306",
+        "edited": "2023-08-02T08:53:54",
+        "edited_unixtime": "1690955634",
+        "from": "Alesinya",
+        "from_id": "user542600487",
+        "reply_to_message_id": 725,
+        "text": "Почти также) нажать скрепочка и выбрать файл",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Почти также) нажать скрепочка и выбрать файл"
+            }
+        ]
+    },
+    {
+        "id": 1636,
+        "type": "message",
+        "date": "2023-08-01T18:26:07",
+        "date_unixtime": "1690903567",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 1634,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1124,
+        "height": 183,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1641,
+        "type": "message",
+        "date": "2023-08-02T10:40:38",
+        "date_unixtime": "1690962038",
+        "edited": "2023-08-02T10:42:36",
+        "edited_unixtime": "1690962156",
+        "from": null,
+        "from_id": "user6172538998",
+        "reply_to_message_id": 725,
+        "text": "Доброе утро.\nВозможно кому-то поможет.\nДелал не слишком усердно, но за правильность указания волости в которой приобреталась земля могу поручиться. В данном формате можно сделать сортировку данных по волости, что может существенно упростить задачу.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Доброе утро.\nВозможно кому-то поможет.\nДелал не слишком усердно, но за правильность указания волости в которой приобреталась земля могу поручиться. В данном формате можно сделать сортировку данных по волости, что может существенно упростить задачу."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Alexander Rakitko",
+                        "from_id": "user142881101",
+                        "date": "2023-08-07T20:55:22"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🤝",
+                "recent": [
+                    {
+                        "from": "Aleksey Alifer",
+                        "from_id": "user70411580",
+                        "date": "2023-08-02T11:46:02"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Николай Курпан",
+                        "from_id": "user392252578",
+                        "date": "2023-08-02T13:15:39"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1642,
+        "type": "message",
+        "date": "2023-08-02T10:40:52",
+        "date_unixtime": "1690962052",
+        "edited": "2023-08-02T13:15:35",
+        "edited_unixtime": "1690971335",
+        "from": null,
+        "from_id": "user6172538998",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "КПБ Сенненский уезд.xlsx",
+        "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Лена",
+                        "from_id": "user1918841697",
+                        "date": "2023-09-30T21:24:26"
+                    },
+                    {
+                        "from": "Николай Курпан",
+                        "from_id": "user392252578",
+                        "date": "2023-08-02T13:15:35"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1648,
+        "type": "message",
+        "date": "2023-08-02T10:51:28",
+        "date_unixtime": "1690962688",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "20230801_142659.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4032,
+        "height": 3024,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1649,
+        "type": "message",
+        "date": "2023-08-02T10:51:30",
+        "date_unixtime": "1690962690",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "20230801_142707.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4032,
+        "height": 3024,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1650,
+        "type": "message",
+        "date": "2023-08-02T10:51:30",
+        "date_unixtime": "1690962690",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "20230801_142716.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4032,
+        "height": 3024,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1651,
+        "type": "message",
+        "date": "2023-08-02T10:51:32",
+        "date_unixtime": "1690962692",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "20230801_150913.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4032,
+        "height": 3024,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1652,
+        "type": "message",
+        "date": "2023-08-02T10:51:35",
+        "date_unixtime": "1690962695",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "20230801_150930.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4032,
+        "height": 3024,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1653,
+        "type": "message",
+        "date": "2023-08-02T10:51:37",
+        "date_unixtime": "1690962697",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "20230801_150941.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4032,
+        "height": 3024,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1654,
+        "type": "message",
+        "date": "2023-08-02T10:51:40",
+        "date_unixtime": "1690962700",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "20230801_150950.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4032,
+        "height": 3024,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1655,
+        "type": "message",
+        "date": "2023-08-02T10:51:41",
+        "date_unixtime": "1690962701",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "20230801_151000.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4032,
+        "height": 3024,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1656,
+        "type": "message",
+        "date": "2023-08-02T10:51:44",
+        "date_unixtime": "1690962704",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "20230801_151009.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4032,
+        "height": 3024,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1657,
+        "type": "message",
+        "date": "2023-08-02T10:51:46",
+        "date_unixtime": "1690962706",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "20230801_151024.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4032,
+        "height": 3024,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1658,
+        "type": "message",
+        "date": "2023-08-02T10:52:30",
+        "date_unixtime": "1690962750",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "20230801_151034.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4032,
+        "height": 3024,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1659,
+        "type": "message",
+        "date": "2023-08-02T10:52:31",
+        "date_unixtime": "1690962751",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "20230801_151048.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4032,
+        "height": 3024,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1660,
+        "type": "message",
+        "date": "2023-08-02T10:52:32",
+        "date_unixtime": "1690962752",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "20230801_151112.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4032,
+        "height": 3024,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1661,
+        "type": "message",
+        "date": "2023-08-02T10:52:32",
+        "date_unixtime": "1690962752",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "20230801_151133.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4032,
+        "height": 3024,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1662,
+        "type": "message",
+        "date": "2023-08-02T10:52:34",
+        "date_unixtime": "1690962754",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "20230801_152758.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4032,
+        "height": 3024,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1663,
+        "type": "message",
+        "date": "2023-08-02T10:52:34",
+        "date_unixtime": "1690962754",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "20230801_152954.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4032,
+        "height": 3024,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1664,
+        "type": "message",
+        "date": "2023-08-02T10:52:36",
+        "date_unixtime": "1690962756",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "20230801_153100.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4032,
+        "height": 3024,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1665,
+        "type": "message",
+        "date": "2023-08-02T10:52:36",
+        "date_unixtime": "1690962756",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "20230801_153207.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4032,
+        "height": 3024,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1666,
+        "type": "message",
+        "date": "2023-08-02T10:52:37",
+        "date_unixtime": "1690962757",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "20230801_153824.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4032,
+        "height": 3024,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1667,
+        "type": "message",
+        "date": "2023-08-02T10:52:38",
+        "date_unixtime": "1690962758",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "20230801_151152.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4032,
+        "height": 3024,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1668,
+        "type": "message",
+        "date": "2023-08-02T10:53:31",
+        "date_unixtime": "1690962811",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "20230801_154154.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4032,
+        "height": 3024,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1669,
+        "type": "message",
+        "date": "2023-08-02T10:53:31",
+        "date_unixtime": "1690962811",
+        "edited": "2023-08-02T10:54:01",
+        "edited_unixtime": "1690962841",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "text": "Так лучше?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так лучше?"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Alesinya",
+                        "from_id": "user542600487",
+                        "date": "2023-08-02T11:17:52"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "NinaEK",
+                        "from_id": "user1168230259",
+                        "date": "2023-08-02T12:23:45"
+                    },
+                    {
+                        "from": "palmmood",
+                        "from_id": "user5022732312",
+                        "date": "2023-08-02T11:06:28"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1673,
+        "type": "message",
+        "date": "2023-08-02T10:55:25",
+        "date_unixtime": "1690962925",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 1669,
+        "text": "Ооо, сейчас круто!\nВсё отлично видно, спасибо",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ооо, сейчас круто!\nВсё отлично видно, спасибо"
+            }
+        ]
+    },
+    {
+        "id": 1674,
+        "type": "message",
+        "date": "2023-08-02T11:20:41",
+        "date_unixtime": "1690964441",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 1661,
+        "text": "Эта совсем не читаема.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Эта совсем не читаема."
+            }
+        ]
+    },
+    {
+        "id": 1675,
+        "type": "message",
+        "date": "2023-08-02T11:21:59",
+        "date_unixtime": "1690964519",
+        "edited": "2023-08-02T11:22:33",
+        "edited_unixtime": "1690964553",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 1674,
+        "text": "Я буду ещё там числа 7-8-го. Переснимаю.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я буду ещё там числа 7-8-го. Переснимаю."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-08-02T11:22:33"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1676,
+        "type": "message",
+        "date": "2023-08-02T11:22:20",
+        "date_unixtime": "1690964540",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 1675,
+        "text": "Спасибо.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо."
+            }
+        ]
+    },
+    {
+        "id": 1677,
+        "type": "message",
+        "date": "2023-08-02T11:37:11",
+        "date_unixtime": "1690965431",
+        "edited": "2023-08-02T11:38:08",
+        "edited_unixtime": "1690965488",
+        "from": "Alësha",
+        "from_id": "user48250375",
+        "reply_to_message_id": 1642,
+        "text": "Очень интересует дело 2397 Роспаш.\nЕго как-то можно посмотреть?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Очень интересует дело 2397 Роспаш.\nЕго как-то можно посмотреть?"
+            }
+        ]
+    },
+    {
+        "id": 1678,
+        "type": "message",
+        "date": "2023-08-02T11:39:20",
+        "date_unixtime": "1690965560",
+        "from": "Alësha",
+        "from_id": "user48250375",
+        "reply_to_message_id": 725,
+        "text": "Еще там почти везде неверно вписана волость.\nОна *Ульяновичская* а не Ульяновская",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Еще там почти везде неверно вписана волость.\nОна *Ульяновичская* а не Ульяновская"
+            }
+        ]
+    },
+    {
+        "id": 1679,
+        "type": "message",
+        "date": "2023-08-02T11:45:05",
+        "date_unixtime": "1690965905",
+        "from": "Alësha",
+        "from_id": "user48250375",
+        "reply_to_message_id": 725,
+        "text": "Еще 2482 и 2493",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Еще 2482 и 2493"
+            }
+        ]
+    },
+    {
+        "id": 1680,
+        "type": "message",
+        "date": "2023-08-02T11:45:31",
+        "date_unixtime": "1690965931",
+        "from": "Alësha",
+        "from_id": "user48250375",
+        "reply_to_message_id": 725,
+        "text": "У последнего скорее всего неверно указана волость. Роспашь была только в Ульяновичской",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У последнего скорее всего неверно указана волость. Роспашь была только в Ульяновичской"
+            }
+        ]
+    },
+    {
+        "id": 1682,
+        "type": "message",
+        "date": "2023-08-02T11:48:55",
+        "date_unixtime": "1690966135",
+        "edited": "2023-08-02T13:15:31",
+        "edited_unixtime": "1690971331",
+        "from": "Aleksey Alifer",
+        "from_id": "user70411580",
+        "reply_to_message_id": 1641,
+        "text": [
+            {
+                "type": "mention",
+                "text": "@Nikolay_Kurpan"
+            },
+            " Обратите внимание. По сути готовая опись. Может быть можно напрямую в ваш проект экспортировать"
+        ],
+        "text_entities": [
+            {
+                "type": "mention",
+                "text": "@Nikolay_Kurpan"
+            },
+            {
+                "type": "plain",
+                "text": " Обратите внимание. По сути готовая опись. Может быть можно напрямую в ваш проект экспортировать"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Николай Курпан",
+                        "from_id": "user392252578",
+                        "date": "2023-08-02T13:15:31"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1685,
+        "type": "message",
+        "date": "2023-08-02T12:17:23",
+        "date_unixtime": "1690967843",
+        "from": "Лена",
+        "from_id": "user1918841697",
+        "reply_to_message_id": 1641,
+        "text": "Супер.\nСпасибо 🌷🌷🌷",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Супер.\nСпасибо 🌷🌷🌷"
+            }
+        ]
+    },
+    {
+        "id": 1686,
+        "type": "message",
+        "date": "2023-08-02T12:18:46",
+        "date_unixtime": "1690967926",
+        "edited": "2023-08-02T12:23:56",
+        "edited_unixtime": "1690968236",
+        "from": "Лена",
+        "from_id": "user1918841697",
+        "reply_to_message_id": 1682,
+        "text": "Я думаю, что надо просмотреть по каждой волости и помочь исправить ошибки. Вот, как выше.\nА потом, да. \nС согласия автора - Николаю",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я думаю, что надо просмотреть по каждой волости и помочь исправить ошибки. Вот, как выше.\nА потом, да. \nС согласия автора - Николаю"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Николай Курпан",
+                        "from_id": "user392252578",
+                        "date": "2023-08-02T13:15:53"
+                    },
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-08-02T12:23:56"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1687,
+        "type": "message",
+        "date": "2023-08-02T12:24:45",
+        "date_unixtime": "1690968285",
+        "edited": "2023-08-02T12:27:50",
+        "edited_unixtime": "1690968470",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 1686,
+        "text": "Нужно тогда сделать общий файл и всем вместе навалиться на него..",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Нужно тогда сделать общий файл и всем вместе навалиться на него.."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Лена",
+                        "from_id": "user1918841697",
+                        "date": "2023-08-02T12:27:50"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1689,
+        "type": "message",
+        "date": "2023-08-02T12:27:23",
+        "date_unixtime": "1690968443",
+        "edited": "2023-08-02T12:28:02",
+        "edited_unixtime": "1690968482",
+        "from": null,
+        "from_id": "user6172538998",
+        "reply_to_message_id": 1686,
+        "text": "Автор согласен 😀",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Автор согласен 😀"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Лена",
+                        "from_id": "user1918841697",
+                        "date": "2023-08-02T12:28:02"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1696,
+        "type": "message",
+        "date": "2023-08-02T13:14:40",
+        "date_unixtime": "1690971280",
+        "edited": "2023-08-02T13:16:23",
+        "edited_unixtime": "1690971383",
+        "from": "Сенненский уезд, Могилевская губерния",
+        "from_id": "channel1954910566",
+        "reply_to_message_id": 725,
+        "text": [
+            "Доброго дня!\nКто сдавал тесты ДНК, информация для вас! \nНа сайте familytreedna (ftdna) создан проект для тех, чьи предки проживали в Бобрской, Павловичской, Ухвальской, Эсьмонской, Дмитровичской, Заречно-Толочинской волостях, ",
+            {
+                "type": "text_link",
+                "text": "запрос на присоединение можно отправить по ссылке",
+                "href": "https://www.familytreedna.com/groups/bel-b-u-p-e-d/about"
+            },
+            " Если вы сдавали тест в другой лаборатории, его бесплатно можно загрузить на сайт ",
+            {
+                "type": "text_link",
+                "text": "здесь можно узнать как это сделать",
+                "href": "https://telegra.ph/Zagruzka-testov-na-httpswwwfamilytreednacom-kotorye-sdavali-v-drugoj-laboratorii-08-02"
+            },
+            "."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Доброго дня!\nКто сдавал тесты ДНК, информация для вас! \nНа сайте familytreedna (ftdna) создан проект для тех, чьи предки проживали в Бобрской, Павловичской, Ухвальской, Эсьмонской, Дмитровичской, Заречно-Толочинской волостях, "
+            },
+            {
+                "type": "text_link",
+                "text": "запрос на присоединение можно отправить по ссылке",
+                "href": "https://www.familytreedna.com/groups/bel-b-u-p-e-d/about"
+            },
+            {
+                "type": "plain",
+                "text": " Если вы сдавали тест в другой лаборатории, его бесплатно можно загрузить на сайт "
+            },
+            {
+                "type": "text_link",
+                "text": "здесь можно узнать как это сделать",
+                "href": "https://telegra.ph/Zagruzka-testov-na-httpswwwfamilytreednacom-kotorye-sdavali-v-drugoj-laboratorii-08-02"
+            },
+            {
+                "type": "plain",
+                "text": "."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Darya",
+                        "from_id": "user1380251243",
+                        "date": "2023-11-28T23:33:41"
+                    },
+                    {
+                        "from": "Alexander Rakitko",
+                        "from_id": "user142881101",
+                        "date": "2023-08-07T20:55:52"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Alësha",
+                        "from_id": "user48250375",
+                        "date": "2023-08-03T09:26:47"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1697,
+        "type": "message",
+        "date": "2023-08-02T13:16:23",
+        "date_unixtime": "1690971383",
+        "edited": "2023-08-02T13:51:19",
+        "edited_unixtime": "1690973479",
+        "from": "Николай Курпан",
+        "from_id": "user392252578",
+        "reply_to_message_id": 725,
+        "text": "давайте загрузим в систему и все навалимся и скорректируем и дополним)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "давайте загрузим в систему и все навалимся и скорректируем и дополним)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Лена",
+                        "from_id": "user1918841697",
+                        "date": "2023-08-02T13:51:19"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1698,
+        "type": "message",
+        "date": "2023-08-02T13:16:46",
+        "date_unixtime": "1690971406",
+        "from": "Николай Курпан",
+        "from_id": "user392252578",
+        "reply_to_message_id": 725,
+        "text": "в системе уже было создано и добавлено, и один человек понабирал только немного)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "в системе уже было создано и добавлено, и один человек понабирал только немного)"
+            }
+        ]
+    },
+    {
+        "id": 1699,
+        "type": "message",
+        "date": "2023-08-02T13:17:24",
+        "date_unixtime": "1690971444",
+        "edited": "2023-08-02T14:19:29",
+        "edited_unixtime": "1690975169",
+        "from": "Николай Курпан",
+        "from_id": "user392252578",
+        "reply_to_message_id": 725,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://inv.velikie.org/doc/did31/"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://inv.velikie.org/doc/did31/"
+            }
+        ]
+    },
+    {
+        "id": 1700,
+        "type": "message",
+        "date": "2023-08-02T13:17:56",
+        "date_unixtime": "1690971476",
+        "from": "Николай Курпан",
+        "from_id": "user392252578",
+        "reply_to_message_id": 725,
+        "text": "как-то так это выглядит, можно еще добавить список фамилий для дел со списками заемщиков",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "как-то так это выглядит, можно еще добавить список фамилий для дел со списками заемщиков"
+            }
+        ]
+    },
+    {
+        "id": 1701,
+        "type": "message",
+        "date": "2023-08-02T13:18:05",
+        "date_unixtime": "1690971485",
+        "from": "Николай Курпан",
+        "from_id": "user392252578",
+        "reply_to_message_id": 725,
+        "text": "но если опять никто не будет участвовать, то добавлять не буду))",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "но если опять никто не будет участвовать, то добавлять не буду))"
+            }
+        ]
+    },
+    {
+        "id": 1707,
+        "type": "message",
+        "date": "2023-08-02T15:40:26",
+        "date_unixtime": "1690980026",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 1701,
+        "text": "Никто не хочет?😞",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Никто не хочет?😞"
+            }
+        ]
+    },
+    {
+        "id": 1708,
+        "type": "message",
+        "date": "2023-08-02T15:48:06",
+        "date_unixtime": "1690980486",
+        "from": "Sviatlana",
+        "from_id": "user380543352",
+        "reply_to_message_id": 725,
+        "text": "Я вазьмуся, але крышку пазней) мне трэба зразумець, што ўжо індэксавалі, што не, што трэба дадаць",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я вазьмуся, але крышку пазней) мне трэба зразумець, што ўжо індэксавалі, што не, што трэба дадаць"
+            }
+        ]
+    },
+    {
+        "id": 1712,
+        "type": "message",
+        "date": "2023-08-03T09:28:24",
+        "date_unixtime": "1691044104",
+        "edited": "2023-08-03T09:28:43",
+        "edited_unixtime": "1691044123",
+        "from": "Alësha",
+        "from_id": "user48250375",
+        "reply_to_message_id": 1698,
+        "text": "Я брал для теста.\nГотов взять еще",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я брал для теста.\nГотов взять еще"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Николай Курпан",
+                        "from_id": "user392252578",
+                        "date": "2023-08-03T09:28:43"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1713,
+        "type": "message",
+        "date": "2023-08-03T09:30:47",
+        "date_unixtime": "1691044247",
+        "edited": "2023-08-03T10:30:23",
+        "edited_unixtime": "1691047823",
+        "from": "Николай Курпан",
+        "from_id": "user392252578",
+        "reply_to_message_id": 1708,
+        "text": [
+            "Там на ",
+            {
+                "type": "link",
+                "text": "inv.velikie.org"
+            },
+            " автоматически выдается фрагмент, можно начинать заполнять по табличке, которую выше выложили, а остальные поля дописывать"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Там на "
+            },
+            {
+                "type": "link",
+                "text": "inv.velikie.org"
+            },
+            {
+                "type": "plain",
+                "text": " автоматически выдается фрагмент, можно начинать заполнять по табличке, которую выше выложили, а остальные поля дописывать"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Sviatlana",
+                        "from_id": "user380543352",
+                        "date": "2023-08-03T10:30:23"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1714,
+        "type": "message",
+        "date": "2023-08-03T09:31:51",
+        "date_unixtime": "1691044311",
+        "edited": "2023-08-03T09:32:09",
+        "edited_unixtime": "1691044329",
+        "from": "Alësha",
+        "from_id": "user48250375",
+        "reply_to_message_id": 725,
+        "text": "Просто хотелось понять уровень сложности, и сколько будет время занимать. Да и систему проверить.\nТам несложно. По сути надо выписать только фамилии и населеенные пункты.\nИ то и то в деле фигурирует два раза так что с прочтением проблем особо нет, тк можно себя перепроверить.\nНу а населенный пункт по радзиме пробить",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Просто хотелось понять уровень сложности, и сколько будет время занимать. Да и систему проверить.\nТам несложно. По сути надо выписать только фамилии и населеенные пункты.\nИ то и то в деле фигурирует два раза так что с прочтением проблем особо нет, тк можно себя перепроверить.\nНу а населенный пункт по радзиме пробить"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Николай Курпан",
+                        "from_id": "user392252578",
+                        "date": "2023-08-03T09:32:09"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1715,
+        "type": "message",
+        "date": "2023-08-03T09:31:54",
+        "date_unixtime": "1691044314",
+        "from": "Николай Курпан",
+        "from_id": "user392252578",
+        "reply_to_message_id": 725,
+        "text": "Вчера еще один человек принял участие, кроме Алексея, пока введено 29 дел",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вчера еще один человек принял участие, кроме Алексея, пока введено 29 дел"
+            }
+        ]
+    },
+    {
+        "id": 1716,
+        "type": "message",
+        "date": "2023-08-03T09:33:49",
+        "date_unixtime": "1691044429",
+        "edited": "2023-08-03T13:21:58",
+        "edited_unixtime": "1691058118",
+        "from": "Alësha",
+        "from_id": "user48250375",
+        "reply_to_message_id": 725,
+        "text": [
+            "Меня очень интересует 3 дела из экселя ",
+            {
+                "type": "mention",
+                "text": "@Lucius_Licinius_Lucullus"
+            },
+            " \nПо застенку Роспашь.\nКто-то может при случае их посмотреть? В долгу не останусь"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Меня очень интересует 3 дела из экселя "
+            },
+            {
+                "type": "mention",
+                "text": "@Lucius_Licinius_Lucullus"
+            },
+            {
+                "type": "plain",
+                "text": " \nПо застенку Роспашь.\nКто-то может при случае их посмотреть? В долгу не останусь"
+            }
+        ]
+    },
+    {
+        "id": 1717,
+        "type": "message",
+        "date": "2023-08-03T09:39:18",
+        "date_unixtime": "1691044758",
+        "edited": "2023-08-03T09:39:30",
+        "edited_unixtime": "1691044770",
+        "from": "Николай Курпан",
+        "from_id": "user392252578",
+        "reply_to_message_id": 1716,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://velikie.org/files/rgia-592/rgia-592-19-mogilevskaya--sennenskij.zip"
+            },
+            " тут выложены все фото отдельно от системы индексации"
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://velikie.org/files/rgia-592/rgia-592-19-mogilevskaya--sennenskij.zip"
+            },
+            {
+                "type": "plain",
+                "text": " тут выложены все фото отдельно от системы индексации"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Alësha",
+                        "from_id": "user48250375",
+                        "date": "2023-08-03T09:39:30"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1718,
+        "type": "message",
+        "date": "2023-08-03T09:39:42",
+        "date_unixtime": "1691044782",
+        "from": "Alësha",
+        "from_id": "user48250375",
+        "reply_to_message_id": 725,
+        "text": "Благодарю",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Благодарю"
+            }
+        ]
+    },
+    {
+        "id": 1796,
+        "type": "message",
+        "date": "2023-08-08T14:49:48",
+        "date_unixtime": "1691495388",
+        "edited": "2023-08-08T14:57:14",
+        "edited_unixtime": "1691495834",
+        "from": "Сенненский уезд, Могилевская губерния",
+        "from_id": "channel1954910566",
+        "forwarded_from": "Сергей Шаппо",
+        "reply_to_message_id": 725,
+        "text": [
+            "Поиск по ФИО погибших в советско-финляндской войне 1939-1940 гг.\n\n",
+            {
+                "type": "link",
+                "text": "http://winterwar.karelia.ru/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Поиск по ФИО погибших в советско-финляндской войне 1939-1940 гг.\n\n"
+            },
+            {
+                "type": "link",
+                "text": "http://winterwar.karelia.ru/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Sviatlana",
+                        "from_id": "user380543352",
+                        "date": "2023-08-08T14:57:14"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1814,
+        "type": "message",
+        "date": "2023-08-10T14:09:51",
+        "date_unixtime": "1691665791",
+        "edited": "2023-08-10T14:47:05",
+        "edited_unixtime": "1691668025",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 1674,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user1515478552",
+                        "date": "2023-11-30T10:27:49"
+                    },
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-08-10T14:47:05"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1871,
+        "type": "message",
+        "date": "2023-08-29T14:44:21",
+        "date_unixtime": "1693309461",
+        "edited": "2023-08-29T14:47:20",
+        "edited_unixtime": "1693309640",
+        "from": "Сенненский уезд, Могилевская губерния",
+        "from_id": "channel1954910566",
+        "forwarded_from": "Сергей Шаппо",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1857_SNM_Mogil_gub_ Сенненский уезд.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            {
+                "type": "bold",
+                "text": "Сенненский уезд, 1857.\n"
+            },
+            "Списки населенных мест Могилевской губ. по уездам, приходам, еврейским обществам со сведениями об их расположении и народонаселении: 1857 г.\n\nРГИА. Ф. 1290. Оп.4. Д.80."
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Сенненский уезд, 1857.\n"
+            },
+            {
+                "type": "plain",
+                "text": "Списки населенных мест Могилевской губ. по уездам, приходам, еврейским обществам со сведениями об их расположении и народонаселении: 1857 г.\n\nРГИА. Ф. 1290. Оп.4. Д.80."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 9,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Зоя Шкляник",
+                        "from_id": "user1274407261",
+                        "date": "2024-11-24T12:57:12"
+                    },
+                    {
+                        "from": "Natalya Dekker",
+                        "from_id": "user1021697318",
+                        "date": "2024-05-12T22:22:47"
+                    },
+                    {
+                        "from": "ovladaet",
+                        "from_id": "user977660956",
+                        "date": "2024-04-05T00:37:25"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1898,
+        "type": "message",
+        "date": "2023-09-17T09:32:45",
+        "date_unixtime": "1694932365",
+        "edited": "2023-11-07T10:53:00",
+        "edited_unixtime": "1699343580",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "ЦИАМ.rar",
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "N.Y.",
+                        "from_id": "user1841363435",
+                        "date": "2023-11-07T10:53:00"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1899,
+        "type": "message",
+        "date": "2023-09-17T09:34:46",
+        "date_unixtime": "1694932486",
+        "edited": "2023-09-17T09:37:03",
+        "edited_unixtime": "1694932623",
+        "from": "Смольный",
+        "from_id": "user557454992",
+        "reply_to_message_id": 725,
+        "text": "В данном заархивированном файле все копии архивных документов из ЦИАМ по работникам ж/д станций.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В данном заархивированном файле все копии архивных документов из ЦИАМ по работникам ж/д станций."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Tatsiana Trezubava-Toporkova",
+                        "from_id": "user2013268763",
+                        "date": "2023-12-31T09:30:32"
+                    },
+                    {
+                        "from": "Александр Кожемякин",
+                        "from_id": "user5113793724",
+                        "date": "2023-09-18T04:46:57"
+                    },
+                    {
+                        "from": "Larisa",
+                        "from_id": "user1591222382",
+                        "date": "2023-09-17T11:11:43"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1972,
+        "type": "message",
+        "date": "2023-10-12T01:15:44",
+        "date_unixtime": "1697062544",
+        "edited": "2023-10-12T12:13:54",
+        "edited_unixtime": "1697102034",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "reply_to_message_id": 725,
+        "text": [
+            {
+                "type": "italic",
+                "text": "Перечень источников.\n"
+            },
+            "\n",
+            {
+                "type": "bold",
+                "text": "Поиск"
+            },
+            "\n",
+            {
+                "type": "bold",
+                "text": "В УКРАИНЕ, РОССИИ, БЕЛАРУСИ и т.д.\n"
+            },
+            "\n",
+            {
+                "type": "link",
+                "text": "https://business.dp.ua/vosp/site.htm?fbclid=IwAR3IQM0BrJKCcaAFsf2xVtua7i7Dq1mrH5F5M70cUDDs5jHykfQpAeR0UkA_aem_AW7XapTSFhWQcrncypLRbhvaSxL-9puwTD5r4Wi8gu88ilC-UuIKO-c6yz5lOaJeyAE#БЕЛАРУСИ"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "italic",
+                "text": "Перечень источников.\n"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "bold",
+                "text": "Поиск"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "bold",
+                "text": "В УКРАИНЕ, РОССИИ, БЕЛАРУСИ и т.д.\n"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "link",
+                "text": "https://business.dp.ua/vosp/site.htm?fbclid=IwAR3IQM0BrJKCcaAFsf2xVtua7i7Dq1mrH5F5M70cUDDs5jHykfQpAeR0UkA_aem_AW7XapTSFhWQcrncypLRbhvaSxL-9puwTD5r4Wi8gu88ilC-UuIKO-c6yz5lOaJeyAE#БЕЛАРУСИ"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Aleksey Alifer",
+                        "from_id": "user70411580",
+                        "date": "2023-10-12T12:13:54"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2218,
+        "type": "message",
+        "date": "2023-11-09T11:28:58",
+        "date_unixtime": "1699518538",
+        "edited": "2023-11-09T11:36:23",
+        "edited_unixtime": "1699518983",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "Алексей Билецкий",
+        "reply_to_message_id": 725,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://polona.pl/preview/a3f375e3-29e0-4295-96e7-44dba5276569"
+            },
+            "\nонлайн указатель Спрогиса буквы А -К"
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://polona.pl/preview/a3f375e3-29e0-4295-96e7-44dba5276569"
+            },
+            {
+                "type": "plain",
+                "text": "\nонлайн указатель Спрогиса буквы А -К"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Лена",
+                        "from_id": "user1918841697",
+                        "date": "2023-11-09T11:36:23"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2219,
+        "type": "message",
+        "date": "2023-11-09T11:28:58",
+        "date_unixtime": "1699518538",
+        "edited": "2023-11-09T11:36:28",
+        "edited_unixtime": "1699518988",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "Вячеслав Носевич",
+        "reply_to_message_id": 725,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://disk.yandex.ru/d/V9nUSobMT7dVcQ"
+            },
+            " Сканы неопубликованной части указателя Спрогиса на буквы К-П (оригинал - в читальном зале НИАБ)"
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://disk.yandex.ru/d/V9nUSobMT7dVcQ"
+            },
+            {
+                "type": "plain",
+                "text": " Сканы неопубликованной части указателя Спрогиса на буквы К-П (оригинал - в читальном зале НИАБ)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user1515478552",
+                        "date": "2023-11-14T00:29:25"
+                    },
+                    {
+                        "from": "Лена",
+                        "from_id": "user1918841697",
+                        "date": "2023-11-09T11:36:28"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2220,
+        "type": "message",
+        "date": "2023-11-09T11:28:58",
+        "date_unixtime": "1699518538",
+        "edited": "2023-11-09T11:36:31",
+        "edited_unixtime": "1699518991",
+        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+        "from_id": "user417138808",
+        "forwarded_from": "Вячеслав Носевич",
+        "reply_to_message_id": 725,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://disk.yandex.ru/d/5rRWbjndgqajVQ"
+            },
+            " Сканы неопубликованной части указателя Спрогиса на буквы Р-Я (оригинал - в читальном зале НИАБ)"
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://disk.yandex.ru/d/5rRWbjndgqajVQ"
+            },
+            {
+                "type": "plain",
+                "text": " Сканы неопубликованной части указателя Спрогиса на буквы Р-Я (оригинал - в читальном зале НИАБ)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Лена",
+                        "from_id": "user1918841697",
+                        "date": "2023-11-09T11:36:31"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2223,
+        "type": "message",
+        "date": "2023-11-09T13:31:33",
+        "date_unixtime": "1699525893",
+        "edited": "2023-11-09T14:21:41",
+        "edited_unixtime": "1699528901",
+        "from": "Larisa",
+        "from_id": "user1591222382",
+        "reply_to_message_id": 725,
+        "text": [
+            {
+                "type": "link",
+                "text": "http://vilejski-uezd.by/threads/sprogis-geograficheskij-ukazatel-vybornyx-dokumentov-iz-aktovyx-knig-vilenskogo-centralnogo-arxiva.738/"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "http://vilejski-uezd.by/threads/sprogis-geograficheskij-ukazatel-vybornyx-dokumentov-iz-aktovyx-knig-vilenskogo-centralnogo-arxiva.738/"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user1515478552",
+                        "date": "2023-11-14T00:28:56"
+                    },
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2023-11-09T14:21:41"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2476,
+        "type": "message",
+        "date": "2023-12-31T09:26:34",
+        "date_unixtime": "1704003994",
+        "edited": "2023-12-31T09:29:37",
+        "edited_unixtime": "1704004177",
+        "from": "Сенненский уезд, Могилевская губерния",
+        "from_id": "channel1954910566",
+        "forwarded_from": "Arxi Vedy",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1860_Сведения_о_помещичьих_имениях_Второе_приложение_к_тому_VI_Извлечение.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            "Сведения о помещичьих имениях. Извлечение и выводы из описаний имений по ",
+            {
+                "type": "bold",
+                "text": "Могилевской губернии"
+            },
+            ", 1860 год"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сведения о помещичьих имениях. Извлечение и выводы из описаний имений по "
+            },
+            {
+                "type": "bold",
+                "text": "Могилевской губернии"
+            },
+            {
+                "type": "plain",
+                "text": ", 1860 год"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Dimitri Kudryashov",
+                        "from_id": "user1000489090",
+                        "date": "2024-08-31T23:59:47"
+                    },
+                    {
+                        "from": "Amira Show",
+                        "from_id": "user5603889527",
+                        "date": "2024-07-04T16:09:29"
+                    },
+                    {
+                        "from": "Larisa",
+                        "from_id": "user1591222382",
+                        "date": "2024-04-02T15:28:20"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2760,
+        "type": "message",
+        "date": "2024-04-01T16:57:55",
+        "date_unixtime": "1711979875",
+        "edited": "2024-04-01T20:03:02",
+        "edited_unixtime": "1711990982",
+        "from": "Simeon",
+        "from_id": "user243956749",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1777_Vedomost_o_dvoranah_Mogilevskoj_gubernii_39_page_Sennenskiy.pdf",
+        "mime_type": "application/pdf",
+        "text": "1777 год. Ведомость о дворянах Могилевской губернии, по разделению на двенадцать нижеписанных уездов, с показанием какие каждый из них имеет во владении местечки, села и деревни и сколько в оных христиан и жидов состоит. Сеннинский уезд с 39 стр.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "1777 год. Ведомость о дворянах Могилевской губернии, по разделению на двенадцать нижеписанных уездов, с показанием какие каждый из них имеет во владении местечки, села и деревни и сколько в оных христиан и жидов состоит. Сеннинский уезд с 39 стр."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 8,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Victoria",
+                        "from_id": "user679471875",
+                        "date": "2025-01-12T01:06:42"
+                    },
+                    {
+                        "from": "NinaEK",
+                        "from_id": "user1168230259",
+                        "date": "2024-11-05T11:48:58"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Dimitri Kudryashov",
+                        "from_id": "user1000489090",
+                        "date": "2024-09-01T00:17:46"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😍"
+            }
+        ]
+    },
+    {
+        "id": 2761,
+        "type": "message",
+        "date": "2024-04-01T17:28:02",
+        "date_unixtime": "1711981682",
+        "from": null,
+        "from_id": "user6172538998",
+        "reply_to_message_id": 2760,
+        "text": "Добрый день.\nНе могу найти год документа. Не подскажете?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день.\nНе могу найти год документа. Не подскажете?"
+            }
+        ]
+    },
+    {
+        "id": 2762,
+        "type": "message",
+        "date": "2024-04-01T17:30:26",
+        "date_unixtime": "1711981826",
+        "from": "Simeon",
+        "from_id": "user243956749",
+        "reply_to_message_id": 2761,
+        "text": "1777 год.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "1777 год."
+            }
+        ]
+    },
+    {
+        "id": 2763,
+        "type": "message",
+        "date": "2024-04-01T17:36:14",
+        "date_unixtime": "1711982174",
+        "from": null,
+        "from_id": "user6172538998",
+        "reply_to_message_id": 725,
+        "text": "Спасибо",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо"
+            }
+        ]
+    },
+    {
+        "id": 2801,
+        "type": "message",
+        "date": "2024-04-25T16:59:26",
+        "date_unixtime": "1714053566",
+        "edited": "2024-05-15T00:10:21",
+        "edited_unixtime": "1715721021",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "De facto. Беларуская навука",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 931,
+        "height": 1280,
+        "text": [
+            "Новае выданне Інстытута гісторыі па рэгіянальнай гісторыі - зборнік \"",
+            {
+                "type": "bold",
+                "text": "Талачынскі край: гісторыка-культурная спадчына рэгіёна"
+            },
+            "\""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Новае выданне Інстытута гісторыі па рэгіянальнай гісторыі - зборнік \""
+            },
+            {
+                "type": "bold",
+                "text": "Талачынскі край: гісторыка-культурная спадчына рэгіёна"
+            },
+            {
+                "type": "plain",
+                "text": "\""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Darya",
+                        "from_id": "user1380251243",
+                        "date": "2024-05-15T00:10:21"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2802,
+        "type": "message",
+        "date": "2024-04-25T16:59:26",
+        "date_unixtime": "1714053566",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "De facto. Беларуская навука",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 870,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 2803,
+        "type": "message",
+        "date": "2024-04-25T16:59:26",
+        "date_unixtime": "1714053566",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "De facto. Беларуская навука",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 870,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 2804,
+        "type": "message",
+        "date": "2024-04-25T16:59:26",
+        "date_unixtime": "1714053566",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "De facto. Беларуская навука",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 870,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 2805,
+        "type": "message",
+        "date": "2024-04-25T16:59:26",
+        "date_unixtime": "1714053566",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "De facto. Беларуская навука",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 884,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 2906,
+        "type": "message",
+        "date": "2024-06-11T13:47:08",
+        "date_unixtime": "1718102828",
+        "edited": "2024-06-11T14:01:27",
+        "edited_unixtime": "1718103687",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "Igor T",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Vitebskaya_guberniya_karta_1921.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 1644,
+        "height": 1970,
+        "text": "На этой карте удобно ориентироваться по волостям, в том числе и Городокского уезда.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На этой карте удобно ориентироваться по волостям, в том числе и Городокского уезда."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🥰",
+                "recent": [
+                    {
+                        "from": "Зоя Шкляник",
+                        "from_id": "user1274407261",
+                        "date": "2024-07-12T16:07:56"
+                    },
+                    {
+                        "from": "Olya",
+                        "from_id": "user460492324",
+                        "date": "2024-06-11T14:08:36"
+                    },
+                    {
+                        "from": "Tatsiana Trezubava-Toporkova",
+                        "from_id": "user2013268763",
+                        "date": "2024-06-11T14:01:27"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2907,
+        "type": "message",
+        "date": "2024-06-11T13:47:34",
+        "date_unixtime": "1718102854",
+        "edited": "2024-06-11T13:50:09",
+        "edited_unixtime": "1718103009",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 2906,
+        "text": "Карта Витебской губернии, когда в её состав входил и Сенненский уезд. Указаны границы волостей.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Карта Витебской губернии, когда в её состав входил и Сенненский уезд. Указаны границы волостей."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "🥰",
+                "recent": [
+                    {
+                        "from": "Natasha",
+                        "from_id": "user1230705279",
+                        "date": "2024-06-13T19:50:35"
+                    },
+                    {
+                        "from": "Siarhei Andryjanau",
+                        "from_id": "user153886828",
+                        "date": "2024-06-11T15:24:26"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Светлана",
+                        "from_id": "user5310273540",
+                        "date": "2024-10-14T19:19:53"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2962,
+        "type": "message",
+        "date": "2024-07-12T15:58:09",
+        "date_unixtime": "1720789089",
+        "edited": "2024-07-12T16:13:26",
+        "edited_unixtime": "1720790006",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Беларусь_в_эпоху_феодализма_Том_IV.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            "Нашел такую публикацию. На 33 странице имеется таблица ",
+            {
+                "type": "italic",
+                "text": "\"Ведомость смоленского губернского прокурора о сожженных и разоренных селениях в Копысском у. Могилевской губ. во время войны 1812 г.\""
+            },
+            ", где расписаны населенные пункты, пострадавшие от войны, а также их владельцы, что будет полезно при изучении РС."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Нашел такую публикацию. На 33 странице имеется таблица "
+            },
+            {
+                "type": "italic",
+                "text": "\"Ведомость смоленского губернского прокурора о сожженных и разоренных селениях в Копысском у. Могилевской губ. во время войны 1812 г.\""
+            },
+            {
+                "type": "plain",
+                "text": ", где расписаны населенные пункты, пострадавшие от войны, а также их владельцы, что будет полезно при изучении РС."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Alena Rusakovich",
+                        "from_id": "user455467923",
+                        "date": "2024-10-18T10:48:14"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Yulia S",
+                        "from_id": "user502425848",
+                        "date": "2024-07-12T17:36:47"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👌",
+                "recent": [
+                    {
+                        "from": "Siarhei Andryjanau",
+                        "from_id": "user153886828",
+                        "date": "2024-07-12T16:13:26"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2963,
+        "type": "message",
+        "date": "2024-07-12T16:45:28",
+        "date_unixtime": "1720791928",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 2962,
+        "text": "Источник: ЦГИА БССР в гор. Минске.ф. 2001. on. л. 4—13. Подлинник. Рукопись.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Источник: ЦГИА БССР в гор. Минске.ф. 2001. on. л. 4—13. Подлинник. Рукопись."
+            }
+        ]
+    },
+    {
+        "id": 2964,
+        "type": "message",
+        "date": "2024-07-12T16:58:56",
+        "date_unixtime": "1720792736",
+        "edited": "2024-07-12T17:03:03",
+        "edited_unixtime": "1720792983",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 2963,
+        "text": "Да, документик этот неплохой. И в оригинале ещё лучше 😊",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, документик этот неплохой. И в оригинале ещё лучше 😊"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Siarhei Andryjanau",
+                        "from_id": "user153886828",
+                        "date": "2024-07-12T17:03:03"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2965,
+        "type": "message",
+        "date": "2024-07-12T17:07:57",
+        "date_unixtime": "1720793277",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 2964,
+        "text": "А в каком фонде сейчас он?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А в каком фонде сейчас он?"
+            }
+        ]
+    },
+    {
+        "id": 2966,
+        "type": "message",
+        "date": "2024-07-12T17:08:05",
+        "date_unixtime": "1720793285",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 2965,
+        "text": "да в том же",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "да в том же"
+            }
+        ]
+    },
+    {
+        "id": 2967,
+        "type": "message",
+        "date": "2024-07-12T17:08:20",
+        "date_unixtime": "1720793300",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 725,
+        "text": "номера фондов не так часто меняются",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "номера фондов не так часто меняются"
+            }
+        ]
+    },
+    {
+        "id": 2968,
+        "type": "message",
+        "date": "2024-07-12T17:08:31",
+        "date_unixtime": "1720793311",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 2966,
+        "text": "Не вижу 4й описи в НИАБ",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Не вижу 4й описи в НИАБ"
+            }
+        ]
+    },
+    {
+        "id": 2969,
+        "type": "message",
+        "date": "2024-07-12T17:08:58",
+        "date_unixtime": "1720793338",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 2968,
+        "text": "а почему 4-й?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "а почему 4-й?"
+            }
+        ]
+    },
+    {
+        "id": 2970,
+        "type": "message",
+        "date": "2024-07-12T17:09:50",
+        "date_unixtime": "1720793390",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 2969,
+        "text": "Аа. Я видимо не так понял шифр. А какие опись и дело это?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Аа. Я видимо не так понял шифр. А какие опись и дело это?"
+            }
+        ]
+    },
+    {
+        "id": 2971,
+        "type": "message",
+        "date": "2024-07-12T17:10:11",
+        "date_unixtime": "1720793411",
+        "edited": "2024-07-12T17:10:32",
+        "edited_unixtime": "1720793432",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 2970,
+        "text": "по-моему, там опись 1. Это с листа 4 документ начинается",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "по-моему, там опись 1. Это с листа 4 документ начинается"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👌",
+                "recent": [
+                    {
+                        "from": "Siarhei Andryjanau",
+                        "from_id": "user153886828",
+                        "date": "2024-07-12T17:11:31"
+                    },
+                    {
+                        "from": "S",
+                        "from_id": "user655643922",
+                        "date": "2024-07-12T17:10:32"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2972,
+        "type": "message",
+        "date": "2024-07-12T17:12:51",
+        "date_unixtime": "1720793571",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 725,
+        "text": "Я книгу пока только бегло пролистал, но вроде бы там много ссылок на источники. Если отбросить идейные домыслы автора, то неплохой материал. Только не понятно почему именно по Копыскому уезду таблица",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я книгу пока только бегло пролистал, но вроде бы там много ссылок на источники. Если отбросить идейные домыслы автора, то неплохой материал. Только не понятно почему именно по Копыскому уезду таблица"
+            }
+        ]
+    },
+    {
+        "id": 2973,
+        "type": "message",
+        "date": "2024-07-12T17:13:32",
+        "date_unixtime": "1720793612",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 2972,
+        "text": "так там сам документ наподобие таблицы вроде",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "так там сам документ наподобие таблицы вроде"
+            }
+        ]
+    },
+    {
+        "id": 2974,
+        "type": "message",
+        "date": "2024-07-12T17:14:44",
+        "date_unixtime": "1720793684",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 725,
+        "text": "Да не. Вроде там своеобразная энциклопедия периода первой половины 19в, только взглядом советского историка",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да не. Вроде там своеобразная энциклопедия периода первой половины 19в, только взглядом советского историка"
+            }
+        ]
+    },
+    {
+        "id": 2975,
+        "type": "message",
+        "date": "2024-07-12T17:17:05",
+        "date_unixtime": "1720793825",
+        "edited": "2024-07-12T17:24:35",
+        "edited_unixtime": "1720794275",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 2974,
+        "text": "ну хоть так",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ну хоть так"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "💯",
+                "recent": [
+                    {
+                        "from": "S",
+                        "from_id": "user655643922",
+                        "date": "2024-07-12T17:24:35"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2978,
+        "type": "message",
+        "date": "2024-07-12T22:44:46",
+        "date_unixtime": "1720813486",
+        "edited": "2024-07-13T11:31:00",
+        "edited_unixtime": "1720859460",
+        "from": "Сенненский уезд, Могилевская губерния",
+        "from_id": "channel1954910566",
+        "reply_to_message_id": 2962,
+        "text": [
+            "Саша, эта же таблица(точнее часть) есть в книге Память Толочинского района, стр. 47-48 \nи там шифр указан более точный: ЦДГА БССР у Мінску. ф. 2001, воп. 1, спр. 24, л. 4—13 аб.\n\n",
+            {
+                "type": "text_link",
+                "text": "3 ВЕДАМАСЦІ СМАЛЕНСКАГА ГУБЕРНСКАГА ПРАКУРОРА АБ СПАЛЕНЫХI РАЗРАБАВАНЫХ ВЁСКАХ У КОПЫСКІМ ПАВЕЦЕ У ЧАС ВАЙНЫ 1812 Г.",
+                "href": "https://shappoff.github.io/kp/tolochinskiy/#:~:text=%D0%A3%20%D0%9A%D0%9E%D0%9F%D0%AB%D0%A1%D0%9A%D0%86%D0%9C%20%D0%9F%D0%90%D0%92%D0%95%D0%A6%D0%95-,%D0%A3%20%D0%A7%D0%90%D0%A1%20%D0%92%D0%90%D0%99%D0%9D%D0%AB%201812%20%D0%93.,-1"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Саша, эта же таблица(точнее часть) есть в книге Память Толочинского района, стр. 47-48 \nи там шифр указан более точный: ЦДГА БССР у Мінску. ф. 2001, воп. 1, спр. 24, л. 4—13 аб.\n\n"
+            },
+            {
+                "type": "text_link",
+                "text": "3 ВЕДАМАСЦІ СМАЛЕНСКАГА ГУБЕРНСКАГА ПРАКУРОРА АБ СПАЛЕНЫХI РАЗРАБАВАНЫХ ВЁСКАХ У КОПЫСКІМ ПАВЕЦЕ У ЧАС ВАЙНЫ 1812 Г.",
+                "href": "https://shappoff.github.io/kp/tolochinskiy/#:~:text=%D0%A3%20%D0%9A%D0%9E%D0%9F%D0%AB%D0%A1%D0%9A%D0%86%D0%9C%20%D0%9F%D0%90%D0%92%D0%95%D0%A6%D0%95-,%D0%A3%20%D0%A7%D0%90%D0%A1%20%D0%92%D0%90%D0%99%D0%9D%D0%AB%201812%20%D0%93.,-1"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Larisa",
+                        "from_id": "user1591222382",
+                        "date": "2024-07-13T11:31:00"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2986,
+        "type": "message",
+        "date": "2024-07-13T18:34:02",
+        "date_unixtime": "1720884842",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 2978,
+        "text": "Понятно, спасибо! Я Память Толочинского не изучал",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Понятно, спасибо! Я Память Толочинского не изучал"
+            }
+        ]
+    },
+    {
+        "id": 3016,
+        "type": "message",
+        "date": "2024-07-24T15:08:14",
+        "date_unixtime": "1721822894",
+        "edited": "2024-07-24T15:37:29",
+        "edited_unixtime": "1721824649",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1399_1_94_Скан_4.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 4373,
+        "height": 16250,
+        "text": "Часть, присоединенная от Минской губернии к Витебской, 1795 г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Часть, присоединенная от Минской губернии к Витебской, 1795 г."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Waler",
+                        "from_id": "user5147062305",
+                        "date": "2024-10-14T23:45:10"
+                    },
+                    {
+                        "from": "Natasha",
+                        "from_id": "user1230705279",
+                        "date": "2024-08-04T08:24:34"
+                    },
+                    {
+                        "from": "𝓣𝓪𝓬𝓬𝓲𝓪𝓷𝓪 𝓢𝓪𝓷𝓸𝓽/𝓚𝓷𝓸𝓽𝓼’𝓴𝓸",
+                        "from_id": "user417138808",
+                        "date": "2024-07-24T15:37:29"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3028,
+        "type": "message",
+        "date": "2024-08-01T14:38:33",
+        "date_unixtime": "1722512313",
+        "edited": "2024-08-01T14:43:16",
+        "edited_unixtime": "1722512596",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 3016,
+        "text": "а представьте, если бы не присоединили и наши деревни были бы в фонде 333... 🥹",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "а представьте, если бы не присоединили и наши деревни были бы в фонде 333... 🥹"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😢",
+                "recent": [
+                    {
+                        "from": "Siarhei Andryjanau",
+                        "from_id": "user153886828",
+                        "date": "2024-08-01T14:43:16"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3150,
+        "type": "message",
+        "date": "2024-08-30T14:28:12",
+        "date_unixtime": "1725017292",
+        "edited": "2024-08-30T14:31:44",
+        "edited_unixtime": "1725017504",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 992,
+        "text": [
+            {
+                "type": "bold",
+                "text": "Каханка У. Дакументы з фондаў Дзяржаўнага архіва Віцебскай вобласці аб рэгістрацыі рэлігійных таварыстваў Сенненшчыны ў 1923 годзе"
+            },
+            " // Сенненскі край: гісторыка-культурная спадчына рэгіёна: Зборнік навуковых артыкулаў / Уклад. A.В. Бараноўскі; рэдкал.: В.Л. Лакіза (гал. рэд.), А.В. Бараноўскі (адк. рэд.) [і інш.]. Мінск: Беларуская навука, 2023. С. 181–189."
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Каханка У. Дакументы з фондаў Дзяржаўнага архіва Віцебскай вобласці аб рэгістрацыі рэлігійных таварыстваў Сенненшчыны ў 1923 годзе"
+            },
+            {
+                "type": "plain",
+                "text": " // Сенненскі край: гісторыка-культурная спадчына рэгіёна: Зборнік навуковых артыкулаў / Уклад. A.В. Бараноўскі; рэдкал.: В.Л. Лакіза (гал. рэд.), А.В. Бараноўскі (адк. рэд.) [і інш.]. Мінск: Беларуская навука, 2023. С. 181–189."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Sviatlana",
+                        "from_id": "user380543352",
+                        "date": "2024-08-30T14:31:44"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3151,
+        "type": "message",
+        "date": "2024-08-30T14:34:22",
+        "date_unixtime": "1725017662",
+        "edited": "2024-08-30T14:35:42",
+        "edited_unixtime": "1725017742",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 3150,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 859,
+        "height": 1280,
+        "text": "Там в статье интересненькое приложение ✌️🤓",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Там в статье интересненькое приложение ✌️🤓"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Лена",
+                        "from_id": "user1918841697",
+                        "date": "2024-08-30T14:41:16"
+                    },
+                    {
+                        "from": "Siarhei Andryjanau",
+                        "from_id": "user153886828",
+                        "date": "2024-08-30T14:38:52"
+                    },
+                    {
+                        "from": "Sviatlana",
+                        "from_id": "user380543352",
+                        "date": "2024-08-30T14:35:42"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3152,
+        "type": "message",
+        "date": "2024-08-30T14:34:22",
+        "date_unixtime": "1725017662",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 3150,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 878,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 3153,
+        "type": "message",
+        "date": "2024-08-30T14:34:22",
+        "date_unixtime": "1725017662",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 3150,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 1071,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 3154,
+        "type": "message",
+        "date": "2024-08-30T14:36:45",
+        "date_unixtime": "1725017805",
+        "from": "Sviatlana",
+        "from_id": "user380543352",
+        "reply_to_message_id": 725,
+        "text": "Так,знакамітая справа, канешне)\nАлічбаваная ёсць на кампутарах ў архіве, пэўна 2000 старонак",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так,знакамітая справа, канешне)\nАлічбаваная ёсць на кампутарах ў архіве, пэўна 2000 старонак"
+            }
+        ]
+    },
+    {
+        "id": 3155,
+        "type": "message",
+        "date": "2024-08-30T14:37:13",
+        "date_unixtime": "1725017833",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 3154,
+        "text": "Ага. Толькі там некалькі такіх спраў 😉",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ага. Толькі там некалькі такіх спраў 😉"
+            }
+        ]
+    },
+    {
+        "id": 3156,
+        "type": "message",
+        "date": "2024-08-30T14:38:12",
+        "date_unixtime": "1725017892",
+        "edited": "2024-08-30T14:39:00",
+        "edited_unixtime": "1725017940",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 725,
+        "text": "Ну і ў дакументах - самі спісы вернікаў, калі хтосьці раптам ня ведае.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну і ў дакументах - самі спісы вернікаў, калі хтосьці раптам ня ведае."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Sviatlana",
+                        "from_id": "user380543352",
+                        "date": "2024-08-30T14:39:01"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3157,
+        "type": "message",
+        "date": "2024-08-30T14:38:54",
+        "date_unixtime": "1725017934",
+        "from": "Sviatlana",
+        "from_id": "user380543352",
+        "reply_to_message_id": 3155,
+        "text": "А вось гэта я прахлопала вушамі, магчыма нешта цікавае знайшла б(",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А вось гэта я прахлопала вушамі, магчыма нешта цікавае знайшла б("
+            }
+        ]
+    },
+    {
+        "id": 3158,
+        "type": "message",
+        "date": "2024-08-30T14:39:43",
+        "date_unixtime": "1725017983",
+        "edited": "2024-08-30T14:40:36",
+        "edited_unixtime": "1725018036",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 725,
+        "text": "А я похожее дело в архиве в Орше смотрел по Бобрской волости не сохранились данные((",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А я похожее дело в архиве в Орше смотрел по Бобрской волости не сохранились данные(("
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "N.Y.",
+                        "from_id": "user1841363435",
+                        "date": "2024-08-30T14:40:36"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3159,
+        "type": "message",
+        "date": "2024-08-30T14:40:08",
+        "date_unixtime": "1725018008",
+        "edited": "2024-08-30T14:42:06",
+        "edited_unixtime": "1725018126",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 3157,
+        "text": "Ну вось у артыкуле і адсістэматызаванае ўсё паводле захаваных дакументаў па Сенненскім павеце.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну вось у артыкуле і адсістэматызаванае ўсё паводле захаваных дакументаў па Сенненскім павеце."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Sviatlana",
+                        "from_id": "user380543352",
+                        "date": "2024-08-30T14:42:06"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3160,
+        "type": "message",
+        "date": "2024-08-30T14:40:34",
+        "date_unixtime": "1725018034",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 3158,
+        "text": "Это правда, увы 😔",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это правда, увы 😔"
+            }
+        ]
+    },
+    {
+        "id": 3161,
+        "type": "message",
+        "date": "2024-08-30T14:45:06",
+        "date_unixtime": "1725018306",
+        "from": "Валерий",
+        "from_id": "user6234873196",
+        "reply_to_message_id": 1648,
+        "text": "Добрый день! Будте добры, а есть ли в этих материалах списки верников Толочинского костёла по Старо-Толочинской волости?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день! Будте добры, а есть ли в этих материалах списки верников Толочинского костёла по Старо-Толочинской волости?"
+            }
+        ]
+    },
+    {
+        "id": 3162,
+        "type": "message",
+        "date": "2024-08-30T15:02:05",
+        "date_unixtime": "1725019325",
+        "edited": "2024-09-22T10:45:21",
+        "edited_unixtime": "1726991121",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 3161,
+        "text": "Увы. Толочинская (до 15.02.1923 - Старо-Толочинская) волость была в составе Оршанского уезда. А в публикации рассматривается только Сенненский уезд, да и то не весь 🤷‍♀️",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Увы. Толочинская (до 15.02.1923 - Старо-Толочинская) волость была в составе Оршанского уезда. А в публикации рассматривается только Сенненский уезд, да и то не весь 🤷‍♀️"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user1729158480",
+                        "date": "2024-09-22T10:45:21"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3163,
+        "type": "message",
+        "date": "2024-08-30T15:02:41",
+        "date_unixtime": "1725019361",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 725,
+        "text": "Но вот по Сенненскому костёлу там неплохой список.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Но вот по Сенненскому костёлу там неплохой список."
+            }
+        ]
+    },
+    {
+        "id": 3164,
+        "type": "message",
+        "date": "2024-08-30T15:02:51",
+        "date_unixtime": "1725019371",
+        "from": "Валерий",
+        "from_id": "user6234873196",
+        "reply_to_message_id": 725,
+        "text": "Спасибо!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо!"
+            }
+        ]
+    },
+    {
+        "id": 3165,
+        "type": "message",
+        "date": "2024-08-30T15:20:21",
+        "date_unixtime": "1725020421",
+        "edited": "2025-01-26T21:00:34",
+        "edited_unixtime": "1737914434",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 3160,
+        "text": "Но есть надежда, что в ГАРФе могла сохраниться копия",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Но есть надежда, что в ГАРФе могла сохраниться копия"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Yuliya Nikolaeva",
+                        "from_id": "user684046032",
+                        "date": "2025-01-26T21:00:34"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3166,
+        "type": "message",
+        "date": "2024-08-30T15:21:06",
+        "date_unixtime": "1725020466",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 725,
+        "text": "Они же в 2 экземплярах подавали данные. Один так понимаю экземпляр шел в уезд, а второй выше",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Они же в 2 экземплярах подавали данные. Один так понимаю экземпляр шел в уезд, а второй выше"
+            }
+        ]
+    },
+    {
+        "id": 3167,
+        "type": "message",
+        "date": "2024-08-30T15:23:18",
+        "date_unixtime": "1725020598",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 3166,
+        "text": "Если выше, то, наверное, только в губернский город (Витебск) или Минск.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Если выше, то, наверное, только в губернский город (Витебск) или Минск."
+            }
+        ]
+    },
+    {
+        "id": 3168,
+        "type": "message",
+        "date": "2024-08-30T15:24:10",
+        "date_unixtime": "1725020650",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 725,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 576,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 3169,
+        "type": "message",
+        "date": "2024-08-30T15:25:37",
+        "date_unixtime": "1725020737",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 3168,
+        "text": "Ну это будет в большей мере апелляционное, много ведь разборок было.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну это будет в большей мере апелляционное, много ведь разборок было."
+            }
+        ]
+    },
+    {
+        "id": 3170,
+        "type": "message",
+        "date": "2024-08-30T15:26:13",
+        "date_unixtime": "1725020773",
+        "edited": "2024-08-30T15:26:18",
+        "edited_unixtime": "1725020778",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 3169,
+        "text": "Не убивайте надежду )))",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Не убивайте надежду )))"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👌",
+                "recent": [
+                    {
+                        "from": "N.Y.",
+                        "from_id": "user1841363435",
+                        "date": "2024-08-30T15:26:18"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3171,
+        "type": "message",
+        "date": "2024-08-30T15:26:15",
+        "date_unixtime": "1725020775",
+        "edited": "2024-08-30T15:35:35",
+        "edited_unixtime": "1725021335",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 725,
+        "text": "Хотя я только за, если бы такие списки по Толочину или Бобру каким-то чудом попали в Москву 😊",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Хотя я только за, если бы такие списки по Толочину или Бобру каким-то чудом попали в Москву 😊"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🥰",
+                "recent": [
+                    {
+                        "from": "Siarhei Andryjanau",
+                        "from_id": "user153886828",
+                        "date": "2024-08-30T15:35:35"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3585,
+        "type": "message",
+        "date": "2024-10-18T09:17:45",
+        "date_unixtime": "1729232265",
+        "edited": "2024-10-18T09:48:38",
+        "edited_unixtime": "1729234118",
+        "from": "Сенненский уезд, Могилевская губерния",
+        "from_id": "channel1954910566",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "sennenskiy1907.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Избиратели-землевладельцы по Сенненскому уезду. 1907 г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Избиратели-землевладельцы по Сенненскому уезду. 1907 г."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Natasha",
+                        "from_id": "user1230705279",
+                        "date": "2024-10-18T17:38:00"
+                    },
+                    {
+                        "from": "NinaEK",
+                        "from_id": "user1168230259",
+                        "date": "2024-10-18T10:46:20"
+                    },
+                    {
+                        "from": "Алена Дедясова",
+                        "from_id": "user5173137076",
+                        "date": "2024-10-18T09:59:43"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥"
+            }
+        ]
+    },
+    {
+        "id": 3586,
+        "type": "message",
+        "date": "2024-10-18T09:47:54",
+        "date_unixtime": "1729234074",
+        "edited": "2024-10-18T09:48:43",
+        "edited_unixtime": "1729234123",
+        "from": "Sviatlana",
+        "from_id": "user380543352",
+        "reply_to_message_id": 3585,
+        "text": "Я бы вернула буквы Е на современные, не ищется поисковиком, если вбивать \"землевладельцы\".",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я бы вернула буквы Е на современные, не ищется поисковиком, если вбивать \"землевладельцы\"."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Dünya Y",
+                        "from_id": "user6762970066",
+                        "date": "2024-11-22T07:00:52"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user6931963484",
+                        "date": "2024-11-06T16:05:15"
+                    },
+                    {
+                        "from": "Maisie MARCELENE",
+                        "from_id": "user6477664590",
+                        "date": "2024-11-05T20:15:24"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👌"
+            }
+        ]
+    },
+    {
+        "id": 3818,
+        "type": "message",
+        "date": "2024-11-05T11:28:56",
+        "date_unixtime": "1730795336",
+        "edited": "2024-11-05T11:29:25",
+        "edited_unixtime": "1730795365",
+        "from": "Сенненский уезд, Могилевская губерния",
+        "from_id": "channel1954910566",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "инвентарь Бобр 1614 osr.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": [
+            "1614 г. 5 июня. Инвентарь имения и местечка ",
+            {
+                "type": "bold",
+                "text": "Бобр"
+            },
+            " с принадлежащими к нему селами и застенками.\n\n[1900. Историко-юридическіе матеріалы , извлеченные из актовых книг губерній витебской и могилевской губерний, Выпукъ двадцать осьмой.]"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "1614 г. 5 июня. Инвентарь имения и местечка "
+            },
+            {
+                "type": "bold",
+                "text": "Бобр"
+            },
+            {
+                "type": "plain",
+                "text": " с принадлежащими к нему селами и застенками.\n\n[1900. Историко-юридическіе матеріалы , извлеченные из актовых книг губерній витебской и могилевской губерний, Выпукъ двадцать осьмой.]"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Лена",
+                        "from_id": "user1918841697",
+                        "date": "2024-11-05T15:56:39"
+                    },
+                    {
+                        "from": "Eka",
+                        "from_id": "user510598726",
+                        "date": "2024-11-05T12:11:39"
+                    },
+                    {
+                        "from": "Alena Rusakovich",
+                        "from_id": "user455467923",
+                        "date": "2024-11-05T11:52:42"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3819,
+        "type": "message",
+        "date": "2024-11-05T11:29:09",
+        "date_unixtime": "1730795349",
+        "edited": "2024-11-05T11:29:26",
+        "edited_unixtime": "1730795366",
+        "from": "Сенненский уезд, Могилевская губерния",
+        "from_id": "channel1954910566",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "инвентарь Бобр 1573 osr.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": [
+            "1573 г., Января 16 дня. Инвентарь имения ",
+            {
+                "type": "bold",
+                "text": "Бобра"
+            },
+            "\n\n[1888. Акты издаваемые Виленской Археографической комиссиею. Том 14. Инвентарии имений XVI-го столетия]"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "1573 г., Января 16 дня. Инвентарь имения "
+            },
+            {
+                "type": "bold",
+                "text": "Бобра"
+            },
+            {
+                "type": "plain",
+                "text": "\n\n[1888. Акты издаваемые Виленской Археографической комиссиею. Том 14. Инвентарии имений XVI-го столетия]"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Лена",
+                        "from_id": "user1918841697",
+                        "date": "2024-11-05T15:56:40"
+                    },
+                    {
+                        "from": "Eka",
+                        "from_id": "user510598726",
+                        "date": "2024-11-05T12:11:42"
+                    },
+                    {
+                        "from": "Alena Rusakovich",
+                        "from_id": "user455467923",
+                        "date": "2024-11-05T11:52:44"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4346,
+        "type": "message",
+        "date": "2024-12-16T11:39:10",
+        "date_unixtime": "1734338350",
+        "edited": "2024-12-16T11:46:02",
+        "edited_unixtime": "1734338762",
+        "from": "Сенненский уезд, Могилевская губерния",
+        "from_id": "channel1954910566",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "м_Бобр,_1773,_Тарифы_податей_со_староств_Оршанского_повета,_принадлежавших.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "м. Бобр, 1773, Тарифы податей со староств Оршанского повета, принадлежавших ВКЛ.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "м. Бобр, 1773, Тарифы податей со староств Оршанского повета, принадлежавших ВКЛ."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Alena Rusakovich",
+                        "from_id": "user455467923",
+                        "date": "2024-12-16T17:46:32"
+                    },
+                    {
+                        "from": "Eka",
+                        "from_id": "user510598726",
+                        "date": "2024-12-16T15:39:28"
+                    },
+                    {
+                        "from": "NinaEK",
+                        "from_id": "user1168230259",
+                        "date": "2024-12-16T11:54:07"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤"
+            }
+        ]
+    },
+    {
+        "id": 4385,
+        "type": "message",
+        "date": "2025-01-14T14:12:44",
+        "date_unixtime": "1736853164",
+        "edited": "2025-01-14T14:13:47",
+        "edited_unixtime": "1736853227",
+        "from": "Сенненский уезд, Могилевская губерния",
+        "from_id": "channel1954910566",
+        "forwarded_from": "Уездный Бот Беларуси",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Sennenskiy_2003.djvu",
+        "mime_type": "image/vnd.djvu+multipage",
+        "text": "Память. Сенненский район",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Сенненский район"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Natasha",
+                        "from_id": "user1230705279",
+                        "date": "2025-01-15T00:13:42"
+                    },
+                    {
+                        "from": "Лена",
+                        "from_id": "user1918841697",
+                        "date": "2025-01-14T14:13:47"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4389,
+        "type": "message",
+        "date": "2025-01-14T14:14:50",
+        "date_unixtime": "1736853290",
+        "from": "Сенненский уезд, Могилевская губерния",
+        "from_id": "channel1954910566",
+        "reply_to_message_id": 725,
+        "text": [
+            {
+                "type": "bold",
+                "text": "Память"
+            },
+            ": ",
+            {
+                "type": "bold",
+                "text": "Толочинский"
+            },
+            " район"
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Память"
+            },
+            {
+                "type": "plain",
+                "text": ": "
+            },
+            {
+                "type": "bold",
+                "text": "Толочинский"
+            },
+            {
+                "type": "plain",
+                "text": " район"
+            }
+        ]
+    },
+    {
+        "id": 4390,
+        "type": "message",
+        "date": "2025-01-14T14:14:50",
+        "date_unixtime": "1736853290",
+        "edited": "2025-01-15T00:13:47",
+        "edited_unixtime": "1736889227",
+        "from": "Сенненский уезд, Могилевская губерния",
+        "from_id": "channel1954910566",
+        "forwarded_from": "Nik",
+        "reply_to_message_id": 725,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Tolochinskiy_Pamyat_1988_[MRC_PrecS].pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Sviatlana",
+                        "from_id": "user380543352",
+                        "date": "2025-01-18T12:57:54"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Natasha",
+                        "from_id": "user1230705279",
+                        "date": "2025-01-15T00:13:47"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4400,
+        "type": "message",
+        "date": "2025-01-18T12:56:58",
+        "date_unixtime": "1737194218",
+        "from": "lara",
+        "from_id": "user831023932",
+        "reply_to_message_id": 4385,
+        "text": "Доброго времени суток,у меня  эта ссылка не открывается,подскажите пожалуйста  почему??",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Доброго времени суток,у меня  эта ссылка не открывается,подскажите пожалуйста  почему??"
+            }
+        ]
+    },
+    {
+        "id": 4401,
+        "type": "message",
+        "date": "2025-01-18T13:00:21",
+        "date_unixtime": "1737194421",
+        "from": "Sviatlana",
+        "from_id": "user380543352",
+        "reply_to_message_id": 4400,
+        "text": "Это не ссылка, это файл. Просто не в привычном формате .pdf, который открывается везде, а в формате .djvu, скачайте и установите себе djvu ридер и файл откроется",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это не ссылка, это файл. Просто не в привычном формате .pdf, который открывается везде, а в формате .djvu, скачайте и установите себе djvu ридер и файл откроется"
+            }
+        ]
+    },
+    {
+        "id": 4402,
+        "type": "message",
+        "date": "2025-01-18T14:32:04",
+        "date_unixtime": "1737199924",
+        "from": "lara",
+        "from_id": "user831023932",
+        "reply_to_message_id": 4401,
+        "text": "Благодарю",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Благодарю"
+            }
+        ]
+    }
+]
