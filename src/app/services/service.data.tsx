@@ -1,6 +1,17 @@
 import path from "path";
 import fs from "fs";
 
+const aboutTopics: any = {};
+
+const topicsList = fs.readdirSync(path.resolve(`public/`), 'utf8');
+
+topicsList.forEach((groupNickName) => {
+    const aboutPath = path.resolve(`public/${groupNickName}/about.json`);
+    const aboutJson = JSON.parse(fs.readFileSync(aboutPath, 'utf8'));
+    aboutTopics[groupNickName] = {...aboutJson, groupNickName};
+});
+
+
 const pathUezd = path.resolve('public/uezdy');
 const pathSrc = path.resolve('public/uezdy/src');
 
@@ -24,4 +35,4 @@ filesTopics.forEach((topicID: string) => {
     });
 });
 
-export {topicsPool, topics};
+export {topicsPool, topics, aboutTopics};

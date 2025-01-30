@@ -1,7 +1,8 @@
 import {Metadata} from "next";
 import React from "react";
 import styles from "@/app/page.module.css";
-import Link from "next/link";
+import {aboutTopics} from "@/app/services/service.data";
+import GroupsMenu from "@/app/components/GroupsMenu";
 
 export const metadata: Metadata = {
     title: 'Генеалогии Беларуси',
@@ -13,7 +14,7 @@ export default async function Home() {
     return (
         <div className={styles.page}>
             <main className={styles.main}>
-                <Link href="/uezdy">Уезды Беларуси (Генеалогия Беларуси)</Link>
+                <GroupsMenu groupsList={Object.values(aboutTopics)} />
             </main>
             <footer className={styles.footer}>
 
