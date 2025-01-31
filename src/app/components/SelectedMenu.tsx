@@ -6,7 +6,6 @@ import Menu from '@mui/joy/Menu';
 import MenuItem from '@mui/joy/MenuItem';
 import Apps from '@mui/icons-material/Apps';
 import Dropdown from '@mui/joy/Dropdown';
-import {TGMessage} from "@/app/components/types";
 import { useRouter } from 'next/navigation';
 
 export default function SelectedMenu({topicsPool, topicId, uezd}: {topicsPool: any, topicId: number, uezd: string}) {

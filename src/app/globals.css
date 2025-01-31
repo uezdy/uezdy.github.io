@@ -22,3 +22,7 @@ a:hover {
 .comment-icon {
   margin: 0 10px;
 }
+
+.base-Popper-root, .MuiMenu-root, .Mui-expanded, .MuiMenu-variantOutlined, .MuiMenu-colorNeutral, .MuiMenu-sizeMd, .css-hsv7c7 {
+  max-height: 75%;
+}
