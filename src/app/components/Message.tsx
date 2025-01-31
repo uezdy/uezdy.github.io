@@ -50,6 +50,9 @@ const TextJoin = ({text}: any) => {
                 if (textEntity.type === 'link') {
                     textString += `<a target="_blank" href="${textEntity.text}">${textEntity.text}</a>`
                 }
+                if (textEntity.type === 'mention') {
+                    textString += `<a target="_blank" href="${`https://t.me/${textEntity.text.replace('@', '')}`}">${textEntity.text}</a>`
+                }
                 if (textEntity.type === 'text_link') {
                     textString += `<a target="_blank" href="${textEntity.href}">${textEntity.text}</a>`
                 }
@@ -58,6 +61,9 @@ const TextJoin = ({text}: any) => {
                 }
                 if (textEntity.type === 'underline') {
                     textString += `<u>${textEntity.text}</u>`;
+                }
+                if (textEntity.type === 'italic') {
+                    textString += `<i>${textEntity.text}</i>`;
                 }
                 if (textEntity.type === 'plain') {
                     textString += textEntity.text;
