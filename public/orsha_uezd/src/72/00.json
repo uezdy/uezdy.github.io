@@ -1,0 +1,2921 @@
+[
+    {
+        "id": 73,
+        "type": "message",
+        "date": "2023-07-29T14:23:12",
+        "date_unixtime": "1690629792",
+        "edited": "2023-08-03T21:10:55",
+        "edited_unixtime": "1691086255",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 72,
+        "text": "🗄 Обсуждаем архивные учреждения и работу в них",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "🗄 Обсуждаем архивные учреждения и работу в них"
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "type": "message",
+        "date": "2023-08-03T19:25:24",
+        "date_unixtime": "1691079924",
+        "edited": "2023-08-24T15:19:02",
+        "edited_unixtime": "1692879542",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 72,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1000,
+        "height": 578,
+        "text": [
+            {
+                "type": "text_link",
+                "text": "🏛",
+                "href": "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij/oblastnye-i-zonalnye-gosudarstvennye-arhivy-v-vitebskoj-oblasti/uchrezhdenie-zonalnyj-gosudarstvennyj-arhiv-v-g-orshe"
+            },
+            " ",
+            {
+                "type": "bold",
+                "text": "Зональный государственный архив в г. Орше"
+            },
+            " (ЗГАОрш)\n\nАдрес: г. Орша, ",
+            {
+                "type": "text_link",
+                "text": "ул. Комсомольская, 21\n\n",
+                "href": "https://yandex.by/maps/-/CXcpI~r"
+            },
+            "Телефон: +375 21 651-20-31\n\nE-mail: ",
+            {
+                "type": "email",
+                "text": "archives-orsha@vitebsk.by"
+            },
+            "\n\nСайты: ",
+            {
+                "type": "text_link",
+                "text": "офф. страница",
+                "href": "http://www.vitebskjust.gov.by/activity/arkhivnoe-delo-i-deloproizvodstvo/gosudarstvennye-arkhivy/zonalnyy-gosudarstvennyy-arkhiv-v-g-orshe.php"
+            },
+            ", ",
+            {
+                "type": "text_link",
+                "text": "райисполком",
+                "href": "https://www.orsha.vitebsk-region.gov.by/uchrezhdenie-zonalnyj-gosudarstvennyj-arkhiv-v-g-orshe"
+            },
+            ", ",
+            {
+                "type": "text_link",
+                "text": "Архивы Беларуси",
+                "href": "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij/oblastnye-i-zonalnye-gosudarstvennye-arhivy-v-vitebskoj-oblasti/uchrezhdenie-zonalnyj-gosudarstvennyj-arhiv-v-g-orshe"
+            },
+            ", ",
+            {
+                "type": "text_link",
+                "text": "YouTube",
+                "href": "https://www.youtube.com/@TheBelosnejhka"
+            },
+            ", ",
+            {
+                "type": "text_link",
+                "text": "Instagram",
+                "href": "https://www.instagram.com/archive_orsha/"
+            },
+            ", ",
+            {
+                "type": "text_link",
+                "text": "OK.ru",
+                "href": "https://ok.ru/group/62208817299571"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "text_link",
+                "text": "🏛",
+                "href": "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij/oblastnye-i-zonalnye-gosudarstvennye-arhivy-v-vitebskoj-oblasti/uchrezhdenie-zonalnyj-gosudarstvennyj-arhiv-v-g-orshe"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "bold",
+                "text": "Зональный государственный архив в г. Орше"
+            },
+            {
+                "type": "plain",
+                "text": " (ЗГАОрш)\n\nАдрес: г. Орша, "
+            },
+            {
+                "type": "text_link",
+                "text": "ул. Комсомольская, 21\n\n",
+                "href": "https://yandex.by/maps/-/CXcpI~r"
+            },
+            {
+                "type": "plain",
+                "text": "Телефон: +375 21 651-20-31\n\nE-mail: "
+            },
+            {
+                "type": "email",
+                "text": "archives-orsha@vitebsk.by"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nСайты: "
+            },
+            {
+                "type": "text_link",
+                "text": "офф. страница",
+                "href": "http://www.vitebskjust.gov.by/activity/arkhivnoe-delo-i-deloproizvodstvo/gosudarstvennye-arkhivy/zonalnyy-gosudarstvennyy-arkhiv-v-g-orshe.php"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "райисполком",
+                "href": "https://www.orsha.vitebsk-region.gov.by/uchrezhdenie-zonalnyj-gosudarstvennyj-arkhiv-v-g-orshe"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "Архивы Беларуси",
+                "href": "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij/oblastnye-i-zonalnye-gosudarstvennye-arhivy-v-vitebskoj-oblasti/uchrezhdenie-zonalnyj-gosudarstvennyj-arhiv-v-g-orshe"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "YouTube",
+                "href": "https://www.youtube.com/@TheBelosnejhka"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "Instagram",
+                "href": "https://www.instagram.com/archive_orsha/"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "OK.ru",
+                "href": "https://ok.ru/group/62208817299571"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "type": "message",
+        "date": "2023-08-03T20:04:01",
+        "date_unixtime": "1691082241",
+        "edited": "2023-08-03T20:08:19",
+        "edited_unixtime": "1691082499",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 72,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 837,
+        "text": [
+            {
+                "type": "text_link",
+                "text": "🏛",
+                "href": "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij/oblastnye-i-zonalnye-gosudarstvennye-arhivy-v-vitebskoj-oblasti/uchrezhdenie-zonalnyj-gosudarstvennyj-arhiv-v-g-orshe"
+            },
+            " ",
+            {
+                "type": "bold",
+                "text": "Национальный архив Республики Беларусь"
+            },
+            " (НАРБ)\n\nАдрес: г. Минск, ",
+            {
+                "type": "text_link",
+                "text": "пр. Независимости, 116\n\n",
+                "href": "https://yandex.by/maps/-/CXgmyuQ"
+            },
+            "Телефон: +375 17 351-05-12 (чит. зал)\n\nE-mail: ",
+            {
+                "type": "email",
+                "text": "info@mail.narb.by"
+            },
+            " и ",
+            {
+                "type": "email",
+                "text": "reading.hall@mail.ru"
+            },
+            "\n\nСайты: ",
+            {
+                "type": "text_link",
+                "text": "офф. сайт",
+                "href": "https://narb.by/"
+            },
+            ", ",
+            {
+                "type": "text_link",
+                "text": "Архивы Беларуси",
+                "href": "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij/respublikanskie-arhivnye-uchrezhdeniya/gosudarstvennoe-uchrezhdenie-naczionalnyj-arhiv-respubliki-belarus-narb"
+            },
+            ", ",
+            {
+                "type": "text_link",
+                "text": "Facebook",
+                "href": "https://www.facebook.com/profile.php?id=100069685265900"
+            },
+            ", ",
+            {
+                "type": "text_link",
+                "text": "Instagram",
+                "href": "https://www.instagram.com/narb1927/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "text_link",
+                "text": "🏛",
+                "href": "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij/oblastnye-i-zonalnye-gosudarstvennye-arhivy-v-vitebskoj-oblasti/uchrezhdenie-zonalnyj-gosudarstvennyj-arhiv-v-g-orshe"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "bold",
+                "text": "Национальный архив Республики Беларусь"
+            },
+            {
+                "type": "plain",
+                "text": " (НАРБ)\n\nАдрес: г. Минск, "
+            },
+            {
+                "type": "text_link",
+                "text": "пр. Независимости, 116\n\n",
+                "href": "https://yandex.by/maps/-/CXgmyuQ"
+            },
+            {
+                "type": "plain",
+                "text": "Телефон: +375 17 351-05-12 (чит. зал)\n\nE-mail: "
+            },
+            {
+                "type": "email",
+                "text": "info@mail.narb.by"
+            },
+            {
+                "type": "plain",
+                "text": " и "
+            },
+            {
+                "type": "email",
+                "text": "reading.hall@mail.ru"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nСайты: "
+            },
+            {
+                "type": "text_link",
+                "text": "офф. сайт",
+                "href": "https://narb.by/"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "Архивы Беларуси",
+                "href": "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij/respublikanskie-arhivnye-uchrezhdeniya/gosudarstvennoe-uchrezhdenie-naczionalnyj-arhiv-respubliki-belarus-narb"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "Facebook",
+                "href": "https://www.facebook.com/profile.php?id=100069685265900"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "Instagram",
+                "href": "https://www.instagram.com/narb1927/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "type": "message",
+        "date": "2023-08-03T20:20:36",
+        "date_unixtime": "1691083236",
+        "edited": "2023-08-03T20:22:31",
+        "edited_unixtime": "1691083351",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 72,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 732,
+        "text": [
+            {
+                "type": "text_link",
+                "text": "🏛",
+                "href": "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij/oblastnye-i-zonalnye-gosudarstvennye-arhivy-v-vitebskoj-oblasti/uchrezhdenie-zonalnyj-gosudarstvennyj-arhiv-v-g-orshe"
+            },
+            " ",
+            {
+                "type": "bold",
+                "text": "Национальный исторический архив Беларуси"
+            },
+            " (НИАБ)\n\nАдрес: г. Минск, ",
+            {
+                "type": "text_link",
+                "text": "ул. Кропоткина, 55\n\n",
+                "href": "https://yandex.by/maps/-/CXgyBfC"
+            },
+            "Телефон: +375 17 363-43-09 (ЧЗ №1) и +375 17 361-15-56 (ЧЗ №2)\n\nE-mail: ",
+            {
+                "type": "email",
+                "text": "niab@niab.by"
+            },
+            " и ",
+            {
+                "type": "email",
+                "text": "chit.zal@niab.by"
+            },
+            "\n\nСайты: ",
+            {
+                "type": "text_link",
+                "text": "офф. сайт",
+                "href": "https://niab.by/newsite/"
+            },
+            ", ",
+            {
+                "type": "text_link",
+                "text": "Архивы Беларуси",
+                "href": "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij/respublikanskie-arhivnye-uchrezhdeniya/gosudarstvennoe-uchrezhdenie-naczionalnyj-istoricheskij-arhiv-belarusi-niab"
+            },
+            ", ",
+            {
+                "type": "text_link",
+                "text": "YouTube",
+                "href": "https://www.youtube.com/@user-ey9si5tf9f"
+            },
+            ", ",
+            {
+                "type": "text_link",
+                "text": "Facebook",
+                "href": "https://www.facebook.com/NHAB1551"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "text_link",
+                "text": "🏛",
+                "href": "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij/oblastnye-i-zonalnye-gosudarstvennye-arhivy-v-vitebskoj-oblasti/uchrezhdenie-zonalnyj-gosudarstvennyj-arhiv-v-g-orshe"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "bold",
+                "text": "Национальный исторический архив Беларуси"
+            },
+            {
+                "type": "plain",
+                "text": " (НИАБ)\n\nАдрес: г. Минск, "
+            },
+            {
+                "type": "text_link",
+                "text": "ул. Кропоткина, 55\n\n",
+                "href": "https://yandex.by/maps/-/CXgyBfC"
+            },
+            {
+                "type": "plain",
+                "text": "Телефон: +375 17 363-43-09 (ЧЗ №1) и +375 17 361-15-56 (ЧЗ №2)\n\nE-mail: "
+            },
+            {
+                "type": "email",
+                "text": "niab@niab.by"
+            },
+            {
+                "type": "plain",
+                "text": " и "
+            },
+            {
+                "type": "email",
+                "text": "chit.zal@niab.by"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nСайты: "
+            },
+            {
+                "type": "text_link",
+                "text": "офф. сайт",
+                "href": "https://niab.by/newsite/"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "Архивы Беларуси",
+                "href": "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij/respublikanskie-arhivnye-uchrezhdeniya/gosudarstvennoe-uchrezhdenie-naczionalnyj-istoricheskij-arhiv-belarusi-niab"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "YouTube",
+                "href": "https://www.youtube.com/@user-ey9si5tf9f"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "Facebook",
+                "href": "https://www.facebook.com/NHAB1551"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "type": "message",
+        "date": "2023-08-03T20:54:04",
+        "date_unixtime": "1691085244",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 72,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 935,
+        "text": [
+            {
+                "type": "text_link",
+                "text": "🏛",
+                "href": "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij/oblastnye-i-zonalnye-gosudarstvennye-arhivy-v-vitebskoj-oblasti/uchrezhdenie-zonalnyj-gosudarstvennyj-arhiv-v-g-orshe"
+            },
+            " ",
+            {
+                "type": "bold",
+                "text": "Государственный архив Смоленской области"
+            },
+            " (ГАСО)\n\nАдрес: г. Смоленск, ",
+            {
+                "type": "text_link",
+                "text": "ул. Нахимова, 29Б\n\n",
+                "href": "https://yandex.by/maps/-/CXgVjus"
+            },
+            "Телефон: +7 4812 38-65-60\n\nE-mail: ",
+            {
+                "type": "email",
+                "text": "smolenskarhiv@yandex.ru"
+            },
+            "\n\nСайты: ",
+            {
+                "type": "text_link",
+                "text": "офф. сайт",
+                "href": "https://gaso.admin-smolensk.ru/"
+            },
+            ", ",
+            {
+                "type": "text_link",
+                "text": "VK.com",
+                "href": "https://vk.com/club215441150"
+            },
+            ", ",
+            {
+                "type": "text_link",
+                "text": "OK.ru",
+                "href": "https://ok.ru/group/70000001632473"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "text_link",
+                "text": "🏛",
+                "href": "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij/oblastnye-i-zonalnye-gosudarstvennye-arhivy-v-vitebskoj-oblasti/uchrezhdenie-zonalnyj-gosudarstvennyj-arhiv-v-g-orshe"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "bold",
+                "text": "Государственный архив Смоленской области"
+            },
+            {
+                "type": "plain",
+                "text": " (ГАСО)\n\nАдрес: г. Смоленск, "
+            },
+            {
+                "type": "text_link",
+                "text": "ул. Нахимова, 29Б\n\n",
+                "href": "https://yandex.by/maps/-/CXgVjus"
+            },
+            {
+                "type": "plain",
+                "text": "Телефон: +7 4812 38-65-60\n\nE-mail: "
+            },
+            {
+                "type": "email",
+                "text": "smolenskarhiv@yandex.ru"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nСайты: "
+            },
+            {
+                "type": "text_link",
+                "text": "офф. сайт",
+                "href": "https://gaso.admin-smolensk.ru/"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "VK.com",
+                "href": "https://vk.com/club215441150"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "OK.ru",
+                "href": "https://ok.ru/group/70000001632473"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 292,
+        "type": "message",
+        "date": "2023-08-04T19:01:02",
+        "date_unixtime": "1691164862",
+        "edited": "2023-08-04T19:01:09",
+        "edited_unixtime": "1691164869",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 72,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 903,
+        "text": [
+            {
+                "type": "text_link",
+                "text": "🏛",
+                "href": "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij/oblastnye-i-zonalnye-gosudarstvennye-arhivy-v-vitebskoj-oblasti/uchrezhdenie-zonalnyj-gosudarstvennyj-arhiv-v-g-orshe"
+            },
+            " ",
+            {
+                "type": "bold",
+                "text": "Российский государственный исторический архив"
+            },
+            " (РГИА)\n\nАдрес: г.",
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://yandex.by/maps/-/CXgVjus"
+            },
+            "Санкт-Петербург, ",
+            {
+                "type": "text_link",
+                "text": "Заневский просп., 36\n\n",
+                "href": "https://yandex.by/maps/-/CXTkZjB"
+            },
+            "Телефон: +7 812 438-55-54\n\nE-mail: ",
+            {
+                "type": "email",
+                "text": "fgurgiasic@mail.ru"
+            },
+            " и ",
+            {
+                "type": "email",
+                "text": "rgiakidr@mail.ru"
+            },
+            "\n\nСайты: ",
+            {
+                "type": "text_link",
+                "text": "офф. сайт",
+                "href": "https://fgurgia.ru/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "text_link",
+                "text": "🏛",
+                "href": "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij/oblastnye-i-zonalnye-gosudarstvennye-arhivy-v-vitebskoj-oblasti/uchrezhdenie-zonalnyj-gosudarstvennyj-arhiv-v-g-orshe"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "bold",
+                "text": "Российский государственный исторический архив"
+            },
+            {
+                "type": "plain",
+                "text": " (РГИА)\n\nАдрес: г."
+            },
+            {
+                "type": "text_link",
+                "text": " ",
+                "href": "https://yandex.by/maps/-/CXgVjus"
+            },
+            {
+                "type": "plain",
+                "text": "Санкт-Петербург, "
+            },
+            {
+                "type": "text_link",
+                "text": "Заневский просп., 36\n\n",
+                "href": "https://yandex.by/maps/-/CXTkZjB"
+            },
+            {
+                "type": "plain",
+                "text": "Телефон: +7 812 438-55-54\n\nE-mail: "
+            },
+            {
+                "type": "email",
+                "text": "fgurgiasic@mail.ru"
+            },
+            {
+                "type": "plain",
+                "text": " и "
+            },
+            {
+                "type": "email",
+                "text": "rgiakidr@mail.ru"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nСайты: "
+            },
+            {
+                "type": "text_link",
+                "text": "офф. сайт",
+                "href": "https://fgurgia.ru/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 293,
+        "type": "message",
+        "date": "2023-08-04T19:01:26",
+        "date_unixtime": "1691164886",
+        "edited": "2023-08-28T23:47:48",
+        "edited_unixtime": "1693255668",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 72,
+        "text": [
+            {
+                "type": "bold",
+                "text": "- Какие МК по Оршанскому уезду есть в "
+            },
+            {
+                "type": "text_link",
+                "text": "ГАСО",
+                "href": "https://t.me/orsha_uezd/72/233"
+            },
+            {
+                "type": "bold",
+                "text": "?\n\n"
+            },
+            "Официальный ответ со Смоленского архива о наличии метрик церквей по Могилевской губернии.\nОршанский уезд: Любавичи, Микулино, Ольша, Гусино, Рудня, Герасименки, Лешно, Елисеенки, Заозерье, Бель, Привольское, Шилово, Хомино.\n\nПодробнее:\n- м. Любавичи, Успенская церковь, Николаевская церковь\n- с. Микулино, Троицкая церковь\n- с. Ольша, Ольшанская Александро-Невская церковь\n- с. Гусино, Ильинская церковь\n- м. Рудня, Духовская церковь, Благовещенская церковь\n- с. Герасименки, церковь Григория Богословского\n- с. Лешно, Покровская церковь\n- с. Елисеевка, Елисеевская Преображенская церковь\n- с. Заозерье, Свято-Владимирская церковь\n- с. Бель (Старая Бель), Микулинская волость, Старо-Бельская, Покровская\n- с. Приволье, Казанская церковь\n- с. Шилово, Петропавловская церковь\n- с. Хомино, Горецкий уезд, Вознесенская церковь\n\nМК не всех лет и не в полном объеме. Где-то есть все записи (рождения, браки и смерти), где-то частично.\n\nИсточники: ",
+            {
+                "type": "text_link",
+                "text": "раз",
+                "href": "https://forum.vgd.ru/post/3473/47107/p2612085.htm#pp2612085"
+            },
+            " и ",
+            {
+                "type": "text_link",
+                "text": "два",
+                "href": "https://forum.vgd.ru/post/3473/47107/p3308991.htm#pp3308991"
+            },
+            "."
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "- Какие МК по Оршанскому уезду есть в "
+            },
+            {
+                "type": "text_link",
+                "text": "ГАСО",
+                "href": "https://t.me/orsha_uezd/72/233"
+            },
+            {
+                "type": "bold",
+                "text": "?\n\n"
+            },
+            {
+                "type": "plain",
+                "text": "Официальный ответ со Смоленского архива о наличии метрик церквей по Могилевской губернии.\nОршанский уезд: Любавичи, Микулино, Ольша, Гусино, Рудня, Герасименки, Лешно, Елисеенки, Заозерье, Бель, Привольское, Шилово, Хомино.\n\nПодробнее:\n- м. Любавичи, Успенская церковь, Николаевская церковь\n- с. Микулино, Троицкая церковь\n- с. Ольша, Ольшанская Александро-Невская церковь\n- с. Гусино, Ильинская церковь\n- м. Рудня, Духовская церковь, Благовещенская церковь\n- с. Герасименки, церковь Григория Богословского\n- с. Лешно, Покровская церковь\n- с. Елисеевка, Елисеевская Преображенская церковь\n- с. Заозерье, Свято-Владимирская церковь\n- с. Бель (Старая Бель), Микулинская волость, Старо-Бельская, Покровская\n- с. Приволье, Казанская церковь\n- с. Шилово, Петропавловская церковь\n- с. Хомино, Горецкий уезд, Вознесенская церковь\n\nМК не всех лет и не в полном объеме. Где-то есть все записи (рождения, браки и смерти), где-то частично.\n\nИсточники: "
+            },
+            {
+                "type": "text_link",
+                "text": "раз",
+                "href": "https://forum.vgd.ru/post/3473/47107/p2612085.htm#pp2612085"
+            },
+            {
+                "type": "plain",
+                "text": " и "
+            },
+            {
+                "type": "text_link",
+                "text": "два",
+                "href": "https://forum.vgd.ru/post/3473/47107/p3308991.htm#pp3308991"
+            },
+            {
+                "type": "plain",
+                "text": "."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user1078006405",
+                        "date": "2024-10-06T04:05:58"
+                    },
+                    {
+                        "from": "Алена",
+                        "from_id": "user1617817551",
+                        "date": "2023-09-24T14:01:00"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "P",
+                        "from_id": "user201810877",
+                        "date": "2023-08-28T23:47:48"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 294,
+        "type": "message",
+        "date": "2023-08-04T19:02:08",
+        "date_unixtime": "1691164928",
+        "edited": "2023-08-16T22:36:05",
+        "edited_unixtime": "1692214565",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 72,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "База_данных_по_ревизским_сказкам_Оршанского_уезда.xlsx",
+        "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "text": [
+            "База данных по ",
+            {
+                "type": "bold",
+                "text": "ревизским сказкам Оршанского уезда"
+            },
+            " Могилёвской губернии в НИАБ Минска\nИсточник: ",
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/post/4092/108659/p3313544.htm#pp3313544"
+            },
+            "\nАктуальность: 17.02.2023"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "База данных по "
+            },
+            {
+                "type": "bold",
+                "text": "ревизским сказкам Оршанского уезда"
+            },
+            {
+                "type": "plain",
+                "text": " Могилёвской губернии в НИАБ Минска\nИсточник: "
+            },
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/post/4092/108659/p3313544.htm#pp3313544"
+            },
+            {
+                "type": "plain",
+                "text": "\nАктуальность: 17.02.2023"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤‍🔥",
+                "recent": [
+                    {
+                        "from": "Tamara",
+                        "from_id": "user1671919642",
+                        "date": "2023-10-21T15:14:36"
+                    },
+                    {
+                        "from": "Artur Golovanov",
+                        "from_id": "user1098899921",
+                        "date": "2023-08-16T22:36:05"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 295,
+        "type": "message",
+        "date": "2023-08-04T19:02:28",
+        "date_unixtime": "1691164948",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 72,
+        "text": [
+            {
+                "type": "bold",
+                "text": "Списки МК в НИАБ с сайта «Архивы Беларуси"
+            },
+            "»\n\n",
+            {
+                "type": "text_link",
+                "text": "Метрические книги православных церквей Оршанского уезда Могилевской губернии\n",
+                "href": "https://archives.gov.by/home/genealogiya/metricheskie-knigi/metricheskie-knigi-pravoslavnyh-i-uniatskih-greko-katolicheskih-czerkvej/metricheskie-knigi-pravoslavnyh-czerkvej-orshanskogo-uezda-mogilevskoj-gubernii"
+            },
+            {
+                "type": "text_link",
+                "text": "Метрические книги католических костелов Оршанского уезда Могилевской губернии",
+                "href": "https://archives.gov.by/home/genealogiya/metricheskie-knigi/metricheskie-knigi-katolicheskih-kostelov/metricheskie-knigi-katolicheskih-kostelov-orshanskogo-uezda-mogilevskoj-gubernii"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Списки МК в НИАБ с сайта «Архивы Беларуси"
+            },
+            {
+                "type": "plain",
+                "text": "»\n\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Метрические книги православных церквей Оршанского уезда Могилевской губернии\n",
+                "href": "https://archives.gov.by/home/genealogiya/metricheskie-knigi/metricheskie-knigi-pravoslavnyh-i-uniatskih-greko-katolicheskih-czerkvej/metricheskie-knigi-pravoslavnyh-czerkvej-orshanskogo-uezda-mogilevskoj-gubernii"
+            },
+            {
+                "type": "text_link",
+                "text": "Метрические книги католических костелов Оршанского уезда Могилевской губернии",
+                "href": "https://archives.gov.by/home/genealogiya/metricheskie-knigi/metricheskie-knigi-katolicheskih-kostelov/metricheskie-knigi-katolicheskih-kostelov-orshanskogo-uezda-mogilevskoj-gubernii"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 318,
+        "type": "message",
+        "date": "2023-08-04T23:45:49",
+        "date_unixtime": "1691181949",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Anastasia Starshova",
+        "reply_to_message_id": 72,
+        "text": "На всякий случай: списки воспитанниц Оршанской женской духовной семинарии получавших земские стипендии и тоже Рогачевской учительской семинарии за 1915 год. Фонд 2084 НИАБ, опись стр. 32",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На всякий случай: списки воспитанниц Оршанской женской духовной семинарии получавших земские стипендии и тоже Рогачевской учительской семинарии за 1915 год. Фонд 2084 НИАБ, опись стр. 32"
+            }
+        ]
+    },
+    {
+        "id": 319,
+        "type": "message",
+        "date": "2023-08-04T23:45:49",
+        "date_unixtime": "1691181949",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Anastasia Starshova",
+        "reply_to_message_id": 72,
+        "text": "Фонд 2084 НИАБ, опись стр. 39. Дело о выдаче крестьянке Дальшевой Марии Филипповне пособия на воспитание сына. Дело о назначении пособия мещанке Павловой Анне. Дело о назначении пособия крестьянке Домниковой Прасковье Ивановне\nДело о назначении пособия мещанке Колосовской Александре Ивановне. \nСтр. 40 Дело о назначении пособия мещанке Шмиттовой Ефросинье Федоровне.\nДело о прекращении выдачи пособия крестьянке Федоровой Марии Петровне. Это все по Могилевской губернии без указания волостей и уездов",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Фонд 2084 НИАБ, опись стр. 39. Дело о выдаче крестьянке Дальшевой Марии Филипповне пособия на воспитание сына. Дело о назначении пособия мещанке Павловой Анне. Дело о назначении пособия крестьянке Домниковой Прасковье Ивановне\nДело о назначении пособия мещанке Колосовской Александре Ивановне. \nСтр. 40 Дело о назначении пособия мещанке Шмиттовой Ефросинье Федоровне.\nДело о прекращении выдачи пособия крестьянке Федоровой Марии Петровне. Это все по Могилевской губернии без указания волостей и уездов"
+            }
+        ]
+    },
+    {
+        "id": 643,
+        "type": "message",
+        "date": "2023-08-24T15:25:59",
+        "date_unixtime": "1692879959",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 229,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 832,
+        "height": 305,
+        "text": "Заметил ошибку в е-мейл адресе архива. Если скопировать из шапки со страниц ГлавУпрЮста или Райисполкома, то письмо не отправится.\nНа сайте Архивы Беларуси ящик правильный.\nИ в этом посте я тоже исправил.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Заметил ошибку в е-мейл адресе архива. Если скопировать из шапки со страниц ГлавУпрЮста или Райисполкома, то письмо не отправится.\nНа сайте Архивы Беларуси ящик правильный.\nИ в этом посте я тоже исправил."
+            }
+        ]
+    },
+    {
+        "id": 644,
+        "type": "message",
+        "date": "2023-08-24T15:26:53",
+        "date_unixtime": "1692880013",
+        "edited": "2023-08-24T15:27:12",
+        "edited_unixtime": "1692880032",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 72,
+        "text": "Собираюсь 30 августа съездить в ЗГА. Но боюсь, что помочь еще кому-то не смогу. Надо успеть свои деревни просмотреть за 6.5 часов)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Собираюсь 30 августа съездить в ЗГА. Но боюсь, что помочь еще кому-то не смогу. Надо успеть свои деревни просмотреть за 6.5 часов)"
+            }
+        ]
+    },
+    {
+        "id": 645,
+        "type": "message",
+        "date": "2023-08-24T15:28:30",
+        "date_unixtime": "1692880110",
+        "edited": "2023-08-24T15:47:21",
+        "edited_unixtime": "1692881241",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 72,
+        "text": [
+            "Также планирую сделать копии именного указателя к Оршанскому уездному военкомату: ",
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/post/3473/47107/p1490988.htm#pp1490988"
+            },
+            "\nПочему-то до сих пор никто им не поделился. Я потом загружу)"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Также планирую сделать копии именного указателя к Оршанскому уездному военкомату: "
+            },
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/post/3473/47107/p1490988.htm#pp1490988"
+            },
+            {
+                "type": "plain",
+                "text": "\nПочему-то до сих пор никто им не поделился. Я потом загружу)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Oksana Amirkhanova",
+                        "from_id": "user5190815920",
+                        "date": "2023-10-07T08:29:23"
+                    },
+                    {
+                        "from": "P",
+                        "from_id": "user201810877",
+                        "date": "2023-08-27T02:02:37"
+                    },
+                    {
+                        "from": "Анастасия",
+                        "from_id": "user5226421952",
+                        "date": "2023-08-24T16:43:26"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 647,
+        "type": "message",
+        "date": "2023-08-24T15:30:32",
+        "date_unixtime": "1692880232",
+        "edited": "2023-08-24T15:30:39",
+        "edited_unixtime": "1692880239",
+        "from": "Маргарита",
+        "from_id": "user466128954",
+        "reply_to_message_id": 644,
+        "text": "Поделитесь, пожалуйста, опытом - какие фонды смотрите?\nизучала на Архивы Беларуси - не нашла ничего, что помогло в генеологических поисках. Может что-то пропустила",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Поделитесь, пожалуйста, опытом - какие фонды смотрите?\nизучала на Архивы Беларуси - не нашла ничего, что помогло в генеологических поисках. Может что-то пропустила"
+            }
+        ]
+    },
+    {
+        "id": 648,
+        "type": "message",
+        "date": "2023-08-24T15:32:40",
+        "date_unixtime": "1692880360",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 647,
+        "text": [
+            "В основном похозяйственные книги, плюс нашел через ",
+            {
+                "type": "link",
+                "text": "sodd.by"
+            },
+            " наследственное дело дедушки.\nИ вот эти списки военнообязанных из фонда 1447.\n\nПолный список ПХК, которые буду смотреть:\nф. 311 оп. 2-УД д. 3 л. 1-66 --- Борейшево дер. 1944 - 1946\nф. 311 оп. 2-УД д. 11 л. 1-71 --- Борейшево дер. 1946 - 1948\nф. 94 оп. 2-УД д. 4 л. 1-132 --- Смольяны м. 1944 - 1946\nф. 94 оп. 2-УД д. 5 л. 1-78 --- Смольяны дер. 1944 - 1946\nф. 94 оп. 2-УД д. 11 л. 1-199 --- Смольяны м. 1946 - 1948\nф. 94 оп. 2-УД д. 12 л. 1-127 --- Смольяны м. 1946 - 1948\nф. 323 оп. 2-УД д. 8 л. 1-78 --- Погостик дер. 1944 - 1946\nф. 323 оп. 2-УД д. 18 л. 1-73 --- Погостик дер. 1946 - 1948\nф. 323 оп. 2-УД д. 5 л. 1-24 --- Росский Селец дер. 1944 - 1946\nф. 323 оп. 2-УД д. 9 л. 1-70 --- Росский Селец дер. 1944 - 1946\nф. 323 оп. 2-УД д. 17 л. 1-97 --- Росский Селец дер. 1946 - 1948"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В основном похозяйственные книги, плюс нашел через "
+            },
+            {
+                "type": "link",
+                "text": "sodd.by"
+            },
+            {
+                "type": "plain",
+                "text": " наследственное дело дедушки.\nИ вот эти списки военнообязанных из фонда 1447.\n\nПолный список ПХК, которые буду смотреть:\nф. 311 оп. 2-УД д. 3 л. 1-66 --- Борейшево дер. 1944 - 1946\nф. 311 оп. 2-УД д. 11 л. 1-71 --- Борейшево дер. 1946 - 1948\nф. 94 оп. 2-УД д. 4 л. 1-132 --- Смольяны м. 1944 - 1946\nф. 94 оп. 2-УД д. 5 л. 1-78 --- Смольяны дер. 1944 - 1946\nф. 94 оп. 2-УД д. 11 л. 1-199 --- Смольяны м. 1946 - 1948\nф. 94 оп. 2-УД д. 12 л. 1-127 --- Смольяны м. 1946 - 1948\nф. 323 оп. 2-УД д. 8 л. 1-78 --- Погостик дер. 1944 - 1946\nф. 323 оп. 2-УД д. 18 л. 1-73 --- Погостик дер. 1946 - 1948\nф. 323 оп. 2-УД д. 5 л. 1-24 --- Росский Селец дер. 1944 - 1946\nф. 323 оп. 2-УД д. 9 л. 1-70 --- Росский Селец дер. 1944 - 1946\nф. 323 оп. 2-УД д. 17 л. 1-97 --- Росский Селец дер. 1946 - 1948"
+            }
+        ]
+    },
+    {
+        "id": 649,
+        "type": "message",
+        "date": "2023-08-24T15:33:12",
+        "date_unixtime": "1692880392",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 72,
+        "text": "Лимит по кол-ву дел - 20 штук, как подсказали по телефону",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Лимит по кол-ву дел - 20 штук, как подсказали по телефону"
+            }
+        ]
+    },
+    {
+        "id": 650,
+        "type": "message",
+        "date": "2023-08-24T15:33:35",
+        "date_unixtime": "1692880415",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 72,
+        "text": "Хотя в Уездах люди писали, что некоторым и больше выдавали, если успевали все просмотреть )",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Хотя в Уездах люди писали, что некоторым и больше выдавали, если успевали все просмотреть )"
+            }
+        ]
+    },
+    {
+        "id": 651,
+        "type": "message",
+        "date": "2023-08-24T15:34:13",
+        "date_unixtime": "1692880453",
+        "from": "Александр",
+        "from_id": "user382356702",
+        "reply_to_message_id": 72,
+        "text": "Подскажите пожалуйста где я могу найти информацию, отец прапрабабушки записан в метрической книге как оршанский мещанин, его жизнь в том городе где родилась его дочь не прослеживается, есть перепись евреев за 1850-1882 года примерно?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Подскажите пожалуйста где я могу найти информацию, отец прапрабабушки записан в метрической книге как оршанский мещанин, его жизнь в том городе где родилась его дочь не прослеживается, есть перепись евреев за 1850-1882 года примерно?"
+            }
+        ]
+    },
+    {
+        "id": 652,
+        "type": "message",
+        "date": "2023-08-24T15:34:47",
+        "date_unixtime": "1692880487",
+        "from": "Маргарита",
+        "from_id": "user466128954",
+        "reply_to_message_id": 648,
+        "text": "Поняла. Спасибо, пересмотрю\nНо как я понимаю, найти что-то довоенное там не получится, верно?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Поняла. Спасибо, пересмотрю\nНо как я понимаю, найти что-то довоенное там не получится, верно?"
+            }
+        ]
+    },
+    {
+        "id": 653,
+        "type": "message",
+        "date": "2023-08-24T15:35:27",
+        "date_unixtime": "1692880527",
+        "edited": "2024-07-10T00:59:00",
+        "edited_unixtime": "1720562340",
+        "from": "Маргарита",
+        "from_id": "user466128954",
+        "reply_to_message_id": 650,
+        "text": "Расскажите, потом, пожалуйста, об опыте визита\nПланирую доехать)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Расскажите, потом, пожалуйста, об опыте визита\nПланирую доехать)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Вера",
+                        "from_id": "user1854461233",
+                        "date": "2024-07-10T00:59:00"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 654,
+        "type": "message",
+        "date": "2023-08-24T15:35:44",
+        "date_unixtime": "1692880544",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 652,
+        "text": "Да, там только послевоенное. Но в ПХК должны быть и люди, рожденные до 1900 года) Бабушки и дедушки тех, кто был жив в 1944-48-м",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, там только послевоенное. Но в ПХК должны быть и люди, рожденные до 1900 года) Бабушки и дедушки тех, кто был жив в 1944-48-м"
+            }
+        ]
+    },
+    {
+        "id": 655,
+        "type": "message",
+        "date": "2023-08-24T15:35:57",
+        "date_unixtime": "1692880557",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 653,
+        "text": "Обязательно 👍",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Обязательно 👍"
+            }
+        ]
+    },
+    {
+        "id": 656,
+        "type": "message",
+        "date": "2023-08-24T15:36:21",
+        "date_unixtime": "1692880581",
+        "edited": "2023-08-24T15:36:54",
+        "edited_unixtime": "1692880614",
+        "from": "Маргарита",
+        "from_id": "user466128954",
+        "reply_to_message_id": 654,
+        "text": "Справедливо\nудачи вам в поисках!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Справедливо\nудачи вам в поисках!"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🙏",
+                "recent": [
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2023-08-24T15:36:54"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 657,
+        "type": "message",
+        "date": "2023-08-24T15:38:22",
+        "date_unixtime": "1692880702",
+        "from": "Александр",
+        "from_id": "user382356702",
+        "reply_to_message_id": 651,
+        "text": "Может быть есть в открытом доступе где то алфавитный указатель или переписи за эти года",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Может быть есть в открытом доступе где то алфавитный указатель или переписи за эти года"
+            }
+        ]
+    },
+    {
+        "id": 658,
+        "type": "message",
+        "date": "2023-08-24T15:42:11",
+        "date_unixtime": "1692880931",
+        "edited": "2023-08-24T15:43:26",
+        "edited_unixtime": "1692881006",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 651,
+        "text": [
+            "К сожалению, не владею такой информацией по Орше. Но знаю, что в чате ",
+            {
+                "type": "mention",
+                "text": "@mazltov"
+            },
+            " есть админ ",
+            {
+                "type": "mention",
+                "text": "@Namelles_One"
+            },
+            ", который хорошо разбирается в еврейских документах по Беларуси) Давно помогает людям находить их для репатриации. Может, он что-то подскажет, или можно самим поискать там про Оршу"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "К сожалению, не владею такой информацией по Орше. Но знаю, что в чате "
+            },
+            {
+                "type": "mention",
+                "text": "@mazltov"
+            },
+            {
+                "type": "plain",
+                "text": " есть админ "
+            },
+            {
+                "type": "mention",
+                "text": "@Namelles_One"
+            },
+            {
+                "type": "plain",
+                "text": ", который хорошо разбирается в еврейских документах по Беларуси) Давно помогает людям находить их для репатриации. Может, он что-то подскажет, или можно самим поискать там про Оршу"
+            }
+        ]
+    },
+    {
+        "id": 659,
+        "type": "message",
+        "date": "2023-08-24T15:43:59",
+        "date_unixtime": "1692881039",
+        "edited": "2023-08-24T15:46:15",
+        "edited_unixtime": "1692881175",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 72,
+        "text": [
+            "А, и еще полезный чат - ",
+            {
+                "type": "mention",
+                "text": "@familio_jews"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А, и еще полезный чат - "
+            },
+            {
+                "type": "mention",
+                "text": "@familio_jews"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Александр",
+                        "from_id": "user382356702",
+                        "date": "2023-08-24T15:46:15"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 661,
+        "type": "message",
+        "date": "2023-08-26T17:08:40",
+        "date_unixtime": "1693058920",
+        "edited": "2023-08-26T17:11:43",
+        "edited_unixtime": "1693059103",
+        "from": "Sergey Fedosenkov",
+        "from_id": "user989610685",
+        "reply_to_message_id": 72,
+        "text": "Всем привет! Планирую в скором попасть в центр FamilySearch в Солт Лейк Сити. Может у вас есть что-то такое, что хотелось бы вам там увидеть, что не выложено на их сайте, попробую попросить у них копии. Я не обещаю, что получится всё, но давайте составим список. Пишите мне лс и присылайте ссылку на пленку с сайта!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Всем привет! Планирую в скором попасть в центр FamilySearch в Солт Лейк Сити. Может у вас есть что-то такое, что хотелось бы вам там увидеть, что не выложено на их сайте, попробую попросить у них копии. Я не обещаю, что получится всё, но давайте составим список. Пишите мне лс и присылайте ссылку на пленку с сайта!"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user6923758075",
+                        "date": "2024-11-12T23:23:13"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2023-08-26T17:11:43"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 662,
+        "type": "message",
+        "date": "2023-08-26T17:17:03",
+        "date_unixtime": "1693059423",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 72,
+        "text": "Жаль, что по нашему уезду, как и по всей губернии, ситуация у FamilySearch такая:\n\n«Документы православных церквей Могилевской губернии (из числа хранящихся в НИАБ (Минск) в проект мормонов не попали - от слова \"совсем\" (по этим церквам мормонами микрофильмирование не проводилось, поэтому МК и ИВ церквей Мог. губ. на сайте fs нет). То же самое можно сказать о ревизских сказках по Могилевской губернии. Их нет. Совсем.\nРедкие исключения - документы по Могилевской губернии из фондов ЛГИА (Вильнюс)»",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Жаль, что по нашему уезду, как и по всей губернии, ситуация у FamilySearch такая:\n\n«Документы православных церквей Могилевской губернии (из числа хранящихся в НИАБ (Минск) в проект мормонов не попали - от слова \"совсем\" (по этим церквам мормонами микрофильмирование не проводилось, поэтому МК и ИВ церквей Мог. губ. на сайте fs нет). То же самое можно сказать о ревизских сказках по Могилевской губернии. Их нет. Совсем.\nРедкие исключения - документы по Могилевской губернии из фондов ЛГИА (Вильнюс)»"
+            }
+        ]
+    },
+    {
+        "id": 663,
+        "type": "message",
+        "date": "2023-08-26T17:17:29",
+        "date_unixtime": "1693059449",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 661,
+        "text": [
+            "Наверное, в группе ",
+            {
+                "type": "mention",
+                "text": "@uezdy"
+            },
+            " найдется больше заинтересованных)"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Наверное, в группе "
+            },
+            {
+                "type": "mention",
+                "text": "@uezdy"
+            },
+            {
+                "type": "plain",
+                "text": " найдется больше заинтересованных)"
+            }
+        ]
+    },
+    {
+        "id": 664,
+        "type": "message",
+        "date": "2023-08-26T17:17:52",
+        "date_unixtime": "1693059472",
+        "edited": "2024-02-01T00:35:28",
+        "edited_unixtime": "1706736928",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 72,
+        "text": [
+            "Полезная тема на ВГД: Беларусь у мормонов ",
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/1883/76911/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Полезная тема на ВГД: Беларусь у мормонов "
+            },
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/1883/76911/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Celeste",
+                        "from_id": "user5109380859",
+                        "date": "2024-02-01T00:35:29"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 669,
+        "type": "message",
+        "date": "2023-08-27T14:19:24",
+        "date_unixtime": "1693135164",
+        "from": "Александр",
+        "from_id": "user382356702",
+        "reply_to_message_id": 72,
+        "text": "Здравствуйте! Подскажите пожалуйста есть ли какая-то перепись населения местечка Староселье ?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте! Подскажите пожалуйста есть ли какая-то перепись населения местечка Староселье ?"
+            }
+        ]
+    },
+    {
+        "id": 711,
+        "type": "message",
+        "date": "2023-08-31T18:37:03",
+        "date_unixtime": "1693496223",
+        "edited": "2023-08-31T18:56:35",
+        "edited_unixtime": "1693497395",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 72,
+        "text": [
+            "Небольшой отчет о посещении ",
+            {
+                "type": "text_link",
+                "text": "ЗГА Орши",
+                "href": "https://t.me/orsha_uezd/72/229"
+            },
+            ".\n\nПредварительно позвонил, уточнил как записаться. Сразу спросили, что меня интересует. Сказал, что похозяйственные книги по таким-то деревням и наследственное дело. Попросили перезвонить после обеда, чтобы проверить, есть ли эти книги. Хотя я сообщил, что знаю шифры дел благодаря СОДД НАФ. Во втором звонке договорился о дате-времени посещения (через неделю). \nТакже попросили отправить на е-мейл личные данные и список деревень. Я все отправил, включая номера фондов-описей-дел, фото паспорта и даже доказательство родства (хотя по разговору было ясно, что им это необязательно).\n\nВ Орше был к 10:00. Приехал на поезде бизнес-класса, который стоит всего 13 руб в одну сторону (2 часа в пути). До архива добрался на маршрутке. От вокзала подходят номера 5, 11, 16 и 25/25э, до остановок Комсомольская или Центр. Лучше иметь в телефоне Яндекс-карты, там в режиме реального времени виден транспорт. Проезд стоит 1р 20к, можно заплатить через QR-код (Оплати). Автобусы тоже ходят, но на них дольше добираться. \n\nУже в архиве, в приемной (слева от входа) заполнил стандартные анкеты и заявление на выдачу дел. Я был единственный посетитель. После заполнения бумаг запустили в читальный зал на втором этаже. Дела уже были подготовлены, долго ждать не пришлось.\nРаботал с 10:40 до 13:00 и в целом успел посмотреть все дела и сделать закладки. Решил сходить на обед, хотя из зала не выгоняли. Но по расписанию он с 13 до 14 как раз.\n\nНасчет копирования: я решил сделать все по правилам, написав заявление и заполнив форму. Хотя слышал, что раньше людям разрешали делать фото на телефон. Но у меня навык убеждения не сильно прокачан) Да и в целом не хотелось наглеть, ксерокопия все равно стоит дешево. К тому же в архиве везде камеры.\n\nКак оказалось, смысла оплачивать именно \"Сканирование документов\" нет, так как листы все равно сначала ксерокопируют, подписывают и только потом сканируют ксерокопию (не оригинал). Так что, буду ждать, когда придут бумажные копии обычной почтой. Счет еще не выставили, должен прийти на емейл. Есть оплата через ЕРИП."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Небольшой отчет о посещении "
+            },
+            {
+                "type": "text_link",
+                "text": "ЗГА Орши",
+                "href": "https://t.me/orsha_uezd/72/229"
+            },
+            {
+                "type": "plain",
+                "text": ".\n\nПредварительно позвонил, уточнил как записаться. Сразу спросили, что меня интересует. Сказал, что похозяйственные книги по таким-то деревням и наследственное дело. Попросили перезвонить после обеда, чтобы проверить, есть ли эти книги. Хотя я сообщил, что знаю шифры дел благодаря СОДД НАФ. Во втором звонке договорился о дате-времени посещения (через неделю). \nТакже попросили отправить на е-мейл личные данные и список деревень. Я все отправил, включая номера фондов-описей-дел, фото паспорта и даже доказательство родства (хотя по разговору было ясно, что им это необязательно).\n\nВ Орше был к 10:00. Приехал на поезде бизнес-класса, который стоит всего 13 руб в одну сторону (2 часа в пути). До архива добрался на маршрутке. От вокзала подходят номера 5, 11, 16 и 25/25э, до остановок Комсомольская или Центр. Лучше иметь в телефоне Яндекс-карты, там в режиме реального времени виден транспорт. Проезд стоит 1р 20к, можно заплатить через QR-код (Оплати). Автобусы тоже ходят, но на них дольше добираться. \n\nУже в архиве, в приемной (слева от входа) заполнил стандартные анкеты и заявление на выдачу дел. Я был единственный посетитель. После заполнения бумаг запустили в читальный зал на втором этаже. Дела уже были подготовлены, долго ждать не пришлось.\nРаботал с 10:40 до 13:00 и в целом успел посмотреть все дела и сделать закладки. Решил сходить на обед, хотя из зала не выгоняли. Но по расписанию он с 13 до 14 как раз.\n\nНасчет копирования: я решил сделать все по правилам, написав заявление и заполнив форму. Хотя слышал, что раньше людям разрешали делать фото на телефон. Но у меня навык убеждения не сильно прокачан) Да и в целом не хотелось наглеть, ксерокопия все равно стоит дешево. К тому же в архиве везде камеры.\n\nКак оказалось, смысла оплачивать именно \"Сканирование документов\" нет, так как листы все равно сначала ксерокопируют, подписывают и только потом сканируют ксерокопию (не оригинал). Так что, буду ждать, когда придут бумажные копии обычной почтой. Счет еще не выставили, должен прийти на емейл. Есть оплата через ЕРИП."
+            }
+        ]
+    },
+    {
+        "id": 712,
+        "type": "message",
+        "date": "2023-08-31T18:41:43",
+        "date_unixtime": "1693496503",
+        "edited": "2023-08-31T18:44:33",
+        "edited_unixtime": "1693496673",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 645,
+        "text": [
+            "Но огорчу насчет описи к \"документам военнообязанных Оршанского уезда 1887-1903 годов рождения за 1919-1923 гг.\"\nКопии выдавать отказались, хотя я бы без проблем оплатил. Разрешили только посмотреть опись, своей фамилии там не нашел.\n\nПопытался возразить, что там же нет личных данных, почему нельзя скопировать список фамилий. Спросили \"А зачем вам?\", говорю \"Хочу помочь знакомым\", на что сказали \"Пусть звонят нам по телефону сами, мы посмотрим фамилию по описи\". Сама опись - страниц 5-7 печатного текста с фамилиями и номерами дел.\n\nТак что, кому интересно попробовать найти своих в ",
+            {
+                "type": "text_link",
+                "text": "ф.1447 оп.1",
+                "href": "https://forum.vgd.ru/post/3473/47107/p1490988.htm#pp1490988"
+            },
+            ", звоните по ",
+            {
+                "type": "text_link",
+                "text": "телефону",
+                "href": "https://t.me/orsha_uezd/72/229"
+            },
+            ". Может, если им человек 50 позвонят, то они поймут, что лучше бы описи загрузить в общий доступ 😄"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Но огорчу насчет описи к \"документам военнообязанных Оршанского уезда 1887-1903 годов рождения за 1919-1923 гг.\"\nКопии выдавать отказались, хотя я бы без проблем оплатил. Разрешили только посмотреть опись, своей фамилии там не нашел.\n\nПопытался возразить, что там же нет личных данных, почему нельзя скопировать список фамилий. Спросили \"А зачем вам?\", говорю \"Хочу помочь знакомым\", на что сказали \"Пусть звонят нам по телефону сами, мы посмотрим фамилию по описи\". Сама опись - страниц 5-7 печатного текста с фамилиями и номерами дел.\n\nТак что, кому интересно попробовать найти своих в "
+            },
+            {
+                "type": "text_link",
+                "text": "ф.1447 оп.1",
+                "href": "https://forum.vgd.ru/post/3473/47107/p1490988.htm#pp1490988"
+            },
+            {
+                "type": "plain",
+                "text": ", звоните по "
+            },
+            {
+                "type": "text_link",
+                "text": "телефону",
+                "href": "https://t.me/orsha_uezd/72/229"
+            },
+            {
+                "type": "plain",
+                "text": ". Может, если им человек 50 позвонят, то они поймут, что лучше бы описи загрузить в общий доступ 😄"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 8,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Анна С .",
+                        "from_id": "user766949941",
+                        "date": "2024-09-08T00:05:43"
+                    },
+                    {
+                        "from": "Oksana Amirkhanova",
+                        "from_id": "user5190815920",
+                        "date": "2023-10-07T08:41:12"
+                    },
+                    {
+                        "from": "Yuliya Nikolaeva",
+                        "from_id": "user684046032",
+                        "date": "2023-09-29T13:36:11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 713,
+        "type": "message",
+        "date": "2023-08-31T18:42:58",
+        "date_unixtime": "1693496578",
+        "edited": "2023-08-31T19:06:37",
+        "edited_unixtime": "1693497997",
+        "from": "Марина Ефимова",
+        "from_id": "user1393462155",
+        "reply_to_message_id": 711,
+        "text": "По секрету скажу, что фотографирование зависит от того кто с вами в читальном зале сидит и от того есть ли начальство или оно в отпуске, так что в следующий раз просто спросите.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "По секрету скажу, что фотографирование зависит от того кто с вами в читальном зале сидит и от того есть ли начальство или оно в отпуске, так что в следующий раз просто спросите."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Маргарита",
+                        "from_id": "user466128954",
+                        "date": "2023-08-31T19:17:34"
+                    },
+                    {
+                        "from": "P",
+                        "from_id": "user201810877",
+                        "date": "2023-08-31T19:06:38"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 714,
+        "type": "message",
+        "date": "2023-08-31T18:44:30",
+        "date_unixtime": "1693496670",
+        "edited": "2023-08-31T18:46:05",
+        "edited_unixtime": "1693496765",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 713,
+        "text": "Понятно, спасибо, буду знать на будущее)\nА так у меня получилось 53 листа, так что по стоимости будет немного. Билеты на поезд получатся дороже, думаю.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Понятно, спасибо, буду знать на будущее)\nА так у меня получилось 53 листа, так что по стоимости будет немного. Билеты на поезд получатся дороже, думаю."
+            }
+        ]
+    },
+    {
+        "id": 715,
+        "type": "message",
+        "date": "2023-08-31T18:49:48",
+        "date_unixtime": "1693496988",
+        "edited": "2023-08-31T18:49:54",
+        "edited_unixtime": "1693496994",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 72,
+        "text": "Единственное, забыл указать, что хочу цветные ксерокопии (по прейскуранту стоят на 1 копейку больше, чем черно-белые).\nНадеюсь, еще не поздно, вряд ли уже ксерокопировали. Я ж еще не оплачивал.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Единственное, забыл указать, что хочу цветные ксерокопии (по прейскуранту стоят на 1 копейку больше, чем черно-белые).\nНадеюсь, еще не поздно, вряд ли уже ксерокопировали. Я ж еще не оплачивал."
+            }
+        ]
+    },
+    {
+        "id": 716,
+        "type": "message",
+        "date": "2023-08-31T18:51:13",
+        "date_unixtime": "1693497073",
+        "edited": "2023-08-31T18:51:39",
+        "edited_unixtime": "1693497099",
+        "from": "Марина Ефимова",
+        "from_id": "user1393462155",
+        "reply_to_message_id": 714,
+        "text": "Сотрудников в Оршанском архиве очень мало, когда кто-то в отпуске, то вообще \"швах\", они не заинтересованы сидеть с посетителями в читалке, иногда оставляют и уходят, иногда сами разрешают фотографировать, чтобы посетитель скорее справился. Сейчас начнется школа, им ещё работы добавится с экскурсиями и лекциями, будут не сильно приветливыми, т.к., считают генеалогию баловством. А в целом можно работать.)))",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сотрудников в Оршанском архиве очень мало, когда кто-то в отпуске, то вообще \"швах\", они не заинтересованы сидеть с посетителями в читалке, иногда оставляют и уходят, иногда сами разрешают фотографировать, чтобы посетитель скорее справился. Сейчас начнется школа, им ещё работы добавится с экскурсиями и лекциями, будут не сильно приветливыми, т.к., считают генеалогию баловством. А в целом можно работать.)))"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Маргарита",
+                        "from_id": "user466128954",
+                        "date": "2023-08-31T19:17:31"
+                    },
+                    {
+                        "from": "Natali Шелганова",
+                        "from_id": "user879160135",
+                        "date": "2023-08-31T19:10:34"
+                    },
+                    {
+                        "from": "P",
+                        "from_id": "user201810877",
+                        "date": "2023-08-31T19:07:05"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 717,
+        "type": "message",
+        "date": "2023-08-31T18:53:28",
+        "date_unixtime": "1693497208",
+        "edited": "2023-08-31T18:53:35",
+        "edited_unixtime": "1693497215",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 72,
+        "text": "Да, я тоже подумал, что если бы сам все отснял, им бы меньше работы было) Ну да ладно.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, я тоже подумал, что если бы сам все отснял, им бы меньше работы было) Ну да ладно."
+            }
+        ]
+    },
+    {
+        "id": 718,
+        "type": "message",
+        "date": "2023-08-31T19:04:41",
+        "date_unixtime": "1693497881",
+        "from": "Antikom",
+        "from_id": "user305556701",
+        "reply_to_message_id": 72,
+        "text": "Если вдруг встретите Петра ГригорьевичаТомашевича 1903 г.р из деревни Пустынки - это рядом с Оршей, сообщите, пожалуйста",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Если вдруг встретите Петра ГригорьевичаТомашевича 1903 г.р из деревни Пустынки - это рядом с Оршей, сообщите, пожалуйста"
+            }
+        ]
+    },
+    {
+        "id": 723,
+        "type": "message",
+        "date": "2023-09-01T08:38:27",
+        "date_unixtime": "1693546707",
+        "edited": "2023-09-01T08:38:58",
+        "edited_unixtime": "1693546738",
+        "from": "Elena",
+        "from_id": "user1022523832",
+        "reply_to_message_id": 711,
+        "text": "А что, они так заняты, что сразу отксерить не могут? Ещё ждать, когда они изволят и отправят.\nДурную работу делают, отсканировали бы всё, а потом печатали, а лучше предоставили доступ онлайн на небольшую плату.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А что, они так заняты, что сразу отксерить не могут? Ещё ждать, когда они изволят и отправят.\nДурную работу делают, отсканировали бы всё, а потом печатали, а лучше предоставили доступ онлайн на небольшую плату."
+            }
+        ]
+    },
+    {
+        "id": 724,
+        "type": "message",
+        "date": "2023-09-01T11:19:41",
+        "date_unixtime": "1693556381",
+        "edited": "2023-09-01T14:57:23",
+        "edited_unixtime": "1693569443",
+        "from": "Марина Ефимова",
+        "from_id": "user1393462155",
+        "reply_to_message_id": 723,
+        "text": "Да, заняты. Очень много и нужной и \"дурной\" работы. Их работа не очевидная, как и у библиотекарей, например, кажется что такого сиди да книжки выдавай. Им самим было бы намного легче если бы фонд был оцифрован, но когда фонд оцифруют работников просто сократят за \"ненадобностью\", архив оптимизируют. Я не видела как это делается в Оршанском архиве (буду спрошу), но по правилам документ не просто кладется в копир и копируется, чтобы на повредить документ и копир, чтобы информация вся влезла, чтобы не было черной  полосы посредине документ помещается в спец. распялки. Опять же формат, не в каждый копир или МФУ документ поместится. Ещё подозреваю, что такой копир физически может находится в другом месте, сотрудника, который работает с копированием документов может не быть, да что угодно.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, заняты. Очень много и нужной и \"дурной\" работы. Их работа не очевидная, как и у библиотекарей, например, кажется что такого сиди да книжки выдавай. Им самим было бы намного легче если бы фонд был оцифрован, но когда фонд оцифруют работников просто сократят за \"ненадобностью\", архив оптимизируют. Я не видела как это делается в Оршанском архиве (буду спрошу), но по правилам документ не просто кладется в копир и копируется, чтобы на повредить документ и копир, чтобы информация вся влезла, чтобы не было черной  полосы посредине документ помещается в спец. распялки. Опять же формат, не в каждый копир или МФУ документ поместится. Ещё подозреваю, что такой копир физически может находится в другом месте, сотрудника, который работает с копированием документов может не быть, да что угодно."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2023-09-01T14:57:23"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 725,
+        "type": "message",
+        "date": "2023-09-01T11:23:33",
+        "date_unixtime": "1693556613",
+        "from": "Elena",
+        "from_id": "user1022523832",
+        "reply_to_message_id": 724,
+        "text": "Я не сомневаюсь, что \"дурная\" работа у них есть. А вот что после оцифровки работники будут ненужны, очень сомневаюсь. Ведь кто-то будет должен обрабатывать электронные запросы и давать доступ к документам, а запросов будет валом, если такая возможность появится, ну и \"дурная\" работа по уходу за архивом никуда не денется.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я не сомневаюсь, что \"дурная\" работа у них есть. А вот что после оцифровки работники будут ненужны, очень сомневаюсь. Ведь кто-то будет должен обрабатывать электронные запросы и давать доступ к документам, а запросов будет валом, если такая возможность появится, ну и \"дурная\" работа по уходу за архивом никуда не денется."
+            }
+        ]
+    },
+    {
+        "id": 727,
+        "type": "message",
+        "date": "2023-09-01T11:29:46",
+        "date_unixtime": "1693556986",
+        "from": "Марина Ефимова",
+        "from_id": "user1393462155",
+        "reply_to_message_id": 72,
+        "text": "Если бы понимание о нужности сотрудников попало в голову начальству, все были бы рады. Передадут полномочия ЗАГСу, например, оставят двух человек, специалиста и переплётчика, или Витебску фонд передадут. Запросов и сейчас валом от организаций, предприятий, физ.лиц, не успевают обрабатывать, а им то на лен-картошку едь, то экскурсии в хранилище води, то на мероприятиях сиди, в общем как везде.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Если бы понимание о нужности сотрудников попало в голову начальству, все были бы рады. Передадут полномочия ЗАГСу, например, оставят двух человек, специалиста и переплётчика, или Витебску фонд передадут. Запросов и сейчас валом от организаций, предприятий, физ.лиц, не успевают обрабатывать, а им то на лен-картошку едь, то экскурсии в хранилище води, то на мероприятиях сиди, в общем как везде."
+            }
+        ]
+    },
+    {
+        "id": 737,
+        "type": "message",
+        "date": "2023-09-01T15:00:43",
+        "date_unixtime": "1693569643",
+        "edited": "2023-09-01T15:10:20",
+        "edited_unixtime": "1693570220",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 715,
+        "text": "По поводу цветных ксерокопий: уточнил, что у ЗГА Орши нет возможности их делать.. 🫠\nА в прейскуранте есть такая позиция, странно) Для похозяйственных книг не критично, но вообще жаль. Получается, официально ни за какие деньги цветные сканы не получить, потому что сканируют тоже с черно-белых ксерокопий.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "По поводу цветных ксерокопий: уточнил, что у ЗГА Орши нет возможности их делать.. 🫠\nА в прейскуранте есть такая позиция, странно) Для похозяйственных книг не критично, но вообще жаль. Получается, официально ни за какие деньги цветные сканы не получить, потому что сканируют тоже с черно-белых ксерокопий."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "😐",
+                "recent": [
+                    {
+                        "from": "Маргарита",
+                        "from_id": "user466128954",
+                        "date": "2023-09-01T15:26:45"
+                    },
+                    {
+                        "from": "P",
+                        "from_id": "user201810877",
+                        "date": "2023-09-01T15:10:20"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🙈",
+                "recent": [
+                    {
+                        "from": "Elena",
+                        "from_id": "user1022523832",
+                        "date": "2023-09-01T16:38:34"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 738,
+        "type": "message",
+        "date": "2023-09-01T17:36:52",
+        "date_unixtime": "1693579012",
+        "from": "Евгений",
+        "from_id": "user6152875410",
+        "reply_to_message_id": 737,
+        "text": "Подскажите а что цветного в метриках?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Подскажите а что цветного в метриках?"
+            }
+        ]
+    },
+    {
+        "id": 739,
+        "type": "message",
+        "date": "2023-09-01T17:39:51",
+        "date_unixtime": "1693579191",
+        "edited": "2023-09-01T17:42:10",
+        "edited_unixtime": "1693579330",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 738,
+        "text": "А там не метрики, похозяйственные книги) Ну и наследственное дело еще.\nЗаполнялись синей ручкой, поэтому проще было бы отличать всякие пометки от напечатанного текста.\nНо это не сильно важно, конечно. Просто хотелось в личном архиве иметь максимально похожий на оригинал документ.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А там не метрики, похозяйственные книги) Ну и наследственное дело еще.\nЗаполнялись синей ручкой, поэтому проще было бы отличать всякие пометки от напечатанного текста.\nНо это не сильно важно, конечно. Просто хотелось в личном архиве иметь максимально похожий на оригинал документ."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Алена",
+                        "from_id": "user1617817551",
+                        "date": "2023-09-02T10:54:50"
+                    },
+                    {
+                        "from": "Самуйлова Мария",
+                        "from_id": "user238730679",
+                        "date": "2023-09-01T18:42:14"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Natali Шелганова",
+                        "from_id": "user879160135",
+                        "date": "2023-09-10T19:36:21"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 740,
+        "type": "message",
+        "date": "2023-09-01T18:42:48",
+        "date_unixtime": "1693582968",
+        "edited": "2023-09-01T18:43:19",
+        "edited_unixtime": "1693582999",
+        "from": "Самуйлова Мария",
+        "from_id": "user238730679",
+        "reply_to_message_id": 739,
+        "text": "Тоже люблю сканы!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тоже люблю сканы!"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2023-09-01T18:43:19"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 828,
+        "type": "message",
+        "date": "2023-09-23T20:45:07",
+        "date_unixtime": "1695491107",
+        "from": "Sergey Fedosenkov",
+        "from_id": "user989610685",
+        "reply_to_message_id": 72,
+        "text": "Кто может заказать поселенные списки 1926 и списки домохозяйств 1925 для деревень Подгайщина, Мошково, Гараны (если существовали на момент их составления), Снигири, Коробец - Могилевская область?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Кто может заказать поселенные списки 1926 и списки домохозяйств 1925 для деревень Подгайщина, Мошково, Гараны (если существовали на момент их составления), Снигири, Коробец - Могилевская область?"
+            }
+        ]
+    },
+    {
+        "id": 839,
+        "type": "message",
+        "date": "2023-09-27T05:50:57",
+        "date_unixtime": "1695783057",
+        "edited": "2023-09-27T05:54:58",
+        "edited_unixtime": "1695783298",
+        "from": "Sergey Fedosenkov",
+        "from_id": "user989610685",
+        "reply_to_message_id": 72,
+        "text": "Здравствуйте! Я создал закрытую группу, в которую буду выкладывать файлы из архивов мормонов, которых нет в онлайн доступе. По ка что это в основном Польша и Украина. Кому интересно, напишите в личку, вышлю приглашение. Основное правило - не распространять файлы из группы на другие ресурсы, так как если мормоны прочухают, доступ мне туда будет закрыт.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте! Я создал закрытую группу, в которую буду выкладывать файлы из архивов мормонов, которых нет в онлайн доступе. По ка что это в основном Польша и Украина. Кому интересно, напишите в личку, вышлю приглашение. Основное правило - не распространять файлы из группы на другие ресурсы, так как если мормоны прочухают, доступ мне туда будет закрыт."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 13,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Анна С .",
+                        "from_id": "user766949941",
+                        "date": "2024-09-08T00:09:04"
+                    },
+                    {
+                        "from": "И Ш",
+                        "from_id": "user1351161727",
+                        "date": "2024-05-16T21:30:17"
+                    },
+                    {
+                        "from": "Elena",
+                        "from_id": "user390208058",
+                        "date": "2024-05-16T18:25:40"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 841,
+        "type": "message",
+        "date": "2023-09-27T07:15:51",
+        "date_unixtime": "1695788151",
+        "from": "Alenka",
+        "from_id": "user1501888265",
+        "reply_to_message_id": 839,
+        "text": "Интересно,!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Интересно,!"
+            }
+        ]
+    },
+    {
+        "id": 842,
+        "type": "message",
+        "date": "2023-09-27T13:45:09",
+        "date_unixtime": "1695811509",
+        "from": "Kseniia Afanaseva",
+        "from_id": "user420370618",
+        "reply_to_message_id": 839,
+        "text": "Буду благодарна)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Буду благодарна)"
+            }
+        ]
+    },
+    {
+        "id": 1186,
+        "type": "message",
+        "date": "2023-12-22T00:15:22",
+        "date_unixtime": "1703193322",
+        "from": "Helena Pozharitckaia",
+        "from_id": "user956631283",
+        "reply_to_message_id": 72,
+        "text": "Добрый вечер. Может у кого-то есть информация о колхозе Ленинские всходы за 1930е годы?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый вечер. Может у кого-то есть информация о колхозе Ленинские всходы за 1930е годы?"
+            }
+        ]
+    },
+    {
+        "id": 1466,
+        "type": "message",
+        "date": "2024-04-23T16:12:31",
+        "date_unixtime": "1713877951",
+        "from": "Светлана",
+        "from_id": "user5752927963",
+        "reply_to_message_id": 72,
+        "text": "Интересно!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Интересно!"
+            }
+        ]
+    },
+    {
+        "id": 1552,
+        "type": "message",
+        "date": "2024-05-17T01:18:30",
+        "date_unixtime": "1715897910",
+        "from": "Вера",
+        "from_id": "user1854461233",
+        "reply_to_message_id": 295,
+        "text": "Подскажите,пожалуйста, в электронном виде православные метрические книги по Серекоротнянскому приходу можно где -либо найти?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Подскажите,пожалуйста, в электронном виде православные метрические книги по Серекоротнянскому приходу можно где -либо найти?"
+            }
+        ]
+    },
+    {
+        "id": 1553,
+        "type": "message",
+        "date": "2024-05-17T02:18:32",
+        "date_unixtime": "1715901512",
+        "edited": "2024-05-17T02:18:58",
+        "edited_unixtime": "1715901538",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 1552,
+        "text": [
+            "Здравствуйте! Увы, но нет. МК и РС по Беларуси недоступны для удаленного доступа, а большинство и не оцифрованы в НИАБ. Так что доступ к ним есть только в архиве по записи.\nМормоны до нашего уезда тоже не добрались. Вот все, что доступно на FamilySearch по Могилевской губернии: ",
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/post/3084/94488/p4142808.htm#pp4142808"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте! Увы, но нет. МК и РС по Беларуси недоступны для удаленного доступа, а большинство и не оцифрованы в НИАБ. Так что доступ к ним есть только в архиве по записи.\nМормоны до нашего уезда тоже не добрались. Вот все, что доступно на FamilySearch по Могилевской губернии: "
+            },
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/post/3084/94488/p4142808.htm#pp4142808"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 1613,
+        "type": "message",
+        "date": "2024-05-28T17:23:25",
+        "date_unixtime": "1716906205",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 72,
+        "text": [
+            {
+                "type": "mention",
+                "text": "@Jalozin"
+            },
+            ", ",
+            {
+                "type": "text_link",
+                "text": "это",
+                "href": "https://t.me/orsha_uezd/59/1612"
+            },
+            " из самого НИАБа что ли табличка по РС? 😄"
+        ],
+        "text_entities": [
+            {
+                "type": "mention",
+                "text": "@Jalozin"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "это",
+                "href": "https://t.me/orsha_uezd/59/1612"
+            },
+            {
+                "type": "plain",
+                "text": " из самого НИАБа что ли табличка по РС? 😄"
+            }
+        ]
+    },
+    {
+        "id": 1614,
+        "type": "message",
+        "date": "2024-05-28T17:23:40",
+        "date_unixtime": "1716906220",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 294,
+        "text": "На ВГД только такую сделали и поделились",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На ВГД только такую сделали и поделились"
+            }
+        ]
+    },
+    {
+        "id": 1615,
+        "type": "message",
+        "date": "2024-05-28T17:24:18",
+        "date_unixtime": "1716906258",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 72,
+        "text": "Ну значит удаляйте) мне товарищ только скинул, и я сразу сюды",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну значит удаляйте) мне товарищ только скинул, и я сразу сюды"
+            }
+        ]
+    },
+    {
+        "id": 1616,
+        "type": "message",
+        "date": "2024-05-28T17:24:54",
+        "date_unixtime": "1716906294",
+        "edited": "2024-05-28T17:25:06",
+        "edited_unixtime": "1716906306",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 72,
+        "text": "Не-не, она как раз более удобная, да и может информации там больше. Оставляем точно)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Не-не, она как раз более удобная, да и может информации там больше. Оставляем точно)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Jalozin",
+                        "from_id": "user1314863059",
+                        "date": "2024-05-28T17:25:06"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1618,
+        "type": "message",
+        "date": "2024-05-28T23:48:07",
+        "date_unixtime": "1716929287",
+        "from": "Natasha",
+        "from_id": "user1230705279",
+        "reply_to_message_id": 72,
+        "text": "Добрый вечер, подскажите, пожалуйста, когда делаешь запрос в НИАБ, должно от них приходить какое-то подтверждение, что запрос принят? Или нет? \nМесяц прошёл после отправки запроса и тишина... Вот думаю, может они вообще не получили мой запрос))",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый вечер, подскажите, пожалуйста, когда делаешь запрос в НИАБ, должно от них приходить какое-то подтверждение, что запрос принят? Или нет? \nМесяц прошёл после отправки запроса и тишина... Вот думаю, может они вообще не получили мой запрос))"
+            }
+        ]
+    },
+    {
+        "id": 1619,
+        "type": "message",
+        "date": "2024-05-29T00:01:47",
+        "date_unixtime": "1716930107",
+        "edited": "2024-05-29T07:48:46",
+        "edited_unixtime": "1716958126",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 72,
+        "text": "Не приходит подтверждение.\nСпросите - получили или нет",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Не приходит подтверждение.\nСпросите - получили или нет"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Natasha",
+                        "from_id": "user1230705279",
+                        "date": "2024-05-29T07:48:46"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1620,
+        "type": "message",
+        "date": "2024-05-29T00:11:05",
+        "date_unixtime": "1716930665",
+        "edited": "2024-05-29T07:48:50",
+        "edited_unixtime": "1716958130",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 72,
+        "text": [
+            "Да, подтверждений не будет, сразу счет. Вот тут опыт людей можно почитать (и про приостановку приема запросов):\n",
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy/24106/57734"
+            },
+            "\n",
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy/24106/71236"
+            },
+            "\n",
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy/35187/75429"
+            },
+            "\n",
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy/24106/82939"
+            },
+            "\n",
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy/24106/84301"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, подтверждений не будет, сразу счет. Вот тут опыт людей можно почитать (и про приостановку приема запросов):\n"
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy/24106/57734"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy/24106/71236"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy/35187/75429"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy/24106/82939"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy/24106/84301"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Natasha",
+                        "from_id": "user1230705279",
+                        "date": "2024-05-29T07:48:50"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1621,
+        "type": "message",
+        "date": "2024-05-29T07:48:55",
+        "date_unixtime": "1716958135",
+        "from": "Natasha",
+        "from_id": "user1230705279",
+        "reply_to_message_id": 72,
+        "text": "Спасибо!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо!"
+            }
+        ]
+    },
+    {
+        "id": 2427,
+        "type": "message",
+        "date": "2024-11-07T20:17:51",
+        "date_unixtime": "1730999871",
+        "edited": "2024-11-13T11:08:36",
+        "edited_unixtime": "1731485316",
+        "from": "Sergey Fedosenkov",
+        "from_id": "user989610685",
+        "reply_to_message_id": 72,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "ГАСО_Смоленск_Фонд_Р_653_оп_10_Оршанский_уезд.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Статистическое бюро 1917 год",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Статистическое бюро 1917 год"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user1078006405",
+                        "date": "2024-11-13T11:08:36"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2509,
+        "type": "message",
+        "date": "2024-11-20T15:21:27",
+        "date_unixtime": "1732105287",
+        "edited": "2024-11-20T16:11:03",
+        "edited_unixtime": "1732108263",
+        "from": "Гарик",
+        "from_id": "user7087009637",
+        "reply_to_message_id": 72,
+        "text": [
+            "НИАБ ф. 3258 довольно много интересных ревизских сказок\n\n",
+            {
+                "type": "link",
+                "text": "https://drive.google.com/file/d/14ZlnVETxPG_6kN9ZXeRiuxtO8zXWKDYc/view"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "НИАБ ф. 3258 довольно много интересных ревизских сказок\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://drive.google.com/file/d/14ZlnVETxPG_6kN9ZXeRiuxtO8zXWKDYc/view"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user1078006405",
+                        "date": "2024-11-20T16:11:04"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Sergey Fedosenkov",
+                        "from_id": "user989610685",
+                        "date": "2024-11-22T13:45:15"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2523,
+        "type": "message",
+        "date": "2024-11-22T13:45:49",
+        "date_unixtime": "1732272349",
+        "from": "Sergey Fedosenkov",
+        "from_id": "user989610685",
+        "reply_to_message_id": 2509,
+        "text": "Как теперь узнать, какие там деревни относящиеся к Межево?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Как теперь узнать, какие там деревни относящиеся к Межево?"
+            }
+        ]
+    },
+    {
+        "id": 2563,
+        "type": "message",
+        "date": "2024-11-25T22:15:18",
+        "date_unixtime": "1732562118",
+        "from": "Elena",
+        "from_id": "user1603830313",
+        "reply_to_message_id": 72,
+        "text": [
+            "Подскажите,  пожалуйста рабочий Email Зонального архива Орши. Пытаюсь отправить запрос, но он не доставляется. Что то с этим Email не так((\n",
+            {
+                "type": "email",
+                "text": "archives-orsha@vitebsk.by"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Подскажите,  пожалуйста рабочий Email Зонального архива Орши. Пытаюсь отправить запрос, но он не доставляется. Что то с этим Email не так((\n"
+            },
+            {
+                "type": "email",
+                "text": "archives-orsha@vitebsk.by"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 2564,
+        "type": "message",
+        "date": "2024-11-25T22:21:09",
+        "date_unixtime": "1732562469",
+        "from": "Марина Ефимова",
+        "from_id": "user1393462155",
+        "reply_to_message_id": 72,
+        "text": "Шлите на исполком или на обращения бел.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Шлите на исполком или на обращения бел."
+            }
+        ]
+    },
+    {
+        "id": 2565,
+        "type": "message",
+        "date": "2024-11-25T22:22:05",
+        "date_unixtime": "1732562525",
+        "from": "Марина Ефимова",
+        "from_id": "user1393462155",
+        "reply_to_message_id": 72,
+        "text": [
+            {
+                "type": "email",
+                "text": "rikorsha@vitobl.by"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "email",
+                "text": "rikorsha@vitobl.by"
+            }
+        ]
+    },
+    {
+        "id": 2566,
+        "type": "message",
+        "date": "2024-11-25T22:54:14",
+        "date_unixtime": "1732564454",
+        "edited": "2024-11-25T22:59:54",
+        "edited_unixtime": "1732564794",
+        "from": "Dzianis Brovar",
+        "from_id": "user904124704",
+        "reply_to_message_id": 2563,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 721,
+        "height": 1280,
+        "text": "Судя по инсте буква S может оказаться лишней )))\n\nНапишите вопрос про мыло им в инсту (работает) или одноглазики.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Судя по инсте буква S может оказаться лишней )))\n\nНапишите вопрос про мыло им в инсту (работает) или одноглазики."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Elena",
+                        "from_id": "user1603830313",
+                        "date": "2024-11-25T22:59:54"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2567,
+        "type": "message",
+        "date": "2024-11-25T23:08:15",
+        "date_unixtime": "1732565295",
+        "from": "Марина Ефимова",
+        "from_id": "user1393462155",
+        "reply_to_message_id": 72,
+        "text": [
+            {
+                "type": "mention",
+                "text": "@vitebsk"
+            },
+            ".by это отвратительные белтелекомовские ящики, которые постоянно переполняются спамом. Оно может и придет, но очень позже. Вроде должны на ",
+            {
+                "type": "mention",
+                "text": "@vitobl"
+            },
+            ".by перейти, но может архива это и не коснется."
+        ],
+        "text_entities": [
+            {
+                "type": "mention",
+                "text": "@vitebsk"
+            },
+            {
+                "type": "plain",
+                "text": ".by это отвратительные белтелекомовские ящики, которые постоянно переполняются спамом. Оно может и придет, но очень позже. Вроде должны на "
+            },
+            {
+                "type": "mention",
+                "text": "@vitobl"
+            },
+            {
+                "type": "plain",
+                "text": ".by перейти, но может архива это и не коснется."
+            }
+        ]
+    },
+    {
+        "id": 2578,
+        "type": "message",
+        "date": "2024-11-26T11:40:43",
+        "date_unixtime": "1732610443",
+        "edited": "2024-11-26T21:41:31",
+        "edited_unixtime": "1732646491",
+        "from": "Antikom",
+        "from_id": "user305556701",
+        "reply_to_message_id": 2563,
+        "text": [
+            "Я з імі ліставаўся па гэтым мэйлу. Яшчэ ёсць такі отдел использования документов Госархива в г. Орше <",
+            {
+                "type": "email",
+                "text": "archives_orsha_211@mail.ru"
+            },
+            ">"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я з імі ліставаўся па гэтым мэйлу. Яшчэ ёсць такі отдел использования документов Госархива в г. Орше <"
+            },
+            {
+                "type": "email",
+                "text": "archives_orsha_211@mail.ru"
+            },
+            {
+                "type": "plain",
+                "text": ">"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Elena",
+                        "from_id": "user1603830313",
+                        "date": "2024-11-26T21:41:31"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2579,
+        "type": "message",
+        "date": "2024-11-26T15:03:56",
+        "date_unixtime": "1732622636",
+        "edited": "2024-11-26T15:04:03",
+        "edited_unixtime": "1732622643",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 2563,
+        "text": [
+            "Проверьте еще, что третья буква в адресе у вас не русская, а латинская ",
+            {
+                "type": "email",
+                "text": "archives-orsha@vitebsk.by"
+            },
+            "\nПотому что ",
+            {
+                "type": "text_link",
+                "text": "здесь",
+                "href": "https://www.orsha.vitebsk-region.gov.by/uchrezhdenie-zonalnyj-gosudarstvennyj-arkhiv-v-g-orshe"
+            },
+            " они написали с русской, а ",
+            {
+                "type": "text_link",
+                "text": "тут",
+                "href": "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij/oblastnye-i-zonalnye-gosudarstvennye-arhivy-v-vitebskoj-oblasti/uchrezhdenie-zonalnyj-gosudarstvennyj-arhiv-v-g-orshe"
+            },
+            " - правильно)"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Проверьте еще, что третья буква в адресе у вас не русская, а латинская "
+            },
+            {
+                "type": "email",
+                "text": "archives-orsha@vitebsk.by"
+            },
+            {
+                "type": "plain",
+                "text": "\nПотому что "
+            },
+            {
+                "type": "text_link",
+                "text": "здесь",
+                "href": "https://www.orsha.vitebsk-region.gov.by/uchrezhdenie-zonalnyj-gosudarstvennyj-arkhiv-v-g-orshe"
+            },
+            {
+                "type": "plain",
+                "text": " они написали с русской, а "
+            },
+            {
+                "type": "text_link",
+                "text": "тут",
+                "href": "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij/oblastnye-i-zonalnye-gosudarstvennye-arhivy-v-vitebskoj-oblasti/uchrezhdenie-zonalnyj-gosudarstvennyj-arhiv-v-g-orshe"
+            },
+            {
+                "type": "plain",
+                "text": " - правильно)"
+            }
+        ]
+    },
+    {
+        "id": 2585,
+        "type": "message",
+        "date": "2024-11-26T21:39:13",
+        "date_unixtime": "1732646353",
+        "from": "Elena",
+        "from_id": "user1603830313",
+        "reply_to_message_id": 2579,
+        "text": "Я не вижу разницы между \"здесь\" и \"тут\"😳 Третья буква одинаковая в обоих случаях🤔 \nА чем отличается латинская \"с\" от русской \"c\"?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я не вижу разницы между \"здесь\" и \"тут\"😳 Третья буква одинаковая в обоих случаях🤔 \nА чем отличается латинская \"с\" от русской \"c\"?"
+            }
+        ]
+    },
+    {
+        "id": 2587,
+        "type": "message",
+        "date": "2024-11-26T21:45:11",
+        "date_unixtime": "1732646711",
+        "edited": "2024-11-26T21:47:58",
+        "edited_unixtime": "1732646878",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 2585,
+        "text": [
+            "Как раз с русской буквой письма не будут отправляться)\nЯ тоже с таким столкнулся, когда копировал e-mail со страницы райисполкома.\nТам даже видно, что не весь адрес подчеркнут как ссылка.\nПроверить можно, например, здесь (вставить адрес): ",
+            {
+                "type": "link",
+                "text": "https://gena101.ru/rus-en/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Как раз с русской буквой письма не будут отправляться)\nЯ тоже с таким столкнулся, когда копировал e-mail со страницы райисполкома.\nТам даже видно, что не весь адрес подчеркнут как ссылка.\nПроверить можно, например, здесь (вставить адрес): "
+            },
+            {
+                "type": "link",
+                "text": "https://gena101.ru/rus-en/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "✍",
+                "recent": [
+                    {
+                        "from": "P",
+                        "from_id": "user201810877",
+                        "date": "2024-11-26T21:47:58"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2588,
+        "type": "message",
+        "date": "2024-11-26T21:48:33",
+        "date_unixtime": "1732646913",
+        "edited": "2024-11-26T21:50:40",
+        "edited_unixtime": "1732647040",
+        "from": "Elena",
+        "from_id": "user1603830313",
+        "reply_to_message_id": 72,
+        "text": "Спасибо! Поняла. Они в процессе написания адреса перешли с русского на латиницу. Напишу сама вручную",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо! Поняла. Они в процессе написания адреса перешли с русского на латиницу. Напишу сама вручную"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2024-11-26T21:50:40"
+                    }
+                ]
+            }
+        ]
+    }
+]

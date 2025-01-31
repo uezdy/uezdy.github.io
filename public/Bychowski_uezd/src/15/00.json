@@ -1,0 +1,866 @@
+[
+    {
+        "id": 164,
+        "type": "message",
+        "date": "2023-08-06T21:53:59",
+        "date_unixtime": "1691348039",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 15,
+        "text": [
+            "Пропойская волость.\n",
+            {
+                "type": "bold",
+                "text": "Список мест"
+            },
+            ":\n",
+            {
+                "type": "text_link",
+                "text": "Адамин, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/adamin.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Алексеевщина, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/alekseevshchina.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Алесеевка, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/aleseevka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Андреевка, хутор..",
+                "href": "https://www.radzima.net/ru/miejsce/andreevka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Барсуковка, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/barsukovka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Бродница, фольварк..",
+                "href": "https://www.radzima.net/ru/miejsce/brodnitsa.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Васьковичи, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/vaskovichi.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Вировая, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/virovaya.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Гейшин, местечко....",
+                "href": "https://www.radzima.net/ru/miejsce/geyshin.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Гончаровка, хутор..",
+                "href": "https://www.radzima.net/ru/miejsce/goncharovka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Городец, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/gorodets_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Довбин, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/dovbin.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Дубеневка, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/dubenevka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Заболотье, хутор...",
+                "href": "https://www.radzima.net/ru/miejsce/zabolotje.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Заводище, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/zavodishche.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Заполянь, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/zapolyan.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Заходы, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/zakhody.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Карповщина, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/karpovshchina.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Константиновка, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/konstantinovka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Красная Слобода, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/krasnaya_sloboda.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Кульшицы, село....",
+                "href": "https://www.radzima.net/ru/miejsce/kulshitsy.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Курганье, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/kurganje_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Лесная, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/lesnaya.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Людков, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/lyudkov.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Люцин, фольварк",
+                "href": "https://www.radzima.net/ru/miejsce/lyutsin.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Мартиновка, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/martinovka_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Михайлов, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/mikhaylov.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Михайловка, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/mikhaylovka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Михайлово, фольварк",
+                "href": "https://www.radzima.net/ru/miejsce/mikhaylovo.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Мурандовщина, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/murandovshchina.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Новая Слобода, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/novaya_sloboda.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Новый Двор, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/novyy_dvor.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Перегон, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/peregon_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Плесно, фольварк..",
+                "href": "https://www.radzima.net/ru/miejsce/plesno.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Подозерье, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/podozerje.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Поповка, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/popovka_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Приволье, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/privolje.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Пропойск, местечко....",
+                "href": "https://www.radzima.net/ru/miejsce/propoysk.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Рабовичи, село...",
+                "href": "https://www.radzima.net/ru/miejsce/rabovichi.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Ржавка, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/rzhavka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Рогозное, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/rogoznoe.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Рудня, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/rudnya_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Рябиновка, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/ryabinovka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Садыкин, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/sadykin.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Сапель, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/sapel.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Селище, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/selishche.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Серковка, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/serkovka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Уречье, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/urechje.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Чечеровка, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/checherovka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Шеломы, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/shelomy.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Пропойская волость.\n"
+            },
+            {
+                "type": "bold",
+                "text": "Список мест"
+            },
+            {
+                "type": "plain",
+                "text": ":\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Адамин, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/adamin.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Алексеевщина, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/alekseevshchina.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Алесеевка, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/aleseevka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Андреевка, хутор..",
+                "href": "https://www.radzima.net/ru/miejsce/andreevka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Барсуковка, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/barsukovka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Бродница, фольварк..",
+                "href": "https://www.radzima.net/ru/miejsce/brodnitsa.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Васьковичи, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/vaskovichi.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Вировая, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/virovaya.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Гейшин, местечко....",
+                "href": "https://www.radzima.net/ru/miejsce/geyshin.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Гончаровка, хутор..",
+                "href": "https://www.radzima.net/ru/miejsce/goncharovka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Городец, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/gorodets_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Довбин, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/dovbin.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Дубеневка, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/dubenevka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Заболотье, хутор...",
+                "href": "https://www.radzima.net/ru/miejsce/zabolotje.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Заводище, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/zavodishche.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Заполянь, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/zapolyan.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Заходы, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/zakhody.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Карповщина, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/karpovshchina.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Константиновка, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/konstantinovka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Красная Слобода, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/krasnaya_sloboda.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Кульшицы, село....",
+                "href": "https://www.radzima.net/ru/miejsce/kulshitsy.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Курганье, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/kurganje_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Лесная, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/lesnaya.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Людков, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/lyudkov.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Люцин, фольварк",
+                "href": "https://www.radzima.net/ru/miejsce/lyutsin.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Мартиновка, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/martinovka_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Михайлов, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/mikhaylov.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Михайловка, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/mikhaylovka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Михайлово, фольварк",
+                "href": "https://www.radzima.net/ru/miejsce/mikhaylovo.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Мурандовщина, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/murandovshchina.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Новая Слобода, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/novaya_sloboda.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Новый Двор, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/novyy_dvor.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Перегон, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/peregon_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Плесно, фольварк..",
+                "href": "https://www.radzima.net/ru/miejsce/plesno.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Подозерье, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/podozerje.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Поповка, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/popovka_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Приволье, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/privolje.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Пропойск, местечко....",
+                "href": "https://www.radzima.net/ru/miejsce/propoysk.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Рабовичи, село...",
+                "href": "https://www.radzima.net/ru/miejsce/rabovichi.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Ржавка, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/rzhavka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Рогозное, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/rogoznoe.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Рудня, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/rudnya_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Рябиновка, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/ryabinovka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Садыкин, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/sadykin.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Сапель, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/sapel.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Селище, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/selishche.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Серковка, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/serkovka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Уречье, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/urechje.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Чечеровка, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/checherovka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Шеломы, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/shelomy.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 399,
+        "type": "message",
+        "date": "2023-10-03T12:18:33",
+        "date_unixtime": "1696324713",
+        "edited": "2023-10-03T12:20:56",
+        "edited_unixtime": "1696324856",
+        "from": null,
+        "from_id": "user5882332801",
+        "reply_to_message_id": 15,
+        "text": "ГА Могилевской области ф394-1-35\n\"Сведения о количестве лошадей и упряжек по Пропойской волости\" \nСтр. 43-70об. \nДатировка: 16 марта 1920 г.\nИмена фамилии из нп: \nХутор Перегон, хутор Серковка, д.Уречье, хутор Кошелево, д.Людков, д.Рябиновка, хутор Курганье, хутор Дубеневка, Пропойск 2 район (частично иудеи), д.Лесная, д.Васьковичи, хутор Гончаровка, хутор Алексеевка, фольварк Чечеровка, хутор Пчельня, д.Приволье, д.Лебедевка, хутор Заполянь, хутор Белево, д.Рудня, Кухарская часть, д.Вировая, д.Барсуковка, д.Завод, Заровская часть, местечко Гейшин, хутор Селище, д.Новая Слобода, д.Ржавка, село Рабовичи, д.Михайловка.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ГА Могилевской области ф394-1-35\n\"Сведения о количестве лошадей и упряжек по Пропойской волости\" \nСтр. 43-70об. \nДатировка: 16 марта 1920 г.\nИмена фамилии из нп: \nХутор Перегон, хутор Серковка, д.Уречье, хутор Кошелево, д.Людков, д.Рябиновка, хутор Курганье, хутор Дубеневка, Пропойск 2 район (частично иудеи), д.Лесная, д.Васьковичи, хутор Гончаровка, хутор Алексеевка, фольварк Чечеровка, хутор Пчельня, д.Приволье, д.Лебедевка, хутор Заполянь, хутор Белево, д.Рудня, Кухарская часть, д.Вировая, д.Барсуковка, д.Завод, Заровская часть, местечко Гейшин, хутор Селище, д.Новая Слобода, д.Ржавка, село Рабовичи, д.Михайловка."
+            }
+        ]
+    },
+    {
+        "id": 1256,
+        "type": "message",
+        "date": "2024-11-11T10:14:13",
+        "date_unixtime": "1731309253",
+        "edited": "2024-11-11T18:35:12",
+        "edited_unixtime": "1731339312",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 15,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 757,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1257,
+        "type": "message",
+        "date": "2024-11-11T10:14:13",
+        "date_unixtime": "1731309253",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 15,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 728,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1300,
+        "type": "message",
+        "date": "2024-11-23T16:27:20",
+        "date_unixtime": "1732368440",
+        "edited": "2025-01-12T05:57:59",
+        "edited_unixtime": "1736650679",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 15,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 818,
+        "height": 1280,
+        "text": "Иуда Шустер. Жена и две дочери. Фото. Пропойск.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Иуда Шустер. Жена и две дочери. Фото. Пропойск."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Alena Lemekh",
+                        "from_id": "user385557769",
+                        "date": "2025-01-12T05:57:59"
+                    }
+                ]
+            }
+        ]
+    }
+]

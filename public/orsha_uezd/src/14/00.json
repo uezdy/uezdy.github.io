@@ -1,0 +1,76 @@
+[
+    {
+        "id": 15,
+        "type": "message",
+        "date": "2023-07-28T22:25:13",
+        "date_unixtime": "1690572313",
+        "edited": "2023-07-28T22:47:30",
+        "edited_unixtime": "1690573650",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 14,
+        "text": [
+            "🏠 ",
+            {
+                "type": "bold",
+                "text": "Бабиновичи"
+            },
+            " (агрогородок) —",
+            {
+                "type": "bold",
+                "text": " "
+            },
+            {
+                "type": "text_link",
+                "text": "Radzima",
+                "href": "https://www.radzima.net/ru/gorod/babinovichi-2.html"
+            },
+            {
+                "type": "bold",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "Familio",
+                "href": "https://familio.org/settlements/e976116e-54fa-4833-af8d-ae8640070ab3"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "🏠 "
+            },
+            {
+                "type": "bold",
+                "text": "Бабиновичи"
+            },
+            {
+                "type": "plain",
+                "text": " (агрогородок) —"
+            },
+            {
+                "type": "bold",
+                "text": " "
+            },
+            {
+                "type": "text_link",
+                "text": "Radzima",
+                "href": "https://www.radzima.net/ru/gorod/babinovichi-2.html"
+            },
+            {
+                "type": "bold",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "Familio",
+                "href": "https://familio.org/settlements/e976116e-54fa-4833-af8d-ae8640070ab3"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    }
+]

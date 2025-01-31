@@ -1,0 +1,587 @@
+[
+    {
+        "id": 160,
+        "type": "message",
+        "date": "2023-08-06T21:47:34",
+        "date_unixtime": "1691347654",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 10,
+        "text": [
+            "Городецкая (Старобыховская волость).\n",
+            {
+                "type": "bold",
+                "text": "Список мест"
+            },
+            ":\n",
+            {
+                "type": "text_link",
+                "text": "Болоновка, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/bolonovka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Выгода, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/vygoda.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Вьюновский Прудок, село..",
+                "href": "https://www.radzima.net/ru/miejsce/vjyunovskiy_prudok.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Голеевка, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/goleevka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Городец, село...",
+                "href": "https://www.radzima.net/ru/miejsce/gorodets.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Гута, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/guta.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Замошье, околица.",
+                "href": "https://www.radzima.net/ru/miejsce/zamoshje.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Зеленый Хутор, фольварк",
+                "href": "https://www.radzima.net/ru/miejsce/zelenyy_khutor.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Золотва, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/zolotva.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Клетное, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/kletnoe.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Короткие, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/korotkie_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Лагодово, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/lagodovo.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Лапша, урочище..",
+                "href": "https://www.radzima.net/ru/miejsce/lapsha.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Лубянка, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/lubyanka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Мокрое, село....",
+                "href": "https://www.radzima.net/ru/miejsce/mokroe.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Неопалитанск, фольварк",
+                "href": "https://www.radzima.net/ru/miejsce/neopalitansk.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Пенюги, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/penyugi.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Подкленье, фольварк...",
+                "href": "https://www.radzima.net/ru/miejsce/podklenje.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Рубановка, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/rubanovka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Сапежинка, село...",
+                "href": "https://www.radzima.net/ru/miejsce/sapezhinka_(christian).html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Седич, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/sedich.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Студенка, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/studenka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Сущев, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/sushchev.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Тростивец, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/trostivets.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Холстов, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/kholstov.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Хутор, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/khutor.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Якимовка, урочище",
+                "href": "https://www.radzima.net/ru/miejsce/yakimovka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Ямное, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/yamnoe.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Городецкая (Старобыховская волость).\n"
+            },
+            {
+                "type": "bold",
+                "text": "Список мест"
+            },
+            {
+                "type": "plain",
+                "text": ":\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Болоновка, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/bolonovka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Выгода, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/vygoda.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Вьюновский Прудок, село..",
+                "href": "https://www.radzima.net/ru/miejsce/vjyunovskiy_prudok.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Голеевка, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/goleevka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Городец, село...",
+                "href": "https://www.radzima.net/ru/miejsce/gorodets.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Гута, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/guta.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Замошье, околица.",
+                "href": "https://www.radzima.net/ru/miejsce/zamoshje.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Зеленый Хутор, фольварк",
+                "href": "https://www.radzima.net/ru/miejsce/zelenyy_khutor.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Золотва, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/zolotva.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Клетное, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/kletnoe.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Короткие, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/korotkie_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Лагодово, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/lagodovo.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Лапша, урочище..",
+                "href": "https://www.radzima.net/ru/miejsce/lapsha.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Лубянка, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/lubyanka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Мокрое, село....",
+                "href": "https://www.radzima.net/ru/miejsce/mokroe.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Неопалитанск, фольварк",
+                "href": "https://www.radzima.net/ru/miejsce/neopalitansk.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Пенюги, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/penyugi.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Подкленье, фольварк...",
+                "href": "https://www.radzima.net/ru/miejsce/podklenje.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Рубановка, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/rubanovka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Сапежинка, село...",
+                "href": "https://www.radzima.net/ru/miejsce/sapezhinka_(christian).html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Седич, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/sedich.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Студенка, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/studenka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Сущев, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/sushchev.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Тростивец, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/trostivets.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Холстов, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/kholstov.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Хутор, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/khutor.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Якимовка, урочище",
+                "href": "https://www.radzima.net/ru/miejsce/yakimovka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Ямное, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/yamnoe.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "type": "message",
+        "date": "2023-08-16T15:26:20",
+        "date_unixtime": "1692188780",
+        "edited": "2023-08-16T15:57:56",
+        "edited_unixtime": "1692190676",
+        "from": null,
+        "from_id": "user5882332801",
+        "reply_to_message_id": 10,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 736,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user489477240",
+                        "date": "2023-08-16T15:57:56"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 418,
+        "type": "message",
+        "date": "2023-10-09T12:33:45",
+        "date_unixtime": "1696844025",
+        "edited": "2023-10-09T12:34:43",
+        "edited_unixtime": "1696844083",
+        "from": null,
+        "from_id": "user5882332801",
+        "reply_to_message_id": 10,
+        "text": [
+            "ГАМО ф 394-1-35 Пофамильные списки владельцев лошадей и утвари. 1920 год.\n\nСедич - 121 фамилия\nЛагодово - 48\nВыгода - 176\nПодкленье- 43\nКлетное- 33\nПенюги- 31\nЗамошье- 19\nТростивец- 32\nСапежинка- 34\nГута- 20\nГолеевка- 21\nЛубянка- 123\nХолстов- 95\nСелиба- 56 ( прим. по сайту ",
+            {
+                "type": "link",
+                "text": "radzima.net"
+            },
+            ", нет в списках Городецкой( Старобыховской волости)\nЗолотва- 142\nЯмное- 105\nДубово-Неряж- 124\nХуторской сельский совет ( Хутор) - 75 \nГородец - 177\nСущев- 162\nСтуденка- 176"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ГАМО ф 394-1-35 Пофамильные списки владельцев лошадей и утвари. 1920 год.\n\nСедич - 121 фамилия\nЛагодово - 48\nВыгода - 176\nПодкленье- 43\nКлетное- 33\nПенюги- 31\nЗамошье- 19\nТростивец- 32\nСапежинка- 34\nГута- 20\nГолеевка- 21\nЛубянка- 123\nХолстов- 95\nСелиба- 56 ( прим. по сайту "
+            },
+            {
+                "type": "link",
+                "text": "radzima.net"
+            },
+            {
+                "type": "plain",
+                "text": ", нет в списках Городецкой( Старобыховской волости)\nЗолотва- 142\nЯмное- 105\nДубово-Неряж- 124\nХуторской сельский совет ( Хутор) - 75 \nГородец - 177\nСущев- 162\nСтуденка- 176"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Дмитрий",
+                        "from_id": "user531695094",
+                        "date": "2023-10-09T12:34:43"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 621,
+        "type": "message",
+        "date": "2024-01-24T12:23:57",
+        "date_unixtime": "1706088237",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "forwarded_from": "Ирина",
+        "reply_to_message_id": 10,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "IMG_7169.MP4",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "media_type": "video_file",
+        "mime_type": "video/mp4",
+        "duration_seconds": 970,
+        "width": 848,
+        "height": 464,
+        "text": "История с географией: Лубянка, Быховский район",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "История с географией: Лубянка, Быховский район"
+            }
+        ]
+    },
+    {
+        "id": 1191,
+        "type": "message",
+        "date": "2024-10-28T10:21:07",
+        "date_unixtime": "1730100067",
+        "edited": "2024-10-28T10:21:41",
+        "edited_unixtime": "1730100101",
+        "from": "Сергей",
+        "from_id": "user2018987907",
+        "reply_to_message_id": 10,
+        "text": "Кравцев Александр Борисович 1916  род в. Лубянка, до 1935 год жил в отцом - Борис Игнатьевич Кравцев и матерью  Матрена Тимофеевна, осужден 5 лет хранение огнестрельного оружия, отсидел 3,5  остался в Омске.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Кравцев Александр Борисович 1916  род в. Лубянка, до 1935 год жил в отцом - Борис Игнатьевич Кравцев и матерью  Матрена Тимофеевна, осужден 5 лет хранение огнестрельного оружия, отсидел 3,5  остался в Омске."
+            }
+        ]
+    },
+    {
+        "id": 1236,
+        "type": "message",
+        "date": "2024-11-08T14:56:29",
+        "date_unixtime": "1731066989",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 10,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 825,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    }
+]

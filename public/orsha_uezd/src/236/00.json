@@ -1,0 +1,981 @@
+[
+    {
+        "id": 237,
+        "type": "message",
+        "date": "2023-08-03T21:06:34",
+        "date_unixtime": "1691085994",
+        "edited": "2023-08-17T17:53:34",
+        "edited_unixtime": "1692284014",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 236,
+        "text": [
+            "📸 Тема для ",
+            {
+                "type": "bold",
+                "text": "подписанных фотографий"
+            },
+            " с выходцами из Оршанского уезда: как ваших собственных, так и найденных на просторах Интернета (на аукционах ",
+            {
+                "type": "link",
+                "text": "ay.by"
+            },
+            ", ",
+            {
+                "type": "link",
+                "text": "meshok.net"
+            },
+            " и т.п.)\n\nУказывайте все, что есть: фамилии, имена, годы и места съемки (населенный пункт, волость и т.д.)\n\nПожалуйста, ",
+            {
+                "type": "underline",
+                "text": "воздержитесь от обсуждений"
+            },
+            " в данной теме. Нажмите правой кнопкой на сообщении — «Копировать ссылку» и оставьте комментарий в одной из ",
+            {
+                "type": "text_link",
+                "text": "разговорных тем",
+                "href": "https://t.me/orsha_uezd/4/57"
+            },
+            "."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "📸 Тема для "
+            },
+            {
+                "type": "bold",
+                "text": "подписанных фотографий"
+            },
+            {
+                "type": "plain",
+                "text": " с выходцами из Оршанского уезда: как ваших собственных, так и найденных на просторах Интернета (на аукционах "
+            },
+            {
+                "type": "link",
+                "text": "ay.by"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "link",
+                "text": "meshok.net"
+            },
+            {
+                "type": "plain",
+                "text": " и т.п.)\n\nУказывайте все, что есть: фамилии, имена, годы и места съемки (населенный пункт, волость и т.д.)\n\nПожалуйста, "
+            },
+            {
+                "type": "underline",
+                "text": "воздержитесь от обсуждений"
+            },
+            {
+                "type": "plain",
+                "text": " в данной теме. Нажмите правой кнопкой на сообщении — «Копировать ссылку» и оставьте комментарий в одной из "
+            },
+            {
+                "type": "text_link",
+                "text": "разговорных тем",
+                "href": "https://t.me/orsha_uezd/4/57"
+            },
+            {
+                "type": "plain",
+                "text": "."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Antikom",
+                        "from_id": "user305556701",
+                        "date": "2023-08-17T17:53:34"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 378,
+        "type": "message",
+        "date": "2023-08-05T13:01:14",
+        "date_unixtime": "1691229674",
+        "from": "Палетика https://dzen.ru/id/623dfd90d274c606376b5d65",
+        "from_id": "user1461278543",
+        "reply_to_message_id": 236,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 743,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 380,
+        "type": "message",
+        "date": "2023-08-05T13:02:14",
+        "date_unixtime": "1691229734",
+        "edited": "2023-08-05T13:03:48",
+        "edited_unixtime": "1691229828",
+        "from": "Палетика https://dzen.ru/id/623dfd90d274c606376b5d65",
+        "from_id": "user1461278543",
+        "reply_to_message_id": 236,
+        "text": "Фото сделано в Орше, студентка Санкт-Петербургского повивального Института.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Фото сделано в Орше, студентка Санкт-Петербургского повивального Института."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2023-08-05T13:03:48"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 386,
+        "type": "message",
+        "date": "2023-08-05T13:07:18",
+        "date_unixtime": "1691230038",
+        "from": "Палетика https://dzen.ru/id/623dfd90d274c606376b5d65",
+        "from_id": "user1461278543",
+        "reply_to_message_id": 236,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 818,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 391,
+        "type": "message",
+        "date": "2023-08-05T13:14:51",
+        "date_unixtime": "1691230491",
+        "from": "Палетика https://dzen.ru/id/623dfd90d274c606376b5d65",
+        "from_id": "user1461278543",
+        "reply_to_message_id": 236,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 806,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 603,
+        "type": "message",
+        "date": "2023-08-17T17:52:49",
+        "date_unixtime": "1692283969",
+        "edited": "2023-09-18T14:08:03",
+        "edited_unixtime": "1695035283",
+        "from": "Antikom",
+        "from_id": "user305556701",
+        "reply_to_message_id": 236,
+        "text": [
+            "Это целая страница со старыми фотками оршанцев ",
+            {
+                "type": "link",
+                "text": "https://www.facebook.com/profile.php?id=100064163769424"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это целая страница со старыми фотками оршанцев "
+            },
+            {
+                "type": "link",
+                "text": "https://www.facebook.com/profile.php?id=100064163769424"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Artur Golovanov",
+                        "from_id": "user1098899921",
+                        "date": "2023-09-18T14:08:03"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 604,
+        "type": "message",
+        "date": "2023-08-17T17:59:21",
+        "date_unixtime": "1692284361",
+        "from": "Antikom",
+        "from_id": "user305556701",
+        "reply_to_message_id": 236,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 175,
+        "height": 289,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 605,
+        "type": "message",
+        "date": "2023-08-17T17:59:45",
+        "date_unixtime": "1692284385",
+        "from": "Antikom",
+        "from_id": "user305556701",
+        "reply_to_message_id": 236,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 706,
+        "height": 1001,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 606,
+        "type": "message",
+        "date": "2023-08-17T18:00:11",
+        "date_unixtime": "1692284411",
+        "edited": "2023-08-17T18:01:27",
+        "edited_unixtime": "1692284487",
+        "from": "Antikom",
+        "from_id": "user305556701",
+        "reply_to_message_id": 236,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 174,
+        "height": 290,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user1078006405",
+                        "date": "2024-12-20T23:08:57"
+                    },
+                    {
+                        "from": "Маргарита",
+                        "from_id": "user466128954",
+                        "date": "2023-08-17T18:44:59"
+                    },
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2023-08-17T18:01:32"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 799,
+        "type": "message",
+        "date": "2023-09-18T13:18:58",
+        "date_unixtime": "1695032338",
+        "from": "Палетика https://dzen.ru/id/623dfd90d274c606376b5d65",
+        "from_id": "user1461278543",
+        "reply_to_message_id": 603,
+        "text": "Если вы это публикуете на другом сайте, прилично сделать ссылку, более того вы не написали информацию, \nэто фото учениц Санкт-Петербургского университета Повивальных бабок. ( акушерок).",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Если вы это публикуете на другом сайте, прилично сделать ссылку, более того вы не написали информацию, \nэто фото учениц Санкт-Петербургского университета Повивальных бабок. ( акушерок)."
+            }
+        ]
+    },
+    {
+        "id": 1431,
+        "type": "message",
+        "date": "2024-04-20T09:00:18",
+        "date_unixtime": "1713592818",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 236,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 550,
+        "height": 369,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1432,
+        "type": "message",
+        "date": "2024-04-20T09:02:46",
+        "date_unixtime": "1713592966",
+        "edited": "2024-04-20T11:46:52",
+        "edited_unixtime": "1713602812",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 236,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 550,
+        "height": 369,
+        "text": [
+            "На аукционе ",
+            {
+                "type": "link",
+                "text": "ay.by"
+            },
+            " выставлены 3 фото  девушек из Толочина. 1937-41 гг."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На аукционе "
+            },
+            {
+                "type": "link",
+                "text": "ay.by"
+            },
+            {
+                "type": "plain",
+                "text": " выставлены 3 фото  девушек из Толочина. 1937-41 гг."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user1078006405",
+                        "date": "2024-12-20T23:08:52"
+                    },
+                    {
+                        "from": "Antikom",
+                        "from_id": "user305556701",
+                        "date": "2024-04-20T11:46:52"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1433,
+        "type": "message",
+        "date": "2024-04-20T09:02:46",
+        "date_unixtime": "1713592966",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 236,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 975,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1434,
+        "type": "message",
+        "date": "2024-04-20T09:02:46",
+        "date_unixtime": "1713592966",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 236,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 887,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1435,
+        "type": "message",
+        "date": "2024-04-20T09:02:46",
+        "date_unixtime": "1713592966",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 236,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 945,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1436,
+        "type": "message",
+        "date": "2024-04-20T09:02:47",
+        "date_unixtime": "1713592967",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 236,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1000,
+        "height": 657,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1437,
+        "type": "message",
+        "date": "2024-04-20T09:02:47",
+        "date_unixtime": "1713592967",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 236,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 380,
+        "height": 510,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1948,
+        "type": "message",
+        "date": "2024-07-18T11:35:48",
+        "date_unixtime": "1721291748",
+        "edited": "2024-07-18T11:40:58",
+        "edited_unixtime": "1721292058",
+        "from": "Pani Walewska",
+        "from_id": "user885519411",
+        "reply_to_message_id": 236,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "Мой прадзед з жонкай і дачкой па бацькоўскай лініі.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мой прадзед з жонкай і дачкой па бацькоўскай лініі."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user1078006405",
+                        "date": "2024-12-20T23:08:50"
+                    },
+                    {
+                        "from": "Kseniia Afanaseva",
+                        "from_id": "user420370618",
+                        "date": "2024-07-21T11:04:13"
+                    },
+                    {
+                        "from": "NinaEK",
+                        "from_id": "user1168230259",
+                        "date": "2024-07-18T11:46:17"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1949,
+        "type": "message",
+        "date": "2024-07-18T11:36:55",
+        "date_unixtime": "1721291815",
+        "edited": "2024-07-18T11:37:58",
+        "edited_unixtime": "1721291878",
+        "from": "Pani Walewska",
+        "from_id": "user885519411",
+        "reply_to_message_id": 236,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 1265,
+        "text": "Гэта мая прабабуля па матулінай лініі  з права",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Гэта мая прабабуля па матулінай лініі  з права"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user1078006405",
+                        "date": "2024-12-20T23:08:48"
+                    },
+                    {
+                        "from": "Алена",
+                        "from_id": "user1617817551",
+                        "date": "2024-07-18T16:31:36"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👌"
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Yulia S",
+                        "from_id": "user502425848",
+                        "date": "2024-07-25T12:02:23"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1958,
+        "type": "message",
+        "date": "2024-07-21T10:10:29",
+        "date_unixtime": "1721545829",
+        "edited": "2024-07-21T10:22:17",
+        "edited_unixtime": "1721546537",
+        "from": "Марина Ефимова",
+        "from_id": "user1393462155",
+        "reply_to_message_id": 236,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 974,
+        "text": "На первом фото родной брат моей бабушки Шаматульский Леонид Иосифович. Надпись выгорела, но изменив контрастность я прочитала что написано \" на память бабушке Матюшевской от внука. Шаматульский Леонид.\" Родных бабушек с такой фамилией нет, возможно сестра бабушек-дедушек. Ища информацию о Матюшевских я наткнулась на дерево в MyHerritage, и там есть две персоны Антонина и Иван Матюшевские, и я узнала людей с другой фотографии. По дереву что я нашла Антонина в девичестве Лисецкая. Может здесь найдётся кто-нибудь кто узнает родственников.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На первом фото родной брат моей бабушки Шаматульский Леонид Иосифович. Надпись выгорела, но изменив контрастность я прочитала что написано \" на память бабушке Матюшевской от внука. Шаматульский Леонид.\" Родных бабушек с такой фамилией нет, возможно сестра бабушек-дедушек. Ища информацию о Матюшевских я наткнулась на дерево в MyHerritage, и там есть две персоны Антонина и Иван Матюшевские, и я узнала людей с другой фотографии. По дереву что я нашла Антонина в девичестве Лисецкая. Может здесь найдётся кто-нибудь кто узнает родственников."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user1078006405",
+                        "date": "2024-12-20T23:09:27"
+                    },
+                    {
+                        "from": "Natali Шелганова",
+                        "from_id": "user879160135",
+                        "date": "2024-10-22T22:52:49"
+                    },
+                    {
+                        "from": "Александр",
+                        "from_id": "user324900758",
+                        "date": "2024-10-21T08:32:02"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "⚡"
+            }
+        ]
+    },
+    {
+        "id": 1959,
+        "type": "message",
+        "date": "2024-07-21T10:10:29",
+        "date_unixtime": "1721545829",
+        "from": "Марина Ефимова",
+        "from_id": "user1393462155",
+        "reply_to_message_id": 236,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 974,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1960,
+        "type": "message",
+        "date": "2024-07-21T10:10:30",
+        "date_unixtime": "1721545830",
+        "from": "Марина Ефимова",
+        "from_id": "user1393462155",
+        "reply_to_message_id": 236,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 792,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 2260,
+        "type": "message",
+        "date": "2024-10-21T05:35:36",
+        "date_unixtime": "1729478136",
+        "from": "Sergey Fedosenkov",
+        "from_id": "user989610685",
+        "reply_to_message_id": 236,
+        "text": "Всем доброго дня! Фотография, предположительно, сделана в Орше. Хранилась у моей бабушки. Не знаю, подруга или родственница. Ольги у неё были, а вот про Анн неизвестно. Может кто-то узнает?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Всем доброго дня! Фотография, предположительно, сделана в Орше. Хранилась у моей бабушки. Не знаю, подруга или родственница. Ольги у неё были, а вот про Анн неизвестно. Может кто-то узнает?"
+            }
+        ]
+    },
+    {
+        "id": 2261,
+        "type": "message",
+        "date": "2024-10-21T05:35:39",
+        "date_unixtime": "1729478139",
+        "edited": "2024-11-05T01:17:25",
+        "edited_unixtime": "1730758645",
+        "from": "Sergey Fedosenkov",
+        "from_id": "user989610685",
+        "reply_to_message_id": 236,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "01.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 1080,
+        "height": 1634,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user1078006405",
+                        "date": "2024-12-20T23:09:40"
+                    },
+                    {
+                        "from": "Елена",
+                        "from_id": "user1320477170",
+                        "date": "2024-12-05T12:59:54"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "N.Y.",
+                        "from_id": "user1841363435",
+                        "date": "2024-11-05T01:17:25"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2262,
+        "type": "message",
+        "date": "2024-10-21T05:35:40",
+        "date_unixtime": "1729478140",
+        "from": "Sergey Fedosenkov",
+        "from_id": "user989610685",
+        "reply_to_message_id": 236,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "02.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 1311,
+        "height": 1766,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 2263,
+        "type": "message",
+        "date": "2024-10-21T05:37:50",
+        "date_unixtime": "1729478270",
+        "edited": "2024-11-05T01:17:27",
+        "edited_unixtime": "1730758647",
+        "from": "Sergey Fedosenkov",
+        "from_id": "user989610685",
+        "reply_to_message_id": 236,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "015.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 2048,
+        "height": 1692,
+        "text": "А на этой фотографии уже точно есть моя бабушка, она слева. Предположительно либо сразу до войны, либо в период до 1957 года. Фото так же сделано в Оршанском районе, скорее всего д. Подгайщина, либо х. Гараны (ну или в окрестных деревнях) Мошковская волость, район или что там было тогда... Так же возможно кто-то узнает своих",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А на этой фотографии уже точно есть моя бабушка, она слева. Предположительно либо сразу до войны, либо в период до 1957 года. Фото так же сделано в Оршанском районе, скорее всего д. Подгайщина, либо х. Гараны (ну или в окрестных деревнях) Мошковская волость, район или что там было тогда... Так же возможно кто-то узнает своих"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "И Ш",
+                        "from_id": "user1351161727",
+                        "date": "2024-12-22T12:37:57"
+                    },
+                    {
+                        "from": "Ирина",
+                        "from_id": "user1078006405",
+                        "date": "2024-12-20T23:11:12"
+                    },
+                    {
+                        "from": "Маргарита",
+                        "from_id": "user466128954",
+                        "date": "2024-11-05T10:57:39"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2264,
+        "type": "message",
+        "date": "2024-10-21T06:13:58",
+        "date_unixtime": "1729480438",
+        "edited": "2024-10-21T06:15:21",
+        "edited_unixtime": "1729480521",
+        "from": "Snowyblack",
+        "from_id": "user1991929657",
+        "reply_to_message_id": 2263,
+        "text": "Определить время фото, приблизительно, можно по косвенным признакам: прически, элементы одежды, состояние фото,стилистика фотографирования, примерный возраст человека на фото. Всё-таки, разбег 20 лет - это очень много.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Определить время фото, приблизительно, можно по косвенным признакам: прически, элементы одежды, состояние фото,стилистика фотографирования, примерный возраст человека на фото. Всё-таки, разбег 20 лет - это очень много."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤷‍♂",
+                "recent": [
+                    {
+                        "from": "Sergey Fedosenkov",
+                        "from_id": "user989610685",
+                        "date": "2024-10-21T06:15:21"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2411,
+        "type": "message",
+        "date": "2024-11-05T00:02:52",
+        "date_unixtime": "1730754172",
+        "edited": "2024-11-06T10:32:15",
+        "edited_unixtime": "1730878335",
+        "from": "Вавёрка",
+        "from_id": "user888801481",
+        "reply_to_message_id": 236,
+        "text": "г.Орша ул. Ленина, 41\nшкола № 1 (сейчас гимназия № 2)\n(в здании реального училища 1906-1918г.)\nВсе три фото ниже - один класс в разные годы",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "г.Орша ул. Ленина, 41\nшкола № 1 (сейчас гимназия № 2)\n(в здании реального училища 1906-1918г.)\nВсе три фото ниже - один класс в разные годы"
+            }
+        ]
+    },
+    {
+        "id": 2412,
+        "type": "message",
+        "date": "2024-11-05T00:03:02",
+        "date_unixtime": "1730754182",
+        "edited": "2024-11-06T09:30:01",
+        "edited_unixtime": "1730874601",
+        "from": "Вавёрка",
+        "from_id": "user888801481",
+        "reply_to_message_id": 236,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "06_Новак К.А..jpg",
+        "mime_type": "image/jpeg",
+        "text": "1957г.\nПригожина Т.\nЮркевич Г.И.\nЭренбург Б.С.\nЯкушевич Мария Ефремовна\nТатаренко Г.Б. завуч\nАнтипенко Г.Ф. директор\nГутина Г.З. кл.рук.\nШифрин Г.С.\nДрыкова Е.Е.\nШестакова П.Е.\nБеликина С.\nФещенко г.\nСалтанов Б.\nРоманов А.Г.\nПахоменко А.М.\nДрейзина Е.Е.\nАлкин И.Л.\nСтаровойтова Л.Н.\nКуксевич И.Е.\nЖумарь В.Ф.\nСлижов А.\nРябинкина Р.\nЖилинко Г.\nЖихаревич А.\nВакар В.\nСтамблер З.\nВакар А.\nФокина Э.\nКазаченко Г.\nКрасавцева З.\nХлусова Т.\nСавицкая Л.\nФалькова Е.\nНовак К.\nЖихаревич Ю.\nСобакин Ю.\nХалецкий В.\nРудакова Н.\nШатенкова З.\nФарбер Л.\nГольдберг Э.\nКухаренко Э.\nВикторов В.\nЯскевич А.\nХохленок Н.\nЕвец И.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "1957г.\nПригожина Т.\nЮркевич Г.И.\nЭренбург Б.С.\nЯкушевич Мария Ефремовна\nТатаренко Г.Б. завуч\nАнтипенко Г.Ф. директор\nГутина Г.З. кл.рук.\nШифрин Г.С.\nДрыкова Е.Е.\nШестакова П.Е.\nБеликина С.\nФещенко г.\nСалтанов Б.\nРоманов А.Г.\nПахоменко А.М.\nДрейзина Е.Е.\nАлкин И.Л.\nСтаровойтова Л.Н.\nКуксевич И.Е.\nЖумарь В.Ф.\nСлижов А.\nРябинкина Р.\nЖилинко Г.\nЖихаревич А.\nВакар В.\nСтамблер З.\nВакар А.\nФокина Э.\nКазаченко Г.\nКрасавцева З.\nХлусова Т.\nСавицкая Л.\nФалькова Е.\nНовак К.\nЖихаревич Ю.\nСобакин Ю.\nХалецкий В.\nРудакова Н.\nШатенкова З.\nФарбер Л.\nГольдберг Э.\nКухаренко Э.\nВикторов В.\nЯскевич А.\nХохленок Н.\nЕвец И."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤‍🔥",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user1078006405",
+                        "date": "2024-12-20T23:12:33"
+                    },
+                    {
+                        "from": "Алена",
+                        "from_id": "user1617817551",
+                        "date": "2024-11-05T09:25:39"
+                    },
+                    {
+                        "from": "N.Y.",
+                        "from_id": "user1841363435",
+                        "date": "2024-11-05T01:18:42"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2413,
+        "type": "message",
+        "date": "2024-11-05T00:03:10",
+        "date_unixtime": "1730754190",
+        "edited": "2024-11-06T09:34:24",
+        "edited_unixtime": "1730874864",
+        "from": "Вавёрка",
+        "from_id": "user888801481",
+        "reply_to_message_id": 236,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 951,
+        "text": "г.Орша ул. Ленина, 41\nшкола № 1\n4 \"Б\" класс\nКл.рук. Якушевич Мария Ефремовна",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "г.Орша ул. Ленина, 41\nшкола № 1\n4 \"Б\" класс\nКл.рук. Якушевич Мария Ефремовна"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user1078006405",
+                        "date": "2024-12-20T23:14:44"
+                    },
+                    {
+                        "from": "Kseniya Mikhailovna",
+                        "from_id": "user1133116761",
+                        "date": "2024-11-06T09:36:58"
+                    },
+                    {
+                        "from": "Алена",
+                        "from_id": "user1617817551",
+                        "date": "2024-11-05T09:28:52"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2414,
+        "type": "message",
+        "date": "2024-11-05T00:03:14",
+        "date_unixtime": "1730754194",
+        "edited": "2024-11-06T09:35:24",
+        "edited_unixtime": "1730874924",
+        "from": "Вавёрка",
+        "from_id": "user888801481",
+        "reply_to_message_id": 236,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 817,
+        "text": "г.Орша ул. Ленина, 41\nшкола № 1\nКласс, год неизвестны",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "г.Орша ул. Ленина, 41\nшкола № 1\nКласс, год неизвестны"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user1078006405",
+                        "date": "2024-12-20T23:14:47"
+                    },
+                    {
+                        "from": "Kseniya Mikhailovna",
+                        "from_id": "user1133116761",
+                        "date": "2024-11-06T09:36:59"
+                    },
+                    {
+                        "from": "Алена",
+                        "from_id": "user1617817551",
+                        "date": "2024-11-05T09:28:55"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2703,
+        "type": "message",
+        "date": "2024-12-09T01:04:33",
+        "date_unixtime": "1733695473",
+        "edited": "2024-12-20T23:17:16",
+        "edited_unixtime": "1734725836",
+        "from": "И Ш",
+        "from_id": "user1351161727",
+        "reply_to_message_id": 236,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "IMG_20240727_003745.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 3000,
+        "height": 4000,
+        "text": "Мой дедушка - Аксененко Василий Иванович",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мой дедушка - Аксененко Василий Иванович"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user1078006405",
+                        "date": "2024-12-20T23:17:16"
+                    }
+                ]
+            }
+        ]
+    }
+]

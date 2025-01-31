@@ -1,0 +1,2219 @@
+[
+    {
+        "id": 163,
+        "type": "message",
+        "date": "2023-08-06T21:52:19",
+        "date_unixtime": "1691347939",
+        "edited": "2024-01-23T23:42:06",
+        "edited_unixtime": "1706042526",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 14,
+        "text": [
+            "Ново-Быховская волость.\n",
+            {
+                "type": "bold",
+                "text": "Список мест"
+            },
+            ":\n",
+            {
+                "type": "text_link",
+                "text": "Адаменка, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/adamenka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Буковье, фольварк...",
+                "href": "https://www.radzima.net/ru/miejsce/bukovje.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Веть, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/vet.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Волосовичи, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/volosovichi.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Вотня, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/votnya.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Гута, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/guta_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Дедово, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/dedovo.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Дубово-Нераж, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/dubovo-nerazh.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Дубовый Бродок, хутор..",
+                "href": "https://www.radzima.net/ru/miejsce/dubovyy_brodok.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Жидова Гора, посёлок",
+                "href": "https://www.radzima.net/ru/miejsce/zhidova_gora.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Журавичи, фольварк..",
+                "href": "https://www.radzima.net/ru/miejsce/zhuravichi.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Журавичи, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/zhuravichi_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Залесье, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/zalesje.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Золотое Дно, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/zolotoe_dno.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Искань, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/iskan_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Искань, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/iskan.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Истопки, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/istopki.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Истопки, фольварк..",
+                "href": "https://www.radzima.net/ru/miejsce/istopki_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Канава, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/kanava.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Комаричи, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/komarichi_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Комаричи, фольварк...",
+                "href": "https://www.radzima.net/ru/miejsce/komarichi.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Красный Берег, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/krasnyy_bereg.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Лазаревичи, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/lazarevichi.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Лудчицы, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/ludchitsy_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Лудчицы, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/ludchitsy.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Мосток, фольварк",
+                "href": "https://www.radzima.net/ru/miejsce/mostok.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Новые Журавичи, местечко..",
+                "href": "https://www.radzima.net/ru/miejsce/novye_zhuravichi.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Новый Быхов, местечко",
+                "href": "https://www.radzima.net/ru/miejsce/novyy_bykhov.html"
+            },
+            {
+                "type": "text_link",
+                "text": "..",
+                "href": "https://www.radzima.net/ru/miejsce/novyy_bykhov.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Новый Быхов, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/novyy_bykhov_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Обидовичи, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/obidovichi_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Обидовичи, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/obidovichi.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Осовская Слобода, посёлок.",
+                "href": "https://www.radzima.net/ru/miejsce/osovskaya_sloboda.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Подгородок, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/podgorodok.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Поляниновичи, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/polyaninovichi.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Пустельня, имение...",
+                "href": "https://www.radzima.net/ru/miejsce/pustelnya.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Пустильня, фольварк",
+                "href": "https://www.radzima.net/ru/miejsce/pustilnya.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Регенполь, имение..",
+                "href": "https://www.radzima.net/ru/miejsce/regenpol.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Селец Холопеев, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/selets_kholopeev.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Селец Холопейский, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/selets_kholopeyskiy.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Славянка (Халапея), фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/slavyanka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Староселье, околица.",
+                "href": "https://www.radzima.net/ru/miejsce/starosele.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Старые Журавичи, местечко...",
+                "href": "https://www.radzima.net/ru/miejsce/starye_zhuravichi.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Таймоново, село....",
+                "href": "https://www.radzima.net/ru/miejsce/taymonovo.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Таймоново, усадьба.",
+                "href": "https://www.radzima.net/ru/miejsce/taymonovo_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Терезполье, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/terezpole.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Хатки, посёлок",
+                "href": "https://www.radzima.net/ru/miejsce/khatki.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Хотовня, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/khotovnya.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Хотовня, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/khotovnya_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Юзефполье, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/yuzefpole.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Юльяново, фольварк..",
+                "href": "https://www.radzima.net/ru/miejsce/yuljyanovo.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Яново, фольварк",
+                "href": "https://www.radzima.net/ru/miejsce/yanovo.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ново-Быховская волость.\n"
+            },
+            {
+                "type": "bold",
+                "text": "Список мест"
+            },
+            {
+                "type": "plain",
+                "text": ":\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Адаменка, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/adamenka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Буковье, фольварк...",
+                "href": "https://www.radzima.net/ru/miejsce/bukovje.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Веть, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/vet.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Волосовичи, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/volosovichi.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Вотня, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/votnya.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Гута, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/guta_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Дедово, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/dedovo.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Дубово-Нераж, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/dubovo-nerazh.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Дубовый Бродок, хутор..",
+                "href": "https://www.radzima.net/ru/miejsce/dubovyy_brodok.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Жидова Гора, посёлок",
+                "href": "https://www.radzima.net/ru/miejsce/zhidova_gora.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Журавичи, фольварк..",
+                "href": "https://www.radzima.net/ru/miejsce/zhuravichi.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Журавичи, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/zhuravichi_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Залесье, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/zalesje.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Золотое Дно, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/zolotoe_dno.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Искань, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/iskan_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Искань, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/iskan.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Истопки, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/istopki.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Истопки, фольварк..",
+                "href": "https://www.radzima.net/ru/miejsce/istopki_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Канава, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/kanava.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Комаричи, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/komarichi_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Комаричи, фольварк...",
+                "href": "https://www.radzima.net/ru/miejsce/komarichi.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Красный Берег, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/krasnyy_bereg.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Лазаревичи, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/lazarevichi.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Лудчицы, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/ludchitsy_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Лудчицы, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/ludchitsy.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Мосток, фольварк",
+                "href": "https://www.radzima.net/ru/miejsce/mostok.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Новые Журавичи, местечко..",
+                "href": "https://www.radzima.net/ru/miejsce/novye_zhuravichi.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Новый Быхов, местечко",
+                "href": "https://www.radzima.net/ru/miejsce/novyy_bykhov.html"
+            },
+            {
+                "type": "text_link",
+                "text": "..",
+                "href": "https://www.radzima.net/ru/miejsce/novyy_bykhov.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Новый Быхов, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/novyy_bykhov_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Обидовичи, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/obidovichi_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Обидовичи, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/obidovichi.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Осовская Слобода, посёлок.",
+                "href": "https://www.radzima.net/ru/miejsce/osovskaya_sloboda.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Подгородок, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/podgorodok.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Поляниновичи, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/polyaninovichi.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Пустельня, имение...",
+                "href": "https://www.radzima.net/ru/miejsce/pustelnya.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Пустильня, фольварк",
+                "href": "https://www.radzima.net/ru/miejsce/pustilnya.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Регенполь, имение..",
+                "href": "https://www.radzima.net/ru/miejsce/regenpol.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Селец Холопеев, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/selets_kholopeev.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Селец Холопейский, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/selets_kholopeyskiy.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Славянка (Халапея), фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/slavyanka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Староселье, околица.",
+                "href": "https://www.radzima.net/ru/miejsce/starosele.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Старые Журавичи, местечко...",
+                "href": "https://www.radzima.net/ru/miejsce/starye_zhuravichi.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Таймоново, село....",
+                "href": "https://www.radzima.net/ru/miejsce/taymonovo.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Таймоново, усадьба.",
+                "href": "https://www.radzima.net/ru/miejsce/taymonovo_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Терезполье, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/terezpole.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Хатки, посёлок",
+                "href": "https://www.radzima.net/ru/miejsce/khatki.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Хотовня, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/khotovnya.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Хотовня, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/khotovnya_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Юзефполье, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/yuzefpole.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Юльяново, фольварк..",
+                "href": "https://www.radzima.net/ru/miejsce/yuljyanovo.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Яново, фольварк",
+                "href": "https://www.radzima.net/ru/miejsce/yanovo.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Надежда Надежда",
+                        "from_id": "user2012348589",
+                        "date": "2024-02-24T22:57:46"
+                    },
+                    {
+                        "from": "MikhailR Kubasov",
+                        "from_id": "user918899531",
+                        "date": "2024-01-23T23:42:06"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Ledy",
+                        "from_id": "user392986868",
+                        "date": "2024-11-14T12:36:26"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "type": "message",
+        "date": "2023-08-13T19:19:32",
+        "date_unixtime": "1691943572",
+        "from": "Paval Hadzinski",
+        "from_id": "user111398048",
+        "reply_to_message_id": 14,
+        "text": "Вітаю, цікавіць Залеская Слабада (Залесьсе, Слабада). І суседнія вёскі. Прозьвішчы: Галіноўскі, Галіновіч, Какашынскі",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вітаю, цікавіць Залеская Слабада (Залесьсе, Слабада). І суседнія вёскі. Прозьвішчы: Галіноўскі, Галіновіч, Какашынскі"
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "type": "message",
+        "date": "2023-08-13T21:10:14",
+        "date_unixtime": "1691950214",
+        "from": null,
+        "from_id": "user5882332801",
+        "reply_to_message_id": 14,
+        "text": "Вітаю! У НГАБе захаваўся вельмі стары фонд па Тайманаўскай уніятскай царкве. Там Залессе і суседнія вёскі.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вітаю! У НГАБе захаваўся вельмі стары фонд па Тайманаўскай уніятскай царкве. Там Залессе і суседнія вёскі."
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "type": "message",
+        "date": "2023-08-13T21:10:44",
+        "date_unixtime": "1691950244",
+        "from": null,
+        "from_id": "user5882332801",
+        "reply_to_message_id": 14,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "NIAB_LF_3392_1.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 228,
+        "type": "message",
+        "date": "2023-08-13T21:19:37",
+        "date_unixtime": "1691950777",
+        "from": "Paval Hadzinski",
+        "from_id": "user111398048",
+        "reply_to_message_id": 14,
+        "text": "Так, я глядзеў за 1769-83. І 1823-29. А 1829 - апошні год з наяўных метрыкаў. На жаль без прозьвішчаў, і суаднесьці з часам прыблізна 1870-90 прынамсі ня бачу якім чынам. \n\nДа таго ж ёсьць і пытаньне пра час узьнікненьня ўласна Залескай Слабады. На мапе 1792 года можна ля Лудчыцаў знайсьці Слабодку. Але не Залескую. Ці тая самая вёска - на 100% не знайшоў інфармацыі.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так, я глядзеў за 1769-83. І 1823-29. А 1829 - апошні год з наяўных метрыкаў. На жаль без прозьвішчаў, і суаднесьці з часам прыблізна 1870-90 прынамсі ня бачу якім чынам. \n\nДа таго ж ёсьць і пытаньне пра час узьнікненьня ўласна Залескай Слабады. На мапе 1792 года можна ля Лудчыцаў знайсьці Слабодку. Але не Залескую. Ці тая самая вёска - на 100% не знайшоў інфармацыі."
+            }
+        ]
+    },
+    {
+        "id": 599,
+        "type": "message",
+        "date": "2024-01-23T22:53:01",
+        "date_unixtime": "1706039581",
+        "from": "MikhailR Kubasov",
+        "from_id": "user918899531",
+        "reply_to_message_id": 14,
+        "text": "Всем добрый день.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Всем добрый день."
+            }
+        ]
+    },
+    {
+        "id": 600,
+        "type": "message",
+        "date": "2024-01-23T22:53:08",
+        "date_unixtime": "1706039588",
+        "edited": "2024-12-28T08:39:33",
+        "edited_unixtime": "1735364373",
+        "from": "MikhailR Kubasov",
+        "from_id": "user918899531",
+        "reply_to_message_id": 14,
+        "text": "Простите, что на русском.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Простите, что на русском."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Igor",
+                        "from_id": "user1465163315",
+                        "date": "2024-12-28T08:39:33"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 601,
+        "type": "message",
+        "date": "2024-01-23T22:53:39",
+        "date_unixtime": "1706039619",
+        "from": "MikhailR Kubasov",
+        "from_id": "user918899531",
+        "reply_to_message_id": 14,
+        "text": "ищу в Новобыховской волости по сел. Лазаревичи.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ищу в Новобыховской волости по сел. Лазаревичи."
+            }
+        ]
+    },
+    {
+        "id": 602,
+        "type": "message",
+        "date": "2024-01-23T22:55:19",
+        "date_unixtime": "1706039719",
+        "from": "MikhailR Kubasov",
+        "from_id": "user918899531",
+        "reply_to_message_id": 14,
+        "text": "пока что проработаны ИВ с 1884 г. по 1900 г. Новобыховской церкви.\n\nтакже выяснил сегодня на основании документов РГИА.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "пока что проработаны ИВ с 1884 г. по 1900 г. Новобыховской церкви.\n\nтакже выяснил сегодня на основании документов РГИА."
+            }
+        ]
+    },
+    {
+        "id": 603,
+        "type": "message",
+        "date": "2024-01-23T22:56:26",
+        "date_unixtime": "1706039786",
+        "from": "MikhailR Kubasov",
+        "from_id": "user918899531",
+        "reply_to_message_id": 14,
+        "text": [
+            "В целом Лазаревичи принадлежали во 2-й половине 19 в. Семковским. Вот выписка из дела по Лазаревичам конкретно.\n",
+            {
+                "type": "bold",
+                "text": "\n577-19-68"
+            },
+            "\nл. 21\nпомещик Александр Фадеевич Семковский заявляет, что селение Лазаревичи он получит по духовному завещанию от матери его Елизаветы Семковской 27 сентября 1846 года\n\nл. 15\nПо уставной грамоте на 1858 г. по 10-й народной переписи\nВ деревне Лазаревичи\nдворовых 10\nкрестьян 79\nпричисленных по возврате из бегов 7\n\nл. 8 об.\nотрезана же у них земля в 1853 году по смерти помещицы Елисоветы Юрьевны Семковской при налюбном разделе наследников двух братьев Александра и Антона Фадеевых Семковских и поделили Лазаревичи на две равные части\n\nл. 7\nПротокол о поземельном наделе и выкупном платеже крестьян-собственников 1-го Лазаревичскано Сельскаго общества входившаго прежде по земле в состав имения помещика Губернскаго Секретаря Александр Фадеева Семковскаго\n\nТаймановской Волости\n\n1865 года сентября 2 дня. В Быховском мировом Съезде слушали:…"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В целом Лазаревичи принадлежали во 2-й половине 19 в. Семковским. Вот выписка из дела по Лазаревичам конкретно.\n"
+            },
+            {
+                "type": "bold",
+                "text": "\n577-19-68"
+            },
+            {
+                "type": "plain",
+                "text": "\nл. 21\nпомещик Александр Фадеевич Семковский заявляет, что селение Лазаревичи он получит по духовному завещанию от матери его Елизаветы Семковской 27 сентября 1846 года\n\nл. 15\nПо уставной грамоте на 1858 г. по 10-й народной переписи\nВ деревне Лазаревичи\nдворовых 10\nкрестьян 79\nпричисленных по возврате из бегов 7\n\nл. 8 об.\nотрезана же у них земля в 1853 году по смерти помещицы Елисоветы Юрьевны Семковской при налюбном разделе наследников двух братьев Александра и Антона Фадеевых Семковских и поделили Лазаревичи на две равные части\n\nл. 7\nПротокол о поземельном наделе и выкупном платеже крестьян-собственников 1-го Лазаревичскано Сельскаго общества входившаго прежде по земле в состав имения помещика Губернскаго Секретаря Александр Фадеева Семковскаго\n\nТаймановской Волости\n\n1865 года сентября 2 дня. В Быховском мировом Съезде слушали:…"
+            }
+        ]
+    },
+    {
+        "id": 604,
+        "type": "message",
+        "date": "2024-01-23T22:57:34",
+        "date_unixtime": "1706039854",
+        "edited": "2024-11-12T09:55:37",
+        "edited_unixtime": "1731394537",
+        "from": "MikhailR Kubasov",
+        "from_id": "user918899531",
+        "reply_to_message_id": 14,
+        "text": [
+            "Кто-то находил Новобыховскую/Таймановскую волость в РС по Быховскому уезду? Напишите пожалуйста листы на волость.\n\n",
+            {
+                "type": "bold",
+                "text": "Ревизские сказки Быховский уезд:"
+            },
+            "\n17. 2151-1-81 Помещичьи крестьяне 1858\nДополнительные ревизские сказки по Быховскому уезду Могилевской губернии\n18. 2151-1-83 Крестьяне, мещане, отставные солдаты 1870\n19. 2151-1-84 Крестьяне, отставные солдаты, кантонисты 1876-1878"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Кто-то находил Новобыховскую/Таймановскую волость в РС по Быховскому уезду? Напишите пожалуйста листы на волость.\n\n"
+            },
+            {
+                "type": "bold",
+                "text": "Ревизские сказки Быховский уезд:"
+            },
+            {
+                "type": "plain",
+                "text": "\n17. 2151-1-81 Помещичьи крестьяне 1858\nДополнительные ревизские сказки по Быховскому уезду Могилевской губернии\n18. 2151-1-83 Крестьяне, мещане, отставные солдаты 1870\n19. 2151-1-84 Крестьяне, отставные солдаты, кантонисты 1876-1878"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Polyatskaya Svetlana",
+                        "from_id": "user187710983",
+                        "date": "2024-11-12T09:55:37"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 605,
+        "type": "message",
+        "date": "2024-01-23T23:43:21",
+        "date_unixtime": "1706042601",
+        "edited": "2024-01-24T06:17:58",
+        "edited_unixtime": "1706066278",
+        "from": "MikhailR Kubasov",
+        "from_id": "user918899531",
+        "reply_to_message_id": 14,
+        "text": "Кому нужно посмотреть дела в Ф. 577 1865 г., пишите, иногда встречаются списки крестьян.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Кому нужно посмотреть дела в Ф. 577 1865 г., пишите, иногда встречаются списки крестьян."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Виктор Воднев",
+                        "from_id": "user5349030189",
+                        "date": "2024-01-24T06:17:58"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 606,
+        "type": "message",
+        "date": "2024-01-24T00:56:12",
+        "date_unixtime": "1706046972",
+        "edited": "2024-01-24T00:59:36",
+        "edited_unixtime": "1706047176",
+        "from": "Anti",
+        "from_id": "user208211519",
+        "reply_to_message_id": 605,
+        "text": "подскажите а может у вас получится 577-19-76 посмотреть?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "подскажите а может у вас получится 577-19-76 посмотреть?"
+            }
+        ]
+    },
+    {
+        "id": 607,
+        "type": "message",
+        "date": "2024-01-24T01:02:22",
+        "date_unixtime": "1706047342",
+        "from": "MikhailR Kubasov",
+        "from_id": "user918899531",
+        "reply_to_message_id": 606,
+        "text": "Да, конечно",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, конечно"
+            }
+        ]
+    },
+    {
+        "id": 645,
+        "type": "message",
+        "date": "2024-02-25T20:09:35",
+        "date_unixtime": "1708880975",
+        "edited": "2024-05-13T20:10:29",
+        "edited_unixtime": "1715620229",
+        "from": "NikolaenkoN 😉",
+        "from_id": "user1186887222",
+        "reply_to_message_id": 14,
+        "text": "Всем доброго времени суток!\nПомогите советом, с чего начинать поиск,я первый раз ищу предков своих.\nХочу найти информацию про прапрадеда (Коржов Наум Романович, род. в д. Новый Быхов, ныне Быховский район, Могилёвская обл. ) и прапрабабушку (Коржова Агафья Фёдоровна - род. в Верхней Тощице, также Быховский район, Могилёвская обл).\nВроде бы были средними кулаками, раскулачены. По рассказам прадеда, рожденного в 1931 г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Всем доброго времени суток!\nПомогите советом, с чего начинать поиск,я первый раз ищу предков своих.\nХочу найти информацию про прапрадеда (Коржов Наум Романович, род. в д. Новый Быхов, ныне Быховский район, Могилёвская обл. ) и прапрабабушку (Коржова Агафья Фёдоровна - род. в Верхней Тощице, также Быховский район, Могилёвская обл).\nВроде бы были средними кулаками, раскулачены. По рассказам прадеда, рожденного в 1931 г."
+            }
+        ]
+    },
+    {
+        "id": 646,
+        "type": "message",
+        "date": "2024-02-25T21:19:55",
+        "date_unixtime": "1708885195",
+        "from": "Быховский уезд. Могилевская губерния.",
+        "from_id": "channel1935594919",
+        "author": "Администратор",
+        "reply_to_message_id": 645,
+        "text": "Здравствуйте! Хорошее дело затеяли.  Интересное и нужное. Но необходим для этого определённый набор составляющих.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте! Хорошее дело затеяли.  Интересное и нужное. Но необходим для этого определённый набор составляющих."
+            }
+        ]
+    },
+    {
+        "id": 647,
+        "type": "message",
+        "date": "2024-02-25T21:20:08",
+        "date_unixtime": "1708885208",
+        "edited": "2024-05-13T20:10:36",
+        "edited_unixtime": "1715620236",
+        "from": "Быховский уезд. Могилевская губерния.",
+        "from_id": "channel1935594919",
+        "author": "Администратор",
+        "reply_to_message_id": 14,
+        "text": "Памятка начинающему поисковику. Или заметки для тех, кто наконец- таки решил найти свои корни.\n1. Первым делом необходимо провести максимальный опрос и собрать как можно более подробную информацию от своих родителей, родственников, бабушек и дедушек и так далее. \n2. Поиск в региональных архивах. Информация, моложе 1917 года находится в Могилевском областном и районных архивах. \n3. Информация из похозяйственных книг, которые в основном находятся в сельисполкомах.\n4. Военные сайты, которые есть в открытом доступе.\n5. Практика: экспедиции на кладбище.\n6. Перебираемся в НИАБ и НАРБ. Метрики, ревизии, и так далее.\nМетрики: о рождении, о браке, о смерти. \nЗдесь необходимо учитывать , к какому приходу относилась ваша местность. \n\nНа всё это уйдёт определённое время. У кого как. Некоторые поиски длятся годами. \nПосле того, как вы найдете шесть - семь поколений, можете считаться опытными поисковиками и пробовать дальше двигаться. \nПоиск может быть расширен за счёт архивов из соседних стран.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Памятка начинающему поисковику. Или заметки для тех, кто наконец- таки решил найти свои корни.\n1. Первым делом необходимо провести максимальный опрос и собрать как можно более подробную информацию от своих родителей, родственников, бабушек и дедушек и так далее. \n2. Поиск в региональных архивах. Информация, моложе 1917 года находится в Могилевском областном и районных архивах. \n3. Информация из похозяйственных книг, которые в основном находятся в сельисполкомах.\n4. Военные сайты, которые есть в открытом доступе.\n5. Практика: экспедиции на кладбище.\n6. Перебираемся в НИАБ и НАРБ. Метрики, ревизии, и так далее.\nМетрики: о рождении, о браке, о смерти. \nЗдесь необходимо учитывать , к какому приходу относилась ваша местность. \n\nНа всё это уйдёт определённое время. У кого как. Некоторые поиски длятся годами. \nПосле того, как вы найдете шесть - семь поколений, можете считаться опытными поисковиками и пробовать дальше двигаться. \nПоиск может быть расширен за счёт архивов из соседних стран."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Polyatskaya Svetlana",
+                        "from_id": "user187710983",
+                        "date": "2024-11-12T09:56:25"
+                    },
+                    {
+                        "from": "Daria",
+                        "from_id": "user550767403",
+                        "date": "2024-07-07T14:57:01"
+                    },
+                    {
+                        "from": "🦋Людмила Павловская🦋",
+                        "from_id": "user1558885042",
+                        "date": "2024-05-13T20:10:36"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 654,
+        "type": "message",
+        "date": "2024-02-25T22:34:03",
+        "date_unixtime": "1708889643",
+        "from": "NikolaenkoN 😉",
+        "from_id": "user1186887222",
+        "reply_to_message_id": 14,
+        "text": "Спасибо за ответ!\nА в ЗАГСах документы сколько хранятся до того, как их передают в архив?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо за ответ!\nА в ЗАГСах документы сколько хранятся до того, как их передают в архив?"
+            }
+        ]
+    },
+    {
+        "id": 655,
+        "type": "message",
+        "date": "2024-02-25T22:37:17",
+        "date_unixtime": "1708889837",
+        "from": "Быховский уезд. Могилевская губерния.",
+        "from_id": "channel1935594919",
+        "author": "Администратор",
+        "reply_to_message_id": 14,
+        "text": "Документы из ЗАГСов хранятся в архивах самих ЗАГСов. Но там, для поиска необходимы документы подтверждающие родство.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Документы из ЗАГСов хранятся в архивах самих ЗАГСов. Но там, для поиска необходимы документы подтверждающие родство."
+            }
+        ]
+    },
+    {
+        "id": 656,
+        "type": "message",
+        "date": "2024-02-25T22:39:56",
+        "date_unixtime": "1708889996",
+        "edited": "2024-02-25T22:40:30",
+        "edited_unixtime": "1708890030",
+        "from": "NikolaenkoN 😉",
+        "from_id": "user1186887222",
+        "reply_to_message_id": 14,
+        "text": "А в какой форме писать запрос туда?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А в какой форме писать запрос туда?"
+            }
+        ]
+    },
+    {
+        "id": 657,
+        "type": "message",
+        "date": "2024-02-25T22:48:50",
+        "date_unixtime": "1708890530",
+        "from": "Быховский уезд. Могилевская губерния.",
+        "from_id": "channel1935594919",
+        "author": "Администратор",
+        "reply_to_message_id": 14,
+        "text": "Вы сначало узнайте ,какой ЗАГС вам нужен. По телефону спросите. Или на месте дают бланк, заполняете форму.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вы сначало узнайте ,какой ЗАГС вам нужен. По телефону спросите. Или на месте дают бланк, заполняете форму."
+            }
+        ]
+    },
+    {
+        "id": 658,
+        "type": "message",
+        "date": "2024-02-25T22:50:16",
+        "date_unixtime": "1708890616",
+        "from": "NikolaenkoN 😉",
+        "from_id": "user1186887222",
+        "reply_to_message_id": 14,
+        "text": "Ок. Спасибо)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ок. Спасибо)"
+            }
+        ]
+    },
+    {
+        "id": 721,
+        "type": "message",
+        "date": "2024-06-10T18:59:36",
+        "date_unixtime": "1718035176",
+        "edited": "2024-06-10T22:38:10",
+        "edited_unixtime": "1718048290",
+        "from": "Быховский уезд. Могилевская губерния.",
+        "from_id": "channel1935594919",
+        "author": "Администратор",
+        "reply_to_message_id": 14,
+        "text": [
+            {
+                "type": "bold",
+                "text": "ГАМО ф.83-1-77"
+            },
+            " Опись построек",
+            {
+                "type": "bold",
+                "text": " им. Хотовня"
+            },
+            " /Бочкова/  располож. в пределах Ново-Быховской вол., Быховского уез. и принятого в ведение 1-ой Журавичской культурно-трудовой артели 10 февраля 1920г. (описание домов, год постройки и т.д.)"
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "ГАМО ф.83-1-77"
+            },
+            {
+                "type": "plain",
+                "text": " Опись построек"
+            },
+            {
+                "type": "bold",
+                "text": " им. Хотовня"
+            },
+            {
+                "type": "plain",
+                "text": " /Бочкова/  располож. в пределах Ново-Быховской вол., Быховского уез. и принятого в ведение 1-ой Журавичской культурно-трудовой артели 10 февраля 1920г. (описание домов, год постройки и т.д.)"
+            }
+        ]
+    },
+    {
+        "id": 722,
+        "type": "message",
+        "date": "2024-06-10T20:25:07",
+        "date_unixtime": "1718040307",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 721,
+        "text": "Что за архив ГАМо? 🤔",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Что за архив ГАМо? 🤔"
+            }
+        ]
+    },
+    {
+        "id": 723,
+        "type": "message",
+        "date": "2024-06-10T20:28:17",
+        "date_unixtime": "1718040497",
+        "from": "Быховский уезд. Могилевская губерния.",
+        "from_id": "channel1935594919",
+        "author": "Администратор",
+        "reply_to_message_id": 722,
+        "text": [
+            {
+                "type": "bold",
+                "text": "Государственный архив Могилевской области"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Государственный архив Могилевской области"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 724,
+        "type": "message",
+        "date": "2024-06-10T20:37:49",
+        "date_unixtime": "1718041069",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 723,
+        "text": [
+            "ГАМог ф. 83 \n",
+            {
+                "type": "link",
+                "text": "https://fk.archives.gov.by/fond/100982/"
+            },
+            "\nНеверное сокращение - вводит в заблуждение, а это очень важно."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ГАМог ф. 83 \n"
+            },
+            {
+                "type": "link",
+                "text": "https://fk.archives.gov.by/fond/100982/"
+            },
+            {
+                "type": "plain",
+                "text": "\nНеверное сокращение - вводит в заблуждение, а это очень важно."
+            }
+        ]
+    },
+    {
+        "id": 757,
+        "type": "message",
+        "date": "2024-07-07T10:00:44",
+        "date_unixtime": "1720335644",
+        "from": "ольга шадрина",
+        "from_id": "user5981785478",
+        "reply_to_message_id": 14,
+        "text": "Здравствуйте! Мой прадед с Могилёвской губернии, Ново - Быховского уезда, д. Лазаровичи Войтов Семён Кирилловович в 1890 г с братом Терентеем Кириллововичем и детьми: Анастасия, Анна, Акулина, Нестор, про жену - не известно, пересилить в Сибирь в Тобольскую губернию, Ишимский уезд, д. Новониколаевка. Не могу никаких данных найти. Прошу помощи. Может кто - то занимается этой деревней или ещё кто-то из потомков остался на Родине? Ищу метрики, хоть какие нибудь записи, может быть ссылка есть на документы. Буду рада любой информации. Заранее спасибо!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте! Мой прадед с Могилёвской губернии, Ново - Быховского уезда, д. Лазаровичи Войтов Семён Кирилловович в 1890 г с братом Терентеем Кириллововичем и детьми: Анастасия, Анна, Акулина, Нестор, про жену - не известно, пересилить в Сибирь в Тобольскую губернию, Ишимский уезд, д. Новониколаевка. Не могу никаких данных найти. Прошу помощи. Может кто - то занимается этой деревней или ещё кто-то из потомков остался на Родине? Ищу метрики, хоть какие нибудь записи, может быть ссылка есть на документы. Буду рада любой информации. Заранее спасибо!"
+            }
+        ]
+    },
+    {
+        "id": 758,
+        "type": "message",
+        "date": "2024-07-07T10:39:19",
+        "date_unixtime": "1720337959",
+        "edited": "2024-07-07T10:41:01",
+        "edited_unixtime": "1720338061",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 757,
+        "text": [
+            "Вітаю! Попробуйте написать вот этому человеку. Я так понимаю он занимался Лазаревичами. \nE-mail для связи:: ",
+            {
+                "type": "email",
+                "text": "rechitsa@list.ru"
+            },
+            "\nЮрий Лагунов. \n\nТакже в НИАБе по Лазаревичам сохранились исповедные ведомости, брачные обыски и метрики о родившихся.\n\n",
+            {
+                "type": "link",
+                "text": "https://drive.google.com/file/d/1QrCIqWYa9tQ4KAkfz22cfIzmqAH2lDCM/view?usp=drivesdk"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вітаю! Попробуйте написать вот этому человеку. Я так понимаю он занимался Лазаревичами. \nE-mail для связи:: "
+            },
+            {
+                "type": "email",
+                "text": "rechitsa@list.ru"
+            },
+            {
+                "type": "plain",
+                "text": "\nЮрий Лагунов. \n\nТакже в НИАБе по Лазаревичам сохранились исповедные ведомости, брачные обыски и метрики о родившихся.\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://drive.google.com/file/d/1QrCIqWYa9tQ4KAkfz22cfIzmqAH2lDCM/view?usp=drivesdk"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 759,
+        "type": "message",
+        "date": "2024-07-07T10:41:18",
+        "date_unixtime": "1720338078",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 14,
+        "text": "Посмотрите ф.2014 может тут что найдется. Есть дело о переселении крестьян д.Лазаревичи в Сибирь, но в 1896г.\nИ по месту переселения находили дела переселенцев, с/х перепись?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Посмотрите ф.2014 может тут что найдется. Есть дело о переселении крестьян д.Лазаревичи в Сибирь, но в 1896г.\nИ по месту переселения находили дела переселенцев, с/х перепись?"
+            }
+        ]
+    },
+    {
+        "id": 760,
+        "type": "message",
+        "date": "2024-07-07T10:41:22",
+        "date_unixtime": "1720338082",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 757,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "NIAB_LF_2014_1.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 761,
+        "type": "message",
+        "date": "2024-07-07T10:47:30",
+        "date_unixtime": "1720338450",
+        "edited": "2024-07-07T10:47:52",
+        "edited_unixtime": "1720338472",
+        "from": "Ася",
+        "from_id": "user528112996",
+        "reply_to_message_id": 758,
+        "text": "Я на днях смотрела исповедальные д Обидовичи. Ну как смотрела.... Плакала над ними. По крестьянам ни одной фамилии. Чисто имя и отчество. Вообще слабо представляю, как с ними работать. Хоть ты переписывай или сканируй все, что есть в наличии, а потом соотноси\nПримерно такая же история с брачными обысками.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я на днях смотрела исповедальные д Обидовичи. Ну как смотрела.... Плакала над ними. По крестьянам ни одной фамилии. Чисто имя и отчество. Вообще слабо представляю, как с ними работать. Хоть ты переписывай или сканируй все, что есть в наличии, а потом соотноси\nПримерно такая же история с брачными обысками."
+            }
+        ]
+    },
+    {
+        "id": 762,
+        "type": "message",
+        "date": "2024-07-07T10:51:43",
+        "date_unixtime": "1720338703",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 761,
+        "text": "За какой год исповедки?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "За какой год исповедки?"
+            }
+        ]
+    },
+    {
+        "id": 763,
+        "type": "message",
+        "date": "2024-07-07T10:52:43",
+        "date_unixtime": "1720338763",
+        "edited": "2024-07-07T11:03:27",
+        "edited_unixtime": "1720339407",
+        "from": "Ася",
+        "from_id": "user528112996",
+        "reply_to_message_id": 762,
+        "text": "1893, 1900, 1906",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "1893, 1900, 1906"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user489477240",
+                        "date": "2024-07-07T11:03:27"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 764,
+        "type": "message",
+        "date": "2024-07-07T11:03:21",
+        "date_unixtime": "1720339401",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 763,
+        "text": "А Ваши исследования дошли до 1893?\nТ.е если Вы от настоящего поступательно двигались и дошли до 1893 либо 1906, то у Вас у должны быть известны составы семей (имена, отчества). \nЕсли нет, то зачем…можно пойти по ложному следу. \nКоль начали смотреть, нужно переписать всё. Потом сопоставлять.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А Ваши исследования дошли до 1893?\nТ.е если Вы от настоящего поступательно двигались и дошли до 1893 либо 1906, то у Вас у должны быть известны составы семей (имена, отчества). \nЕсли нет, то зачем…можно пойти по ложному следу. \nКоль начали смотреть, нужно переписать всё. Потом сопоставлять."
+            }
+        ]
+    },
+    {
+        "id": 765,
+        "type": "message",
+        "date": "2024-07-07T12:02:15",
+        "date_unixtime": "1720342935",
+        "from": "Ася",
+        "from_id": "user528112996",
+        "reply_to_message_id": 764,
+        "text": "Мне нужны все семьи, которые на одной фамилии \nТо,что выше есть не в полной мере. А касаемо \"зачем\" - мне не понятен этот вопрос.\nС отсутствием фамилии я сталкиваюсь впервые.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мне нужны все семьи, которые на одной фамилии \nТо,что выше есть не в полной мере. А касаемо \"зачем\" - мне не понятен этот вопрос.\nС отсутствием фамилии я сталкиваюсь впервые."
+            }
+        ]
+    },
+    {
+        "id": 766,
+        "type": "message",
+        "date": "2024-07-07T12:35:21",
+        "date_unixtime": "1720344921",
+        "from": "Andrew Belaveshkin",
+        "from_id": "user265933191",
+        "reply_to_message_id": 765,
+        "text": "Фамилии были у крестьян в Беларуси с 16-17 столетия, просто после захвата РИ их перестали писать специально (в РИ считали что крепостным крестьянам не положена фамилия вообще)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Фамилии были у крестьян в Беларуси с 16-17 столетия, просто после захвата РИ их перестали писать специально (в РИ считали что крепостным крестьянам не положена фамилия вообще)"
+            }
+        ]
+    },
+    {
+        "id": 767,
+        "type": "message",
+        "date": "2024-07-07T13:14:29",
+        "date_unixtime": "1720347269",
+        "from": "Ася",
+        "from_id": "user528112996",
+        "reply_to_message_id": 766,
+        "text": "Спасибо \nЯ до этого просматривала только запад Беларуси и там такой проблемы не было",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо \nЯ до этого просматривала только запад Беларуси и там такой проблемы не было"
+            }
+        ]
+    },
+    {
+        "id": 768,
+        "type": "message",
+        "date": "2024-07-07T13:17:01",
+        "date_unixtime": "1720347421",
+        "edited": "2024-07-07T15:04:28",
+        "edited_unixtime": "1720353868",
+        "from": "Andrew Belaveshkin",
+        "from_id": "user265933191",
+        "reply_to_message_id": 767,
+        "text": "А у моих и в метриках Вилейского уезда не было фамилий тоже",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А у моих и в метриках Вилейского уезда не было фамилий тоже"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😱",
+                "recent": [
+                    {
+                        "from": "Ася",
+                        "from_id": "user528112996",
+                        "date": "2024-07-07T15:04:28"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 769,
+        "type": "message",
+        "date": "2024-07-07T13:39:58",
+        "date_unixtime": "1720348798",
+        "from": "ольга шадрина",
+        "from_id": "user5981785478",
+        "reply_to_message_id": 759,
+        "text": "Переселенческий нашла. Но он приехал с другом. Взял суду, вернул.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Переселенческий нашла. Но он приехал с другом. Взял суду, вернул."
+            }
+        ]
+    },
+    {
+        "id": 770,
+        "type": "message",
+        "date": "2024-07-07T13:40:47",
+        "date_unixtime": "1720348847",
+        "from": "ольга шадрина",
+        "from_id": "user5981785478",
+        "reply_to_message_id": 758,
+        "text": "Спасибо большое!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо большое!"
+            }
+        ]
+    },
+    {
+        "id": 771,
+        "type": "message",
+        "date": "2024-07-07T13:49:24",
+        "date_unixtime": "1720349364",
+        "from": "Oleg",
+        "from_id": "user6067760551",
+        "reply_to_message_id": 760,
+        "text": "Здравствуйте а в этом фонде только информация по уехавшим крестьянам? По прибывшим из других губерний может быть?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте а в этом фонде только информация по уехавшим крестьянам? По прибывшим из других губерний может быть?"
+            }
+        ]
+    },
+    {
+        "id": 772,
+        "type": "message",
+        "date": "2024-07-07T13:56:34",
+        "date_unixtime": "1720349794",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 771,
+        "text": "Здравствуйте. По памяти, в этом фонде дела о переселении и выкупные. По прибывшим - не встречала, но Вы посмотрите.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте. По памяти, в этом фонде дела о переселении и выкупные. По прибывшим - не встречала, но Вы посмотрите."
+            }
+        ]
+    },
+    {
+        "id": 773,
+        "type": "message",
+        "date": "2024-07-07T14:28:31",
+        "date_unixtime": "1720351711",
+        "edited": "2024-07-07T14:28:55",
+        "edited_unixtime": "1720351735",
+        "from": "Oleg",
+        "from_id": "user6067760551",
+        "reply_to_message_id": 772,
+        "text": "Спасибо, а в каких фондах могут быть информация по прибывшим?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо, а в каких фондах могут быть информация по прибывшим?"
+            }
+        ]
+    },
+    {
+        "id": 774,
+        "type": "message",
+        "date": "2024-07-11T15:13:19",
+        "date_unixtime": "1720699999",
+        "from": "NikolaenkoN 😉",
+        "from_id": "user1186887222",
+        "forwarded_from": "NikolaenkoN 😉",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 576,
+        "height": 1280,
+        "text": "Добрый день. Кто-нибудь может расшифровать, что в таких документах можно найти? \nИнтересует решение на раскулачивание (что-то типо того).",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день. Кто-нибудь может расшифровать, что в таких документах можно найти? \nИнтересует решение на раскулачивание (что-то типо того)."
+            }
+        ]
+    },
+    {
+        "id": 775,
+        "type": "message",
+        "date": "2024-07-14T15:12:27",
+        "date_unixtime": "1720959147",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "forwarded_from": "Anastasia Nichiporovich",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 950,
+        "height": 495,
+        "text": [
+            "03.02.1902 рождена дочь Мария, родители: Могилевской губернии Новобыховской волости деревни Дубово-Нераж крестьянин ",
+            {
+                "type": "bold",
+                "text": "Яков Алексеев Шубертов"
+            },
+            " и законная жена его Екатерина Антонова, оба православные\n\n1902 год. посад Добрянка, Городнянский уезд, Черниговская губерния"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "03.02.1902 рождена дочь Мария, родители: Могилевской губернии Новобыховской волости деревни Дубово-Нераж крестьянин "
+            },
+            {
+                "type": "bold",
+                "text": "Яков Алексеев Шубертов"
+            },
+            {
+                "type": "plain",
+                "text": " и законная жена его Екатерина Антонова, оба православные\n\n1902 год. посад Добрянка, Городнянский уезд, Черниговская губерния"
+            }
+        ]
+    },
+    {
+        "id": 781,
+        "type": "message",
+        "date": "2024-07-17T13:56:44",
+        "date_unixtime": "1721213804",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "forwarded_from": "Anastasia Nichiporovich",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 770,
+        "height": 328,
+        "text": [
+            "15.07.1909 рождена дочь Стефанида - родители: Могилевской губернии Быховского уезда Новобыховской волости деревни Дубово-Нераж крестьянин ",
+            {
+                "type": "bold",
+                "text": "Яков Алексеев Шубертов"
+            },
+            " и законная жена его Екатерина Антонова, оба православные\n\n1909 год, посад Добрянка, Городнянский уезд, Черниговская губерния"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "15.07.1909 рождена дочь Стефанида - родители: Могилевской губернии Быховского уезда Новобыховской волости деревни Дубово-Нераж крестьянин "
+            },
+            {
+                "type": "bold",
+                "text": "Яков Алексеев Шубертов"
+            },
+            {
+                "type": "plain",
+                "text": " и законная жена его Екатерина Антонова, оба православные\n\n1909 год, посад Добрянка, Городнянский уезд, Черниговская губерния"
+            }
+        ]
+    },
+    {
+        "id": 782,
+        "type": "message",
+        "date": "2024-07-17T13:57:07",
+        "date_unixtime": "1721213827",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "forwarded_from": "Anastasia Nichiporovich",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 882,
+        "height": 392,
+        "text": [
+            "16.08.1909 умерла дочь Стефанида - дочь проживающего в посаде Добрянка крестьянина Могилевской губернии Быховского уезда Новобыховской волости деревни Дубово-Нераж крестьянин ",
+            {
+                "type": "bold",
+                "text": "Якова Алексеева Шубертова"
+            },
+            " (причина: от слабости)\n\n1909 год, посад Добрянка, Городнянский уезд, Черниговская губерния"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "16.08.1909 умерла дочь Стефанида - дочь проживающего в посаде Добрянка крестьянина Могилевской губернии Быховского уезда Новобыховской волости деревни Дубово-Нераж крестьянин "
+            },
+            {
+                "type": "bold",
+                "text": "Якова Алексеева Шубертова"
+            },
+            {
+                "type": "plain",
+                "text": " (причина: от слабости)\n\n1909 год, посад Добрянка, Городнянский уезд, Черниговская губерния"
+            }
+        ]
+    },
+    {
+        "id": 783,
+        "type": "message",
+        "date": "2024-07-17T15:45:44",
+        "date_unixtime": "1721220344",
+        "from": "MikhailR Kubasov",
+        "from_id": "user918899531",
+        "reply_to_message_id": 14,
+        "text": "У меня есть выкипировка дел по дер. Лазаревичи, по ним кто-то ищет??!!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У меня есть выкипировка дел по дер. Лазаревичи, по ним кто-то ищет??!!"
+            }
+        ]
+    },
+    {
+        "id": 784,
+        "type": "message",
+        "date": "2024-07-17T16:13:22",
+        "date_unixtime": "1721222002",
+        "from": "ольга шадрина",
+        "from_id": "user5981785478",
+        "reply_to_message_id": 783,
+        "text": "Я  ищу Войтова Семёна Кириллововича. Дети: Анастасия, Анна, Акулина, Нестор. Брат Терентий Кириллович.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я  ищу Войтова Семёна Кириллововича. Дети: Анастасия, Анна, Акулина, Нестор. Брат Терентий Кириллович."
+            }
+        ]
+    },
+    {
+        "id": 1127,
+        "type": "message",
+        "date": "2024-09-06T23:11:58",
+        "date_unixtime": "1725653518",
+        "from": "Paval Hadzinski",
+        "from_id": "user111398048",
+        "reply_to_message_id": 14,
+        "text": "Вітаю, маю шмат продкаў у гэтым рэгіёне, пераважна Залеская Слабада, Камарычы, Лудчыцы, Старасельле. \nТолькі-толькі атрымалася заліць дадзеныя тэста на Gedmatch. \nЯк што каму будзе карысна: kit AE3459971",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вітаю, маю шмат продкаў у гэтым рэгіёне, пераважна Залеская Слабада, Камарычы, Лудчыцы, Старасельле. \nТолькі-толькі атрымалася заліць дадзеныя тэста на Gedmatch. \nЯк што каму будзе карысна: kit AE3459971"
+            }
+        ]
+    },
+    {
+        "id": 1237,
+        "type": "message",
+        "date": "2024-11-08T14:57:47",
+        "date_unixtime": "1731067067",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 14,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 758,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1284,
+        "type": "message",
+        "date": "2024-11-14T10:15:58",
+        "date_unixtime": "1731568558",
+        "from": "Ася",
+        "from_id": "user528112996",
+        "reply_to_message_id": 14,
+        "text": "Здравствуйте. Может кто-то сталкивался с фамилией Махленковы. Особенно интересует д. Обидовичи",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте. Может кто-то сталкивался с фамилией Махленковы. Особенно интересует д. Обидовичи"
+            }
+        ]
+    },
+    {
+        "id": 1313,
+        "type": "message",
+        "date": "2024-12-22T13:42:13",
+        "date_unixtime": "1734864133",
+        "from": "MikhailR Kubasov",
+        "from_id": "user918899531",
+        "forwarded_from": "MikhailR Kubasov",
+        "reply_to_message_id": 14,
+        "text": [
+            "Расшифрован ДНК моего деда, чьи предки были из:\n- Быховский район, Могилёвской области\n- Хайнувский повет, Подлясское воеводство\n\nyFull: \n",
+            {
+                "type": "text_link",
+                "text": "Y:",
+                "href": "https://www.yfull.com/tree/I-CTS5779/"
+            },
+            {
+                "type": "text_link",
+                "text": " I-FTA17881",
+                "href": "https://www.yfull.com/tree/I-CTS5779/"
+            },
+            {
+                "type": "bold",
+                "text": " \n"
+            },
+            "mtDNA:",
+            {
+                "type": "bold",
+                "text": " H-a1\n\n"
+            },
+            "GEDmatch: ",
+            {
+                "type": "bold",
+                "text": "SG2506589"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Расшифрован ДНК моего деда, чьи предки были из:\n- Быховский район, Могилёвской области\n- Хайнувский повет, Подлясское воеводство\n\nyFull: \n"
+            },
+            {
+                "type": "text_link",
+                "text": "Y:",
+                "href": "https://www.yfull.com/tree/I-CTS5779/"
+            },
+            {
+                "type": "text_link",
+                "text": " I-FTA17881",
+                "href": "https://www.yfull.com/tree/I-CTS5779/"
+            },
+            {
+                "type": "bold",
+                "text": " \n"
+            },
+            {
+                "type": "plain",
+                "text": "mtDNA:"
+            },
+            {
+                "type": "bold",
+                "text": " H-a1\n\n"
+            },
+            {
+                "type": "plain",
+                "text": "GEDmatch: "
+            },
+            {
+                "type": "bold",
+                "text": "SG2506589"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 1318,
+        "type": "message",
+        "date": "2024-12-24T21:19:57",
+        "date_unixtime": "1735064397",
+        "edited": "2024-12-24T21:21:56",
+        "edited_unixtime": "1735064516",
+        "from": "MikhailR Kubasov",
+        "from_id": "user918899531",
+        "reply_to_message_id": 14,
+        "text": [
+            {
+                "type": "bold",
+                "text": "РГИА"
+            },
+            " ",
+            {
+                "type": "bold",
+                "text": "577-19-68"
+            },
+            " (1866 г.)\nл. 21\nпомещик Александр Фадеевич ",
+            {
+                "type": "bold",
+                "text": "Семковский"
+            },
+            " заявляет, что селение ",
+            {
+                "type": "bold",
+                "text": "Лазаревичи"
+            },
+            " он получит по духовному завещанию от матери его Елизаветы ",
+            {
+                "type": "bold",
+                "text": "Семковской"
+            },
+            " 27 сентября 1846 года \n\nл. 8 об. \nотрезана же у них земля в 1853 году по смерти помещицы ",
+            {
+                "type": "bold",
+                "text": "Елисоветы Юрьевны Семковской"
+            },
+            " при налюбном разделе наследников двух братьев Александра и Антона Фадеевых ",
+            {
+                "type": "bold",
+                "text": "Семковских"
+            },
+            " и поделили ",
+            {
+                "type": "bold",
+                "text": "Лазаревичи"
+            },
+            " на две равные части\n\nл. 7\nПротокол о поземельном наделе и выкупном платеже крестьян-собственников 1-го ",
+            {
+                "type": "bold",
+                "text": "Лазаревичскано"
+            },
+            " Сельскаго общества входившаго прежде по земле в состав имения помещика Губернскаго Секретаря Александр Фадеева ",
+            {
+                "type": "bold",
+                "text": "Семковскаго"
+            },
+            "\n\n",
+            {
+                "type": "bold",
+                "text": "Таймановской Волости"
+            },
+            "\n\n1865 года сентября 2 дня. В Быховском мировом Съезде слушали:…"
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "РГИА"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "bold",
+                "text": "577-19-68"
+            },
+            {
+                "type": "plain",
+                "text": " (1866 г.)\nл. 21\nпомещик Александр Фадеевич "
+            },
+            {
+                "type": "bold",
+                "text": "Семковский"
+            },
+            {
+                "type": "plain",
+                "text": " заявляет, что селение "
+            },
+            {
+                "type": "bold",
+                "text": "Лазаревичи"
+            },
+            {
+                "type": "plain",
+                "text": " он получит по духовному завещанию от матери его Елизаветы "
+            },
+            {
+                "type": "bold",
+                "text": "Семковской"
+            },
+            {
+                "type": "plain",
+                "text": " 27 сентября 1846 года \n\nл. 8 об. \nотрезана же у них земля в 1853 году по смерти помещицы "
+            },
+            {
+                "type": "bold",
+                "text": "Елисоветы Юрьевны Семковской"
+            },
+            {
+                "type": "plain",
+                "text": " при налюбном разделе наследников двух братьев Александра и Антона Фадеевых "
+            },
+            {
+                "type": "bold",
+                "text": "Семковских"
+            },
+            {
+                "type": "plain",
+                "text": " и поделили "
+            },
+            {
+                "type": "bold",
+                "text": "Лазаревичи"
+            },
+            {
+                "type": "plain",
+                "text": " на две равные части\n\nл. 7\nПротокол о поземельном наделе и выкупном платеже крестьян-собственников 1-го "
+            },
+            {
+                "type": "bold",
+                "text": "Лазаревичскано"
+            },
+            {
+                "type": "plain",
+                "text": " Сельскаго общества входившаго прежде по земле в состав имения помещика Губернскаго Секретаря Александр Фадеева "
+            },
+            {
+                "type": "bold",
+                "text": "Семковскаго"
+            },
+            {
+                "type": "plain",
+                "text": "\n\n"
+            },
+            {
+                "type": "bold",
+                "text": "Таймановской Волости"
+            },
+            {
+                "type": "plain",
+                "text": "\n\n1865 года сентября 2 дня. В Быховском мировом Съезде слушали:…"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "V I",
+                        "from_id": "user7402758768",
+                        "date": "2024-12-24T21:35:24"
+                    },
+                    {
+                        "from": "ольга шадрина",
+                        "from_id": "user5981785478",
+                        "date": "2024-12-24T21:21:56"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1321,
+        "type": "message",
+        "date": "2024-12-27T15:19:22",
+        "date_unixtime": "1735301962",
+        "edited": "2025-01-09T17:00:02",
+        "edited_unixtime": "1736431202",
+        "from": "ольга шадрина",
+        "from_id": "user5981785478",
+        "reply_to_message_id": 14,
+        "text": "Здравствуйте! Есть на сайте Солодышевы? Или может быть кто-то занимался этой фамилией?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте! Есть на сайте Солодышевы? Или может быть кто-то занимался этой фамилией?"
+            }
+        ]
+    }
+]

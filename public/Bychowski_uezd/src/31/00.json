@@ -1,0 +1,847 @@
+[
+    {
+        "id": 84,
+        "type": "message",
+        "date": "2023-07-27T10:13:00",
+        "date_unixtime": "1690441980",
+        "edited": "2023-07-27T10:13:40",
+        "edited_unixtime": "1690442020",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 31,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Книга ПАМЯТЬ - Быховский район.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Книга Память - Быховский район",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Книга Память - Быховский район"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user5882332801",
+                        "date": "2023-07-27T10:20:31"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "type": "message",
+        "date": "2023-07-27T15:59:35",
+        "date_unixtime": "1690462775",
+        "edited": "2023-07-27T18:02:20",
+        "edited_unixtime": "1690470140",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 31,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Кніга.Памяць. Магілёўскі раён.pdf",
+        "mime_type": "application/pdf",
+        "text": "Памяць. Магілёўскі раён.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Памяць. Магілёўскі раён."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user489477240",
+                        "date": "2023-07-27T18:02:20"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "type": "message",
+        "date": "2023-07-29T11:29:05",
+        "date_unixtime": "1690619345",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 31,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1911_садовладельцы_могилевской_губернии_1.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 130,
+        "type": "message",
+        "date": "2023-07-31T10:36:57",
+        "date_unixtime": "1690789017",
+        "edited": "2023-07-31T10:37:56",
+        "edited_unixtime": "1690789076",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 31,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Быховский край.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Достопримечательности Быховского края",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Достопримечательности Быховского края"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user5882332801",
+                        "date": "2023-07-31T10:37:56"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "type": "message",
+        "date": "2023-07-31T10:41:14",
+        "date_unixtime": "1690789274",
+        "edited": "2023-07-31T10:44:43",
+        "edited_unixtime": "1690789483",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 31,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Быховский район.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Быховский район: события и факты.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Быховский район: события и факты."
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "type": "message",
+        "date": "2023-07-31T10:43:38",
+        "date_unixtime": "1690789418",
+        "edited": "2023-07-31T10:46:07",
+        "edited_unixtime": "1690789567",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 31,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "101.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "101 Занимательный факт из истории Быховщины.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "101 Занимательный факт из истории Быховщины."
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "type": "message",
+        "date": "2023-07-31T10:48:59",
+        "date_unixtime": "1690789739",
+        "edited": "2023-07-31T10:49:05",
+        "edited_unixtime": "1690789745",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 31,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Быхов.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Быхов: историко-экономический очерк.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Быхов: историко-экономический очерк."
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "type": "message",
+        "date": "2023-07-31T11:02:12",
+        "date_unixtime": "1690790532",
+        "edited": "2023-07-31T11:02:20",
+        "edited_unixtime": "1690790540",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 31,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "his-09.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Быховский район: страницы летописи Приднепровского края.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Быховский район: страницы летописи Приднепровского края."
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "type": "message",
+        "date": "2023-07-31T11:37:46",
+        "date_unixtime": "1690792666",
+        "edited": "2023-07-31T12:06:38",
+        "edited_unixtime": "1690794398",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 31,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "По Могилевщине.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "По Могилевщине путем из варяг в греки. Из Быховского района описаны: деревня Барколабово, город Быхов, заказник «Старица», Лудчицкая высота, деревни Грудиновка и Обидовичи.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "По Могилевщине путем из варяг в греки. Из Быховского района описаны: деревня Барколабово, город Быхов, заказник «Старица», Лудчицкая высота, деревни Грудиновка и Обидовичи."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user5882332801",
+                        "date": "2023-07-31T12:06:38"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "type": "message",
+        "date": "2023-08-02T09:40:22",
+        "date_unixtime": "1690958422",
+        "edited": "2023-08-02T09:41:29",
+        "edited_unixtime": "1690958489",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 31,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 492,
+        "height": 779,
+        "text": "Декрет Всероссийского Центрального Исполнительного Комитета. Об упразднении Быховского уезда Гомельской губернии. 14 февраля 1923 г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Декрет Всероссийского Центрального Исполнительного Комитета. Об упразднении Быховского уезда Гомельской губернии. 14 февраля 1923 г."
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "type": "message",
+        "date": "2023-08-02T09:41:53",
+        "date_unixtime": "1690958513",
+        "edited": "2023-08-02T18:29:08",
+        "edited_unixtime": "1690990148",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 31,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 492,
+        "height": 730,
+        "text": "Прошение крестьян дер. Косичи Быховского уезда в канцелярию императрицы Александры Федоровны об освобождении их от уплаты штрафа за выпас скота на чересполосных с их наделами землях помещиков Радкевичей. 22 сентября 1916 г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Прошение крестьян дер. Косичи Быховского уезда в канцелярию императрицы Александры Федоровны об освобождении их от уплаты штрафа за выпас скота на чересполосных с их наделами землях помещиков Радкевичей. 22 сентября 1916 г."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Дмитрий",
+                        "from_id": "user531695094",
+                        "date": "2023-08-04T19:19:35"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user5882332801",
+                        "date": "2023-08-02T18:29:08"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "type": "message",
+        "date": "2023-08-02T09:41:53",
+        "date_unixtime": "1690958513",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 31,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 492,
+        "height": 730,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 145,
+        "type": "message",
+        "date": "2023-08-03T08:21:13",
+        "date_unixtime": "1691040073",
+        "edited": "2024-05-08T23:47:44",
+        "edited_unixtime": "1715201264",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 31,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Населенные_места_Могилевской_губернии_1857г.pdf",
+        "mime_type": "application/pdf",
+        "text": "Ч.2. Населенные места Могилевской губернии, 1857г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ч.2. Населенные места Могилевской губернии, 1857г."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user489477240",
+                        "date": "2023-08-03T14:39:50"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user5882332801",
+                        "date": "2023-08-03T11:51:43"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "type": "message",
+        "date": "2023-08-03T14:53:34",
+        "date_unixtime": "1691063614",
+        "edited": "2023-08-06T22:10:17",
+        "edited_unixtime": "1691349017",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 31,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Ведомость_о_дворянах_Могилевская_губерния_1777г_.pdf",
+        "mime_type": "application/pdf",
+        "text": "1777г. Ведомость о дворянах. Могилевская губерния.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "1777г. Ведомость о дворянах. Могилевская губерния."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user5882332801",
+                        "date": "2023-08-06T22:10:17"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 262,
+        "type": "message",
+        "date": "2023-08-31T14:28:20",
+        "date_unixtime": "1693481300",
+        "edited": "2023-08-31T15:19:16",
+        "edited_unixtime": "1693484356",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 31,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Опыт_описания_Могилевской_губернии_Книга_3.pdf",
+        "mime_type": "application/pdf",
+        "text": "Опыт описания Могилевской губернии под редакцией А.С.Дембовецкого. Книга 3. Могилев, 1884.\n\nАлфавитный список землевладельцам по уездам за 1882г.: вероисповедание владельца, название имения, количество земли, право владения, кем управляется имение, доход.\n\nСписок по Быховскому уезду с.46-59.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Опыт описания Могилевской губернии под редакцией А.С.Дембовецкого. Книга 3. Могилев, 1884.\n\nАлфавитный список землевладельцам по уездам за 1882г.: вероисповедание владельца, название имения, количество земли, право владения, кем управляется имение, доход.\n\nСписок по Быховскому уезду с.46-59."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Дмитрий",
+                        "from_id": "user531695094",
+                        "date": "2023-09-01T00:15:40"
+                    },
+                    {
+                        "from": "Ирина",
+                        "from_id": "user489477240",
+                        "date": "2023-08-31T19:52:52"
+                    },
+                    {
+                        "from": "Катерина",
+                        "from_id": "user1431805269",
+                        "date": "2023-08-31T18:06:40"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 263,
+        "type": "message",
+        "date": "2023-09-01T13:26:50",
+        "date_unixtime": "1693564010",
+        "edited": "2023-09-01T14:38:20",
+        "edited_unixtime": "1693568300",
+        "from": "Быховский уезд. Могилевская губерния.",
+        "from_id": "channel1935594919",
+        "author": "Администратор",
+        "reply_to_message_id": 31,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Избиратели_землевладельцы_по_Быховскому_уезду,_1907г.pdf",
+        "mime_type": "application/pdf",
+        "text": "Избиратели землевладельцы по Быховскому уезду, 1907г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Избиратели землевладельцы по Быховскому уезду, 1907г."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Alena Lemekh",
+                        "from_id": "user385557769",
+                        "date": "2023-09-24T05:42:16"
+                    },
+                    {
+                        "from": "Александр Папин",
+                        "from_id": "user698870737",
+                        "date": "2023-09-06T02:20:44"
+                    },
+                    {
+                        "from": "Дмитрий",
+                        "from_id": "user531695094",
+                        "date": "2023-09-01T14:38:20"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 353,
+        "type": "message",
+        "date": "2023-09-19T19:27:11",
+        "date_unixtime": "1695140831",
+        "edited": "2023-09-19T21:30:11",
+        "edited_unixtime": "1695148211",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 31,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Свадебные_традиции_в_Быховском_уезде.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Свадебные традиции в Быховском уезде.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Свадебные традиции в Быховском уезде."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Alena Lemekh",
+                        "from_id": "user385557769",
+                        "date": "2023-12-30T08:53:33"
+                    },
+                    {
+                        "from": "Александр Папин",
+                        "from_id": "user698870737",
+                        "date": "2023-09-24T11:46:40"
+                    },
+                    {
+                        "from": "Катерина",
+                        "from_id": "user1431805269",
+                        "date": "2023-09-19T21:30:11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 419,
+        "type": "message",
+        "date": "2023-10-09T22:27:50",
+        "date_unixtime": "1696879670",
+        "edited": "2023-11-08T08:26:17",
+        "edited_unixtime": "1699421177",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 31,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Список землевладел. 1882 г.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Быховский уезд.\n1882г.Список землевладел.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Быховский уезд.\n1882г.Список землевладел."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Дмитрий",
+                        "from_id": "user531695094",
+                        "date": "2023-12-31T10:44:28"
+                    },
+                    {
+                        "from": "Александр Папин",
+                        "from_id": "user698870737",
+                        "date": "2023-11-08T08:26:17"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 547,
+        "type": "message",
+        "date": "2023-12-31T03:18:52",
+        "date_unixtime": "1703981932",
+        "edited": "2023-12-31T10:41:55",
+        "edited_unixtime": "1704008515",
+        "from": null,
+        "from_id": "user5882332801",
+        "forwarded_from": "Arxi Vedy",
+        "reply_to_message_id": 31,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1860_Сведения_о_помещичьих_имениях_Второе_приложение_к_тому_VI_Извлечение.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            "Сведения о помещичьих имениях. Извлечение и выводы из описаний имений по ",
+            {
+                "type": "bold",
+                "text": "Могилевской губернии"
+            },
+            ", 1860 год"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сведения о помещичьих имениях. Извлечение и выводы из описаний имений по "
+            },
+            {
+                "type": "bold",
+                "text": "Могилевской губернии"
+            },
+            {
+                "type": "plain",
+                "text": ", 1860 год"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Елена",
+                        "from_id": "user6050493174",
+                        "date": "2024-08-19T13:41:59"
+                    },
+                    {
+                        "from": "Дмитрий",
+                        "from_id": "user531695094",
+                        "date": "2023-12-31T10:41:55"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 628,
+        "type": "message",
+        "date": "2024-01-30T21:16:23",
+        "date_unixtime": "1706638583",
+        "edited": "2024-02-02T01:44:16",
+        "edited_unixtime": "1706827456",
+        "from": "Alex Streltsman",
+        "from_id": "user220097631",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 31,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1927_Беларускі_архіў_Том_першы_XVI—XVII_ст_У_Менску_Кошам_Інстытуту.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            "------------ ",
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            " -----------\nЗаглавие: 1927-30. Белорусский архив. (белорусский язык)., PDF.\n1927-30. Беларускі архіў. (беларуская мова)., PDF.\nт.1 (XVI-XVII), 301 стр., 116,90 Мб.\nАвтор: БАН\nЖанр: ",
+            {
+                "type": "hashtag",
+                "text": "#1927г"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#СССР"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#БССР"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#История"
+            },
+            "\nИздатель: Минск.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: ",
+            {
+                "type": "link",
+                "text": "http://book-olds.ru/BookLibrary/22000-Minskaya-gub/1927-30.-Belorusskiy-arhiv.-belorusskiy-yazyik.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "------------ "
+            },
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            {
+                "type": "plain",
+                "text": " -----------\nЗаглавие: 1927-30. Белорусский архив. (белорусский язык)., PDF.\n1927-30. Беларускі архіў. (беларуская мова)., PDF.\nт.1 (XVI-XVII), 301 стр., 116,90 Мб.\nАвтор: БАН\nЖанр: "
+            },
+            {
+                "type": "hashtag",
+                "text": "#1927г"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Россия"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#СССР"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#БССР"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#История"
+            },
+            {
+                "type": "plain",
+                "text": "\nИздатель: Минск.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на сайте библиотеки: "
+            },
+            {
+                "type": "link",
+                "text": "http://book-olds.ru/BookLibrary/22000-Minskaya-gub/1927-30.-Belorusskiy-arhiv.-belorusskiy-yazyik.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Дмитрий",
+                        "from_id": "user531695094",
+                        "date": "2024-02-08T19:55:25"
+                    },
+                    {
+                        "from": "Анна Са",
+                        "from_id": "user6403471908",
+                        "date": "2024-02-02T01:44:16"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 687,
+        "type": "message",
+        "date": "2024-05-09T00:24:13",
+        "date_unixtime": "1715203453",
+        "edited": "2024-05-09T00:25:13",
+        "edited_unixtime": "1715203513",
+        "from": "Быховский уезд. Могилевская губерния.",
+        "from_id": "channel1935594919",
+        "author": "Администратор",
+        "reply_to_message_id": 31,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Ч_1_Список_населенных_мест_Могилевская_губерния,1857.pdf",
+        "mime_type": "application/pdf",
+        "text": "Ч.1 Населенные места.\nМогилевская губерния,1857.\nБыховский уезд в этой части.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ч.1 Населенные места.\nМогилевская губерния,1857.\nБыховский уезд в этой части."
+            }
+        ]
+    },
+    {
+        "id": 868,
+        "type": "message",
+        "date": "2024-08-19T13:40:22",
+        "date_unixtime": "1724064022",
+        "edited": "2024-09-25T17:32:41",
+        "edited_unixtime": "1727274761",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 31,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "Поэма про ту самую Веру Самолётову, памятник, которой установлен на кладбище деревни Слоневщина.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Поэма про ту самую Веру Самолётову, памятник, которой установлен на кладбище деревни Слоневщина."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Александра",
+                        "from_id": "user1073649954",
+                        "date": "2024-08-19T14:12:01"
+                    },
+                    {
+                        "from": "Alex Streltsman",
+                        "from_id": "user220097631",
+                        "date": "2024-08-19T13:48:42"
+                    },
+                    {
+                        "from": "Катерина",
+                        "from_id": "user1431805269",
+                        "date": "2024-08-19T13:42:24"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 869,
+        "type": "message",
+        "date": "2024-08-19T13:40:22",
+        "date_unixtime": "1724064022",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 31,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 598,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    }
+]

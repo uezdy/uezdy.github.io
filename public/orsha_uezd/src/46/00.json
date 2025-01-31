@@ -1,0 +1,2580 @@
+[
+    {
+        "id": 219,
+        "type": "message",
+        "date": "2023-07-30T00:56:46",
+        "date_unixtime": "1690667806",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 46,
+        "text": [
+            "🏡 ",
+            {
+                "type": "bold",
+                "text": "Старосельская волость"
+            },
+            " —",
+            {
+                "type": "bold",
+                "text": " "
+            },
+            {
+                "type": "text_link",
+                "text": "Radzima",
+                "href": "https://www.radzima.net/ru/volost/staroselskaya_2.html"
+            },
+            ", ",
+            {
+                "type": "text_link",
+                "text": "Familio\n\n",
+                "href": "https://familio.org/knowledge-base/catalogs/mogilev1910?level1=c49d9ae8-dee5-4d29-98d2-6a1a057b631d&page-group=1&page-records=1&level2=9ba7324a-e8c0-4a94-8b5f-60ce2b7f714d"
+            },
+            {
+                "type": "text_link",
+                "text": "Александрия, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/aleksandriya_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Александрия, местечко\n",
+                "href": "https://www.radzima.net/ru/miejsce/aleksandriya_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Аннополь, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/annopol_5.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Березовка, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/berezovka_11.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Богдановка, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/bogdanovka_8.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Богушевка, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/bogushevka_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Большие Межники, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/bolshie_mezhniki_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Борки, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/borki_34.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Борки, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/borki_31.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Бошорово I-II, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/boshorovo_i_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Бошорово, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/boshorovo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Волынка, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/volynka_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Воронцевичи, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/vorontsevichi_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Воронцевичи, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/vorontsevichi_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Воронцевичи, село\n",
+                "href": "https://www.radzima.net/ru/miejsce/vorontsevichi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Воропонка, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/voroponka_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Вышково, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/vyshkovo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Гвалтовник, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/gvaltovnik_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Говораки, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/govoraki_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Городок, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/gorodok_22.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Городок, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/gorodok_20.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Горшково, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/gorshkovo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Гостище, выселок\n",
+                "href": "https://www.radzima.net/ru/miejsce/gostishche_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Дубово, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/dubovo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Дуброва, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/dubrova_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Дымово, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/dymovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Дымово, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/dymovo_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Жигалы, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/zhigaly_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Жукнево, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/zhuknevo_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Жукнево, околица\n",
+                "href": "https://www.radzima.net/ru/miejsce/zhuknevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Заборье, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/zaborje_7.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Заполье, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/zapolie_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Заровцы, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/zarovtsy_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Заслободье, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/zaslobodje_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Застенки, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/zastenki_4.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Застружье, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/zastruzhje_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Калино, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/kalino_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Калиновка, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/kalinovka_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Каменка, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/kamenka_25.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Каменка, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/kamenka_22.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Каменка, урочище\n",
+                "href": "https://www.radzima.net/ru/miejsce/kamenka_23.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Климово, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/klimovo_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Копысица, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/kopysitsa_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Копысицы, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/kopysitsy_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Корзуны, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/korzuny_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Корзуны, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/korzuny.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Красногорье, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/krasnogorje_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Кувечино, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/kuvechino_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Кувечино, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/kuvechino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лидина, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/lidina_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Логовщина, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/logovshchina_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Логовщина, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/logovshchina.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лозовка, хутор\n",
+                "href": "https://www.radzima.net/ru/miejsce/lozovka_5.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лотва, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/lotva_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Любаничи, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/lyubanichi_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Майдан, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/maydan_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Макрянка, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/makryanka_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Максимкова, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/maksimkova_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мало-Марьянполье, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/malo-marjyanpolje_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Малые Межники, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/malye_mezhniki_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Маньково 1-2, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/mankovo_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Марьянполе, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/marjyanpole_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мацево, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/matsevo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Морованка, хутор\n",
+                "href": "https://www.radzima.net/ru/miejsce/morovanka_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мостище, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/mostishche_6.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Низовцев, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/nizovtsev_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Низовцы, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/nizovtsy_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ново-Бращино, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/novo-brashchino_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ново-Полюдово, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/novo-polyudovo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ольховка, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/olkhovka_9.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ольховка, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/olkhovka_10.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Панское Болото, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/panskoe_boloto_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Подборье, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/podborje_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Подкняженье, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/podknyazhenje_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Полесье, урочище\n",
+                "href": "https://www.radzima.net/ru/miejsce/polesie_12.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Полочанка, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/polochanka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Полюдово, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/polyudovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Понизовья, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/ponizovjya.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Поповка, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/popovka_17.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Пуньшино, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/pupchino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Пуща, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/pushcha_4.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Раскидыши, селение\n",
+                "href": "https://www.radzima.net/ru/miejsce/raskidyshi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Рацево, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/ratsevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Рогожанки, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/rogozhanki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Свиранки, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/sviranki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Свиряны, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/sviryany.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Сисенево, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/sisenevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Слобода, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/sloboda_35.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Слободка, село\n",
+                "href": "https://www.radzima.net/ru/miejsce/slobodka_54.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Смольянцы, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/smoljyantsy.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Снигировка, усадьба",
+                "href": "https://www.radzima.net/ru/miejsce/snigirovka.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "🏡 "
+            },
+            {
+                "type": "bold",
+                "text": "Старосельская волость"
+            },
+            {
+                "type": "plain",
+                "text": " —"
+            },
+            {
+                "type": "bold",
+                "text": " "
+            },
+            {
+                "type": "text_link",
+                "text": "Radzima",
+                "href": "https://www.radzima.net/ru/volost/staroselskaya_2.html"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "Familio\n\n",
+                "href": "https://familio.org/knowledge-base/catalogs/mogilev1910?level1=c49d9ae8-dee5-4d29-98d2-6a1a057b631d&page-group=1&page-records=1&level2=9ba7324a-e8c0-4a94-8b5f-60ce2b7f714d"
+            },
+            {
+                "type": "text_link",
+                "text": "Александрия, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/aleksandriya_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Александрия, местечко\n",
+                "href": "https://www.radzima.net/ru/miejsce/aleksandriya_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Аннополь, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/annopol_5.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Березовка, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/berezovka_11.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Богдановка, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/bogdanovka_8.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Богушевка, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/bogushevka_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Большие Межники, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/bolshie_mezhniki_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Борки, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/borki_34.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Борки, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/borki_31.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Бошорово I-II, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/boshorovo_i_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Бошорово, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/boshorovo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Волынка, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/volynka_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Воронцевичи, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/vorontsevichi_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Воронцевичи, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/vorontsevichi_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Воронцевичи, село\n",
+                "href": "https://www.radzima.net/ru/miejsce/vorontsevichi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Воропонка, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/voroponka_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Вышково, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/vyshkovo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Гвалтовник, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/gvaltovnik_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Говораки, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/govoraki_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Городок, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/gorodok_22.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Городок, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/gorodok_20.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Горшково, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/gorshkovo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Гостище, выселок\n",
+                "href": "https://www.radzima.net/ru/miejsce/gostishche_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Дубово, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/dubovo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Дуброва, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/dubrova_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Дымово, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/dymovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Дымово, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/dymovo_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Жигалы, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/zhigaly_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Жукнево, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/zhuknevo_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Жукнево, околица\n",
+                "href": "https://www.radzima.net/ru/miejsce/zhuknevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Заборье, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/zaborje_7.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Заполье, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/zapolie_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Заровцы, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/zarovtsy_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Заслободье, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/zaslobodje_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Застенки, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/zastenki_4.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Застружье, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/zastruzhje_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Калино, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/kalino_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Калиновка, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/kalinovka_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Каменка, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/kamenka_25.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Каменка, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/kamenka_22.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Каменка, урочище\n",
+                "href": "https://www.radzima.net/ru/miejsce/kamenka_23.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Климово, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/klimovo_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Копысица, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/kopysitsa_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Копысицы, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/kopysitsy_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Корзуны, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/korzuny_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Корзуны, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/korzuny.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Красногорье, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/krasnogorje_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Кувечино, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/kuvechino_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Кувечино, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/kuvechino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лидина, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/lidina_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Логовщина, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/logovshchina_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Логовщина, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/logovshchina.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лозовка, хутор\n",
+                "href": "https://www.radzima.net/ru/miejsce/lozovka_5.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лотва, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/lotva_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Любаничи, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/lyubanichi_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Майдан, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/maydan_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Макрянка, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/makryanka_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Максимкова, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/maksimkova_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мало-Марьянполье, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/malo-marjyanpolje_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Малые Межники, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/malye_mezhniki_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Маньково 1-2, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/mankovo_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Марьянполе, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/marjyanpole_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мацево, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/matsevo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Морованка, хутор\n",
+                "href": "https://www.radzima.net/ru/miejsce/morovanka_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мостище, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/mostishche_6.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Низовцев, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/nizovtsev_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Низовцы, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/nizovtsy_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ново-Бращино, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/novo-brashchino_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ново-Полюдово, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/novo-polyudovo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ольховка, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/olkhovka_9.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ольховка, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/olkhovka_10.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Панское Болото, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/panskoe_boloto_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Подборье, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/podborje_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Подкняженье, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/podknyazhenje_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Полесье, урочище\n",
+                "href": "https://www.radzima.net/ru/miejsce/polesie_12.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Полочанка, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/polochanka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Полюдово, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/polyudovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Понизовья, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/ponizovjya.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Поповка, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/popovka_17.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Пуньшино, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/pupchino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Пуща, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/pushcha_4.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Раскидыши, селение\n",
+                "href": "https://www.radzima.net/ru/miejsce/raskidyshi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Рацево, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/ratsevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Рогожанки, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/rogozhanki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Свиранки, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/sviranki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Свиряны, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/sviryany.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Сисенево, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/sisenevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Слобода, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/sloboda_35.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Слободка, село\n",
+                "href": "https://www.radzima.net/ru/miejsce/slobodka_54.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Смольянцы, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/smoljyantsy.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Снигировка, усадьба",
+                "href": "https://www.radzima.net/ru/miejsce/snigirovka.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "type": "message",
+        "date": "2023-07-30T00:57:01",
+        "date_unixtime": "1690667821",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 46,
+        "text": [
+            {
+                "type": "text_link",
+                "text": "Средние Межники, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/srednie_mezhniki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Старо-Бращино, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/staro-brashchino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Староселье, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/staroselie.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Староселье, местечко\n",
+                "href": "https://www.radzima.net/ru/miejsce/staroselie_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Тижев Ровок, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/tizhev_rovok.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Трилесино, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/trilesino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Тройца, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/troytsa.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Тройца, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/troytsa_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Тросно, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/trosno.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Уланово Большое, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/ulanovo_bolshoe.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Уланово Малое, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/ulanovo_maloe.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Уланово, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/ulanovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Хилец, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/khilets.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Хотьково, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/khotskovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Хотьково, селение\n",
+                "href": "https://www.radzima.net/ru/miejsce/khotskovo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Чирчино, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/chirchino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Шахово, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/shakhovo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Щербовщина, урочище\n",
+                "href": "https://www.radzima.net/ru/miejsce/shcherbovshchina.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Щетинка, фольварк\n",
+                "href": "https://www.radzima.net/ru/miejsce/shchetinka_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Юриново, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/yurinovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ярки Новые, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/yarki_novye.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ярки Старые, околица",
+                "href": "https://www.radzima.net/ru/miejsce/yarki_starye.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "text_link",
+                "text": "Средние Межники, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/srednie_mezhniki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Старо-Бращино, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/staro-brashchino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Староселье, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/staroselie.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Староселье, местечко\n",
+                "href": "https://www.radzima.net/ru/miejsce/staroselie_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Тижев Ровок, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/tizhev_rovok.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Трилесино, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/trilesino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Тройца, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/troytsa.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Тройца, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/troytsa_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Тросно, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/trosno.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Уланово Большое, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/ulanovo_bolshoe.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Уланово Малое, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/ulanovo_maloe.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Уланово, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/ulanovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Хилец, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/khilets.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Хотьково, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/khotskovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Хотьково, селение\n",
+                "href": "https://www.radzima.net/ru/miejsce/khotskovo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Чирчино, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/chirchino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Шахово, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/shakhovo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Щербовщина, урочище\n",
+                "href": "https://www.radzima.net/ru/miejsce/shcherbovshchina.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Щетинка, фольварк\n",
+                "href": "https://www.radzima.net/ru/miejsce/shchetinka_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Юриново, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/yurinovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ярки Новые, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/yarki_novye.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ярки Старые, околица",
+                "href": "https://www.radzima.net/ru/miejsce/yarki_starye.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 497,
+        "type": "message",
+        "date": "2023-08-12T19:44:40",
+        "date_unixtime": "1691858680",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 46,
+        "text": [
+            "Земский отдел Министерства внутренних дел. 1911 г. По ходатайству крестьян деревни ",
+            {
+                "type": "bold",
+                "text": "Больших Межников"
+            },
+            " Старосельской волости Оршанского уезда о выдаче им железнодорожного вознаграждения. 1911 г. // Российский государственный исторический архив. Фонд 1291. Опись 75 1911 г. Дело 564.\n\nДело о расчистке лесной площади в даче 3-я часть деревни Ивановской и 1-я часть дер. Лукинской Раменской вол. Любимского уезда, принадлежащей крестьянам деревни ",
+            {
+                "type": "bold",
+                "text": "Хилец"
+            },
+            " Старосельской вол. Оршанского уезда Могилевской губ. Титу Михайлову и другим. 1908–1909 гг. // Государственный архив Ярославской области. Фонд 636. Опись 1. Дело 713.\n\nДело о разрешении заемщику банка ",
+            {
+                "type": "bold",
+                "text": "Зайцеву"
+            },
+            " продажи земли из заложенной в банке крестьянину Могилевской губернии, Оршанского уезда, Старосельской волости, ",
+            {
+                "type": "bold",
+                "text": "Маськову"
+            },
+            ". 1915–1915 гг. // Государственный архив Ярославской области. Фонд 516. Опись 1. Дело 1709.\n\nИсточник: ",
+            {
+                "type": "link",
+                "text": "https://my.familio.org/findings/2a76d66e-e652-4e29-95bc-3f9438a47ac5.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Земский отдел Министерства внутренних дел. 1911 г. По ходатайству крестьян деревни "
+            },
+            {
+                "type": "bold",
+                "text": "Больших Межников"
+            },
+            {
+                "type": "plain",
+                "text": " Старосельской волости Оршанского уезда о выдаче им железнодорожного вознаграждения. 1911 г. // Российский государственный исторический архив. Фонд 1291. Опись 75 1911 г. Дело 564.\n\nДело о расчистке лесной площади в даче 3-я часть деревни Ивановской и 1-я часть дер. Лукинской Раменской вол. Любимского уезда, принадлежащей крестьянам деревни "
+            },
+            {
+                "type": "bold",
+                "text": "Хилец"
+            },
+            {
+                "type": "plain",
+                "text": " Старосельской вол. Оршанского уезда Могилевской губ. Титу Михайлову и другим. 1908–1909 гг. // Государственный архив Ярославской области. Фонд 636. Опись 1. Дело 713.\n\nДело о разрешении заемщику банка "
+            },
+            {
+                "type": "bold",
+                "text": "Зайцеву"
+            },
+            {
+                "type": "plain",
+                "text": " продажи земли из заложенной в банке крестьянину Могилевской губернии, Оршанского уезда, Старосельской волости, "
+            },
+            {
+                "type": "bold",
+                "text": "Маськову"
+            },
+            {
+                "type": "plain",
+                "text": ". 1915–1915 гг. // Государственный архив Ярославской области. Фонд 516. Опись 1. Дело 1709.\n\nИсточник: "
+            },
+            {
+                "type": "link",
+                "text": "https://my.familio.org/findings/2a76d66e-e652-4e29-95bc-3f9438a47ac5.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 526,
+        "type": "message",
+        "date": "2023-08-15T00:49:13",
+        "date_unixtime": "1692049753",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Маргарита",
+        "reply_to_message_id": 46,
+        "text": "Добрый день\nИскомые фамилии - Галецкий (д. Городок и д. Калиновка, Старосельская волость), \nАладьев (д. Подкняженье, Старосельская волость)\nСахаров (д. Турлаи, Маслаковская волость)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день\nИскомые фамилии - Галецкий (д. Городок и д. Калиновка, Старосельская волость), \nАладьев (д. Подкняженье, Старосельская волость)\nСахаров (д. Турлаи, Маслаковская волость)"
+            }
+        ]
+    },
+    {
+        "id": 527,
+        "type": "message",
+        "date": "2023-08-15T00:49:37",
+        "date_unixtime": "1692049777",
+        "edited": "2024-06-02T22:43:13",
+        "edited_unixtime": "1717357393",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 46,
+        "text": [
+            "Перепись 1926 г. по деревням ",
+            {
+                "type": "bold",
+                "text": "Городок"
+            },
+            ", ",
+            {
+                "type": "bold",
+                "text": "Подкняженье"
+            },
+            " и ",
+            {
+                "type": "bold",
+                "text": "Турлаи"
+            },
+            ": ",
+            {
+                "type": "link",
+                "text": "https://t.me/orsha_uezd/4/407"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Перепись 1926 г. по деревням "
+            },
+            {
+                "type": "bold",
+                "text": "Городок"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "bold",
+                "text": "Подкняженье"
+            },
+            {
+                "type": "plain",
+                "text": " и "
+            },
+            {
+                "type": "bold",
+                "text": "Турлаи"
+            },
+            {
+                "type": "plain",
+                "text": ": "
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/orsha_uezd/4/407"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 668,
+        "type": "message",
+        "date": "2023-08-27T14:17:21",
+        "date_unixtime": "1693135041",
+        "from": "Александр",
+        "from_id": "user382356702",
+        "reply_to_message_id": 46,
+        "text": "Здравствуйте! Подскажите пожалуйста есть ли перепись местечка Староселье за середину 19века или какие либо другие документы где можно поискать своих родственников?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте! Подскажите пожалуйста есть ли перепись местечка Староселье за середину 19века или какие либо другие документы где можно поискать своих родственников?"
+            }
+        ]
+    },
+    {
+        "id": 670,
+        "type": "message",
+        "date": "2023-08-27T15:08:43",
+        "date_unixtime": "1693138123",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 46,
+        "text": "А метрики костелов не подходят? Есть довольно большой массив.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А метрики костелов не подходят? Есть довольно большой массив."
+            }
+        ]
+    },
+    {
+        "id": 671,
+        "type": "message",
+        "date": "2023-08-27T15:12:48",
+        "date_unixtime": "1693138368",
+        "from": "Александр",
+        "from_id": "user382356702",
+        "reply_to_message_id": 46,
+        "text": "Посмотрел бы с удовольствием на всякий случай",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Посмотрел бы с удовольствием на всякий случай"
+            }
+        ]
+    },
+    {
+        "id": 672,
+        "type": "message",
+        "date": "2023-08-27T21:22:47",
+        "date_unixtime": "1693160567",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 671,
+        "text": "Это дела: Метрическая книга Старосельского костела о родившихся в 1865 – 1899 гг.\nФ.1781, оп.48, Д.36(а); Метрические экстракты Старосельского приходского костела о рождении 1899 – 1916 гг.  Ф.1781 ор. 48, Д.37\n\nСканами поделиться не могу, их у меня нет, есть выписки, которые я делала по своим и интересующим меня фамилиям.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это дела: Метрическая книга Старосельского костела о родившихся в 1865 – 1899 гг.\nФ.1781, оп.48, Д.36(а); Метрические экстракты Старосельского приходского костела о рождении 1899 – 1916 гг.  Ф.1781 ор. 48, Д.37\n\nСканами поделиться не могу, их у меня нет, есть выписки, которые я делала по своим и интересующим меня фамилиям."
+            }
+        ]
+    },
+    {
+        "id": 673,
+        "type": "message",
+        "date": "2023-08-27T21:23:45",
+        "date_unixtime": "1693160625",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 46,
+        "text": "Это все в НИАБе.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это все в НИАБе."
+            }
+        ]
+    },
+    {
+        "id": 674,
+        "type": "message",
+        "date": "2023-08-27T21:31:21",
+        "date_unixtime": "1693161081",
+        "from": "Александр",
+        "from_id": "user382356702",
+        "reply_to_message_id": 46,
+        "text": "Жаль) благодарю за информацию, на меня уже вышел человек который в конце сентября в архив поедет)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Жаль) благодарю за информацию, на меня уже вышел человек который в конце сентября в архив поедет)"
+            }
+        ]
+    },
+    {
+        "id": 675,
+        "type": "message",
+        "date": "2023-08-27T21:32:43",
+        "date_unixtime": "1693161163",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 46,
+        "text": "А какие вас там фамилии интересуют?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А какие вас там фамилии интересуют?"
+            }
+        ]
+    },
+    {
+        "id": 676,
+        "type": "message",
+        "date": "2023-08-27T21:34:21",
+        "date_unixtime": "1693161261",
+        "from": "Александр",
+        "from_id": "user382356702",
+        "reply_to_message_id": 46,
+        "text": "Пинус",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Пинус"
+            }
+        ]
+    },
+    {
+        "id": 677,
+        "type": "message",
+        "date": "2023-08-27T21:42:08",
+        "date_unixtime": "1693161728",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 46,
+        "text": "Не попались в моих выписках.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Не попались в моих выписках."
+            }
+        ]
+    },
+    {
+        "id": 678,
+        "type": "message",
+        "date": "2023-08-27T21:43:33",
+        "date_unixtime": "1693161813",
+        "from": "Александр",
+        "from_id": "user382356702",
+        "reply_to_message_id": 46,
+        "text": "Жду в от вологодского архива по нему личное дело и судебное дело) тогда буду точнее знать когда и где родился скорее всего)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Жду в от вологодского архива по нему личное дело и судебное дело) тогда буду точнее знать когда и где родился скорее всего)"
+            }
+        ]
+    },
+    {
+        "id": 679,
+        "type": "message",
+        "date": "2023-08-27T21:44:00",
+        "date_unixtime": "1693161840",
+        "edited": "2023-08-27T21:44:52",
+        "edited_unixtime": "1693161892",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 46,
+        "text": "Удачи!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Удачи!"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Александр",
+                        "from_id": "user382356702",
+                        "date": "2023-08-27T21:44:52"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 680,
+        "type": "message",
+        "date": "2023-08-27T21:47:36",
+        "date_unixtime": "1693162056",
+        "from": "Antikom",
+        "from_id": "user305556701",
+        "reply_to_message_id": 677,
+        "text": "Нина, добрый день. А Томашевичей, Ходевцевых, Цеханских, Тыш(к)евичей, Селицких, случайно, нет в Ваших списках? По Станкевичам и Вавелям мы с Вами прояснили",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Нина, добрый день. А Томашевичей, Ходевцевых, Цеханских, Тыш(к)евичей, Селицких, случайно, нет в Ваших списках? По Станкевичам и Вавелям мы с Вами прояснили"
+            }
+        ]
+    },
+    {
+        "id": 681,
+        "type": "message",
+        "date": "2023-08-27T22:11:48",
+        "date_unixtime": "1693163508",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 680,
+        "text": "Игорь, этих нет. Но вот парочку Станкевичей попались - пусть будут Вам  в копилку:",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Игорь, этих нет. Но вот парочку Станкевичей попались - пусть будут Вам  в копилку:"
+            }
+        ]
+    },
+    {
+        "id": 682,
+        "type": "message",
+        "date": "2023-08-27T22:11:59",
+        "date_unixtime": "1693163519",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 46,
+        "text": "Ф.1781, оп.48, д.36(а). Метрическая книга Старосельского костела о родившихся в 1865 – 1899 гг.\nЛ.20. 1871г.  Родилась младенец Анеля Станкевичевна, д.Максимково  \nВосприемники: Двор.Магдалена Зенкевичевна\n\nЛ.92 №18  Родилась 6 (14) июня 1887  Крестьян Адама и Марии Матанисов дочь Антонина в заст. Щетинке  \nВосприемники: Крестьяне Иван Зенкович с Мариею Станкевичевою\n\nЛ. 115 (об). Род. 22 (25) авг.1890  Мл. Иван Щерба в з. Щецинке  \nВосприемники: Иван Зенькович с Мариею Станкевичевою\n\nФ.1781, оп.26, д.43. Толочинский костел\nЛ.32  Род. 3 ноября 1875  Крестьян Павловичкой волости Михаила и Аполонии из Зенковичев Устиновичев дочь Марьяна в д.Варгутьево\nВосприемники: Андрей Станкевич с Францискою Садовскою",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ф.1781, оп.48, д.36(а). Метрическая книга Старосельского костела о родившихся в 1865 – 1899 гг.\nЛ.20. 1871г.  Родилась младенец Анеля Станкевичевна, д.Максимково  \nВосприемники: Двор.Магдалена Зенкевичевна\n\nЛ.92 №18  Родилась 6 (14) июня 1887  Крестьян Адама и Марии Матанисов дочь Антонина в заст. Щетинке  \nВосприемники: Крестьяне Иван Зенкович с Мариею Станкевичевою\n\nЛ. 115 (об). Род. 22 (25) авг.1890  Мл. Иван Щерба в з. Щецинке  \nВосприемники: Иван Зенькович с Мариею Станкевичевою\n\nФ.1781, оп.26, д.43. Толочинский костел\nЛ.32  Род. 3 ноября 1875  Крестьян Павловичкой волости Михаила и Аполонии из Зенковичев Устиновичев дочь Марьяна в д.Варгутьево\nВосприемники: Андрей Станкевич с Францискою Садовскою"
+            }
+        ]
+    },
+    {
+        "id": 683,
+        "type": "message",
+        "date": "2023-08-27T22:14:58",
+        "date_unixtime": "1693163698",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 46,
+        "text": "Какие-то Зеньковичи со Станкевичами иногда пересекаются - пока неясно, кто такие. Может, позже что-то прояснится.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Какие-то Зеньковичи со Станкевичами иногда пересекаются - пока неясно, кто такие. Может, позже что-то прояснится."
+            }
+        ]
+    },
+    {
+        "id": 684,
+        "type": "message",
+        "date": "2023-08-27T22:20:26",
+        "date_unixtime": "1693164026",
+        "from": "Марина Ефимова",
+        "from_id": "user1393462155",
+        "reply_to_message_id": 680,
+        "text": "Здравствуйте, Игорь. А Вы смотрели на Яндекс-архив, там в МК Москвы попадаются Томашевичи и Станкевичи из Оршанского уезда.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте, Игорь. А Вы смотрели на Яндекс-архив, там в МК Москвы попадаются Томашевичи и Станкевичи из Оршанского уезда."
+            }
+        ]
+    },
+    {
+        "id": 685,
+        "type": "message",
+        "date": "2023-08-27T22:40:41",
+        "date_unixtime": "1693165241",
+        "from": "Antikom",
+        "from_id": "user305556701",
+        "reply_to_message_id": 681,
+        "text": "Спасибо, Нина",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо, Нина"
+            }
+        ]
+    },
+    {
+        "id": 686,
+        "type": "message",
+        "date": "2023-08-27T22:41:28",
+        "date_unixtime": "1693165288",
+        "from": "Antikom",
+        "from_id": "user305556701",
+        "reply_to_message_id": 684,
+        "text": "Здравствуйте, Марина. На всякий случай, поделитесь ссылкой, посмотрю",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте, Марина. На всякий случай, поделитесь ссылкой, посмотрю"
+            }
+        ]
+    },
+    {
+        "id": 687,
+        "type": "message",
+        "date": "2023-08-27T22:42:59",
+        "date_unixtime": "1693165379",
+        "from": "Марина Ефимова",
+        "from_id": "user1393462155",
+        "reply_to_message_id": 686,
+        "text": "Проверьте п/я, я бросала вам часть, часть просмотрю сброшу позднее.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Проверьте п/я, я бросала вам часть, часть просмотрю сброшу позднее."
+            }
+        ]
+    },
+    {
+        "id": 688,
+        "type": "message",
+        "date": "2023-08-27T22:58:42",
+        "date_unixtime": "1693166322",
+        "from": "Antikom",
+        "from_id": "user305556701",
+        "reply_to_message_id": 687,
+        "text": "Спасибо",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо"
+            }
+        ]
+    },
+    {
+        "id": 803,
+        "type": "message",
+        "date": "2023-09-18T21:58:42",
+        "date_unixtime": "1695063522",
+        "from": "Наташа",
+        "from_id": "user299908125",
+        "reply_to_message_id": 674,
+        "text": [
+            "37 дело есть на fs\n\n",
+            {
+                "type": "link",
+                "text": "https://www.familysearch.org/search/catalog/783103"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "37 дело есть на fs\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://www.familysearch.org/search/catalog/783103"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 804,
+        "type": "message",
+        "date": "2023-09-18T21:59:35",
+        "date_unixtime": "1695063575",
+        "from": "Наташа",
+        "from_id": "user299908125",
+        "reply_to_message_id": 46,
+        "text": "Ищу Сидоровых и Корначенко из деревни Борки.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ищу Сидоровых и Корначенко из деревни Борки."
+            }
+        ]
+    },
+    {
+        "id": 805,
+        "type": "message",
+        "date": "2023-09-21T18:10:46",
+        "date_unixtime": "1695309046",
+        "from": "Александр",
+        "from_id": "user382356702",
+        "reply_to_message_id": 803,
+        "text": "Говорит что недоступно в моей стране (",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Говорит что недоступно в моей стране ("
+            }
+        ]
+    },
+    {
+        "id": 809,
+        "type": "message",
+        "date": "2023-09-21T19:19:35",
+        "date_unixtime": "1695313175",
+        "from": "Наташа",
+        "from_id": "user299908125",
+        "reply_to_message_id": 805,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://drive.google.com/drive/u/0/mobile/folders/1DAu9eDlTRe0nnGEUmgmtGgwL8Rnv-zBM/1cTzI7_1eTwuGiBJMV4Le0zHYJ_aqtVe1/1uJF-XMqIzq_WpFlKnceBSn7Kg5pvLrDi/1DSqH5KvLm478KaJD5iw-xCkHQpMhNaki/1goI8VaNut7QU3eEuFZuEIqp4tVLMdnhp?sort=13&direction=a"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://drive.google.com/drive/u/0/mobile/folders/1DAu9eDlTRe0nnGEUmgmtGgwL8Rnv-zBM/1cTzI7_1eTwuGiBJMV4Le0zHYJ_aqtVe1/1uJF-XMqIzq_WpFlKnceBSn7Kg5pvLrDi/1DSqH5KvLm478KaJD5iw-xCkHQpMhNaki/1goI8VaNut7QU3eEuFZuEIqp4tVLMdnhp?sort=13&direction=a"
+            }
+        ]
+    },
+    {
+        "id": 810,
+        "type": "message",
+        "date": "2023-09-21T19:20:36",
+        "date_unixtime": "1695313236",
+        "edited": "2023-09-27T14:36:50",
+        "edited_unixtime": "1695814610",
+        "from": "Наташа",
+        "from_id": "user299908125",
+        "reply_to_message_id": 805,
+        "text": "Пленка 2011556 - 4, 6 часть, пленка 2011557 - 1 часть.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Пленка 2011556 - 4, 6 часть, пленка 2011557 - 1 часть."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Александр",
+                        "from_id": "user382356702",
+                        "date": "2023-09-27T14:36:50"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 844,
+        "type": "message",
+        "date": "2023-09-27T14:37:02",
+        "date_unixtime": "1695814622",
+        "from": "Александр",
+        "from_id": "user382356702",
+        "reply_to_message_id": 810,
+        "text": "Спасибо, но мне нужно на полвека раньше (",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо, но мне нужно на полвека раньше ("
+            }
+        ]
+    },
+    {
+        "id": 903,
+        "type": "message",
+        "date": "2023-10-13T23:46:31",
+        "date_unixtime": "1697229991",
+        "from": "Mikhail",
+        "from_id": "user1515478552",
+        "reply_to_message_id": 46,
+        "text": "Добрый вечер, у кого-нибудь есть перепись 1925-1926гг . д. Рацево?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый вечер, у кого-нибудь есть перепись 1925-1926гг . д. Рацево?"
+            }
+        ]
+    },
+    {
+        "id": 945,
+        "type": "message",
+        "date": "2023-10-25T14:46:43",
+        "date_unixtime": "1698234403",
+        "from": "Oksana Amirkhanova",
+        "from_id": "user5190815920",
+        "reply_to_message_id": 46,
+        "text": "Здравствуйте, вдруг кому-то где-то попадались Аникович (деревня Сельцы)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте, вдруг кому-то где-то попадались Аникович (деревня Сельцы)"
+            }
+        ]
+    },
+    {
+        "id": 990,
+        "type": "message",
+        "date": "2023-11-07T15:00:47",
+        "date_unixtime": "1699358447",
+        "edited": "2023-11-07T15:37:06",
+        "edited_unixtime": "1699360626",
+        "from": "Маргарита",
+        "from_id": "user466128954",
+        "reply_to_message_id": 46,
+        "text": "Записи из МК Слободской православной церкви\nНИАБ 2437/1/7\n1886/07/06 \nкр. Яким Алексеев, д. Подкняженье, 19 лет, свидетели Федор Васильев и Артем Яковлев\nкр. Христина Андреева, д. Хилец, 19 лет, св. Самсон Стефанов и Игнатий Прокофьев\n1887/01/11\nкр. Федор Афанасьев, д. Старый Шклов, 24 года, св. Андрей Ширяев\nкр. Татьяна Иванова, д. Подкняженье, 20 лет, св. Андрей Петров и Федор Яковлев\n1887/01/25\nкр. Филипп Наумов, д. Подкняженье, 20 лет, св. Федор Васильев и Антимон Яковлев\nкр. Варвара Васильева, д. Корзуны, 18 лет, св. Тихов Васильев\n1887/02/08\nкр. Ефремий Петров д. Слободка, 20 лет, св. Панкратий Ефимов\nкр.Елена Митрофанова, д. Подкняженье, 18 лет, св. Сапрон Тимофеев\n1887/05/17\nкр. Роман Иванов, д. Межник, 22 года, св. Алексей Петров и Тохон Павлов\nкр. Евдокия Лукьянова, д. Подкняженье, 21 год, св. Федор Васильев и Сапрон Тимофеев\n1887/06/29 - страница в деле 22b\nкр. Максим Иванов, д. Подкняженье, 21 год, св. Сафрон Тимофеев и Григорий?\nкр. Матрона Михайлова, д. Подкняженье, 22 года, св. Павел Герасимов и Василий Андреев\n1887/07/05 - 23b\nкр. Герасим Никитин, д. Подкняженье, 22 года, св. Кирилл Васильев\nкр. Ксения Евфимова, д. Межник, 22 года, св. Кирилл Павлов\n1888/06/13 - 29b\nкр. Максим Понтелеймонов, д. Подкняженье, 20 лет, св. Сафрон Тимофеев\nкр. Агриппина Наумова, д. Корзуны, 18 лет, св. Авксентий Герасимов и Иоаким Алексеев\n1888/10/30 - 31b\nкр. Дмитрий Марков, д. Низовцы, 18 лет, св. Марк Станиславов\nкр. Варвара Федорова, д. Подкняженье, 19 лет, св. Филипп Наумов и Иоаким Алексеев\n1889/05/29 - 33b\nрядовой Елисей Андреев Аладьев, д. Подкняженье, 27 лет, св. Прокофий Андреев\nкр. Анна Тихонова, д. Межник, 21 год, св. Роман Иванов и Алексей Васильев\n1889/07/02 - 35b\nкр. Михаил Карпов, д. Горбачевичи, 22 года\nкр. Пелагея Семенова, д. Подкняженье, 18 лет, св. Прокофий Андреев\n1889/07/02 - 37b\nкр. Филипп Захаров, д. Подкняженье, 19 лет, св. Максим Михайлов\nкр. Анна Никитична, д. Подкняженье, 22 года, св. Василий Никитиев",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Записи из МК Слободской православной церкви\nНИАБ 2437/1/7\n1886/07/06 \nкр. Яким Алексеев, д. Подкняженье, 19 лет, свидетели Федор Васильев и Артем Яковлев\nкр. Христина Андреева, д. Хилец, 19 лет, св. Самсон Стефанов и Игнатий Прокофьев\n1887/01/11\nкр. Федор Афанасьев, д. Старый Шклов, 24 года, св. Андрей Ширяев\nкр. Татьяна Иванова, д. Подкняженье, 20 лет, св. Андрей Петров и Федор Яковлев\n1887/01/25\nкр. Филипп Наумов, д. Подкняженье, 20 лет, св. Федор Васильев и Антимон Яковлев\nкр. Варвара Васильева, д. Корзуны, 18 лет, св. Тихов Васильев\n1887/02/08\nкр. Ефремий Петров д. Слободка, 20 лет, св. Панкратий Ефимов\nкр.Елена Митрофанова, д. Подкняженье, 18 лет, св. Сапрон Тимофеев\n1887/05/17\nкр. Роман Иванов, д. Межник, 22 года, св. Алексей Петров и Тохон Павлов\nкр. Евдокия Лукьянова, д. Подкняженье, 21 год, св. Федор Васильев и Сапрон Тимофеев\n1887/06/29 - страница в деле 22b\nкр. Максим Иванов, д. Подкняженье, 21 год, св. Сафрон Тимофеев и Григорий?\nкр. Матрона Михайлова, д. Подкняженье, 22 года, св. Павел Герасимов и Василий Андреев\n1887/07/05 - 23b\nкр. Герасим Никитин, д. Подкняженье, 22 года, св. Кирилл Васильев\nкр. Ксения Евфимова, д. Межник, 22 года, св. Кирилл Павлов\n1888/06/13 - 29b\nкр. Максим Понтелеймонов, д. Подкняженье, 20 лет, св. Сафрон Тимофеев\nкр. Агриппина Наумова, д. Корзуны, 18 лет, св. Авксентий Герасимов и Иоаким Алексеев\n1888/10/30 - 31b\nкр. Дмитрий Марков, д. Низовцы, 18 лет, св. Марк Станиславов\nкр. Варвара Федорова, д. Подкняженье, 19 лет, св. Филипп Наумов и Иоаким Алексеев\n1889/05/29 - 33b\nрядовой Елисей Андреев Аладьев, д. Подкняженье, 27 лет, св. Прокофий Андреев\nкр. Анна Тихонова, д. Межник, 21 год, св. Роман Иванов и Алексей Васильев\n1889/07/02 - 35b\nкр. Михаил Карпов, д. Горбачевичи, 22 года\nкр. Пелагея Семенова, д. Подкняженье, 18 лет, св. Прокофий Андреев\n1889/07/02 - 37b\nкр. Филипп Захаров, д. Подкняженье, 19 лет, св. Максим Михайлов\nкр. Анна Никитична, д. Подкняженье, 22 года, св. Василий Никитиев"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Наташа",
+                        "from_id": "user299908125",
+                        "date": "2023-11-07T19:46:26"
+                    },
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2023-11-07T15:37:06"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Viktoriya Belka",
+                        "from_id": "user478325908",
+                        "date": "2024-07-06T22:51:34"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 991,
+        "type": "message",
+        "date": "2023-11-07T16:34:29",
+        "date_unixtime": "1699364069",
+        "edited": "2024-07-22T10:55:32",
+        "edited_unixtime": "1721634932",
+        "from": "Маргарита",
+        "from_id": "user466128954",
+        "forwarded_from": "Маргарита",
+        "reply_to_message_id": 46,
+        "text": [
+            "Записи из МК Старосельский православный приход\n",
+            {
+                "type": "bold",
+                "text": "НИАБ "
+            },
+            {
+                "type": "phone",
+                "text": "2301/15/164"
+            },
+            {
+                "type": "bold",
+                "text": " NB - только мужские метрики о рождении"
+            },
+            "\nстр.30b-31 2 (3) /06/1901 (есть копии страниц)\nНикифор - родители. д. Городок, кр. Иван Феликсов и Мелания Феодосьева\nкрестные д. Городок, кр. Максим Стефанов и девица Евдокия Петрова\n\nстр.30b-31 1 (3) /06/1901 (есть копии страниц)\nПавел - родители. Машковская волость, кр. Авдей Иванов и Пелагея И??\n\nстр.30b-31 2 (2) /06/1901 (есть копии страниц)\nДимитрий - родители. д. Городок, кр. Максим Матвеев и Матрена Никифорова\n\nстр.30b-31 6 (6) /06/1901 (есть копии страниц)\nФеодор - родители. д. Борки, кр. Василий Осипов и Евдокия Евламова\n\nстр.30b-31 3 (7) /06/1901 (есть копии страниц)\nФеодор - родители. м. Староселье, кр. Роман Михайлов и Надежда Павлова\n\nстр.32b-33 2 (4) /06/1901\nАндрей (Белякович) - родители. д. Каменка, кр. ??? Яковлев и Анастасия Феликсова\n\nстр.35b-36 1 (3) /09/1901\nСимеон - родители. д. Смольянцы, кр. Федор Васильев и Мелания Феликсова\n\nстр.35b-36 19 (25) /09/1901\nДаниил - родители. м. Староселье, кр. Григорий Феликсов и Наталья Григорьева\n\nстр.31b-32 ??(??) /06/1901\nИоанн - родители. д. Городок, кр. Максим Стефанов и Параскева\nкрестные - Федор Захаров и Елена Тимофеева жена Павла Осипова\n\nстр.33b-34 ?? (24) /07/1901\nБорис - подкидыш д. Маньково\nкрестные. м. Староселье, кр. Михаил Аверкиев и вдова Пелагея Феликсова\n\nстр.50b-51 2(5) /05/1903\nВасилий - родители. м. Староселье, кр. Григорий Феликсов и Наталья Григорьева\nкрестные - м. Староселье, кр. Тимофей Григорьев и вдова Пелагея Феликсова\n\nстр.53b-54 2 (6) /07/1903\nДмитрий - родители. д. Смольянцы, кр. Федор Василий и Мелания Феликсова\nкрестные - Андрей Васильев и Евдокия Макаровна жена Ивана Игнатова\n\nстр.67b-68 1(7) /02/1904\nФедор - родители. д. Городок, кр. Павел Гаврилов и Ирина Андреева\nкрестные - м. Староселье, кр. Федор Феликсов и д. Городок Дарья Гаврилова\n\nстр.69b-70 10(14) /03/1904\nМихаил - родители. д. Каменка, кр. Иосиф Яковлев и Анастасия Феликсова\nкрестные - кр. Максим Митрофанов и Мария Доминикова\n\n1(8) /05/1905\nИаков - родители. д. Смольянцы, кр. Федор Васильев и Мелания Феликсова\nкрестные - Федор Иосифов и Анастасия Иванова\n\nстр.116b-117 28(30) /09/1906 (есть копии страниц)\nАлександр - родители. д. Городок, кр. Иоанн Феликсов и Мелания Феодосьева\nкрестные - Георгий Игнатьев и Агафия Феодосьева\n\nстр.116b-117 18(29) /09/1906 (есть копии страниц)\nИоанна - родители. м. Староселье, кр. Антоний (Внебрачный) и Евдокия Антонова\n\nстр.116b-117 1(3) /10/1906 (есть копии страниц)\nИоанна - родители. д. Копысица, кр. Павел Михайлов и Анастасия Авксентиева\n\nстр.116b-117 4(7) /10/1906 (есть копии страниц)\nПавел - родители. д. Борки, кр. Николай Петров и Анна Яковлева\n\nстр.116b-117 1(16) /10/1906 (есть копии страниц)\nМихаил - родители. м. Староселье, кр. Леонтий Иванов и Мария Иванова\n\n",
+            {
+                "type": "bold",
+                "text": "НИАБ "
+            },
+            {
+                "type": "phone",
+                "text": "2301/15/165"
+            },
+            "\nстр.23b-24 1(4) /02/1907\nКсения - родители. м. Староселье, кр. Мефодий Феодосьев и Лидия Адамовна\n\nстр.33b-34 25(27) /06/1907\nИоанн - родители. д. Смольянцы, кр. Федор Васильев и Мелания Феликсова\n\nстр.44b-45 21(21) /10/1907\nНиколай - родители. д. Сисенево, рим.кат Феликс Лаврентиев Ремяшкевич ??? и Фекла Францевна\n\nстр.57b-58 6(16) /03/1908\nФедор - родители. д. Городок, кр. Павел Иосифов Мильто и Елена Тимофеева\nкрестные - кр. Георгий Семенов Дудко и девица Анастасия Ивановна Мильто\n\nстр.59b-59 124(26) /03/1908\nЗахарий - родители. д. Городок, кр. Василий Ефимов Мильто и Феодосия Семенова\n\nстр.66b-67 1(8) /06/1908\nИоанн - родители. заст. Гвалтовник, кр. Иосиф Яковлев Беликович и Мелания Феликсова\n\nстр.67b-68 9(14) /06/1908\nПетр - родители. м. Староселье, кр. Григорий Феликсов Паренок (Паренков, Паронкин) и Наталья Григорьева\nкрестные - вдова Пелагея Феликсова Паренкова\n\nстр.95b-96 6(9) /03/1909 (есть копии страниц)\nФедор - родители. д. Городок, кр. Иоанн Феликсов Галецкий и Мелания Феодосьева\nкрестные - кр. Димитрий Федоров Галецкий и девица Евгения Иосифовна Мильто\n\nстр.95b-96 6(7) /03/1909 (есть копии страниц)\nЕвдокия - родители. д. Хотьково, кр. Иоанн Иоаннов Духовский и Евдокия Петрова"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Записи из МК Старосельский православный приход\n"
+            },
+            {
+                "type": "bold",
+                "text": "НИАБ "
+            },
+            {
+                "type": "phone",
+                "text": "2301/15/164"
+            },
+            {
+                "type": "bold",
+                "text": " NB - только мужские метрики о рождении"
+            },
+            {
+                "type": "plain",
+                "text": "\nстр.30b-31 2 (3) /06/1901 (есть копии страниц)\nНикифор - родители. д. Городок, кр. Иван Феликсов и Мелания Феодосьева\nкрестные д. Городок, кр. Максим Стефанов и девица Евдокия Петрова\n\nстр.30b-31 1 (3) /06/1901 (есть копии страниц)\nПавел - родители. Машковская волость, кр. Авдей Иванов и Пелагея И??\n\nстр.30b-31 2 (2) /06/1901 (есть копии страниц)\nДимитрий - родители. д. Городок, кр. Максим Матвеев и Матрена Никифорова\n\nстр.30b-31 6 (6) /06/1901 (есть копии страниц)\nФеодор - родители. д. Борки, кр. Василий Осипов и Евдокия Евламова\n\nстр.30b-31 3 (7) /06/1901 (есть копии страниц)\nФеодор - родители. м. Староселье, кр. Роман Михайлов и Надежда Павлова\n\nстр.32b-33 2 (4) /06/1901\nАндрей (Белякович) - родители. д. Каменка, кр. ??? Яковлев и Анастасия Феликсова\n\nстр.35b-36 1 (3) /09/1901\nСимеон - родители. д. Смольянцы, кр. Федор Васильев и Мелания Феликсова\n\nстр.35b-36 19 (25) /09/1901\nДаниил - родители. м. Староселье, кр. Григорий Феликсов и Наталья Григорьева\n\nстр.31b-32 ??(??) /06/1901\nИоанн - родители. д. Городок, кр. Максим Стефанов и Параскева\nкрестные - Федор Захаров и Елена Тимофеева жена Павла Осипова\n\nстр.33b-34 ?? (24) /07/1901\nБорис - подкидыш д. Маньково\nкрестные. м. Староселье, кр. Михаил Аверкиев и вдова Пелагея Феликсова\n\nстр.50b-51 2(5) /05/1903\nВасилий - родители. м. Староселье, кр. Григорий Феликсов и Наталья Григорьева\nкрестные - м. Староселье, кр. Тимофей Григорьев и вдова Пелагея Феликсова\n\nстр.53b-54 2 (6) /07/1903\nДмитрий - родители. д. Смольянцы, кр. Федор Василий и Мелания Феликсова\nкрестные - Андрей Васильев и Евдокия Макаровна жена Ивана Игнатова\n\nстр.67b-68 1(7) /02/1904\nФедор - родители. д. Городок, кр. Павел Гаврилов и Ирина Андреева\nкрестные - м. Староселье, кр. Федор Феликсов и д. Городок Дарья Гаврилова\n\nстр.69b-70 10(14) /03/1904\nМихаил - родители. д. Каменка, кр. Иосиф Яковлев и Анастасия Феликсова\nкрестные - кр. Максим Митрофанов и Мария Доминикова\n\n1(8) /05/1905\nИаков - родители. д. Смольянцы, кр. Федор Васильев и Мелания Феликсова\nкрестные - Федор Иосифов и Анастасия Иванова\n\nстр.116b-117 28(30) /09/1906 (есть копии страниц)\nАлександр - родители. д. Городок, кр. Иоанн Феликсов и Мелания Феодосьева\nкрестные - Георгий Игнатьев и Агафия Феодосьева\n\nстр.116b-117 18(29) /09/1906 (есть копии страниц)\nИоанна - родители. м. Староселье, кр. Антоний (Внебрачный) и Евдокия Антонова\n\nстр.116b-117 1(3) /10/1906 (есть копии страниц)\nИоанна - родители. д. Копысица, кр. Павел Михайлов и Анастасия Авксентиева\n\nстр.116b-117 4(7) /10/1906 (есть копии страниц)\nПавел - родители. д. Борки, кр. Николай Петров и Анна Яковлева\n\nстр.116b-117 1(16) /10/1906 (есть копии страниц)\nМихаил - родители. м. Староселье, кр. Леонтий Иванов и Мария Иванова\n\n"
+            },
+            {
+                "type": "bold",
+                "text": "НИАБ "
+            },
+            {
+                "type": "phone",
+                "text": "2301/15/165"
+            },
+            {
+                "type": "plain",
+                "text": "\nстр.23b-24 1(4) /02/1907\nКсения - родители. м. Староселье, кр. Мефодий Феодосьев и Лидия Адамовна\n\nстр.33b-34 25(27) /06/1907\nИоанн - родители. д. Смольянцы, кр. Федор Васильев и Мелания Феликсова\n\nстр.44b-45 21(21) /10/1907\nНиколай - родители. д. Сисенево, рим.кат Феликс Лаврентиев Ремяшкевич ??? и Фекла Францевна\n\nстр.57b-58 6(16) /03/1908\nФедор - родители. д. Городок, кр. Павел Иосифов Мильто и Елена Тимофеева\nкрестные - кр. Георгий Семенов Дудко и девица Анастасия Ивановна Мильто\n\nстр.59b-59 124(26) /03/1908\nЗахарий - родители. д. Городок, кр. Василий Ефимов Мильто и Феодосия Семенова\n\nстр.66b-67 1(8) /06/1908\nИоанн - родители. заст. Гвалтовник, кр. Иосиф Яковлев Беликович и Мелания Феликсова\n\nстр.67b-68 9(14) /06/1908\nПетр - родители. м. Староселье, кр. Григорий Феликсов Паренок (Паренков, Паронкин) и Наталья Григорьева\nкрестные - вдова Пелагея Феликсова Паренкова\n\nстр.95b-96 6(9) /03/1909 (есть копии страниц)\nФедор - родители. д. Городок, кр. Иоанн Феликсов Галецкий и Мелания Феодосьева\nкрестные - кр. Димитрий Федоров Галецкий и девица Евгения Иосифовна Мильто\n\nстр.95b-96 6(7) /03/1909 (есть копии страниц)\nЕвдокия - родители. д. Хотьково, кр. Иоанн Иоаннов Духовский и Евдокия Петрова"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user1515478552",
+                        "date": "2024-07-22T10:55:32"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 992,
+        "type": "message",
+        "date": "2023-11-07T16:34:29",
+        "date_unixtime": "1699364069",
+        "edited": "2023-11-07T19:46:40",
+        "edited_unixtime": "1699375600",
+        "from": "Маргарита",
+        "from_id": "user466128954",
+        "forwarded_from": "Маргарита",
+        "reply_to_message_id": 46,
+        "text": [
+            "стр.95b-96 5(8) /03/1909 (есть копии страниц)\nФедор - родители. д. Борки, кр. Захарий Павлов Лунченков и Матрена Титова\n\nстр.95b-96 5(11) /03/1909 (есть копии страниц)\nКонстантин - родители. м. Староселье, кр. Иоанн Васильев Якимов и Анастасия Филиппова\n\nстр.112b-113 15(20) /9/1909\nНадежда - родители. д. Смольянцы, кр. Федор Васильев Граблевский и Мелания Феликсова\n\nстр.112b-113 2(20) /9/1909\nВера - родители. м. Староселье, кр. Григорий Феликсов Паренок и Наталья Григорьева\n\nстр.126b-127 10(10) /02/1910 (есть копия страницы)\nМихаил - родители. д. Городок, кр. Иоанн Феликсов Мильто (исправлено Галецкий) и Мелания Феодосьева\nкрестные - кр. Георгий Иванов Мильто и девица Дарья Феодосьева Мильто\n\nстр.126b-127 3(6) /02/1910 (есть копия страницы)\nАнна - родители. заст. Староселье, кр. Алексей Николаев Скрабел?? и Наталья Васильева\n\nстр.126b-127 6(7) /02/1910 (есть копия страницы)\nНадежда Цеханская - родители. д. Хотьково, кр. Евмений ?? Николаем и Мелания Васильева\n\nстр.126b-127 3(7) /02/1910 (есть копия страницы)\nАндрей - родители. д. Хотьково, кр. Симеон Феодоров Сладков и Ирина\n\nстр.126b-127 7(11) /02/1910 (есть копия страницы)\nПарсений - родители. м. Староселье, кр. Лев Петров Россинский и Мелания Захарова\n\nстр.112b-113 15(20) /9/1909\nНадежда - родители. д. Смольянцы, кр. Федор Васильев Граблевский и Мелания Феликсова\n\nстр.126b-217 10(10) /02/1910 (есть копии страниц)\nМихаил - родители. д. Городок, кр. Иоанн Феликсов Мильто (Галецкий) и Мелания Феодосьева\nкрестные - кр. Георгий Иванович Мильто и девица Дарья Феодосьева Мильто\n\n",
+            {
+                "type": "bold",
+                "text": "НИАБ "
+            },
+            {
+                "type": "phone",
+                "text": "2301/15/166"
+            },
+            "\n\nстр.15b-16 25(26) /06/1911\nИулия - родители. д. Городок, кр. Максим Стефанов Галецкий и Параскева Леонтиева\n\nстр.18b-19 28(31) /07/1911\nМаксим - родители. д. Городок, кр. Григорий Феодосьев Мильто и Матрена Ев??\nкрестные - кр. Иоанн Феликсов и Анастасия Иосифова Мильто\n\nстр.59b-60 24(28) /08/1912\nАнна - родители. д. Смольянцы, кр. Федор Васильев Граблевский и Мелания Феликсова\n\nстр.18b-19 28(31) /11/1912 (есть копия страниц)\nИосиф - родители. д. Городок, кр. Иоанн Феликсов Мильто (исправлено Галецкий) и Мелания Феодосьева\nкрестные - кр. Николай Иоаннов Мильто и девица София Феодосьева Мильто\n\nстр.18b-19 8(11) /11/1912 (есть копия страниц)\nМихаил - родители. имение Рацево, дворовый кр. Косьма Петров и Ольга Иоаннова\n\nстр.18b-19 8(16) /11/1912 (есть копия страниц)\nЛидия внебрачная  - д.Ново-Полюдово, девица Анастасия Прохорова Шусева??\n\nстр.18b-19 20(21) /11/1912 (есть копия страниц)\nЕкатерина - родители. д. Городок, кр. Герасим Яковлев Мильто и Дарья Феодосьева\n\nстр.18b-19 23(25) /11/1912 (есть копия страниц)\nПетр Сукорский - родители. д. Смольянцы, кр. Алексей Иоаннов и Анна Францева"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "стр.95b-96 5(8) /03/1909 (есть копии страниц)\nФедор - родители. д. Борки, кр. Захарий Павлов Лунченков и Матрена Титова\n\nстр.95b-96 5(11) /03/1909 (есть копии страниц)\nКонстантин - родители. м. Староселье, кр. Иоанн Васильев Якимов и Анастасия Филиппова\n\nстр.112b-113 15(20) /9/1909\nНадежда - родители. д. Смольянцы, кр. Федор Васильев Граблевский и Мелания Феликсова\n\nстр.112b-113 2(20) /9/1909\nВера - родители. м. Староселье, кр. Григорий Феликсов Паренок и Наталья Григорьева\n\nстр.126b-127 10(10) /02/1910 (есть копия страницы)\nМихаил - родители. д. Городок, кр. Иоанн Феликсов Мильто (исправлено Галецкий) и Мелания Феодосьева\nкрестные - кр. Георгий Иванов Мильто и девица Дарья Феодосьева Мильто\n\nстр.126b-127 3(6) /02/1910 (есть копия страницы)\nАнна - родители. заст. Староселье, кр. Алексей Николаев Скрабел?? и Наталья Васильева\n\nстр.126b-127 6(7) /02/1910 (есть копия страницы)\nНадежда Цеханская - родители. д. Хотьково, кр. Евмений ?? Николаем и Мелания Васильева\n\nстр.126b-127 3(7) /02/1910 (есть копия страницы)\nАндрей - родители. д. Хотьково, кр. Симеон Феодоров Сладков и Ирина\n\nстр.126b-127 7(11) /02/1910 (есть копия страницы)\nПарсений - родители. м. Староселье, кр. Лев Петров Россинский и Мелания Захарова\n\nстр.112b-113 15(20) /9/1909\nНадежда - родители. д. Смольянцы, кр. Федор Васильев Граблевский и Мелания Феликсова\n\nстр.126b-217 10(10) /02/1910 (есть копии страниц)\nМихаил - родители. д. Городок, кр. Иоанн Феликсов Мильто (Галецкий) и Мелания Феодосьева\nкрестные - кр. Георгий Иванович Мильто и девица Дарья Феодосьева Мильто\n\n"
+            },
+            {
+                "type": "bold",
+                "text": "НИАБ "
+            },
+            {
+                "type": "phone",
+                "text": "2301/15/166"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nстр.15b-16 25(26) /06/1911\nИулия - родители. д. Городок, кр. Максим Стефанов Галецкий и Параскева Леонтиева\n\nстр.18b-19 28(31) /07/1911\nМаксим - родители. д. Городок, кр. Григорий Феодосьев Мильто и Матрена Ев??\nкрестные - кр. Иоанн Феликсов и Анастасия Иосифова Мильто\n\nстр.59b-60 24(28) /08/1912\nАнна - родители. д. Смольянцы, кр. Федор Васильев Граблевский и Мелания Феликсова\n\nстр.18b-19 28(31) /11/1912 (есть копия страниц)\nИосиф - родители. д. Городок, кр. Иоанн Феликсов Мильто (исправлено Галецкий) и Мелания Феодосьева\nкрестные - кр. Николай Иоаннов Мильто и девица София Феодосьева Мильто\n\nстр.18b-19 8(11) /11/1912 (есть копия страниц)\nМихаил - родители. имение Рацево, дворовый кр. Косьма Петров и Ольга Иоаннова\n\nстр.18b-19 8(16) /11/1912 (есть копия страниц)\nЛидия внебрачная  - д.Ново-Полюдово, девица Анастасия Прохорова Шусева??\n\nстр.18b-19 20(21) /11/1912 (есть копия страниц)\nЕкатерина - родители. д. Городок, кр. Герасим Яковлев Мильто и Дарья Феодосьева\n\nстр.18b-19 23(25) /11/1912 (есть копия страниц)\nПетр Сукорский - родители. д. Смольянцы, кр. Алексей Иоаннов и Анна Францева"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user1515478552",
+                        "date": "2024-01-18T23:48:04"
+                    },
+                    {
+                        "from": "Наташа",
+                        "from_id": "user299908125",
+                        "date": "2023-11-07T19:46:40"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1357,
+        "type": "message",
+        "date": "2024-03-11T18:43:42",
+        "date_unixtime": "1710171822",
+        "edited": "2024-06-02T22:43:37",
+        "edited_unixtime": "1717357417",
+        "from": "Маргарита",
+        "from_id": "user466128954",
+        "reply_to_message_id": 46,
+        "text": "Всех приветствую.\nНа днях были на кладбищах по данной волости:\n- д. Подкняженье, Хилецкое кладбище между д. Калиновка и д. Хильцы, аг. Староселье, д. Городок (не действующее).\nПараллельно с этим были дискуссии касательно этичности и законности публикации фотографий надгробий. Поэтому если кто-то исследует данный регион по фамилиям Мильто, Галецкий, Аладьев, прошу в ЛС.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Всех приветствую.\nНа днях были на кладбищах по данной волости:\n- д. Подкняженье, Хилецкое кладбище между д. Калиновка и д. Хильцы, аг. Староселье, д. Городок (не действующее).\nПараллельно с этим были дискуссии касательно этичности и законности публикации фотографий надгробий. Поэтому если кто-то исследует данный регион по фамилиям Мильто, Галецкий, Аладьев, прошу в ЛС."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Viktoriya Belka",
+                        "from_id": "user478325908",
+                        "date": "2024-06-02T22:43:37"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1567,
+        "type": "message",
+        "date": "2024-05-20T12:45:45",
+        "date_unixtime": "1716198345",
+        "edited": "2024-05-20T12:46:27",
+        "edited_unixtime": "1716198387",
+        "from": "Вавёрка",
+        "from_id": "user888801481",
+        "reply_to_message_id": 683,
+        "text": "Добрый день. Моя прабабушка Анастасия Андреевна в девичестве Зенкович / Зенькович\nпо мужу Ханевская\nЖила и умерла в Орше после ВОВ\nРодилась примерно в 1890гг\nОткуда родом - не знаю. Может из Мстиславля",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день. Моя прабабушка Анастасия Андреевна в девичестве Зенкович / Зенькович\nпо мужу Ханевская\nЖила и умерла в Орше после ВОВ\nРодилась примерно в 1890гг\nОткуда родом - не знаю. Может из Мстиславля"
+            }
+        ]
+    },
+    {
+        "id": 1568,
+        "type": "message",
+        "date": "2024-05-20T12:58:48",
+        "date_unixtime": "1716199128",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 1567,
+        "text": "Сейчас уже без теста ДНК не разберёшься. Вы не делали?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сейчас уже без теста ДНК не разберёшься. Вы не делали?"
+            }
+        ]
+    },
+    {
+        "id": 1569,
+        "type": "message",
+        "date": "2024-05-20T12:59:07",
+        "date_unixtime": "1716199147",
+        "from": "Вавёрка",
+        "from_id": "user888801481",
+        "reply_to_message_id": 46,
+        "text": "Пока нет",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Пока нет"
+            }
+        ]
+    },
+    {
+        "id": 1570,
+        "type": "message",
+        "date": "2024-05-20T13:01:08",
+        "date_unixtime": "1716199268",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 1569,
+        "text": "Хорошо бы...))",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Хорошо бы...))"
+            }
+        ]
+    },
+    {
+        "id": 1651,
+        "type": "message",
+        "date": "2024-06-02T22:38:08",
+        "date_unixtime": "1717357088",
+        "from": "Viktoriya Belka",
+        "from_id": "user478325908",
+        "reply_to_message_id": 527,
+        "text": "Подскажите, есть ли конкретно по Калиновке, вроде по ссылке нет(",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Подскажите, есть ли конкретно по Калиновке, вроде по ссылке нет("
+            }
+        ]
+    },
+    {
+        "id": 1652,
+        "type": "message",
+        "date": "2024-06-02T22:44:19",
+        "date_unixtime": "1717357459",
+        "edited": "2024-06-03T22:26:47",
+        "edited_unixtime": "1717442807",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 1651,
+        "text": "Здравствуйте! Оказалось, что описание я не совсем верно написал. В исходном сообщении не было упоминания Калиновки, поэтому и сканов ее там тоже нет, увы",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте! Оказалось, что описание я не совсем верно написал. В исходном сообщении не было упоминания Калиновки, поэтому и сканов ее там тоже нет, увы"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Viktoriya Belka",
+                        "from_id": "user478325908",
+                        "date": "2024-06-03T22:26:47"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1653,
+        "type": "message",
+        "date": "2024-06-02T23:06:09",
+        "date_unixtime": "1717358769",
+        "edited": "2024-06-03T22:26:59",
+        "edited_unixtime": "1717442819",
+        "from": "Маргарита",
+        "from_id": "user466128954",
+        "reply_to_message_id": 1651,
+        "text": "Добрый. Да, мои переехали в Калиновку после переписи, следственно в списках 1926 их не было. Потому и сканы не заказывала.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый. Да, мои переехали в Калиновку после переписи, следственно в списках 1926 их не было. Потому и сканы не заказывала."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Viktoriya Belka",
+                        "from_id": "user478325908",
+                        "date": "2024-06-03T22:26:59"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1672,
+        "type": "message",
+        "date": "2024-06-03T22:36:47",
+        "date_unixtime": "1717443407",
+        "edited": "2024-06-03T22:39:24",
+        "edited_unixtime": "1717443564",
+        "from": "Viktoriya Belka",
+        "from_id": "user478325908",
+        "reply_to_message_id": 1653,
+        "text": "Подскажите, пожалуйста, где заказывали сканы?\nУ меня деревня Калиновка фамилия Ермалович\nдеревня Хилец фамилия Ходосевич\nХодосевич были раскулачены в 1931 году.\nЕсть фото памятников (Ермалович с кладбища между Калиновкой и Хилец).",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Подскажите, пожалуйста, где заказывали сканы?\nУ меня деревня Калиновка фамилия Ермалович\nдеревня Хилец фамилия Ходосевич\nХодосевич были раскулачены в 1931 году.\nЕсть фото памятников (Ермалович с кладбища между Калиновкой и Хилец)."
+            }
+        ]
+    },
+    {
+        "id": 1673,
+        "type": "message",
+        "date": "2024-06-03T22:39:09",
+        "date_unixtime": "1717443549",
+        "from": "Viktoriya Belka",
+        "from_id": "user478325908",
+        "reply_to_message_id": 46,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1674,
+        "type": "message",
+        "date": "2024-06-03T22:39:09",
+        "date_unixtime": "1717443549",
+        "from": "Viktoriya Belka",
+        "from_id": "user478325908",
+        "reply_to_message_id": 46,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1675,
+        "type": "message",
+        "date": "2024-06-03T22:54:15",
+        "date_unixtime": "1717444455",
+        "edited": "2024-06-04T07:33:32",
+        "edited_unixtime": "1717475612",
+        "from": "Маргарита",
+        "from_id": "user466128954",
+        "reply_to_message_id": 1672,
+        "text": "НАРБ, фонд 30, опись 2, скорее всего там же в деле 6334\nКопысский р-н, Старосельский с/с\n\nНо НАРБ до августа не работает, если не ошибаюсь.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "НАРБ, фонд 30, опись 2, скорее всего там же в деле 6334\nКопысский р-н, Старосельский с/с\n\nНо НАРБ до августа не работает, если не ошибаюсь."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Viktoriya Belka",
+                        "from_id": "user478325908",
+                        "date": "2024-06-04T07:33:32"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1676,
+        "type": "message",
+        "date": "2024-06-04T07:34:49",
+        "date_unixtime": "1717475689",
+        "from": "Viktoriya Belka",
+        "from_id": "user478325908",
+        "reply_to_message_id": 1675,
+        "text": "Спасибо, изучу",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо, изучу"
+            }
+        ]
+    },
+    {
+        "id": 1823,
+        "type": "message",
+        "date": "2024-07-06T22:53:20",
+        "date_unixtime": "1720295600",
+        "from": "Viktoriya Belka",
+        "from_id": "user478325908",
+        "reply_to_message_id": 990,
+        "text": "В первой записи Самсон Стефанов Ходасевич из д. Хилец (затем его ребенок точно \nХодасевич Дмитрий Самсонович)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В первой записи Самсон Стефанов Ходасевич из д. Хилец (затем его ребенок точно \nХодасевич Дмитрий Самсонович)"
+            }
+        ]
+    },
+    {
+        "id": 1942,
+        "type": "message",
+        "date": "2024-07-14T17:50:51",
+        "date_unixtime": "1720968651",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 46,
+        "text": [
+            "Государственный архив Витебской области. ",
+            {
+                "type": "bold",
+                "text": "Ф. 1821"
+            },
+            " (Отдел управления исполнительного комитета Витебского губернского Совета рабочих, крестьянских и красноармейских депутатов). ",
+            {
+                "type": "bold",
+                "text": "Оп. 1. Д. 86."
+            },
+            " Дело о переводе деревень Мастица, Застенка из Вронцевичского сельсовета к Волховскому сельсовету Старосельской волости Оршанского уезда (29.09.1921–18.02.192[?])."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Государственный архив Витебской области. "
+            },
+            {
+                "type": "bold",
+                "text": "Ф. 1821"
+            },
+            {
+                "type": "plain",
+                "text": " (Отдел управления исполнительного комитета Витебского губернского Совета рабочих, крестьянских и красноармейских депутатов). "
+            },
+            {
+                "type": "bold",
+                "text": "Оп. 1. Д. 86."
+            },
+            {
+                "type": "plain",
+                "text": " Дело о переводе деревень Мастица, Застенка из Вронцевичского сельсовета к Волховскому сельсовету Старосельской волости Оршанского уезда (29.09.1921–18.02.192[?])."
+            }
+        ]
+    },
+    {
+        "id": 2157,
+        "type": "message",
+        "date": "2024-09-27T02:14:07",
+        "date_unixtime": "1727392447",
+        "from": "Vokina[R15] @vokina",
+        "from_id": "user148877696",
+        "reply_to_message_id": 46,
+        "text": "Добрый день.\n\nИщу фамилии: Харитонович, Шитович, Збуржинские\nд. Каменка, костел в Староселье.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день.\n\nИщу фамилии: Харитонович, Шитович, Збуржинские\nд. Каменка, костел в Староселье."
+            }
+        ]
+    },
+    {
+        "id": 2158,
+        "type": "message",
+        "date": "2024-09-27T08:37:31",
+        "date_unixtime": "1727415451",
+        "edited": "2024-09-27T08:38:43",
+        "edited_unixtime": "1727415523",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 2157,
+        "text": "По Збуржинским в Старосельском костеле в качестве восприемников кое-что есть в моих выписках. Если интересует -  сброшу",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "По Збуржинским в Старосельском костеле в качестве восприемников кое-что есть в моих выписках. Если интересует -  сброшу"
+            }
+        ]
+    },
+    {
+        "id": 2159,
+        "type": "message",
+        "date": "2024-09-27T08:48:40",
+        "date_unixtime": "1727416120",
+        "from": "Vokina[R15] @vokina",
+        "from_id": "user148877696",
+        "reply_to_message_id": 2158,
+        "text": "Спасибо! Интересует",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо! Интересует"
+            }
+        ]
+    },
+    {
+        "id": 2160,
+        "type": "message",
+        "date": "2024-09-27T08:56:25",
+        "date_unixtime": "1727416585",
+        "edited": "2024-09-27T09:09:41",
+        "edited_unixtime": "1727417381",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 2159,
+        "text": "Тогда  - немного позже )",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тогда  - немного позже )"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Vokina[R15] @vokina",
+                        "from_id": "user148877696",
+                        "date": "2024-09-27T09:09:41"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2161,
+        "type": "message",
+        "date": "2024-09-27T12:44:24",
+        "date_unixtime": "1727430264",
+        "from": "Antikom",
+        "from_id": "user305556701",
+        "reply_to_message_id": 2160,
+        "text": "Сестра моего деда была замужем за Збуржинским, то я попрошу Вас, Нина, и мне прислать информацию",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сестра моего деда была замужем за Збуржинским, то я попрошу Вас, Нина, и мне прислать информацию"
+            }
+        ]
+    },
+    {
+        "id": 2162,
+        "type": "message",
+        "date": "2024-09-27T12:55:10",
+        "date_unixtime": "1727430910",
+        "edited": "2024-09-27T13:19:30",
+        "edited_unixtime": "1727432370",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 2161,
+        "text": "Ок",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ок"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Antikom",
+                        "from_id": "user305556701",
+                        "date": "2024-09-27T13:19:30"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2163,
+        "type": "message",
+        "date": "2024-09-27T14:35:13",
+        "date_unixtime": "1727436913",
+        "edited": "2024-09-27T15:17:00",
+        "edited_unixtime": "1727439420",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 2159,
+        "text": "Послала в л/с",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Послала в л/с"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Antikom",
+                        "from_id": "user305556701",
+                        "date": "2024-09-27T15:17:00"
+                    }
+                ]
+            }
+        ]
+    }
+]

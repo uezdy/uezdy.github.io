@@ -1,0 +1,1117 @@
+[
+    {
+        "id": 157,
+        "type": "message",
+        "date": "2023-08-06T21:39:11",
+        "date_unixtime": "1691347151",
+        "edited": "2023-08-06T21:39:37",
+        "edited_unixtime": "1691347177",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 7,
+        "text": [
+            "Баханская волость.\n",
+            {
+                "type": "bold",
+                "text": "Список мест"
+            },
+            ":\n",
+            {
+                "type": "text_link",
+                "text": "Аксеновка, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/aksenovka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Александрия, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/aleksandriya.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Александров, хутор..",
+                "href": "https://www.radzima.net/ru/miejsce/aleksandrov.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Анелин, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/anelin.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Бахань I-II, село",
+                "href": "https://www.radzima.net/ru/miejsce/bakhan_i.html"
+            },
+            {
+                "type": "text_link",
+                "text": "....",
+                "href": "https://www.radzima.net/ru/miejsce/bakhan_i.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Бобров, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/bobrov.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Большая Зимница, село....",
+                "href": "https://www.radzima.net/ru/miejsce/bolshaya_zimnitsa.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Большие Пасеки, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/bolshie_paseki.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Борки I-II, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/borki_i.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Борок, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/borok.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Борсуки, фольварк",
+                "href": "https://www.radzima.net/ru/miejsce/borsuki_17.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Брище, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/brishche.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Горки, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/gorki_10.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Добрый Дуб, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/dobryy_dub.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Дубровка, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/dubrovka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Жерелы, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/zherely.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Затишье, хутор..",
+                "href": "https://www.radzima.net/ru/miejsce/zatishje.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Именичи, околица",
+                "href": "https://www.radzima.net/ru/miejsce/imenichi.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Куликовка I-II, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/kulikovka_i.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Куты, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/kuty_5.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Лебедевка, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/lebedevka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Липовка, хутор...",
+                "href": "https://www.radzima.net/ru/miejsce/lipovka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Малая Зимница, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/malaya_zimnitsa.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Никоновичи, село...",
+                "href": "https://www.radzima.net/ru/miejsce/nikonovichi.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Островы, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/ostrovy.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Палки, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/palki.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Пасеки, усадьба",
+                "href": "https://www.radzima.net/ru/miejsce/paseki.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Подгорье, фольварк..",
+                "href": "https://www.radzima.net/ru/miejsce/podgorje.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Полянов, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/polyanov.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Поповка, хутор..",
+                "href": "https://www.radzima.net/ru/miejsce/popovka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Поцея, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/potseya.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Прибор, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/pribor.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Прудок, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/prudok.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Радьково, фольварк..",
+                "href": "https://www.radzima.net/ru/miejsce/radkovo.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Радьковская Слобода, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/radkovskaya_sloboda.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Роги, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/rogi.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Рогожное, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/rogozhnoe.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Смолюгов, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/smolyugov.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Струшев, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/strushev.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Тросна, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/trosna.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Узники, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/uzniki.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Усохи, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/usokhi.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Хачинка, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/khachinka.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Хачинка, фольварк...",
+                "href": "https://www.radzima.net/ru/miejsce/khachinka_1.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Чисть, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/chist.html"
+            },
+            "\n",
+            {
+                "type": "text_link",
+                "text": "Юношево, фольварк",
+                "href": "https://www.radzima.net/ru/miejsce/yunoshevo.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Баханская волость.\n"
+            },
+            {
+                "type": "bold",
+                "text": "Список мест"
+            },
+            {
+                "type": "plain",
+                "text": ":\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Аксеновка, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/aksenovka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Александрия, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/aleksandriya.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Александров, хутор..",
+                "href": "https://www.radzima.net/ru/miejsce/aleksandrov.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Анелин, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/anelin.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Бахань I-II, село",
+                "href": "https://www.radzima.net/ru/miejsce/bakhan_i.html"
+            },
+            {
+                "type": "text_link",
+                "text": "....",
+                "href": "https://www.radzima.net/ru/miejsce/bakhan_i.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Бобров, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/bobrov.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Большая Зимница, село....",
+                "href": "https://www.radzima.net/ru/miejsce/bolshaya_zimnitsa.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Большие Пасеки, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/bolshie_paseki.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Борки I-II, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/borki_i.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Борок, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/borok.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Борсуки, фольварк",
+                "href": "https://www.radzima.net/ru/miejsce/borsuki_17.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Брище, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/brishche.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Горки, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/gorki_10.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Добрый Дуб, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/dobryy_dub.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Дубровка, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/dubrovka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Жерелы, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/zherely.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Затишье, хутор..",
+                "href": "https://www.radzima.net/ru/miejsce/zatishje.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Именичи, околица",
+                "href": "https://www.radzima.net/ru/miejsce/imenichi.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Куликовка I-II, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/kulikovka_i.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Куты, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/kuty_5.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Лебедевка, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/lebedevka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Липовка, хутор...",
+                "href": "https://www.radzima.net/ru/miejsce/lipovka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Малая Зимница, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/malaya_zimnitsa.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Никоновичи, село...",
+                "href": "https://www.radzima.net/ru/miejsce/nikonovichi.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Островы, хутор.",
+                "href": "https://www.radzima.net/ru/miejsce/ostrovy.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Палки, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/palki.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Пасеки, усадьба",
+                "href": "https://www.radzima.net/ru/miejsce/paseki.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Подгорье, фольварк..",
+                "href": "https://www.radzima.net/ru/miejsce/podgorje.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Полянов, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/polyanov.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Поповка, хутор..",
+                "href": "https://www.radzima.net/ru/miejsce/popovka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Поцея, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/potseya.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Прибор, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/pribor.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Прудок, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/prudok.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Радьково, фольварк..",
+                "href": "https://www.radzima.net/ru/miejsce/radkovo.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Радьковская Слобода, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/radkovskaya_sloboda.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Роги, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/rogi.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Рогожное, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/rogozhnoe.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Смолюгов, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/smolyugov.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Струшев, хутор",
+                "href": "https://www.radzima.net/ru/miejsce/strushev.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Тросна, деревня.",
+                "href": "https://www.radzima.net/ru/miejsce/trosna.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Узники, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/uzniki.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Усохи, деревня..",
+                "href": "https://www.radzima.net/ru/miejsce/usokhi.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Хачинка, деревня...",
+                "href": "https://www.radzima.net/ru/miejsce/khachinka.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Хачинка, фольварк...",
+                "href": "https://www.radzima.net/ru/miejsce/khachinka_1.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Чисть, фольварк.",
+                "href": "https://www.radzima.net/ru/miejsce/chist.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Юношево, фольварк",
+                "href": "https://www.radzima.net/ru/miejsce/yunoshevo.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 364,
+        "type": "message",
+        "date": "2023-09-26T12:49:09",
+        "date_unixtime": "1695721749",
+        "from": "Tatiyana Volkova",
+        "from_id": "user338929830",
+        "reply_to_message_id": 7,
+        "text": "Добрый день, а Большая Зимница тоже ведь в этой волости была?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день, а Большая Зимница тоже ведь в этой волости была?"
+            }
+        ]
+    },
+    {
+        "id": 365,
+        "type": "message",
+        "date": "2023-09-26T12:49:46",
+        "date_unixtime": "1695721786",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 7,
+        "text": "Добрый день!\nДа.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день!\nДа."
+            }
+        ]
+    },
+    {
+        "id": 366,
+        "type": "message",
+        "date": "2023-09-26T12:51:18",
+        "date_unixtime": "1695721878",
+        "from": "Tatiyana Volkova",
+        "from_id": "user338929830",
+        "reply_to_message_id": 7,
+        "text": "Подскажите, пожалуйста, а сохранность по этой волости в архиве в Минске есть - Мктрические книги, Подворные списки...?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Подскажите, пожалуйста, а сохранность по этой волости в архиве в Минске есть - Мктрические книги, Подворные списки...?"
+            }
+        ]
+    },
+    {
+        "id": 367,
+        "type": "message",
+        "date": "2023-09-26T12:52:23",
+        "date_unixtime": "1695721943",
+        "from": "Tatiyana Volkova",
+        "from_id": "user338929830",
+        "reply_to_message_id": 7,
+        "text": "Мои родственники из Большой Зимницы переехали в Уфимский уезд... В Башкирию...",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мои родственники из Большой Зимницы переехали в Уфимский уезд... В Башкирию..."
+            }
+        ]
+    },
+    {
+        "id": 368,
+        "type": "message",
+        "date": "2023-09-26T12:52:34",
+        "date_unixtime": "1695721954",
+        "from": "Tatiyana Volkova",
+        "from_id": "user338929830",
+        "reply_to_message_id": 7,
+        "text": "Лукашев и Шабусов",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Лукашев и Шабусов"
+            }
+        ]
+    },
+    {
+        "id": 369,
+        "type": "message",
+        "date": "2023-09-26T13:00:00",
+        "date_unixtime": "1695722400",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 366,
+        "text": "Село Большая Зимница - в ней была церковь. \nЗимницкий православный приход Святой Троицы.\nМетрические книги не сохранились.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Село Большая Зимница - в ней была церковь. \nЗимницкий православный приход Святой Троицы.\nМетрические книги не сохранились."
+            }
+        ]
+    },
+    {
+        "id": 370,
+        "type": "message",
+        "date": "2023-09-26T13:08:15",
+        "date_unixtime": "1695722895",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 366,
+        "text": "Сейчас Большая Зимница относится к Свенскому сельскому совету, Славгородского района, Могилевской области.\nПопробуйте обратиться туда по поводу похозяйственных книг.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сейчас Большая Зимница относится к Свенскому сельскому совету, Славгородского района, Могилевской области.\nПопробуйте обратиться туда по поводу похозяйственных книг."
+            }
+        ]
+    },
+    {
+        "id": 371,
+        "type": "message",
+        "date": "2023-09-26T13:08:21",
+        "date_unixtime": "1695722901",
+        "from": "Tatiyana Volkova",
+        "from_id": "user338929830",
+        "reply_to_message_id": 7,
+        "text": "Жаль.. Подскажите, а по поводу переселения были какие-то списки... Как можно восстановить цепочки... Есть исходные данные, что здесь родился родственник, а потом, что мой дед родился уже в Башкирии в 1927 г",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Жаль.. Подскажите, а по поводу переселения были какие-то списки... Как можно восстановить цепочки... Есть исходные данные, что здесь родился родственник, а потом, что мой дед родился уже в Башкирии в 1927 г"
+            }
+        ]
+    },
+    {
+        "id": 372,
+        "type": "message",
+        "date": "2023-09-26T13:08:43",
+        "date_unixtime": "1695722923",
+        "edited": "2023-09-26T13:08:53",
+        "edited_unixtime": "1695722933",
+        "from": "Tatiyana Volkova",
+        "from_id": "user338929830",
+        "reply_to_message_id": 7,
+        "text": "Мои переехали до 1927 года",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мои переехали до 1927 года"
+            }
+        ]
+    },
+    {
+        "id": 373,
+        "type": "message",
+        "date": "2023-09-26T13:12:39",
+        "date_unixtime": "1695723159",
+        "from": null,
+        "from_id": "user5882332801",
+        "reply_to_message_id": 372,
+        "text": "Я так понимаю, по Столыпинской реформе?\nПоэтому если это целенаправленное переселение, то списки должны быть.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я так понимаю, по Столыпинской реформе?\nПоэтому если это целенаправленное переселение, то списки должны быть."
+            }
+        ]
+    },
+    {
+        "id": 374,
+        "type": "message",
+        "date": "2023-09-26T13:13:03",
+        "date_unixtime": "1695723183",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 371,
+        "text": "Напишите как звали человека который родился здесь, его дату рождения (если известна).\nВозможно кто-то отзовётся.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Напишите как звали человека который родился здесь, его дату рождения (если известна).\nВозможно кто-то отзовётся."
+            }
+        ]
+    },
+    {
+        "id": 375,
+        "type": "message",
+        "date": "2023-09-26T13:19:24",
+        "date_unixtime": "1695723564",
+        "from": "Tatiyana Volkova",
+        "from_id": "user338929830",
+        "reply_to_message_id": 7,
+        "text": "Шабусов Петр Юрьевич 1897г, Лукашев (Лукашов) Егор примерно 1888 г.р.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Шабусов Петр Юрьевич 1897г, Лукашев (Лукашов) Егор примерно 1888 г.р."
+            }
+        ]
+    },
+    {
+        "id": 376,
+        "type": "message",
+        "date": "2023-09-26T13:20:56",
+        "date_unixtime": "1695723656",
+        "edited": "2023-09-26T13:28:38",
+        "edited_unixtime": "1695724118",
+        "from": "Tatiyana Volkova",
+        "from_id": "user338929830",
+        "reply_to_message_id": 7,
+        "text": "Всё, что известно... Там же родилась Федосья Юрьевна Шабусова 1888-1961 и их отец Юрий Шабусов",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Всё, что известно... Там же родилась Федосья Юрьевна Шабусова 1888-1961 и их отец Юрий Шабусов"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👌",
+                "recent": [
+                    {
+                        "from": "Любовь",
+                        "from_id": "user1745829524",
+                        "date": "2023-09-26T13:28:38"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 377,
+        "type": "message",
+        "date": "2023-09-26T13:56:50",
+        "date_unixtime": "1695725810",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 370,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://slavgorod.gov.by/slugby/arxiv"
+            },
+            "\n\nФонд № 14 Свенский сельский Совет (за 1947-2000 годы)"
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://slavgorod.gov.by/slugby/arxiv"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nФонд № 14 Свенский сельский Совет (за 1947-2000 годы)"
+            }
+        ]
+    },
+    {
+        "id": 378,
+        "type": "message",
+        "date": "2023-09-26T14:12:59",
+        "date_unixtime": "1695726779",
+        "from": "Tatiyana Volkova",
+        "from_id": "user338929830",
+        "reply_to_message_id": 7,
+        "text": "Спасибо, но на 1945 год моих там уже не было...",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо, но на 1945 год моих там уже не было..."
+            }
+        ]
+    },
+    {
+        "id": 495,
+        "type": "message",
+        "date": "2023-11-09T15:45:56",
+        "date_unixtime": "1699533956",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "forwarded_from": null,
+        "reply_to_message_id": 7,
+        "text": "Таццяна, магчыма вам спатрэбіцца!\n\nЕсть такая информация в метриках Городищенской Троицкой церкви. НИАБ Ф2347-1-3\n\nО рождении детей \n1863 год - Параскева\n1866 год - Мария\n1870 год - Антон\nРодители : временно проживающий в деревне Семукачи отставной рядовой из села Зимница Быховского уезда Мокій Андреев + Татіана Маркіанова православного вероисповедания.\n\nДалее НИАБ ф2301-8-19а \nПараскева Мокіева  крестьянка деревни Семукачи ( дочь вышеуказанного Мокія) незаконнородила в 1880 и 1884 годах соответственно Николая и Марфу. \nСамое интересное: воспреемником Николая был некто \"Прусский подданный города Франкфурта мещанін Карл Иванов.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Таццяна, магчыма вам спатрэбіцца!\n\nЕсть такая информация в метриках Городищенской Троицкой церкви. НИАБ Ф2347-1-3\n\nО рождении детей \n1863 год - Параскева\n1866 год - Мария\n1870 год - Антон\nРодители : временно проживающий в деревне Семукачи отставной рядовой из села Зимница Быховского уезда Мокій Андреев + Татіана Маркіанова православного вероисповедания.\n\nДалее НИАБ ф2301-8-19а \nПараскева Мокіева  крестьянка деревни Семукачи ( дочь вышеуказанного Мокія) незаконнородила в 1880 и 1884 годах соответственно Николая и Марфу. \nСамое интересное: воспреемником Николая был некто \"Прусский подданный города Франкфурта мещанін Карл Иванов."
+            }
+        ]
+    },
+    {
+        "id": 496,
+        "type": "message",
+        "date": "2023-11-09T15:48:18",
+        "date_unixtime": "1699534098",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "forwarded_from": "Tatiyana Volkova",
+        "reply_to_message_id": 7,
+        "text": "Спасибо. Ищу Лукашевых /Лукашовых и Шабусовых. К 1917 году они переехали семьями в Уфимский уезд. Знаю пока, что муж и жена  Егор Евстафьев Лукашев и Федосья Юрьевна Шабусова примерно 1888гг рождения. Соответственно их родители примерно 1860гг рождения - Евстафий Лукашев и Юрий Шабусов.. Это я смогла вычислить из переписи 1917 по Уфимской губернии...",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо. Ищу Лукашевых /Лукашовых и Шабусовых. К 1917 году они переехали семьями в Уфимский уезд. Знаю пока, что муж и жена  Егор Евстафьев Лукашев и Федосья Юрьевна Шабусова примерно 1888гг рождения. Соответственно их родители примерно 1860гг рождения - Евстафий Лукашев и Юрий Шабусов.. Это я смогла вычислить из переписи 1917 по Уфимской губернии..."
+            }
+        ]
+    },
+    {
+        "id": 1252,
+        "type": "message",
+        "date": "2024-11-09T23:16:52",
+        "date_unixtime": "1731183412",
+        "from": "Ledy",
+        "from_id": "user392986868",
+        "reply_to_message_id": 7,
+        "text": "Старая Трасна:1884 г родилась моя прабабушка Огородникова Степанида Фоминична.Дальше все дети её и род известны\nГде искать информацию о её родителях и дальше?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Старая Трасна:1884 г родилась моя прабабушка Огородникова Степанида Фоминична.Дальше все дети её и род известны\nГде искать информацию о её родителях и дальше?"
+            }
+        ]
+    },
+    {
+        "id": 1253,
+        "type": "message",
+        "date": "2024-11-09T23:20:14",
+        "date_unixtime": "1731183614",
+        "from": "Ledy",
+        "from_id": "user392986868",
+        "reply_to_message_id": 7,
+        "text": "Никоновичи:1882 г рождения мой прадед Лазарь Ефимович Пугачёв,муж Степаниды Фоминичны-где искать информацию о его родителях и предках?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Никоновичи:1882 г рождения мой прадед Лазарь Ефимович Пугачёв,муж Степаниды Фоминичны-где искать информацию о его родителях и предках?"
+            }
+        ]
+    },
+    {
+        "id": 1254,
+        "type": "message",
+        "date": "2024-11-10T07:19:13",
+        "date_unixtime": "1731212353",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 1253,
+        "text": "Беда всей Баханской волости, что метрические книги по православным приходам не сохранились.  ( Бахани, Никоновичи, Большая Зимница). За исключением НП, которые входили в приход в Кульшичах Пропойская волость. И то, там только один год сохранился. Метрики по католическому приходу есть в НИАБ в полном объёме.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Беда всей Баханской волости, что метрические книги по православным приходам не сохранились.  ( Бахани, Никоновичи, Большая Зимница). За исключением НП, которые входили в приход в Кульшичах Пропойская волость. И то, там только один год сохранился. Метрики по католическому приходу есть в НИАБ в полном объёме."
+            }
+        ]
+    },
+    {
+        "id": 1255,
+        "type": "message",
+        "date": "2024-11-10T16:55:22",
+        "date_unixtime": "1731246922",
+        "from": "Ledy",
+        "from_id": "user392986868",
+        "reply_to_message_id": 1254,
+        "text": "Спасибо\nЕвреи этой местности к каким синагогам относились?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо\nЕвреи этой местности к каким синагогам относились?"
+            }
+        ]
+    },
+    {
+        "id": 1319,
+        "type": "message",
+        "date": "2024-12-26T10:40:39",
+        "date_unixtime": "1735198839",
+        "from": "Сергей",
+        "from_id": "user2018987907",
+        "reply_to_message_id": 7,
+        "text": "103_1_1257  Омский архив  1909 год переселенцы  п. Московский Тарский уезд  - 1. Назар Ковлаков дети Василий и Иван  д. Малая Зимница  2. Андрей Ковлаков",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "103_1_1257  Омский архив  1909 год переселенцы  п. Московский Тарский уезд  - 1. Назар Ковлаков дети Василий и Иван  д. Малая Зимница  2. Андрей Ковлаков"
+            }
+        ]
+    }
+]

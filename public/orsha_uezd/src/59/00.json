@@ -1,0 +1,4653 @@
+[
+    {
+        "id": 60,
+        "type": "message",
+        "date": "2023-07-29T01:20:14",
+        "date_unixtime": "1690582814",
+        "edited": "2023-08-03T21:10:00",
+        "edited_unixtime": "1691086200",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "text": [
+            "📥 Тема для ",
+            {
+                "type": "bold",
+                "text": "полезных файлов"
+            },
+            " и ",
+            {
+                "type": "bold",
+                "text": "ссылок"
+            },
+            ": книги, статьи, карты, сайты. Не забывайте добавлять описание.\n\nЧтобы сохранить оригинальное качество картинок, отправляйте их ",
+            {
+                "type": "underline",
+                "text": "как файлы"
+            },
+            ", без сжатия.\n\nПожалуйста, ",
+            {
+                "type": "underline",
+                "text": "воздержитесь от обсуждений"
+            },
+            " в данной теме. Нажмите правой кнопкой на сообщении — «Копировать ссылку» и оставьте комментарий в одной из ",
+            {
+                "type": "text_link",
+                "text": "разговорных тем",
+                "href": "https://t.me/orsha_uezd/4/57"
+            },
+            "."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "📥 Тема для "
+            },
+            {
+                "type": "bold",
+                "text": "полезных файлов"
+            },
+            {
+                "type": "plain",
+                "text": " и "
+            },
+            {
+                "type": "bold",
+                "text": "ссылок"
+            },
+            {
+                "type": "plain",
+                "text": ": книги, статьи, карты, сайты. Не забывайте добавлять описание.\n\nЧтобы сохранить оригинальное качество картинок, отправляйте их "
+            },
+            {
+                "type": "underline",
+                "text": "как файлы"
+            },
+            {
+                "type": "plain",
+                "text": ", без сжатия.\n\nПожалуйста, "
+            },
+            {
+                "type": "underline",
+                "text": "воздержитесь от обсуждений"
+            },
+            {
+                "type": "plain",
+                "text": " в данной теме. Нажмите правой кнопкой на сообщении — «Копировать ссылку» и оставьте комментарий в одной из "
+            },
+            {
+                "type": "text_link",
+                "text": "разговорных тем",
+                "href": "https://t.me/orsha_uezd/4/57"
+            },
+            {
+                "type": "plain",
+                "text": "."
+            }
+        ]
+    },
+    {
+        "id": 239,
+        "type": "message",
+        "date": "2023-08-04T15:31:26",
+        "date_unixtime": "1691152286",
+        "edited": "2024-06-11T20:01:39",
+        "edited_unixtime": "1718125299",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Dzianis Brovar",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Опыт_описания_Могилёвской_губернии_Кн_1_Дембовецкий_Могилёв_1882.djvu",
+        "mime_type": "image/vnd.djvu+multipage",
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "K",
+                        "from_id": "user725953270",
+                        "date": "2024-10-11T18:52:41"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Sergey Fedosenkov",
+                        "from_id": "user989610685",
+                        "date": "2024-06-11T20:01:45"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 240,
+        "type": "message",
+        "date": "2023-08-04T15:31:26",
+        "date_unixtime": "1691152286",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Dzianis Brovar",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Опыт_описания_Могилёвской_губернии_Кн_2_Дембовецкий_Могилёв_1884.djvu",
+        "mime_type": "image/vnd.djvu+multipage",
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 241,
+        "type": "message",
+        "date": "2023-08-04T15:31:26",
+        "date_unixtime": "1691152286",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Dzianis Brovar",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Опыт_описания_Могилёвской_губернии_Кн_3_Дембовецкий_Могилёв_1884.djvu",
+        "mime_type": "image/vnd.djvu+multipage",
+        "text": "Дембовецкий \"Опыт описания Могилёвской губернии\" В 3-х книгах, Могилёв, 1882-1884 гг.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Дембовецкий \"Опыт описания Могилёвской губернии\" В 3-х книгах, Могилёв, 1882-1884 гг."
+            }
+        ]
+    },
+    {
+        "id": 242,
+        "type": "message",
+        "date": "2023-08-04T15:32:04",
+        "date_unixtime": "1691152324",
+        "edited": "2023-08-04T16:07:32",
+        "edited_unixtime": "1691154452",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "text": "🔽 То же, что и выше, но в PDF",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "🔽 То же, что и выше, но в PDF"
+            }
+        ]
+    },
+    {
+        "id": 243,
+        "type": "message",
+        "date": "2023-08-04T15:33:37",
+        "date_unixtime": "1691152417",
+        "edited": "2024-10-11T18:52:38",
+        "edited_unixtime": "1728661958",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Опыт_описания_Могилевской_губернии_Книга_1.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "K",
+                        "from_id": "user725953270",
+                        "date": "2024-10-11T18:52:38"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 244,
+        "type": "message",
+        "date": "2023-08-04T15:33:37",
+        "date_unixtime": "1691152417",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Опыт_описания_Могилевской_губернии_Книга_2.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 245,
+        "type": "message",
+        "date": "2023-08-04T15:33:37",
+        "date_unixtime": "1691152417",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Опыт_описания_Могилевской_губернии_Книга_3.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 246,
+        "type": "message",
+        "date": "2023-08-04T15:47:13",
+        "date_unixtime": "1691153233",
+        "edited": "2024-10-11T18:52:36",
+        "edited_unixtime": "1728661956",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Oršanskìj gerbovnik.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            {
+                "type": "bold",
+                "text": "Оршанский гербовник"
+            },
+            " (польск. Herbarz Orszański) — сборник родословных шляхты Оршанского повета Могилёвской губернии составленный в 1773—1776 и опубликованный в 1900 в составе 28-го тома ИЮМа («Историко-юридические материалы»). Опубликован также отдельным оттиском. В состав гербовника вошло 119 фамилий шляхетских родов."
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Оршанский гербовник"
+            },
+            {
+                "type": "plain",
+                "text": " (польск. Herbarz Orszański) — сборник родословных шляхты Оршанского повета Могилёвской губернии составленный в 1773—1776 и опубликованный в 1900 в составе 28-го тома ИЮМа («Историко-юридические материалы»). Опубликован также отдельным оттиском. В состав гербовника вошло 119 фамилий шляхетских родов."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "K",
+                        "from_id": "user725953270",
+                        "date": "2024-10-11T18:52:36"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 247,
+        "type": "message",
+        "date": "2023-08-04T15:49:42",
+        "date_unixtime": "1691153382",
+        "edited": "2024-10-11T18:52:33",
+        "edited_unixtime": "1728661953",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "text": [
+            {
+                "type": "bold",
+                "text": "Историко-юридические материалы"
+            },
+            ", извлечённые из актовых книг губерний Витебской и Могилёвской, ИЮМ — 32-томное археографическое издание Витебского центрального архива древних актовых книг, издававшееся с 1871 по 1906 год.\n\nПодробнее: ",
+            {
+                "type": "link",
+                "text": "ru.wikipedia.org/wiki/Историко-юридические_материалы"
+            },
+            "\n\n",
+            {
+                "type": "bold",
+                "text": "Скачать"
+            },
+            ": ",
+            {
+                "type": "link",
+                "text": "https://cloud.mail.ru/public/7enX/E3kN6jxuz"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Историко-юридические материалы"
+            },
+            {
+                "type": "plain",
+                "text": ", извлечённые из актовых книг губерний Витебской и Могилёвской, ИЮМ — 32-томное археографическое издание Витебского центрального архива древних актовых книг, издававшееся с 1871 по 1906 год.\n\nПодробнее: "
+            },
+            {
+                "type": "link",
+                "text": "ru.wikipedia.org/wiki/Историко-юридические_материалы"
+            },
+            {
+                "type": "plain",
+                "text": "\n\n"
+            },
+            {
+                "type": "bold",
+                "text": "Скачать"
+            },
+            {
+                "type": "plain",
+                "text": ": "
+            },
+            {
+                "type": "link",
+                "text": "https://cloud.mail.ru/public/7enX/E3kN6jxuz"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "K",
+                        "from_id": "user725953270",
+                        "date": "2024-10-11T18:52:33"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 248,
+        "type": "message",
+        "date": "2023-08-04T15:52:54",
+        "date_unixtime": "1691153574",
+        "edited": "2024-06-11T20:08:14",
+        "edited_unixtime": "1718125694",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Уезды Беларуси (Генеалогия Беларуси)",
+        "reply_to_message_id": 59,
+        "text": [
+            "я тут собирал всё, что есть по Беларуси в открытом доступе\n\n",
+            {
+                "type": "link",
+                "text": "https://telegra.ph/literatura-04-08-3"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "я тут собирал всё, что есть по Беларуси в открытом доступе\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://telegra.ph/literatura-04-08-3"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "K",
+                        "from_id": "user725953270",
+                        "date": "2024-10-11T18:52:30"
+                    },
+                    {
+                        "from": "ПТВ",
+                        "from_id": "user1888747937",
+                        "date": "2024-06-20T06:44:45"
+                    },
+                    {
+                        "from": "Sergey Fedosenkov",
+                        "from_id": "user989610685",
+                        "date": "2024-06-11T20:08:15"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 249,
+        "type": "message",
+        "date": "2023-08-04T15:53:06",
+        "date_unixtime": "1691153586",
+        "edited": "2023-08-13T10:31:35",
+        "edited_unixtime": "1691911895",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Уезды Беларуси (Генеалогия Беларуси)",
+        "reply_to_message_id": 59,
+        "text": [
+            "Акты Чрезвычайной государственной комиссии по установлению и расследованию злодеяний немецко-фашистских захватчиков и их сообщников и причинённого ими ущерба\n\n",
+            {
+                "type": "link",
+                "text": "https://telegra.ph/Akty-CHrezvychajnoj-gosudarstvennoj-komissii-03-30"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Акты Чрезвычайной государственной комиссии по установлению и расследованию злодеяний немецко-фашистских захватчиков и их сообщников и причинённого ими ущерба\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://telegra.ph/Akty-CHrezvychajnoj-gosudarstvennoj-komissii-03-30"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "ПТВ",
+                        "from_id": "user1888747937",
+                        "date": "2024-06-20T06:45:03"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Евгений",
+                        "from_id": "user6152875410",
+                        "date": "2023-08-13T10:31:35"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 250,
+        "type": "message",
+        "date": "2023-08-04T15:53:48",
+        "date_unixtime": "1691153628",
+        "edited": "2024-10-11T18:53:10",
+        "edited_unixtime": "1728661990",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Nik",
+        "reply_to_message_id": 59,
+        "text": [
+            "📓 ",
+            {
+                "type": "bold",
+                "text": "Памятные книжки губерний\n\n"
+            },
+            "Ссылки на облако - ",
+            {
+                "type": "text_link",
+                "text": "здесь",
+                "href": "https://telegra.ph/Pamyatnye-knigi-04-04"
+            },
+            " (взято из ",
+            {
+                "type": "text_link",
+                "text": "списка литературы",
+                "href": "https://telegra.ph/literatura-04-08-3"
+            },
+            ")\n\nА также из других источников (на NLB - не только книжки)\n- Минская губерния: ",
+            {
+                "type": "text_link",
+                "text": "NLB.by",
+                "href": "http://infobelarus.nlb.by/7n_3119cd/7n_3119cd.html"
+            },
+            " / ",
+            {
+                "type": "text_link",
+                "text": "Archive.org\n",
+                "href": "https://archive.org/details/TheMemorialBooksOfTheMinskProvince/"
+            },
+            "- Виленская губерния: ",
+            {
+                "type": "text_link",
+                "text": "NLB.by",
+                "href": "http://infobelarus.nlb.by/7n_4439dvd/7n_4439dvd.html"
+            },
+            " / ",
+            {
+                "type": "text_link",
+                "text": "Archive.org\n",
+                "href": "https://archive.org/details/1893.TheMemorialBookOfTheVilniusRegionIn1894.655Pp./"
+            },
+            "- Витебская губерния: ",
+            {
+                "type": "text_link",
+                "text": "NLB.by",
+                "href": "http://infobelarus.nlb.by/7n_3085cd/7n_3085cd_1.html"
+            },
+            " / ",
+            {
+                "type": "text_link",
+                "text": "Archive.org\n",
+                "href": "https://archive.org/details/TheMemorialBooksOfTheVitebskProvince"
+            },
+            "- Гродненская губерния: ",
+            {
+                "type": "text_link",
+                "text": "NLB.by",
+                "href": "http://infobelarus.nlb.by/7n_4150cd/7n_4150cd.html"
+            },
+            " / ",
+            {
+                "type": "text_link",
+                "text": "Archive.org\n",
+                "href": "https://archive.org/details/TheMemorialBooksoftheGrodnoProvince/"
+            },
+            "- Могилёвская губерния: ",
+            {
+                "type": "text_link",
+                "text": "NLB.by",
+                "href": "http://infobelarus.nlb.by/7n_3115cd/7n_3115cd.html"
+            },
+            " / ",
+            {
+                "type": "text_link",
+                "text": "Archive.org",
+                "href": "https://archive.org/details/TheMemorialBooksOfTheMogilevProvince"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "📓 "
+            },
+            {
+                "type": "bold",
+                "text": "Памятные книжки губерний\n\n"
+            },
+            {
+                "type": "plain",
+                "text": "Ссылки на облако - "
+            },
+            {
+                "type": "text_link",
+                "text": "здесь",
+                "href": "https://telegra.ph/Pamyatnye-knigi-04-04"
+            },
+            {
+                "type": "plain",
+                "text": " (взято из "
+            },
+            {
+                "type": "text_link",
+                "text": "списка литературы",
+                "href": "https://telegra.ph/literatura-04-08-3"
+            },
+            {
+                "type": "plain",
+                "text": ")\n\nА также из других источников (на NLB - не только книжки)\n- Минская губерния: "
+            },
+            {
+                "type": "text_link",
+                "text": "NLB.by",
+                "href": "http://infobelarus.nlb.by/7n_3119cd/7n_3119cd.html"
+            },
+            {
+                "type": "plain",
+                "text": " / "
+            },
+            {
+                "type": "text_link",
+                "text": "Archive.org\n",
+                "href": "https://archive.org/details/TheMemorialBooksOfTheMinskProvince/"
+            },
+            {
+                "type": "plain",
+                "text": "- Виленская губерния: "
+            },
+            {
+                "type": "text_link",
+                "text": "NLB.by",
+                "href": "http://infobelarus.nlb.by/7n_4439dvd/7n_4439dvd.html"
+            },
+            {
+                "type": "plain",
+                "text": " / "
+            },
+            {
+                "type": "text_link",
+                "text": "Archive.org\n",
+                "href": "https://archive.org/details/1893.TheMemorialBookOfTheVilniusRegionIn1894.655Pp./"
+            },
+            {
+                "type": "plain",
+                "text": "- Витебская губерния: "
+            },
+            {
+                "type": "text_link",
+                "text": "NLB.by",
+                "href": "http://infobelarus.nlb.by/7n_3085cd/7n_3085cd_1.html"
+            },
+            {
+                "type": "plain",
+                "text": " / "
+            },
+            {
+                "type": "text_link",
+                "text": "Archive.org\n",
+                "href": "https://archive.org/details/TheMemorialBooksOfTheVitebskProvince"
+            },
+            {
+                "type": "plain",
+                "text": "- Гродненская губерния: "
+            },
+            {
+                "type": "text_link",
+                "text": "NLB.by",
+                "href": "http://infobelarus.nlb.by/7n_4150cd/7n_4150cd.html"
+            },
+            {
+                "type": "plain",
+                "text": " / "
+            },
+            {
+                "type": "text_link",
+                "text": "Archive.org\n",
+                "href": "https://archive.org/details/TheMemorialBooksoftheGrodnoProvince/"
+            },
+            {
+                "type": "plain",
+                "text": "- Могилёвская губерния: "
+            },
+            {
+                "type": "text_link",
+                "text": "NLB.by",
+                "href": "http://infobelarus.nlb.by/7n_3115cd/7n_3115cd.html"
+            },
+            {
+                "type": "plain",
+                "text": " / "
+            },
+            {
+                "type": "text_link",
+                "text": "Archive.org",
+                "href": "https://archive.org/details/TheMemorialBooksOfTheMogilevProvince"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "K",
+                        "from_id": "user725953270",
+                        "date": "2024-10-11T18:53:10"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 251,
+        "type": "message",
+        "date": "2023-08-04T15:54:53",
+        "date_unixtime": "1691153693",
+        "edited": "2024-10-11T18:53:21",
+        "edited_unixtime": "1728662001",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "anti kom",
+        "reply_to_message_id": 59,
+        "text": [
+            "Привет, и я за Оршу. Веду исследования сталинских репрессий в Оршанском районе - более 3600 имен репрессированных собрал ",
+            {
+                "type": "link",
+                "text": "https://kobylaki.by/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Привет, и я за Оршу. Веду исследования сталинских репрессий в Оршанском районе - более 3600 имен репрессированных собрал "
+            },
+            {
+                "type": "link",
+                "text": "https://kobylaki.by/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "K",
+                        "from_id": "user725953270",
+                        "date": "2024-10-11T18:53:21"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 252,
+        "type": "message",
+        "date": "2023-08-04T15:56:12",
+        "date_unixtime": "1691153772",
+        "edited": "2024-10-06T03:46:00",
+        "edited_unixtime": "1728175560",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Сергей Шаппо",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Список_садовладельцев_Могилевской_Губернии_1911.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": [
+            {
+                "type": "bold",
+                "text": "Список садовладельцев Могилевской Губернии 1911, Б.А.Мельников\n"
+            },
+            "Быховский уезд - стр. 2\nГомельский уезд - стр. 6\nГорецкий уезд - стр. 11\nКлимовичский уезд - стр. 14\nМогилевский уезд - стр. 17\nМстиславский уезд - стр. 21\nОршанский уезд - стр. 24\nРогачевский уезд - стр. 28\nСенненский уезд - стр. 33\nЧаусский уезд - стр. 40\nЧериковский уезд - стр. 42\nГорода Могилевской губернии - стр. 46"
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Список садовладельцев Могилевской Губернии 1911, Б.А.Мельников\n"
+            },
+            {
+                "type": "plain",
+                "text": "Быховский уезд - стр. 2\nГомельский уезд - стр. 6\nГорецкий уезд - стр. 11\nКлимовичский уезд - стр. 14\nМогилевский уезд - стр. 17\nМстиславский уезд - стр. 21\nОршанский уезд - стр. 24\nРогачевский уезд - стр. 28\nСенненский уезд - стр. 33\nЧаусский уезд - стр. 40\nЧериковский уезд - стр. 42\nГорода Могилевской губернии - стр. 46"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Ирина",
+                        "from_id": "user1078006405",
+                        "date": "2024-10-06T03:46:00"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 253,
+        "type": "message",
+        "date": "2023-08-04T15:56:12",
+        "date_unixtime": "1691153772",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Сергей Шаппо",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Список_населенных_мест_Могилевской_губернии_1910.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            {
+                "type": "bold",
+                "text": "Список населенных мест Могилевской губернии 1910\n"
+            },
+            "Могилевский уезд - стр 130\nБыховский уезд - стр 149\nГомельский уезд - стр 161\nГорецкий уезд - стр 180\nКлимовичский уезд - стр 192\nМстиславский уезд - стр 211\nОршанский уезд - стр 228\nРогачевский уезд - стр 268\nСенненский уезд - стр 286\nЧаусский уезд - стр 318\nЧериковский уезд - стр 328\nОпечатки и дополнения - стр 346\nПропущение и вновь образованные селения - стр 353\nАлфавитный указатель - стр 355\n",
+            {
+                "type": "text_link",
+                "text": "Оглавление",
+                "href": "https://telegra.ph/Spisok-naselennyh-mest-Mogilevskoj-gubernii-1910-05-26"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Список населенных мест Могилевской губернии 1910\n"
+            },
+            {
+                "type": "plain",
+                "text": "Могилевский уезд - стр 130\nБыховский уезд - стр 149\nГомельский уезд - стр 161\nГорецкий уезд - стр 180\nКлимовичский уезд - стр 192\nМстиславский уезд - стр 211\nОршанский уезд - стр 228\nРогачевский уезд - стр 268\nСенненский уезд - стр 286\nЧаусский уезд - стр 318\nЧериковский уезд - стр 328\nОпечатки и дополнения - стр 346\nПропущение и вновь образованные селения - стр 353\nАлфавитный указатель - стр 355\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Оглавление",
+                "href": "https://telegra.ph/Spisok-naselennyh-mest-Mogilevskoj-gubernii-1910-05-26"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 254,
+        "type": "message",
+        "date": "2023-08-04T15:56:12",
+        "date_unixtime": "1691153772",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Victor",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "0408_001_02351_02370_1916_Sp_officer_po_st_Minsk_mestn_brigadi_RGVIA.pdf",
+        "mime_type": "application/pdf",
+        "text": "1916. Список (по старшинству в чинах) генералам, штаб и обер- офицерам и классным чиновникам Минской местной бригады. Управления уездного воинского начальника: Смоленского, Борисовского, Мстиславского, Быховского Двинского, Могилевского, Мозырского, Сенненского, Суражского, Гомельского, Мглинского, Бобруйского, Чаусского, Рогачевского, Полоцкого, Оршанского, Велижского, Речинского. Минская конвойная команда.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "1916. Список (по старшинству в чинах) генералам, штаб и обер- офицерам и классным чиновникам Минской местной бригады. Управления уездного воинского начальника: Смоленского, Борисовского, Мстиславского, Быховского Двинского, Могилевского, Мозырского, Сенненского, Суражского, Гомельского, Мглинского, Бобруйского, Чаусского, Рогачевского, Полоцкого, Оршанского, Велижского, Речинского. Минская конвойная команда."
+            }
+        ]
+    },
+    {
+        "id": 255,
+        "type": "message",
+        "date": "2023-08-04T15:56:12",
+        "date_unixtime": "1691153772",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Nik",
+        "reply_to_message_id": 59,
+        "text": [
+            "База данных по ",
+            {
+                "type": "bold",
+                "text": "ревизским сказкам Оршанского уезда"
+            },
+            " Могилёвской губернии в НИАБ Минска\n",
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/post/4092/108659/p3313544.htm#pp3313544"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "База данных по "
+            },
+            {
+                "type": "bold",
+                "text": "ревизским сказкам Оршанского уезда"
+            },
+            {
+                "type": "plain",
+                "text": " Могилёвской губернии в НИАБ Минска\n"
+            },
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/post/4092/108659/p3313544.htm#pp3313544"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 256,
+        "type": "message",
+        "date": "2023-08-04T15:56:12",
+        "date_unixtime": "1691153772",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Dzianis Brovar",
+        "reply_to_message_id": 59,
+        "text": [
+            "ЦГИА СПб. Фонд 2292. Опись 2. Дело 70\nЭкстракты метрических книг Могилевских, Княжицкого, Бялыницкого, Головчинского, Шкловского, Фащевского, Быховского, Озеранского, Карпиловского, Журовикского, Свержельского, Рогачевского, Чечерского, Вородзковского, Кричевского, Ивандарского, Чериковского, Чаусовского, Радомльского, Малятычского, Сеннинского, Вядецкого, Белицкого, Островенского, Дубровенского, Бабиновичского, Микулицкого, Горецкого, Романовского, Оршанского, Погостянского, Оболецкого, Бобрского, Толочинского, Черейского, Старосельского, Смолянского, Дудаковичского, Мстиславского, Шумяцкого, Костюковского, Лозовицкого, Пацковского, Мозыкинского костелов о рождении, бракосочетании и смерти ( на латинском языке) . Крайние даты документов: 1813–1814 .\n",
+            {
+                "type": "link",
+                "text": "https://disk.yandex.com/d/3KqDWJA2Ln8sPQ/ф.2292%20оп.2%20д.70"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "ЦГИА СПб. Фонд 2292. Опись 2. Дело 70\nЭкстракты метрических книг Могилевских, Княжицкого, Бялыницкого, Головчинского, Шкловского, Фащевского, Быховского, Озеранского, Карпиловского, Журовикского, Свержельского, Рогачевского, Чечерского, Вородзковского, Кричевского, Ивандарского, Чериковского, Чаусовского, Радомльского, Малятычского, Сеннинского, Вядецкого, Белицкого, Островенского, Дубровенского, Бабиновичского, Микулицкого, Горецкого, Романовского, Оршанского, Погостянского, Оболецкого, Бобрского, Толочинского, Черейского, Старосельского, Смолянского, Дудаковичского, Мстиславского, Шумяцкого, Костюковского, Лозовицкого, Пацковского, Мозыкинского костелов о рождении, бракосочетании и смерти ( на латинском языке) . Крайние даты документов: 1813–1814 .\n"
+            },
+            {
+                "type": "link",
+                "text": "https://disk.yandex.com/d/3KqDWJA2Ln8sPQ/ф.2292%20оп.2%20д.70"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 257,
+        "type": "message",
+        "date": "2023-08-04T16:20:47",
+        "date_unixtime": "1691155247",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Dzianis Brovar",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1777_Vedomost_o_dvoranah_Mogilevskoj_gubernii.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            "Ведомость о дворянах Могилёвской губернии. Год (1777?) и источник не указаны. (",
+            {
+                "type": "link",
+                "text": "https://book-olds.ru"
+            },
+            ")"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ведомость о дворянах Могилёвской губернии. Год (1777?) и источник не указаны. ("
+            },
+            {
+                "type": "link",
+                "text": "https://book-olds.ru"
+            },
+            {
+                "type": "plain",
+                "text": ")"
+            }
+        ]
+    },
+    {
+        "id": 258,
+        "type": "message",
+        "date": "2023-08-04T16:20:47",
+        "date_unixtime": "1691155247",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Victor",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1992_Spis_szlachty_wylegitymowanej_w_guberniach_grodzieńskiej,.pdf",
+        "mime_type": "application/pdf",
+        "text": "Список дворянства, утверждённого в Витебской , Гродненской, Минской, Могилёвской и Смоленской губерниях",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Список дворянства, утверждённого в Витебской , Гродненской, Минской, Могилёвской и Смоленской губерниях"
+            }
+        ]
+    },
+    {
+        "id": 259,
+        "type": "message",
+        "date": "2023-08-04T16:20:47",
+        "date_unixtime": "1691155247",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Александр МойДом",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Именной_список_убитым_раненым_и_без_вести_пропавшим_нижним_чинам.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            "«Именной список убитым, раненым и без вести пропавшим нижним чинам Текст № 741-760». Книга была издана в [1914-1915]\nВ том числе",
+            {
+                "type": "bold",
+                "text": " Минская"
+            },
+            ", Московская, ",
+            {
+                "type": "bold",
+                "text": "Могилевская"
+            },
+            ", Нижегородская, Новгородская и Симбирская губернии\nИсточник: ",
+            {
+                "type": "link",
+                "text": "https://rusneb.ru/catalog/000199_000009_004422334/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "«Именной список убитым, раненым и без вести пропавшим нижним чинам Текст № 741-760». Книга была издана в [1914-1915]\nВ том числе"
+            },
+            {
+                "type": "bold",
+                "text": " Минская"
+            },
+            {
+                "type": "plain",
+                "text": ", Московская, "
+            },
+            {
+                "type": "bold",
+                "text": "Могилевская"
+            },
+            {
+                "type": "plain",
+                "text": ", Нижегородская, Новгородская и Симбирская губернии\nИсточник: "
+            },
+            {
+                "type": "link",
+                "text": "https://rusneb.ru/catalog/000199_000009_004422334/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 260,
+        "type": "message",
+        "date": "2023-08-04T16:25:38",
+        "date_unixtime": "1691155538",
+        "edited": "2023-08-19T20:56:03",
+        "edited_unixtime": "1692467763",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "text": [
+            "📜 ",
+            {
+                "type": "bold",
+                "text": "Могилевские губернские ведомости"
+            },
+            " (1838-1917)\n\n",
+            {
+                "type": "text_link",
+                "text": "Группа энтузиастов",
+                "href": "https://forum.vgd.ru/post/3486/139573/p4491893.htm#pp4491893"
+            },
+            " занимается оцифровкой выпусков газет. \n\n",
+            {
+                "type": "bold",
+                "text": "Скачать"
+            },
+            ": ",
+            {
+                "type": "link",
+                "text": "https://drive.google.com/drive/folders/1CbJof4iaJAXspOPKeMmFyEinCY2Ky5bG"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "📜 "
+            },
+            {
+                "type": "bold",
+                "text": "Могилевские губернские ведомости"
+            },
+            {
+                "type": "plain",
+                "text": " (1838-1917)\n\n"
+            },
+            {
+                "type": "text_link",
+                "text": "Группа энтузиастов",
+                "href": "https://forum.vgd.ru/post/3486/139573/p4491893.htm#pp4491893"
+            },
+            {
+                "type": "plain",
+                "text": " занимается оцифровкой выпусков газет. \n\n"
+            },
+            {
+                "type": "bold",
+                "text": "Скачать"
+            },
+            {
+                "type": "plain",
+                "text": ": "
+            },
+            {
+                "type": "link",
+                "text": "https://drive.google.com/drive/folders/1CbJof4iaJAXspOPKeMmFyEinCY2Ky5bG"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 261,
+        "type": "message",
+        "date": "2023-08-04T16:27:04",
+        "date_unixtime": "1691155624",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Nik",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Указатель_к_неофициальной_части_МГВ_с_1839_по_1898_год_Е_Р_Романов.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Указатель к неофициальной части «Могилевских губернских ведомостей» с 1839 по 1898 год / Е. Р. Романов - 1899",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Указатель к неофициальной части «Могилевских губернских ведомостей» с 1839 по 1898 год / Е. Р. Романов - 1899"
+            }
+        ]
+    },
+    {
+        "id": 262,
+        "type": "message",
+        "date": "2023-08-04T16:27:04",
+        "date_unixtime": "1691155624",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Nik",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Могилевские_губернские_ведомости_за_1838_1844_годы_Н_А_Озеров.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Могилевские губернские ведомости за 1838-1844 годы / Н. А. Озеров - 1905",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Могилевские губернские ведомости за 1838-1844 годы / Н. А. Озеров - 1905"
+            }
+        ]
+    },
+    {
+        "id": 263,
+        "type": "message",
+        "date": "2023-08-04T16:27:04",
+        "date_unixtime": "1691155624",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Nik",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Евреи_в_неофициальной_части_МГВ_1839_1905_гг_Левин_Д_Э_.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Евреи в неофициальной части ''Могилевских губернских ведомостей'' (1839―1905 гг.) : (Публикация Н. М. Балацкой и Н. В. Николаева) / Д. Э. Левин // Белорусский сборник : статьи и материалы по истории и культуре Белоруссии / Российская национальная библиотека, Санкт-Петербургская ассоциация белорусистов. — Санкт-Петербург. — 2021. — Вып. 8. — С. 165―306",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Евреи в неофициальной части ''Могилевских губернских ведомостей'' (1839―1905 гг.) : (Публикация Н. М. Балацкой и Н. В. Николаева) / Д. Э. Левин // Белорусский сборник : статьи и материалы по истории и культуре Белоруссии / Российская национальная библиотека, Санкт-Петербургская ассоциация белорусистов. — Санкт-Петербург. — 2021. — Вып. 8. — С. 165―306"
+            }
+        ]
+    },
+    {
+        "id": 264,
+        "type": "message",
+        "date": "2023-08-04T16:30:05",
+        "date_unixtime": "1691155805",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "text": [
+            {
+                "type": "bold",
+                "text": "Могилевская старина"
+            },
+            " - сборник Романова, 3 части\n\nЭто издание собрало в себе оттиски авторских статей по могилевской старине из неофициальной части «Могилевских Губернских Ведомостей»"
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Могилевская старина"
+            },
+            {
+                "type": "plain",
+                "text": " - сборник Романова, 3 части\n\nЭто издание собрало в себе оттиски авторских статей по могилевской старине из неофициальной части «Могилевских Губернских Ведомостей»"
+            }
+        ]
+    },
+    {
+        "id": 265,
+        "type": "message",
+        "date": "2023-08-04T16:31:14",
+        "date_unixtime": "1691155874",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Романов_Сборник_статей_МГВ_Выпуск_1_1898_и_1899_гг.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 266,
+        "type": "message",
+        "date": "2023-08-04T16:31:14",
+        "date_unixtime": "1691155874",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Романов_Сборник_статей_МГВ_Выпуск_2_1900_и_1901_гг.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 267,
+        "type": "message",
+        "date": "2023-08-04T16:31:14",
+        "date_unixtime": "1691155874",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Романов_Сборник_статей_МГВ_Выпуск_3_1902_и_1903_гг.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 268,
+        "type": "message",
+        "date": "2023-08-04T16:31:42",
+        "date_unixtime": "1691155902",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Nik",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Сводный_каталог_литературы_о_Могилевской_губернии.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            "Сводный каталог литературы о Могилевской губернии (2003, составитель Л. Е. Гуркович)\n\nЭто первый и пока единственный в регионе библиографический указатель, в котором собрана информация о 887 раритетных книгах, посвященных Могилевской губернии, выявленная сотрудниками сектора краеведения из библиографических источников. Указатель дает представление о богатстве духовного наследия Могилевщины.\n\nМатериал расположен в алфавитном порядке. Особую ценность представляет ссылка на местонахождение каждого издания, что содействует работе библиотек по поиску и пополнению краеведческого фонда редкими книгами.\n\n",
+            {
+                "type": "italic",
+                "text": "(хорошее дополнение к "
+            },
+            {
+                "type": "text_link",
+                "text": "сборнику 2014 года",
+                "href": "https://t.me/uezdy/24106/41576"
+            },
+            {
+                "type": "italic",
+                "text": ", наконец-то нашел)\n\n"
+            },
+            "Источник: ",
+            {
+                "type": "link",
+                "text": "https://library-mogilev.wixsite.com/mogilev-guberniya/indexes-of-rare-editions"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сводный каталог литературы о Могилевской губернии (2003, составитель Л. Е. Гуркович)\n\nЭто первый и пока единственный в регионе библиографический указатель, в котором собрана информация о 887 раритетных книгах, посвященных Могилевской губернии, выявленная сотрудниками сектора краеведения из библиографических источников. Указатель дает представление о богатстве духовного наследия Могилевщины.\n\nМатериал расположен в алфавитном порядке. Особую ценность представляет ссылка на местонахождение каждого издания, что содействует работе библиотек по поиску и пополнению краеведческого фонда редкими книгами.\n\n"
+            },
+            {
+                "type": "italic",
+                "text": "(хорошее дополнение к "
+            },
+            {
+                "type": "text_link",
+                "text": "сборнику 2014 года",
+                "href": "https://t.me/uezdy/24106/41576"
+            },
+            {
+                "type": "italic",
+                "text": ", наконец-то нашел)\n\n"
+            },
+            {
+                "type": "plain",
+                "text": "Источник: "
+            },
+            {
+                "type": "link",
+                "text": "https://library-mogilev.wixsite.com/mogilev-guberniya/indexes-of-rare-editions"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 269,
+        "type": "message",
+        "date": "2023-08-04T16:32:00",
+        "date_unixtime": "1691155920",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Nik",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Краеведческие_раритеты_Могилевщины_2013.docx",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "text": [
+            "Краеведческие раритеты Могилевщины (из фонда Могилевской областной библиотеки им. В. И. Ленина): библиографический указатель — Могилев, 2013. —  115 с.\n\nВ издании впервые представлены сведения о редких краеведческих книжных и периодических изданиях, хранящихся в фонде отдела белорусской и краеведческой литературы Могилевской областной библиотеки и являющихся частью историко-культурного наследия Могилевщины. \nВключена информация о книгах, журналах и газетах за период с 1810 по 1945 годы. В целях более широкого охвата краеведческих источников отражены подлинные издания, ксерокопии, электронные, факсимильные и репринтные издания, микрофильмы и фотокопии редких изданий.\n\nИсточник: ",
+            {
+                "type": "link",
+                "text": "https://libmogilev.by/editions-bibliographic-indexes.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Краеведческие раритеты Могилевщины (из фонда Могилевской областной библиотеки им. В. И. Ленина): библиографический указатель — Могилев, 2013. —  115 с.\n\nВ издании впервые представлены сведения о редких краеведческих книжных и периодических изданиях, хранящихся в фонде отдела белорусской и краеведческой литературы Могилевской областной библиотеки и являющихся частью историко-культурного наследия Могилевщины. \nВключена информация о книгах, журналах и газетах за период с 1810 по 1945 годы. В целях более широкого охвата краеведческих источников отражены подлинные издания, ксерокопии, электронные, факсимильные и репринтные издания, микрофильмы и фотокопии редких изданий.\n\nИсточник: "
+            },
+            {
+                "type": "link",
+                "text": "https://libmogilev.by/editions-bibliographic-indexes.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 270,
+        "type": "message",
+        "date": "2023-08-04T16:32:42",
+        "date_unixtime": "1691155962",
+        "edited": "2023-08-04T16:32:47",
+        "edited_unixtime": "1691155967",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Краеведческие_раритеты_Могилевщины.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": [
+            "То же, что и ",
+            {
+                "type": "text_link",
+                "text": "выше",
+                "href": "https://t.me/orsha_uezd/59/269"
+            },
+            ", но в PDF"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "То же, что и "
+            },
+            {
+                "type": "text_link",
+                "text": "выше",
+                "href": "https://t.me/orsha_uezd/59/269"
+            },
+            {
+                "type": "plain",
+                "text": ", но в PDF"
+            }
+        ]
+    },
+    {
+        "id": 271,
+        "type": "message",
+        "date": "2023-08-04T16:34:55",
+        "date_unixtime": "1691156095",
+        "edited": "2024-07-13T17:15:42",
+        "edited_unixtime": "1720880142",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Nik",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "2015_Заливако_А_Историография_генеалогии_Беларуси_X_XXI_вв_Новейший.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            {
+                "type": "bold",
+                "text": "Заливако А. Историография генеалогии Беларуси (X-XXI вв). Новейший период (2004-2014)\n\n"
+            },
+            {
+                "type": "italic",
+                "text": "(книга является дополненной версией первого издания 2004 года)\n\n"
+            },
+            "Автор стремился охватить наиболее важные публикации, касающиеся прямых и косвенных генеалогических источников, публикаций, имеющие сведения генеалогического характера, а также частично охарактеризовать архивные неопубликованные источники периода конец X - нач. XXI вв. Латиноязычные, польские хроники, белорусско-литовские летописи, городские хроники, диариуши, польские и беларуские гербовники, научные статьи по теории генеалогии — вот тот перечень источников, которые представлены в настоящей книге."
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Заливако А. Историография генеалогии Беларуси (X-XXI вв). Новейший период (2004-2014)\n\n"
+            },
+            {
+                "type": "italic",
+                "text": "(книга является дополненной версией первого издания 2004 года)\n\n"
+            },
+            {
+                "type": "plain",
+                "text": "Автор стремился охватить наиболее важные публикации, касающиеся прямых и косвенных генеалогических источников, публикаций, имеющие сведения генеалогического характера, а также частично охарактеризовать архивные неопубликованные источники периода конец X - нач. XXI вв. Латиноязычные, польские хроники, белорусско-литовские летописи, городские хроники, диариуши, польские и беларуские гербовники, научные статьи по теории генеалогии — вот тот перечень источников, которые представлены в настоящей книге."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Галина",
+                        "from_id": "user1093111526",
+                        "date": "2024-07-13T17:15:43"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 272,
+        "type": "message",
+        "date": "2023-08-04T16:36:43",
+        "date_unixtime": "1691156203",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Nik",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Gazety_Belarusi_1776-1975.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": [
+            {
+                "type": "bold",
+                "text": "Газеты Беларусі"
+            },
+            ", 1776-1975\nУказатель содержит информацию о 2010 белорусских газетах за период с момента выхода первой газеты на территории современной Беларуси по 1975 год включительно.\n\nПеред составителями стояла задача создания библиографии периодики, в которой белорусские газеты были бы представлены наиболее полно. Указатель содержит информацию о газетах на белорусском языке, а также на других языках, изданных на территории современной Беларуси или за ее пределами при условии наличия в выходных сведениях издания органа, принадлежащего Беларуси.\n\nВспомогательные указатели к тексту: именной, алфавитный указатель названий газет, указатель мест издания, хронологический и др."
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Газеты Беларусі"
+            },
+            {
+                "type": "plain",
+                "text": ", 1776-1975\nУказатель содержит информацию о 2010 белорусских газетах за период с момента выхода первой газеты на территории современной Беларуси по 1975 год включительно.\n\nПеред составителями стояла задача создания библиографии периодики, в которой белорусские газеты были бы представлены наиболее полно. Указатель содержит информацию о газетах на белорусском языке, а также на других языках, изданных на территории современной Беларуси или за ее пределами при условии наличия в выходных сведениях издания органа, принадлежащего Беларуси.\n\nВспомогательные указатели к тексту: именной, алфавитный указатель названий газет, указатель мест издания, хронологический и др."
+            }
+        ]
+    },
+    {
+        "id": 273,
+        "type": "message",
+        "date": "2023-08-04T16:41:51",
+        "date_unixtime": "1691156511",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Оцифровано_в_Витебской_библиотеке.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": [
+            {
+                "type": "bold",
+                "text": "Витебщина: документальное наследие\n\n"
+            },
+            "Электронная коллекция оцифрованных документов, в которой представлены редкие краеведческие издания о Витебщине XIX – начала ХХ веков.\n\nИсточник: ",
+            {
+                "type": "link",
+                "text": "http://www.vlib.by/index.php/ru/vitebshchina-dokumentalnoe-nasledie"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Витебщина: документальное наследие\n\n"
+            },
+            {
+                "type": "plain",
+                "text": "Электронная коллекция оцифрованных документов, в которой представлены редкие краеведческие издания о Витебщине XIX – начала ХХ веков.\n\nИсточник: "
+            },
+            {
+                "type": "link",
+                "text": "http://www.vlib.by/index.php/ru/vitebshchina-dokumentalnoe-nasledie"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 274,
+        "type": "message",
+        "date": "2023-08-04T17:08:49",
+        "date_unixtime": "1691158129",
+        "edited": "2023-08-04T17:08:55",
+        "edited_unixtime": "1691158135",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Краязнаўцы_Віцебшчыны_2010.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            {
+                "type": "bold",
+                "text": "Краязнаўцы Віцебшчыны"
+            },
+            " другой паловы XX - пачатку XXI ст.\n\nЗмяшчаецца інфармацыя пра больш за 570 асоб: краязнаўцаў-аматараў, музейных работнікаў, архівістаў, бібліятэкараў, журналістаў, настаўнікаў, выкладчыкаў ВНУ, навукоўцаў і супрацоўнікаў дзяржаўных устаноў, арганізацый, якія даследуюць гісторыю і культуру Віцебшчыны ў адміністрацыйных межах сучаснай Віцебскай вобласці. Прыводзіцца бібліяграфія краязнаўцаў."
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Краязнаўцы Віцебшчыны"
+            },
+            {
+                "type": "plain",
+                "text": " другой паловы XX - пачатку XXI ст.\n\nЗмяшчаецца інфармацыя пра больш за 570 асоб: краязнаўцаў-аматараў, музейных работнікаў, архівістаў, бібліятэкараў, журналістаў, настаўнікаў, выкладчыкаў ВНУ, навукоўцаў і супрацоўнікаў дзяржаўных устаноў, арганізацый, якія даследуюць гісторыю і культуру Віцебшчыны ў адміністрацыйных межах сучаснай Віцебскай вобласці. Прыводзіцца бібліяграфія краязнаўцаў."
+            }
+        ]
+    },
+    {
+        "id": 275,
+        "type": "message",
+        "date": "2023-08-04T17:34:17",
+        "date_unixtime": "1691159657",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Очерки о земле Оршанской 2019.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            {
+                "type": "bold",
+                "text": "Очерки о земле Оршанской"
+            },
+            " - Шинкевич А.Н.\n",
+            {
+                "type": "italic",
+                "text": "(природа, история, народные предания, старина)\n\n"
+            },
+            "В основу книги положен реестр объектов природы и старины Оршанщины по состоянию на 2019 г. \nВ этом издании представлены новейшие карта и значительно дополненный свод объектов оршанской природы, истории и старины, внесены существенные поправки, комментарии.\nНовый реестр исторических и природных памятников, достопримечательных мест и географических объектов дополняют исторические сведения, народные предания, воспоминания старожилов, толкования местных топонимов. \nБогатый иллюстративный материал и топографические схемы дают возможность совершить своеобразную экскурсию по\nкраю, в том числе и в его прошлое…"
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Очерки о земле Оршанской"
+            },
+            {
+                "type": "plain",
+                "text": " - Шинкевич А.Н.\n"
+            },
+            {
+                "type": "italic",
+                "text": "(природа, история, народные предания, старина)\n\n"
+            },
+            {
+                "type": "plain",
+                "text": "В основу книги положен реестр объектов природы и старины Оршанщины по состоянию на 2019 г. \nВ этом издании представлены новейшие карта и значительно дополненный свод объектов оршанской природы, истории и старины, внесены существенные поправки, комментарии.\nНовый реестр исторических и природных памятников, достопримечательных мест и географических объектов дополняют исторические сведения, народные предания, воспоминания старожилов, толкования местных топонимов. \nБогатый иллюстративный материал и топографические схемы дают возможность совершить своеобразную экскурсию по\nкраю, в том числе и в его прошлое…"
+            }
+        ]
+    },
+    {
+        "id": 296,
+        "type": "message",
+        "date": "2023-08-04T20:55:12",
+        "date_unixtime": "1691171712",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Сергей Митин",
+        "reply_to_message_id": 59,
+        "text": [
+            "Газеты и журналы Беларуси: ",
+            {
+                "type": "link",
+                "text": "https://cloud.mail.ru/public/8bN3/oYm3ofMvc"
+            },
+            "\n\nАрхіварыус\nАрхівы і справаводства\nБеларускі археаграфічны штогоднік\nБеларускі гістарычны часопіс\nВестник библиотек (Могилев)\nКраязнаўчая газета"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Газеты и журналы Беларуси: "
+            },
+            {
+                "type": "link",
+                "text": "https://cloud.mail.ru/public/8bN3/oYm3ofMvc"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nАрхіварыус\nАрхівы і справаводства\nБеларускі археаграфічны штогоднік\nБеларускі гістарычны часопіс\nВестник библиотек (Могилев)\nКраязнаўчая газета"
+            }
+        ]
+    },
+    {
+        "id": 297,
+        "type": "message",
+        "date": "2023-08-04T21:10:40",
+        "date_unixtime": "1691172640",
+        "edited": "2023-08-04T21:11:03",
+        "edited_unixtime": "1691172663",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "text": [
+            {
+                "type": "bold",
+                "text": "Списки избирателей"
+            },
+            " по Оршанскому уезду (включая землевладельцев) - некоторые прибавления к МГВ"
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Списки избирателей"
+            },
+            {
+                "type": "plain",
+                "text": " по Оршанскому уезду (включая землевладельцев) - некоторые прибавления к МГВ"
+            }
+        ]
+    },
+    {
+        "id": 298,
+        "type": "message",
+        "date": "2023-08-04T21:11:51",
+        "date_unixtime": "1691172711",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Duma_voters_1907_Orsha.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 299,
+        "type": "message",
+        "date": "2023-08-04T21:11:51",
+        "date_unixtime": "1691172711",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Duma_voters_1907_Orshanskii_uezd_zemlevladeltsy_MGV_19070707_53.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 300,
+        "type": "message",
+        "date": "2023-08-04T21:11:51",
+        "date_unixtime": "1691172711",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Список_лиц,_имеющих_право_на_участие_в_выборах_в_Государственную.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 301,
+        "type": "message",
+        "date": "2023-08-04T21:11:51",
+        "date_unixtime": "1691172711",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Землевладельцы_1914.pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 423,
+        "type": "message",
+        "date": "2023-08-06T14:27:38",
+        "date_unixtime": "1691321258",
+        "edited": "2023-08-06T14:36:18",
+        "edited_unixtime": "1691321778",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "text": [
+            "Пошукавая сістэма “",
+            {
+                "type": "bold",
+                "text": "Дапаможнік"
+            },
+            "”\n\nСайт: ",
+            {
+                "type": "link",
+                "text": "https://helper.archonline.by/"
+            },
+            "\n\nВажно: слова нужно писать с большой буквы (прозвішчы і назвы павінны ісці з вялікай літары).\n\n- ",
+            {
+                "type": "text_link",
+                "text": "Описание на сайте «Архивы Беларуси»\n",
+                "href": "https://archives.gov.by/home/genealogiya/poshukavaya-sistema-dapamozhnik"
+            },
+            "- ",
+            {
+                "type": "text_link",
+                "text": "Як стваралася пошукавая сістэма “Дапаможнік”",
+                "href": "http://vln.by/node/285"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Пошукавая сістэма “"
+            },
+            {
+                "type": "bold",
+                "text": "Дапаможнік"
+            },
+            {
+                "type": "plain",
+                "text": "”\n\nСайт: "
+            },
+            {
+                "type": "link",
+                "text": "https://helper.archonline.by/"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nВажно: слова нужно писать с большой буквы (прозвішчы і назвы павінны ісці з вялікай літары).\n\n- "
+            },
+            {
+                "type": "text_link",
+                "text": "Описание на сайте «Архивы Беларуси»\n",
+                "href": "https://archives.gov.by/home/genealogiya/poshukavaya-sistema-dapamozhnik"
+            },
+            {
+                "type": "plain",
+                "text": "- "
+            },
+            {
+                "type": "text_link",
+                "text": "Як стваралася пошукавая сістэма “Дапаможнік”",
+                "href": "http://vln.by/node/285"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 424,
+        "type": "message",
+        "date": "2023-08-06T14:31:15",
+        "date_unixtime": "1691321475",
+        "edited": "2023-08-06T14:39:00",
+        "edited_unixtime": "1691321940",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "text": [
+            {
+                "type": "bold",
+                "text": "Фондовый каталог"
+            },
+            " государственных архивов Республики Беларусь\n\nСайт: ",
+            {
+                "type": "link",
+                "text": "https://fk.archives.gov.by/"
+            },
+            "\n\nСайт содержит часть информации ГФК (государственного фондового каталога) о составе, содержании и местонахождении более чем 50 тыс. фондов, находящихся на постоянном хранении в государственных архивах Республики Беларусь.\n\nПоисковая система позволяет осуществлять многоаспектный поиск информации в базе данных и предоставляет возможность получить описания фондов, включающее их местонахождение, архивный шифр, названия, сведения о документах фонда (крайние даты и аннотации), объеме фонда в единицах хранения и др. информацию."
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Фондовый каталог"
+            },
+            {
+                "type": "plain",
+                "text": " государственных архивов Республики Беларусь\n\nСайт: "
+            },
+            {
+                "type": "link",
+                "text": "https://fk.archives.gov.by/"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nСайт содержит часть информации ГФК (государственного фондового каталога) о составе, содержании и местонахождении более чем 50 тыс. фондов, находящихся на постоянном хранении в государственных архивах Республики Беларусь.\n\nПоисковая система позволяет осуществлять многоаспектный поиск информации в базе данных и предоставляет возможность получить описания фондов, включающее их местонахождение, архивный шифр, названия, сведения о документах фонда (крайние даты и аннотации), объеме фонда в единицах хранения и др. информацию."
+            }
+        ]
+    },
+    {
+        "id": 435,
+        "type": "message",
+        "date": "2023-08-06T14:36:06",
+        "date_unixtime": "1691321766",
+        "edited": "2023-08-06T17:05:05",
+        "edited_unixtime": "1691330705",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "text": [
+            {
+                "type": "bold",
+                "text": "Система открытого доступа"
+            },
+            " к документам Национального архивного фонда\n\nСайт: ",
+            {
+                "type": "link",
+                "text": "http://sodd.by/"
+            },
+            "\n\n",
+            {
+                "type": "italic",
+                "text": "Сайт медленно, но работает. Можно искать по всем архивам или только в одном, например в "
+            },
+            {
+                "type": "text_link",
+                "text": "ЗГА Орши",
+                "href": "http://sodd.by/funds/tree?keyword=&isAction=1&archives=35%2C"
+            },
+            {
+                "type": "italic",
+                "text": ".\n\n"
+            },
+            "СОДД НАФ представляет собой информационный ресурс, который содержит описания состава документов, хранящихся в государственных архивных учреждениях Республики Беларусь.\n\nПредставленная на портале информация интегрирует документальные ресурсы шести республиканских архивных учреждений и двадцати пяти государственных архивов областного и зонального уровней.\n\nСтатьи:\n- ",
+            {
+                "type": "text_link",
+                "text": "СОДД НАФ РБ (2015)\n",
+                "href": "http://vln.by/node/279"
+            },
+            "- ",
+            {
+                "type": "text_link",
+                "text": "СОДД НАФ РБ внедрена в эксплуатацию и активно заполняется информацией (2017)",
+                "href": "http://vln.by/node/280"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Система открытого доступа"
+            },
+            {
+                "type": "plain",
+                "text": " к документам Национального архивного фонда\n\nСайт: "
+            },
+            {
+                "type": "link",
+                "text": "http://sodd.by/"
+            },
+            {
+                "type": "plain",
+                "text": "\n\n"
+            },
+            {
+                "type": "italic",
+                "text": "Сайт медленно, но работает. Можно искать по всем архивам или только в одном, например в "
+            },
+            {
+                "type": "text_link",
+                "text": "ЗГА Орши",
+                "href": "http://sodd.by/funds/tree?keyword=&isAction=1&archives=35%2C"
+            },
+            {
+                "type": "italic",
+                "text": ".\n\n"
+            },
+            {
+                "type": "plain",
+                "text": "СОДД НАФ представляет собой информационный ресурс, который содержит описания состава документов, хранящихся в государственных архивных учреждениях Республики Беларусь.\n\nПредставленная на портале информация интегрирует документальные ресурсы шести республиканских архивных учреждений и двадцати пяти государственных архивов областного и зонального уровней.\n\nСтатьи:\n- "
+            },
+            {
+                "type": "text_link",
+                "text": "СОДД НАФ РБ (2015)\n",
+                "href": "http://vln.by/node/279"
+            },
+            {
+                "type": "plain",
+                "text": "- "
+            },
+            {
+                "type": "text_link",
+                "text": "СОДД НАФ РБ внедрена в эксплуатацию и активно заполняется информацией (2017)",
+                "href": "http://vln.by/node/280"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 475,
+        "type": "message",
+        "date": "2023-08-09T20:52:54",
+        "date_unixtime": "1691603574",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Могилевские_епископы_1887.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Могилевские епископы, с краткими биографическими о каждом из них сведениями / [Д. Тихомиров]. - Могилев на Днепре : Скоропечатня и литография Ш. Фридланда, 1887. - [2], 19 с.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Могилевские епископы, с краткими биографическими о каждом из них сведениями / [Д. Тихомиров]. - Могилев на Днепре : Скоропечатня и литография Ш. Фридланда, 1887. - [2], 19 с."
+            }
+        ]
+    },
+    {
+        "id": 524,
+        "type": "message",
+        "date": "2023-08-15T00:34:04",
+        "date_unixtime": "1692048844",
+        "from": "Sergey Fedosenkov",
+        "from_id": "user989610685",
+        "reply_to_message_id": 59,
+        "text": "Какой огромный кладезь информации!! Ещё бы сюда метрические книги, переписи🫣",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Какой огромный кладезь информации!! Ещё бы сюда метрические книги, переписи🫣"
+            }
+        ]
+    },
+    {
+        "id": 525,
+        "type": "message",
+        "date": "2023-08-15T00:47:46",
+        "date_unixtime": "1692049666",
+        "edited": "2023-08-17T23:10:39",
+        "edited_unixtime": "1692303039",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 524,
+        "text": [
+            "Это точно 👍 Думаю, можно такое размещать в темах отдельных ",
+            {
+                "type": "text_link",
+                "text": "волостей",
+                "href": "https://t.me/orsha_uezd/4/57"
+            },
+            ", чтобы легче потом было найти.\n\nКто не хочет в открытую делиться, напишите хотя бы, что у вас есть. Как это сделал ",
+            {
+                "type": "text_link",
+                "text": "Артур Голованов",
+                "href": "https://t.me/orsha_uezd/1/320"
+            },
+            ", например.\n(Только не в этой теме, пожалуйста 😅 Здесь только файлы и ссылки)"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это точно 👍 Думаю, можно такое размещать в темах отдельных "
+            },
+            {
+                "type": "text_link",
+                "text": "волостей",
+                "href": "https://t.me/orsha_uezd/4/57"
+            },
+            {
+                "type": "plain",
+                "text": ", чтобы легче потом было найти.\n\nКто не хочет в открытую делиться, напишите хотя бы, что у вас есть. Как это сделал "
+            },
+            {
+                "type": "text_link",
+                "text": "Артур Голованов",
+                "href": "https://t.me/orsha_uezd/1/320"
+            },
+            {
+                "type": "plain",
+                "text": ", например.\n(Только не в этой теме, пожалуйста 😅 Здесь только файлы и ссылки)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "P",
+                        "from_id": "user201810877",
+                        "date": "2023-08-18T15:47:32"
+                    },
+                    {
+                        "from": "Artur Golovanov",
+                        "from_id": "user1098899921",
+                        "date": "2023-08-17T23:10:39"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 619,
+        "type": "message",
+        "date": "2023-08-17T22:01:13",
+        "date_unixtime": "1692298873",
+        "edited": "2023-08-17T22:01:48",
+        "edited_unixtime": "1692298908",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "text": [
+            {
+                "type": "bold",
+                "text": "Грыц -"
+            },
+            " ",
+            {
+                "type": "link",
+                "text": "https://hryc.by/"
+            },
+            "\n\nНа сайте проиндексированы ",
+            {
+                "type": "text_link",
+                "text": "описи и документы",
+                "href": "https://hryc.by/Search"
+            },
+            " из множества архивов, а также ",
+            {
+                "type": "text_link",
+                "text": "газеты и журналы",
+                "href": "https://hryc.by/search/library"
+            },
+            " (например, ",
+            {
+                "type": "text_link",
+                "text": "Могилевские Губернские Ведомости",
+                "href": "https://t.me/orsha_uezd/59/260"
+            },
+            ", которые недавно ",
+            {
+                "type": "text_link",
+                "text": "были пополнены",
+                "href": "https://t.me/hryc_by/48"
+            },
+            ").\n\nИндексация пусть и не идеальная, но постоянно улучшается, в том числе благодаря волонтерам, которыми вы также можете стать. Полноценный доступ дается либо за небольшую плату, либо за участие в распознавании страниц.\n\nTelegram-канал с новостями: ",
+            {
+                "type": "mention",
+                "text": "@hryc_by"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Грыц -"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "link",
+                "text": "https://hryc.by/"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nНа сайте проиндексированы "
+            },
+            {
+                "type": "text_link",
+                "text": "описи и документы",
+                "href": "https://hryc.by/Search"
+            },
+            {
+                "type": "plain",
+                "text": " из множества архивов, а также "
+            },
+            {
+                "type": "text_link",
+                "text": "газеты и журналы",
+                "href": "https://hryc.by/search/library"
+            },
+            {
+                "type": "plain",
+                "text": " (например, "
+            },
+            {
+                "type": "text_link",
+                "text": "Могилевские Губернские Ведомости",
+                "href": "https://t.me/orsha_uezd/59/260"
+            },
+            {
+                "type": "plain",
+                "text": ", которые недавно "
+            },
+            {
+                "type": "text_link",
+                "text": "были пополнены",
+                "href": "https://t.me/hryc_by/48"
+            },
+            {
+                "type": "plain",
+                "text": ").\n\nИндексация пусть и не идеальная, но постоянно улучшается, в том числе благодаря волонтерам, которыми вы также можете стать. Полноценный доступ дается либо за небольшую плату, либо за участие в распознавании страниц.\n\nTelegram-канал с новостями: "
+            },
+            {
+                "type": "mention",
+                "text": "@hryc_by"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "P",
+                        "from_id": "user201810877",
+                        "date": "2023-12-12T17:23:43"
+                    },
+                    {
+                        "from": "Самуйлова Мария",
+                        "from_id": "user238730679",
+                        "date": "2023-08-18T04:17:25"
+                    },
+                    {
+                        "from": "Sergey Fedosenkov",
+                        "from_id": "user989610685",
+                        "date": "2023-08-17T22:01:48"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 629,
+        "type": "message",
+        "date": "2023-08-19T16:20:31",
+        "date_unixtime": "1692451231",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Рыбчонак_С_Попіс_шляхты_Аршанскага_павета_1765.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Рыбчонак С. Попіс шляхты Аршанскага павета 30 верасня 1765 г. // Герольд Litherland. Горадня-Менск. 2014. – №20. – С. 98-132",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Рыбчонак С. Попіс шляхты Аршанскага павета 30 верасня 1765 г. // Герольд Litherland. Горадня-Менск. 2014. – №20. – С. 98-132"
+            }
+        ]
+    },
+    {
+        "id": 633,
+        "type": "message",
+        "date": "2023-08-19T17:08:28",
+        "date_unixtime": "1692454108",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "МЕВ 1900-01-02_19-27.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": [
+            "Путевыя замѣтки при обозрѣніи церквей Могилевской епархіи Преосвященнѣйшимъ Мисаиломъ, Епископомъ Могилевскимъ и. Мстиславскимъ въ 1899 году - ",
+            {
+                "type": "bold",
+                "text": "Оршанскаго уѣзда"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Путевыя замѣтки при обозрѣніи церквей Могилевской епархіи Преосвященнѣйшимъ Мисаиломъ, Епископомъ Могилевскимъ и. Мстиславскимъ въ 1899 году - "
+            },
+            {
+                "type": "bold",
+                "text": "Оршанскаго уѣзда"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 634,
+        "type": "message",
+        "date": "2023-08-19T20:58:24",
+        "date_unixtime": "1692467904",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "text": [
+            {
+                "type": "bold",
+                "text": "📜 Могилевские епархиальные ведомости"
+            },
+            " (1883-1917)\n\n",
+            {
+                "type": "bold",
+                "text": "Скачать"
+            },
+            ": ",
+            {
+                "type": "link",
+                "text": "https://pravoslavnoe-duhovenstvo.ru/library/material/8698/"
+            },
+            "\n\nЕженедельное издание Могилевской православной духовной семинарии.\nВ официальном отделе печатались постановления и распоряжения правительства и местных властей по церковным делам, решения и отчеты Синода, объявления и распоряжения консистории.\nВ неофициальной части помещались материалы церковно-исторического характера."
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "📜 Могилевские епархиальные ведомости"
+            },
+            {
+                "type": "plain",
+                "text": " (1883-1917)\n\n"
+            },
+            {
+                "type": "bold",
+                "text": "Скачать"
+            },
+            {
+                "type": "plain",
+                "text": ": "
+            },
+            {
+                "type": "link",
+                "text": "https://pravoslavnoe-duhovenstvo.ru/library/material/8698/"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nЕженедельное издание Могилевской православной духовной семинарии.\nВ официальном отделе печатались постановления и распоряжения правительства и местных властей по церковным делам, решения и отчеты Синода, объявления и распоряжения консистории.\nВ неофициальной части помещались материалы церковно-исторического характера."
+            }
+        ]
+    },
+    {
+        "id": 701,
+        "type": "message",
+        "date": "2023-08-30T03:27:25",
+        "date_unixtime": "1693355245",
+        "edited": "2023-08-30T03:28:23",
+        "edited_unixtime": "1693355303",
+        "from": "Sergey Fedosenkov",
+        "from_id": "user989610685",
+        "reply_to_message_id": 59,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "Всем доброго дня! Наведался в библиотеку FamilySearch, на разведку, так сказать. Таким должен быть каждый архив России и постсоветского пространства, они конечно круты!\n\nКороче, если видите что-то на сайте из литературы, но нет отсканированного, а доступно в библиотеке (там об этом пишется) - выписывайте номера пленок и фильмов, присылайте мне, по возможности буду заглядывать. Безвозмездно!)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Всем доброго дня! Наведался в библиотеку FamilySearch, на разведку, так сказать. Таким должен быть каждый архив России и постсоветского пространства, они конечно круты!\n\nКороче, если видите что-то на сайте из литературы, но нет отсканированного, а доступно в библиотеке (там об этом пишется) - выписывайте номера пленок и фильмов, присылайте мне, по возможности буду заглядывать. Безвозмездно!)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 18,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Helena Pozharitckaia",
+                        "from_id": "user956631283",
+                        "date": "2023-12-09T23:32:28"
+                    },
+                    {
+                        "from": "Darya",
+                        "from_id": "user1380251243",
+                        "date": "2023-11-12T13:14:19"
+                    },
+                    {
+                        "from": "LP2023",
+                        "from_id": "user6028189882",
+                        "date": "2023-11-08T06:40:43"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 702,
+        "type": "message",
+        "date": "2023-08-30T03:27:26",
+        "date_unixtime": "1693355246",
+        "from": "Sergey Fedosenkov",
+        "from_id": "user989610685",
+        "reply_to_message_id": 59,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 703,
+        "type": "message",
+        "date": "2023-08-30T03:27:26",
+        "date_unixtime": "1693355246",
+        "from": "Sergey Fedosenkov",
+        "from_id": "user989610685",
+        "reply_to_message_id": 59,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 704,
+        "type": "message",
+        "date": "2023-08-30T03:27:27",
+        "date_unixtime": "1693355247",
+        "from": "Sergey Fedosenkov",
+        "from_id": "user989610685",
+        "reply_to_message_id": 59,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 708,
+        "type": "message",
+        "date": "2023-08-31T02:30:39",
+        "date_unixtime": "1693438239",
+        "from": "Pani Walewska",
+        "from_id": "user885519411",
+        "reply_to_message_id": 701,
+        "text": "Как здорово!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Как здорово!"
+            }
+        ]
+    },
+    {
+        "id": 811,
+        "type": "message",
+        "date": "2023-09-21T21:52:40",
+        "date_unixtime": "1695322360",
+        "edited": "2023-09-21T21:52:53",
+        "edited_unixtime": "1695322373",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Зьміцер_Дзядзенка_Аршанская_шляхта_Менск,_1996.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            "Зьміцер Дзядзенка - Аршанская шляхта (Менск, 1996)\n\nГісторыя шляхты - ваенна-служылага стану земляў Беларусі, Польшчы, Украіны - уяўляе сабою вайсковы летапіс Вялікага княства Літоўскага, Кароны Польскай і іх канфэдэрацыі - Рэчы Паспалітай. Паколькі асноўным абавязкам шляхціча была абарона краіны, то ня дзіўна, што вялікая колькасьць прадстаўнікоў гэтага стану жыла на памежных землях дэяржавы. Ня стала выключэньнем і Аршаншчына, якая ў XVI стагоддзі ператварылася з глыбінкі ў памежжа Вялікага княства Літоўскага і Маскоўскай дзяржавы.\n\n",
+            {
+                "type": "mention",
+                "text": "@orsha_uezd"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Зьміцер Дзядзенка - Аршанская шляхта (Менск, 1996)\n\nГісторыя шляхты - ваенна-служылага стану земляў Беларусі, Польшчы, Украіны - уяўляе сабою вайсковы летапіс Вялікага княства Літоўскага, Кароны Польскай і іх канфэдэрацыі - Рэчы Паспалітай. Паколькі асноўным абавязкам шляхціча была абарона краіны, то ня дзіўна, што вялікая колькасьць прадстаўнікоў гэтага стану жыла на памежных землях дэяржавы. Ня стала выключэньнем і Аршаншчына, якая ў XVI стагоддзі ператварылася з глыбінкі ў памежжа Вялікага княства Літоўскага і Маскоўскай дзяржавы.\n\n"
+            },
+            {
+                "type": "mention",
+                "text": "@orsha_uezd"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 814,
+        "type": "message",
+        "date": "2023-09-21T22:05:17",
+        "date_unixtime": "1695323117",
+        "edited": "2023-09-21T23:13:28",
+        "edited_unixtime": "1695327208",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "text": [
+            "Также есть такая книга: ",
+            {
+                "type": "link",
+                "text": "http://www.arhisan.com/knigi/331-shlyakhta-orshanskogo-poveta"
+            },
+            "\n\nАнищенко, Е.К. - Шляхта Оршанского повета: Список XVIII ст (2015)\n\n",
+            {
+                "type": "italic",
+                "text": "Впервые белорусским ученым на основе выписок из книг земских и гродских судов, которые хранятся в Национальном историческом архиве Беларуси, приводятся данные о времени жизни, браках, потомстве и владении имениями шляхтичей Оршанского повета ВКЛ в XVIII столетии. Кроме того в приложении даны списки всех жителей повета в рассматриваемое время. Эти данные - прекрасный материал для краеведения и отправная точка для детального исследования генеалогии упомянутых в списках родов.\n\n"
+            },
+            "Но ее уже нигде не приобрести, похоже.\nИ вроде бы всех упомянутых лиц можно найти в ",
+            {
+                "type": "text_link",
+                "text": "Рыбчонак С. - Попіс шляхты Аршанскага павета",
+                "href": "https://t.me/orsha_uezd/59/629"
+            },
+            " (на языке оригинала).\nТакже не забудьте про ",
+            {
+                "type": "text_link",
+                "text": "Оршанский гербовник",
+                "href": "https://t.me/orsha_uezd/59/246"
+            },
+            "."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Также есть такая книга: "
+            },
+            {
+                "type": "link",
+                "text": "http://www.arhisan.com/knigi/331-shlyakhta-orshanskogo-poveta"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nАнищенко, Е.К. - Шляхта Оршанского повета: Список XVIII ст (2015)\n\n"
+            },
+            {
+                "type": "italic",
+                "text": "Впервые белорусским ученым на основе выписок из книг земских и гродских судов, которые хранятся в Национальном историческом архиве Беларуси, приводятся данные о времени жизни, браках, потомстве и владении имениями шляхтичей Оршанского повета ВКЛ в XVIII столетии. Кроме того в приложении даны списки всех жителей повета в рассматриваемое время. Эти данные - прекрасный материал для краеведения и отправная точка для детального исследования генеалогии упомянутых в списках родов.\n\n"
+            },
+            {
+                "type": "plain",
+                "text": "Но ее уже нигде не приобрести, похоже.\nИ вроде бы всех упомянутых лиц можно найти в "
+            },
+            {
+                "type": "text_link",
+                "text": "Рыбчонак С. - Попіс шляхты Аршанскага павета",
+                "href": "https://t.me/orsha_uezd/59/629"
+            },
+            {
+                "type": "plain",
+                "text": " (на языке оригинала).\nТакже не забудьте про "
+            },
+            {
+                "type": "text_link",
+                "text": "Оршанский гербовник",
+                "href": "https://t.me/orsha_uezd/59/246"
+            },
+            {
+                "type": "plain",
+                "text": "."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Antikom",
+                        "from_id": "user305556701",
+                        "date": "2023-09-21T23:13:28"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 816,
+        "type": "message",
+        "date": "2023-09-21T23:13:38",
+        "date_unixtime": "1695327218",
+        "edited": "2023-09-21T23:14:48",
+        "edited_unixtime": "1695327288",
+        "from": "Antikom",
+        "from_id": "user305556701",
+        "reply_to_message_id": 59,
+        "text": [
+            {
+                "type": "link",
+                "text": "http://www.arhisan.com/biografiya/zhizn/260-spisok-zhitelej-bryantsevo-belevo-khaminichi-1926-g"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "http://www.arhisan.com/biografiya/zhizn/260-spisok-zhitelej-bryantsevo-belevo-khaminichi-1926-g"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2023-09-21T23:14:48"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 862,
+        "type": "message",
+        "date": "2023-10-05T17:29:06",
+        "date_unixtime": "1696516146",
+        "edited": "2024-01-19T15:35:46",
+        "edited_unixtime": "1705667746",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Яндекс Поиск по архивам",
+        "reply_to_message_id": 59,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1066,
+        "height": 1280,
+        "text": [
+            {
+                "type": "bold",
+                "text": "66 тысяч выпусков, 3 миллиона страниц "
+            },
+            "— полный архив “Епархиальных ведомостей” теперь доступен для полнотекстового поиска на нашем сервисе. Подшивки журнала из 59 епархий от Архангельска до Владивостока помогут вам познакомиться с жизнью Церкви и общества в Российской империи с 1860 по 1919 год, а также найти новые сведения о своих предках!\n\nСмотрите карточки и узнавайте, почему “Епархиальные ведомости” стоит изучить не только потомкам священнослужителей, но и всякому любителю истории 👀\n\nЗамечания и предложения присылайте в наш ",
+            {
+                "type": "text_link",
+                "text": "бот",
+                "href": "https://t.me/YandexArchivesSupportBot"
+            },
+            "."
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "66 тысяч выпусков, 3 миллиона страниц "
+            },
+            {
+                "type": "plain",
+                "text": "— полный архив “Епархиальных ведомостей” теперь доступен для полнотекстового поиска на нашем сервисе. Подшивки журнала из 59 епархий от Архангельска до Владивостока помогут вам познакомиться с жизнью Церкви и общества в Российской империи с 1860 по 1919 год, а также найти новые сведения о своих предках!\n\nСмотрите карточки и узнавайте, почему “Епархиальные ведомости” стоит изучить не только потомкам священнослужителей, но и всякому любителю истории 👀\n\nЗамечания и предложения присылайте в наш "
+            },
+            {
+                "type": "text_link",
+                "text": "бот",
+                "href": "https://t.me/YandexArchivesSupportBot"
+            },
+            {
+                "type": "plain",
+                "text": "."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "P",
+                        "from_id": "user201810877",
+                        "date": "2024-01-19T15:35:46"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 863,
+        "type": "message",
+        "date": "2023-10-05T17:29:06",
+        "date_unixtime": "1696516146",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Яндекс Поиск по архивам",
+        "reply_to_message_id": 59,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1066,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 864,
+        "type": "message",
+        "date": "2023-10-05T17:29:06",
+        "date_unixtime": "1696516146",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Яндекс Поиск по архивам",
+        "reply_to_message_id": 59,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1066,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 865,
+        "type": "message",
+        "date": "2023-10-05T17:29:06",
+        "date_unixtime": "1696516146",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Яндекс Поиск по архивам",
+        "reply_to_message_id": 59,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1066,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 866,
+        "type": "message",
+        "date": "2023-10-05T17:29:06",
+        "date_unixtime": "1696516146",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Яндекс Поиск по архивам",
+        "reply_to_message_id": 59,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1066,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 867,
+        "type": "message",
+        "date": "2023-10-05T17:29:06",
+        "date_unixtime": "1696516146",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Яндекс Поиск по архивам",
+        "reply_to_message_id": 59,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1066,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 868,
+        "type": "message",
+        "date": "2023-10-05T17:29:40",
+        "date_unixtime": "1696516180",
+        "edited": "2024-01-19T15:35:43",
+        "edited_unixtime": "1705667743",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "text": [
+            "Поиск по ",
+            {
+                "type": "bold",
+                "text": "Могилевским епархиальным ведомостям"
+            },
+            " от Яндекса: ",
+            {
+                "type": "link",
+                "text": "https://yandex.ru/archive/catalog/d27025fe-2efe-4e9c-aef7-f2a22944e52e/years"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Поиск по "
+            },
+            {
+                "type": "bold",
+                "text": "Могилевским епархиальным ведомостям"
+            },
+            {
+                "type": "plain",
+                "text": " от Яндекса: "
+            },
+            {
+                "type": "link",
+                "text": "https://yandex.ru/archive/catalog/d27025fe-2efe-4e9c-aef7-f2a22944e52e/years"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user1515478552",
+                        "date": "2024-01-26T20:47:01"
+                    },
+                    {
+                        "from": "P",
+                        "from_id": "user201810877",
+                        "date": "2024-01-19T15:35:43"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 993,
+        "type": "message",
+        "date": "2023-11-07T19:21:26",
+        "date_unixtime": "1699374086",
+        "edited": "2023-11-12T13:22:02",
+        "edited_unixtime": "1699784522",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 59,
+        "text": [
+            {
+                "type": "text_link",
+                "text": "Отдел рукописей Российской национальной библиотеки. Ф. 1592 (Дорожинские В.В. и Н.В.), 13 ед.хр.; 1889-1915 гг.",
+                "href": "https://nlr.ru/manuscripts/dep/img/manuscripts/Opisi/1592.pdf"
+            },
+            "\n",
+            {
+                "type": "italic",
+                "text": "Дорожинские Владимир Владимирович и Николай Владимирович, землевладельцы Оршанского уезда Могилевской губернии."
+            },
+            "\n\n13 документов представляют собой фрагмент семейного архива. Большую часть составляют договора на аренду участков земли крестьянами и мещанами Оршанского уезда. В фонде находятся документы имущественного характера: 1) Договора на аренду участка земли между помещиками В. В. и Н. В. Дорожинскими и оршанскими мещанами Ширкевичами; 2) план земельного владения в Оршанском уезде Могилевской губ.; 3) «Арендные условия»; 4) «Подписка» крестьян Н. В. Дорожинскому с обязательством уплатить за использование лугов для пастьбы скота и лошадей; 5) Договор об аренде участка земли между помещиком Н. В. Дорожинским и крестьянином К. А. Рыжиковым; 6) списки арендаторов земли с указанием стоимости аренды; 7) Договора на аренду земли у Н. В. Дорожинского: 8) Акт об описании и оценке движимого и недвижимого имущества в имении жены сенатора «В. А. Д.» Зосно в Режицком уезде Витебской губернии; 9) Описание и оценка движимого и недвижимого имущества в имении Н. В. Дорожинского Козечки в Оршанском уезде Могилевской губернии."
+        ],
+        "text_entities": [
+            {
+                "type": "text_link",
+                "text": "Отдел рукописей Российской национальной библиотеки. Ф. 1592 (Дорожинские В.В. и Н.В.), 13 ед.хр.; 1889-1915 гг.",
+                "href": "https://nlr.ru/manuscripts/dep/img/manuscripts/Opisi/1592.pdf"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "italic",
+                "text": "Дорожинские Владимир Владимирович и Николай Владимирович, землевладельцы Оршанского уезда Могилевской губернии."
+            },
+            {
+                "type": "plain",
+                "text": "\n\n13 документов представляют собой фрагмент семейного архива. Большую часть составляют договора на аренду участков земли крестьянами и мещанами Оршанского уезда. В фонде находятся документы имущественного характера: 1) Договора на аренду участка земли между помещиками В. В. и Н. В. Дорожинскими и оршанскими мещанами Ширкевичами; 2) план земельного владения в Оршанском уезде Могилевской губ.; 3) «Арендные условия»; 4) «Подписка» крестьян Н. В. Дорожинскому с обязательством уплатить за использование лугов для пастьбы скота и лошадей; 5) Договор об аренде участка земли между помещиком Н. В. Дорожинским и крестьянином К. А. Рыжиковым; 6) списки арендаторов земли с указанием стоимости аренды; 7) Договора на аренду земли у Н. В. Дорожинского: 8) Акт об описании и оценке движимого и недвижимого имущества в имении жены сенатора «В. А. Д.» Зосно в Режицком уезде Витебской губернии; 9) Описание и оценка движимого и недвижимого имущества в имении Н. В. Дорожинского Козечки в Оршанском уезде Могилевской губернии."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Darya",
+                        "from_id": "user1380251243",
+                        "date": "2023-11-12T13:22:02"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1115,
+        "type": "message",
+        "date": "2023-12-09T23:06:27",
+        "date_unixtime": "1702152387",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 249,
+        "text": [
+            "Выделю отсюда отдельно:\n- Орша и Оршанский район ",
+            {
+                "type": "link",
+                "text": "https://disk.yandex.by/d/9jE1nBANKF8v0g/NARB_1569_1_51"
+            },
+            "\n\nНАРБ ф. 1569 оп. 1 д. 51"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Выделю отсюда отдельно:\n- Орша и Оршанский район "
+            },
+            {
+                "type": "link",
+                "text": "https://disk.yandex.by/d/9jE1nBANKF8v0g/NARB_1569_1_51"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nНАРБ ф. 1569 оп. 1 д. 51"
+            }
+        ]
+    },
+    {
+        "id": 1124,
+        "type": "message",
+        "date": "2023-12-10T15:18:58",
+        "date_unixtime": "1702210738",
+        "from": "Oksana Amirkhanova",
+        "from_id": "user5190815920",
+        "reply_to_message_id": 993,
+        "text": "А сами документы где-то в открытом доступе есть?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А сами документы где-то в открытом доступе есть?"
+            }
+        ]
+    },
+    {
+        "id": 1125,
+        "type": "message",
+        "date": "2023-12-10T17:17:36",
+        "date_unixtime": "1702217856",
+        "edited": "2023-12-10T17:29:11",
+        "edited_unixtime": "1702218551",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 1124,
+        "text": "Неа. У них с этим туго",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Неа. У них с этим туго"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😐",
+                "recent": [
+                    {
+                        "from": "Oksana Amirkhanova",
+                        "from_id": "user5190815920",
+                        "date": "2023-12-10T17:29:11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1251,
+        "type": "message",
+        "date": "2024-01-25T23:29:04",
+        "date_unixtime": "1706214544",
+        "edited": "2024-01-25T23:35:36",
+        "edited_unixtime": "1706214936",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "text": [
+            "Благодаря 27 спонсорам и работе Николая Курпана, появились оцифрованные документы ",
+            {
+                "type": "bold",
+                "text": "Крестьянского поземельного банка"
+            },
+            " по Оршанскому уезду 🎉 \n\nСсылка на архив: ",
+            {
+                "type": "link",
+                "text": "https://t.me/bykpb/56/3029"
+            },
+            "\nИли в облаке: ",
+            {
+                "type": "link",
+                "text": "https://cloud.mail.ru/public/afvE/GqYvjCUe1"
+            },
+            "\n\n- ",
+            {
+                "type": "text_link",
+                "text": "Описание фонда и список губерний/уездов\n",
+                "href": "https://gen.kurpan.ru/krestyanskij-pozemelnyj-bank-rgia-f-592/"
+            },
+            "- ",
+            {
+                "type": "text_link",
+                "text": "Какие сведения можно найти в делах КПБ\n\n",
+                "href": "https://gen.kurpan.ru/genealogicheskie-i-biograficheskie-svedeniya-v-fonde-krestyanskogo-pozemelnogo-banka-v-rgia-f-592/"
+            },
+            "Также жители Оршанщины могли покупать земли и в ",
+            {
+                "type": "text_link",
+                "text": "других уездах",
+                "href": "https://t.me/bykpb/1/443"
+            },
+            ".\nПримеры таких случаев по всем губерниям: ",
+            {
+                "type": "text_link",
+                "text": "один",
+                "href": "https://t.me/bykpb/1/2014"
+            },
+            ", ",
+            {
+                "type": "text_link",
+                "text": "два",
+                "href": "https://t.me/bykpb/40/2724"
+            },
+            ", ",
+            {
+                "type": "text_link",
+                "text": "три",
+                "href": "https://t.me/bykpb/52/1938"
+            },
+            ".\nНаверное, нам имеет смысл искать также в Сенненском, Могилевском и Горецком (когда его опубликуют)."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Благодаря 27 спонсорам и работе Николая Курпана, появились оцифрованные документы "
+            },
+            {
+                "type": "bold",
+                "text": "Крестьянского поземельного банка"
+            },
+            {
+                "type": "plain",
+                "text": " по Оршанскому уезду 🎉 \n\nСсылка на архив: "
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/bykpb/56/3029"
+            },
+            {
+                "type": "plain",
+                "text": "\nИли в облаке: "
+            },
+            {
+                "type": "link",
+                "text": "https://cloud.mail.ru/public/afvE/GqYvjCUe1"
+            },
+            {
+                "type": "plain",
+                "text": "\n\n- "
+            },
+            {
+                "type": "text_link",
+                "text": "Описание фонда и список губерний/уездов\n",
+                "href": "https://gen.kurpan.ru/krestyanskij-pozemelnyj-bank-rgia-f-592/"
+            },
+            {
+                "type": "plain",
+                "text": "- "
+            },
+            {
+                "type": "text_link",
+                "text": "Какие сведения можно найти в делах КПБ\n\n",
+                "href": "https://gen.kurpan.ru/genealogicheskie-i-biograficheskie-svedeniya-v-fonde-krestyanskogo-pozemelnogo-banka-v-rgia-f-592/"
+            },
+            {
+                "type": "plain",
+                "text": "Также жители Оршанщины могли покупать земли и в "
+            },
+            {
+                "type": "text_link",
+                "text": "других уездах",
+                "href": "https://t.me/bykpb/1/443"
+            },
+            {
+                "type": "plain",
+                "text": ".\nПримеры таких случаев по всем губерниям: "
+            },
+            {
+                "type": "text_link",
+                "text": "один",
+                "href": "https://t.me/bykpb/1/2014"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "два",
+                "href": "https://t.me/bykpb/40/2724"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "три",
+                "href": "https://t.me/bykpb/52/1938"
+            },
+            {
+                "type": "plain",
+                "text": ".\nНаверное, нам имеет смысл искать также в Сенненском, Могилевском и Горецком (когда его опубликуют)."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Yuliya Nikolaeva",
+                        "from_id": "user684046032",
+                        "date": "2024-03-18T16:33:36"
+                    },
+                    {
+                        "from": "Алеся",
+                        "from_id": "user5126250394",
+                        "date": "2024-02-10T23:42:26"
+                    },
+                    {
+                        "from": "Ludmila Mili",
+                        "from_id": "user1069086078",
+                        "date": "2024-01-29T17:11:16"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤"
+            }
+        ]
+    },
+    {
+        "id": 1470,
+        "type": "message",
+        "date": "2024-04-25T16:59:41",
+        "date_unixtime": "1714053581",
+        "edited": "2024-04-25T18:04:14",
+        "edited_unixtime": "1714057454",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "De facto. Беларуская навука",
+        "reply_to_message_id": 59,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 931,
+        "height": 1280,
+        "text": [
+            "Новае выданне Інстытута гісторыі па рэгіянальнай гісторыі - зборнік \"",
+            {
+                "type": "bold",
+                "text": "Талачынскі край: гісторыка-культурная спадчына рэгіёна"
+            },
+            "\""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Новае выданне Інстытута гісторыі па рэгіянальнай гісторыі - зборнік \""
+            },
+            {
+                "type": "bold",
+                "text": "Талачынскі край: гісторыка-культурная спадчына рэгіёна"
+            },
+            {
+                "type": "plain",
+                "text": "\""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2024-04-25T21:36:43"
+                    },
+                    {
+                        "from": "Алеся",
+                        "from_id": "user5126250394",
+                        "date": "2024-04-25T19:50:47"
+                    },
+                    {
+                        "from": "Kseniya Mikhailovna",
+                        "from_id": "user1133116761",
+                        "date": "2024-04-25T18:35:42"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1471,
+        "type": "message",
+        "date": "2024-04-25T16:59:41",
+        "date_unixtime": "1714053581",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "De facto. Беларуская навука",
+        "reply_to_message_id": 59,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 870,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1472,
+        "type": "message",
+        "date": "2024-04-25T16:59:42",
+        "date_unixtime": "1714053582",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "De facto. Беларуская навука",
+        "reply_to_message_id": 59,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 870,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1473,
+        "type": "message",
+        "date": "2024-04-25T16:59:42",
+        "date_unixtime": "1714053582",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "De facto. Беларуская навука",
+        "reply_to_message_id": 59,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 870,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1474,
+        "type": "message",
+        "date": "2024-04-25T16:59:42",
+        "date_unixtime": "1714053582",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "De facto. Беларуская навука",
+        "reply_to_message_id": 59,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 884,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1489,
+        "type": "message",
+        "date": "2024-05-03T21:28:07",
+        "date_unixtime": "1714760887",
+        "edited": "2024-05-04T15:33:29",
+        "edited_unixtime": "1714826009",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 745,
+        "height": 1024,
+        "text": [
+            {
+                "type": "bold",
+                "text": "Шляхта Оршанского повета"
+            },
+            ": список XVIII ст. \nЕвгений Анищенко, Минск, В. Хурсик, 2015 г., 320 с.\n\nВ издании приведены:\n- список выводов (дел «О дворянстве») в 18 веке\n- список шляхтичей, составленный на основе выписок из книг земских и городских судов XVIII столетия, включающий около 3500 лиц\n- список шляхтичей, участвовавших в сеймике 1764 г.\n- генеральная перепись шляхты, составленная в 1765 г.\n- список шляхтичей, участвовавших в сеймике 1766 г.\n- список шляхтичей, участвовавших в сеймике 1782 г.\n- список имений и владельцев-шляхтичей по церковным приходам (парафиям), составленный в 1775 г.\n- общий список имений в алфавите названий и владельцев-шляхтичей 1703-1795 гг.\n- список жителей повета, преимущественно, крестьян"
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Шляхта Оршанского повета"
+            },
+            {
+                "type": "plain",
+                "text": ": список XVIII ст. \nЕвгений Анищенко, Минск, В. Хурсик, 2015 г., 320 с.\n\nВ издании приведены:\n- список выводов (дел «О дворянстве») в 18 веке\n- список шляхтичей, составленный на основе выписок из книг земских и городских судов XVIII столетия, включающий около 3500 лиц\n- список шляхтичей, участвовавших в сеймике 1764 г.\n- генеральная перепись шляхты, составленная в 1765 г.\n- список шляхтичей, участвовавших в сеймике 1766 г.\n- список шляхтичей, участвовавших в сеймике 1782 г.\n- список имений и владельцев-шляхтичей по церковным приходам (парафиям), составленный в 1775 г.\n- общий список имений в алфавите названий и владельцев-шляхтичей 1703-1795 гг.\n- список жителей повета, преимущественно, крестьян"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Vital'",
+                        "from_id": "user292953215",
+                        "date": "2024-05-04T12:42:46"
+                    },
+                    {
+                        "from": "N.Y.",
+                        "from_id": "user1841363435",
+                        "date": "2024-05-03T21:33:49"
+                    },
+                    {
+                        "from": "Jalozin",
+                        "from_id": "user1314863059",
+                        "date": "2024-05-03T21:28:25"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1492,
+        "type": "message",
+        "date": "2024-05-03T21:32:51",
+        "date_unixtime": "1714761171",
+        "edited": "2024-05-03T21:49:33",
+        "edited_unixtime": "1714762173",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "98888_original.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 2080,
+        "height": 1647,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Алеся",
+                        "from_id": "user5126250394",
+                        "date": "2024-05-04T08:39:38"
+                    },
+                    {
+                        "from": "N.Y.",
+                        "from_id": "user1841363435",
+                        "date": "2024-05-03T21:33:56"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1502,
+        "type": "message",
+        "date": "2024-05-04T15:21:14",
+        "date_unixtime": "1714825274",
+        "edited": "2024-05-04T18:49:01",
+        "edited_unixtime": "1714837741",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Анищенко_Е_Шляхта_Оршанского_повета_Список_XVIII_ст_.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            "Анищенко, Е.К. ",
+            {
+                "type": "bold",
+                "text": "Шляхта Оршанского повета"
+            },
+            ": список XVIII ст. / Минск : В. Хурсик, 2015. – 324 с.\n\nПолная книга (",
+            {
+                "type": "text_link",
+                "text": "описание",
+                "href": "https://t.me/orsha_uezd/59/1489"
+            },
+            ")\nСпасибо ",
+            {
+                "type": "mention",
+                "text": "@Jalozin"
+            },
+            "\nГруппа: ",
+            {
+                "type": "mention",
+                "text": "@orsha_uezd"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Анищенко, Е.К. "
+            },
+            {
+                "type": "bold",
+                "text": "Шляхта Оршанского повета"
+            },
+            {
+                "type": "plain",
+                "text": ": список XVIII ст. / Минск : В. Хурсик, 2015. – 324 с.\n\nПолная книга ("
+            },
+            {
+                "type": "text_link",
+                "text": "описание",
+                "href": "https://t.me/orsha_uezd/59/1489"
+            },
+            {
+                "type": "plain",
+                "text": ")\nСпасибо "
+            },
+            {
+                "type": "mention",
+                "text": "@Jalozin"
+            },
+            {
+                "type": "plain",
+                "text": "\nГруппа: "
+            },
+            {
+                "type": "mention",
+                "text": "@orsha_uezd"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Antikom",
+                        "from_id": "user305556701",
+                        "date": "2024-05-08T10:56:40"
+                    },
+                    {
+                        "from": "Snowyblack",
+                        "from_id": "user1991929657",
+                        "date": "2024-05-04T17:48:29"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "N.Y.",
+                        "from_id": "user1841363435",
+                        "date": "2024-05-06T15:48:55"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1543,
+        "type": "message",
+        "date": "2024-05-15T14:07:01",
+        "date_unixtime": "1715771221",
+        "edited": "2024-05-15T15:37:24",
+        "edited_unixtime": "1715776644",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "земские урядники.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Земские урядники Оршанского повета Витебского воеводства во второй половине XVI ― первой половине XVII века \n. \nВиталий Голубович\n.\nГістарычна-археалагічны зборнік / Нацыянальная акадэмія навук Беларусі, Інстытут гісторыі. — 2023. ― Вып. 37. ― С. 92―103",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Земские урядники Оршанского повета Витебского воеводства во второй половине XVI ― первой половине XVII века \n. \nВиталий Голубович\n.\nГістарычна-археалагічны зборнік / Нацыянальная акадэмія навук Беларусі, Інстытут гісторыі. — 2023. ― Вып. 37. ― С. 92―103"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2024-05-15T15:37:24"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1544,
+        "type": "message",
+        "date": "2024-05-15T14:59:33",
+        "date_unixtime": "1715774373",
+        "edited": "2024-05-15T15:37:25",
+        "edited_unixtime": "1715776645",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "магнацкае.pdf",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "application/pdf",
+        "text": "Буйное магнацкае і дзяржаўнае землеўладанне ў Аршанскім павеце ў канцы XVII ― пачатку XVIII ст. \n.\nД. В. Віцько // Труды Белорусского государственного технологического университета. — 2007. ― Вып. 15. ― С. 120―124",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Буйное магнацкае і дзяржаўнае землеўладанне ў Аршанскім павеце ў канцы XVII ― пачатку XVIII ст. \n.\nД. В. Віцько // Труды Белорусского государственного технологического университета. — 2007. ― Вып. 15. ― С. 120―124"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Kseniya Mikhailovna",
+                        "from_id": "user1133116761",
+                        "date": "2024-05-17T06:05:25"
+                    },
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2024-05-15T15:37:25"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1610,
+        "type": "message",
+        "date": "2024-05-28T15:43:00",
+        "date_unixtime": "1716900180",
+        "edited": "2024-05-28T16:06:49",
+        "edited_unixtime": "1716901609",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Inwentarz князей Любомирских 1795.rar",
+        "mime_type": "application/rar",
+        "text": "Внутренняя опись н/п из\nРС Оршанского повета в архиве князей Любомирских (НИАБ ф.3258 оп.1 д.38, 527л.)\n\nНо это не ревизия уезда. \nА инвентарь сёл, принадлежавших Любомирским",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Внутренняя опись н/п из\nРС Оршанского повета в архиве князей Любомирских (НИАБ ф.3258 оп.1 д.38, 527л.)\n\nНо это не ревизия уезда. \nА инвентарь сёл, принадлежавших Любомирским"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Darya",
+                        "from_id": "user1380251243",
+                        "date": "2024-06-09T22:09:39"
+                    },
+                    {
+                        "from": "Маргарита",
+                        "from_id": "user466128954",
+                        "date": "2024-05-28T16:02:23"
+                    },
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2024-05-28T16:01:00"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1612,
+        "type": "message",
+        "date": "2024-05-28T17:17:33",
+        "date_unixtime": "1716905853",
+        "edited": "2024-05-28T17:22:54",
+        "edited_unixtime": "1716906174",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "НИАБ_РС Оршанского уезда.xls",
+        "mime_type": "application/vnd.ms-excel",
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Darya",
+                        "from_id": "user1380251243",
+                        "date": "2024-06-09T22:09:41"
+                    },
+                    {
+                        "from": "Eugene",
+                        "from_id": "user387163053",
+                        "date": "2024-05-28T17:33:51"
+                    },
+                    {
+                        "from": "Алеся",
+                        "from_id": "user5126250394",
+                        "date": "2024-05-28T17:24:09"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1654,
+        "type": "message",
+        "date": "2024-06-03T00:28:54",
+        "date_unixtime": "1717363734",
+        "edited": "2024-06-06T23:03:27",
+        "edited_unixtime": "1717704207",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "text": [
+            "Памяць: гісторыка-дакументальная хроніка Талачынскага раёна / Мінск: БелСЭ, 1988. - 654 c.\n",
+            {
+                "type": "bold",
+                "text": "Память"
+            },
+            ": ",
+            {
+                "type": "bold",
+                "text": "Толочинский"
+            },
+            " район\n\nВся книга, две версии на выбор:\n1-й файл (меньше) - со сжатием ",
+            {
+                "type": "text_link",
+                "text": "MRC",
+                "href": "https://t.me/uezdy/35187/84795"
+            },
+            " и сглаживанием PreciseScan, без цветных вставок на весь лист (картины и фото)\n2-й файл (больше) - без MRC и сглаживания, с цветными вставками, качество 55%\n\nВ обоих файлах есть OCR-слой для поиска по тексту. Распознано в FineReader 16.\nПодробнее про сканирование: ",
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy/35187/84793"
+            },
+            "\n\nГруппа: ",
+            {
+                "type": "mention",
+                "text": "@orsha_uezd"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Памяць: гісторыка-дакументальная хроніка Талачынскага раёна / Мінск: БелСЭ, 1988. - 654 c.\n"
+            },
+            {
+                "type": "bold",
+                "text": "Память"
+            },
+            {
+                "type": "plain",
+                "text": ": "
+            },
+            {
+                "type": "bold",
+                "text": "Толочинский"
+            },
+            {
+                "type": "plain",
+                "text": " район\n\nВся книга, две версии на выбор:\n1-й файл (меньше) - со сжатием "
+            },
+            {
+                "type": "text_link",
+                "text": "MRC",
+                "href": "https://t.me/uezdy/35187/84795"
+            },
+            {
+                "type": "plain",
+                "text": " и сглаживанием PreciseScan, без цветных вставок на весь лист (картины и фото)\n2-й файл (больше) - без MRC и сглаживания, с цветными вставками, качество 55%\n\nВ обоих файлах есть OCR-слой для поиска по тексту. Распознано в FineReader 16.\nПодробнее про сканирование: "
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy/35187/84793"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nГруппа: "
+            },
+            {
+                "type": "mention",
+                "text": "@orsha_uezd"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Svetlana Kondratova",
+                        "from_id": "user253683116",
+                        "date": "2024-06-03T11:11:47"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1655,
+        "type": "message",
+        "date": "2024-06-03T00:29:24",
+        "date_unixtime": "1717363764",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Tolochinskiy_Pamyat_1988_[MRC_PrecS].pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1656,
+        "type": "message",
+        "date": "2024-06-03T00:29:24",
+        "date_unixtime": "1717363764",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Tolochinskiy_Pamyat_1988_[FR16_q55].pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1678,
+        "type": "message",
+        "date": "2024-06-06T19:21:45",
+        "date_unixtime": "1717690905",
+        "edited": "2024-06-06T19:43:29",
+        "edited_unixtime": "1717692209",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "11.1.1032_shared.zip",
+        "mime_type": "application/zip",
+        "text": "1032 Тариф еврейского поголовного по Витебскому воеводству и по г. Витебск.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "1032 Тариф еврейского поголовного по Витебскому воеводству и по г. Витебск."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2024-06-06T23:10:11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1679,
+        "type": "message",
+        "date": "2024-06-06T19:21:45",
+        "date_unixtime": "1717690905",
+        "edited": "2024-06-06T19:29:42",
+        "edited_unixtime": "1717691382",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "11.1.1028_shared.zip",
+        "mime_type": "application/zip",
+        "text": "1028 Тариф еврейского поголовного по Оршанскому повету",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "1028 Тариф еврейского поголовного по Оршанскому повету"
+            }
+        ]
+    },
+    {
+        "id": 1680,
+        "type": "message",
+        "date": "2024-06-06T19:30:21",
+        "date_unixtime": "1717691421",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 1679,
+        "reply_to_peer_id": "channel1865422225",
+        "text": "Если кто найдет тут Погост, кстати, то пишите, пожалуйста,сам не увидел его там",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Если кто найдет тут Погост, кстати, то пишите, пожалуйста,сам не увидел его там"
+            }
+        ]
+    },
+    {
+        "id": 1681,
+        "type": "message",
+        "date": "2024-06-06T23:01:22",
+        "date_unixtime": "1717704082",
+        "edited": "2024-06-07T00:01:42",
+        "edited_unixtime": "1717707702",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "text": [
+            "Памяць: Орша, Аршанскі раён: гісторыка-дакументальныя хронікі гарадоў і раёнаў Беларусі: у 2 кн. / Мінск: БелСЭ, 1999-2000. - 384 + 528 c.\n",
+            {
+                "type": "bold",
+                "text": "Память"
+            },
+            ": ",
+            {
+                "type": "bold",
+                "text": "Орша, Оршанский"
+            },
+            " район\n\nОба тома, две версии на выбор:\n1-2 файл (меньше) - со сжатием ",
+            {
+                "type": "text_link",
+                "text": "MRC",
+                "href": "https://t.me/uezdy/35187/84795"
+            },
+            " и сглаживанием PreciseScan\n3-4 файл (больше) - без MRC и сглаживания, качество 55%\n\nВо всех файлах есть OCR-слой для поиска по тексту. Распознано в FineReader 16.\nПодробнее про сканирование: ",
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy/35187/84793"
+            },
+            "\n\nГруппа: ",
+            {
+                "type": "mention",
+                "text": "@orsha_uezd"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Памяць: Орша, Аршанскі раён: гісторыка-дакументальныя хронікі гарадоў і раёнаў Беларусі: у 2 кн. / Мінск: БелСЭ, 1999-2000. - 384 + 528 c.\n"
+            },
+            {
+                "type": "bold",
+                "text": "Память"
+            },
+            {
+                "type": "plain",
+                "text": ": "
+            },
+            {
+                "type": "bold",
+                "text": "Орша, Оршанский"
+            },
+            {
+                "type": "plain",
+                "text": " район\n\nОба тома, две версии на выбор:\n1-2 файл (меньше) - со сжатием "
+            },
+            {
+                "type": "text_link",
+                "text": "MRC",
+                "href": "https://t.me/uezdy/35187/84795"
+            },
+            {
+                "type": "plain",
+                "text": " и сглаживанием PreciseScan\n3-4 файл (больше) - без MRC и сглаживания, качество 55%\n\nВо всех файлах есть OCR-слой для поиска по тексту. Распознано в FineReader 16.\nПодробнее про сканирование: "
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/uezdy/35187/84793"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nГруппа: "
+            },
+            {
+                "type": "mention",
+                "text": "@orsha_uezd"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Jalozin",
+                        "from_id": "user1314863059",
+                        "date": "2024-06-09T20:44:37"
+                    },
+                    {
+                        "from": "P",
+                        "from_id": "user201810877",
+                        "date": "2024-06-07T00:01:42"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1686,
+        "type": "message",
+        "date": "2024-06-06T23:05:55",
+        "date_unixtime": "1717704355",
+        "edited": "2024-06-07T00:01:46",
+        "edited_unixtime": "1717707706",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Orshanskiy_Tom-1_Pamyat_1999_[MRC_PrecS].pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Kseniya Mikhailovna",
+                        "from_id": "user1133116761",
+                        "date": "2024-06-10T09:10:38"
+                    },
+                    {
+                        "from": "Алеся",
+                        "from_id": "user5126250394",
+                        "date": "2024-06-08T10:26:46"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Elena",
+                        "from_id": "user1022523832",
+                        "date": "2024-06-09T16:01:40"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1687,
+        "type": "message",
+        "date": "2024-06-06T23:05:55",
+        "date_unixtime": "1717704355",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Orshanskiy_Tom-2_Pamyat_2000_[MRC_PrecS].pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1688,
+        "type": "message",
+        "date": "2024-06-06T23:05:55",
+        "date_unixtime": "1717704355",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Orshanskiy_Tom-1_Pamyat_1999_[FR16_q55].pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1689,
+        "type": "message",
+        "date": "2024-06-06T23:05:55",
+        "date_unixtime": "1717704355",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Orshanskiy_Tom-2_Pamyat_2000_[FR16_q55].pdf",
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1695,
+        "type": "message",
+        "date": "2024-06-09T15:51:10",
+        "date_unixtime": "1717937470",
+        "edited": "2024-06-09T20:42:32",
+        "edited_unixtime": "1717954952",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Garady_і_vyoskі_Tom-10-1_Vitebsk_Orsha_2018_[FR16_q55].pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            "Гарады і вёскі Беларусі / Т. 10 : Віцебская вобласць, кн.1 / Мінск: Беларуская Энцыклапедыя імя Петруся Броўкі, 2018. — 696 с.\n",
+            {
+                "type": "bold",
+                "text": "Города и деревни"
+            },
+            " Беларуси: Витебск, ",
+            {
+                "type": "bold",
+                "text": "Орша"
+            },
+            ", ",
+            {
+                "type": "bold",
+                "text": "Оршанский"
+            },
+            " район\n\nПервые 202 страницы книги + последние 6 страниц.\nЦветной вариант без MRC и сглаживания, качество 55%.\nЕсть OCR-слой для поиска, распознано в FineReader 16.\n\nПолучилось неидеально из-за толщины книги и твердого переплета. Край до конца не прижимался, поэтому смазался. Но текст вполне читаемый. По-хорошему такие книги нужно оцифровывать на книжных сканерах или путем фотографирования.\n\nГруппа: ",
+            {
+                "type": "mention",
+                "text": "@orsha_uezd"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Гарады і вёскі Беларусі / Т. 10 : Віцебская вобласць, кн.1 / Мінск: Беларуская Энцыклапедыя імя Петруся Броўкі, 2018. — 696 с.\n"
+            },
+            {
+                "type": "bold",
+                "text": "Города и деревни"
+            },
+            {
+                "type": "plain",
+                "text": " Беларуси: Витебск, "
+            },
+            {
+                "type": "bold",
+                "text": "Орша"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "bold",
+                "text": "Оршанский"
+            },
+            {
+                "type": "plain",
+                "text": " район\n\nПервые 202 страницы книги + последние 6 страниц.\nЦветной вариант без MRC и сглаживания, качество 55%.\nЕсть OCR-слой для поиска, распознано в FineReader 16.\n\nПолучилось неидеально из-за толщины книги и твердого переплета. Край до конца не прижимался, поэтому смазался. Но текст вполне читаемый. По-хорошему такие книги нужно оцифровывать на книжных сканерах или путем фотографирования.\n\nГруппа: "
+            },
+            {
+                "type": "mention",
+                "text": "@orsha_uezd"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Vital'",
+                        "from_id": "user292953215",
+                        "date": "2024-06-12T11:29:16"
+                    },
+                    {
+                        "from": "Вавёрка",
+                        "from_id": "user888801481",
+                        "date": "2024-06-10T19:47:01"
+                    },
+                    {
+                        "from": "Маргарита",
+                        "from_id": "user466128954",
+                        "date": "2024-06-10T15:46:54"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1701,
+        "type": "message",
+        "date": "2024-06-12T18:48:02",
+        "date_unixtime": "1718207282",
+        "edited": "2024-06-12T18:48:40",
+        "edited_unixtime": "1718207320",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Pravoslavnaya_tserkov_na_Vitebschine_1918_1991_Dokumenty_i_materialy.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            "Православная церковь на Витебщине (1918-1991). Документы и материалы / Коханко В.П. (сост.) / Минск: НАРБ, 2006. — 365 с.\n\nВ сборнике публикуются документы Государственного архива Витебской области и Зональных государственных архивов городов Глубокое, Орша и Полоцк, отражающие деятельность Русской православной церкви на Витебщине и государственную политику в отношении церкви в 1918-1991 годах.\n\nСборник проиллюстрирован копиями документов и фотодокументов. Большая часть документов публикуется впервые. \nКнига рассчитана на научных работников, студентов, аспирантов, краеведов, музейных работников и библиотекарей, всех, интересующихся историей церкви.\n\nГруппа: ",
+            {
+                "type": "mention",
+                "text": "@orsha_uezd"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Православная церковь на Витебщине (1918-1991). Документы и материалы / Коханко В.П. (сост.) / Минск: НАРБ, 2006. — 365 с.\n\nВ сборнике публикуются документы Государственного архива Витебской области и Зональных государственных архивов городов Глубокое, Орша и Полоцк, отражающие деятельность Русской православной церкви на Витебщине и государственную политику в отношении церкви в 1918-1991 годах.\n\nСборник проиллюстрирован копиями документов и фотодокументов. Большая часть документов публикуется впервые. \nКнига рассчитана на научных работников, студентов, аспирантов, краеведов, музейных работников и библиотекарей, всех, интересующихся историей церкви.\n\nГруппа: "
+            },
+            {
+                "type": "mention",
+                "text": "@orsha_uezd"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 1805,
+        "type": "message",
+        "date": "2024-07-03T13:22:39",
+        "date_unixtime": "1720002159",
+        "edited": "2024-07-03T13:43:51",
+        "edited_unixtime": "1720003431",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "text": [
+            "✡️ Кого интересуют ",
+            {
+                "type": "bold",
+                "text": "евреи"
+            },
+            " г. ",
+            {
+                "type": "bold",
+                "text": "Орши"
+            },
+            ", оказывается на J-Roots скооперировались и выкупили сканы ",
+            {
+                "type": "text_link",
+                "text": "всех доступных",
+                "href": "https://forum.j-roots.info/viewtopic.php?p=268315#p268315"
+            },
+            " в НИАБ книг о рождениях и смертях еврейских обществ.\n\nИ даже ",
+            {
+                "type": "text_link",
+                "text": "проиндексировали",
+                "href": "https://forum.j-roots.info/viewtopic.php?p=299031#p299031"
+            },
+            " для удобного поиска. Если найдете там интересующую фамилию, можно у ",
+            {
+                "type": "bold",
+                "text": "nata38"
+            },
+            " попросить скан всей страницы. Загружу сюда тоже эти Excel-файлы."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "✡️ Кого интересуют "
+            },
+            {
+                "type": "bold",
+                "text": "евреи"
+            },
+            {
+                "type": "plain",
+                "text": " г. "
+            },
+            {
+                "type": "bold",
+                "text": "Орши"
+            },
+            {
+                "type": "plain",
+                "text": ", оказывается на J-Roots скооперировались и выкупили сканы "
+            },
+            {
+                "type": "text_link",
+                "text": "всех доступных",
+                "href": "https://forum.j-roots.info/viewtopic.php?p=268315#p268315"
+            },
+            {
+                "type": "plain",
+                "text": " в НИАБ книг о рождениях и смертях еврейских обществ.\n\nИ даже "
+            },
+            {
+                "type": "text_link",
+                "text": "проиндексировали",
+                "href": "https://forum.j-roots.info/viewtopic.php?p=299031#p299031"
+            },
+            {
+                "type": "plain",
+                "text": " для удобного поиска. Если найдете там интересующую фамилию, можно у "
+            },
+            {
+                "type": "bold",
+                "text": "nata38"
+            },
+            {
+                "type": "plain",
+                "text": " попросить скан всей страницы. Загружу сюда тоже эти Excel-файлы."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "⚡",
+                "recent": [
+                    {
+                        "from": "Olga",
+                        "from_id": "user107677923",
+                        "date": "2024-07-03T19:01:13"
+                    },
+                    {
+                        "from": "Самуйлова Мария",
+                        "from_id": "user238730679",
+                        "date": "2024-07-03T18:11:13"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "N.Y.",
+                        "from_id": "user1841363435",
+                        "date": "2024-07-10T18:17:17"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1806,
+        "type": "message",
+        "date": "2024-07-03T13:22:40",
+        "date_unixtime": "1720002160",
+        "edited": "2024-07-21T09:17:45",
+        "edited_unixtime": "1721542665",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "All_birth_metrics_Orsha.xlsx",
+        "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user75433030",
+                        "date": "2024-07-21T09:17:45"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1807,
+        "type": "message",
+        "date": "2024-07-03T13:22:40",
+        "date_unixtime": "1720002160",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "All_death_metriks_of_Orsha.xlsx",
+        "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1907,
+        "type": "message",
+        "date": "2024-07-11T19:10:12",
+        "date_unixtime": "1720714212",
+        "edited": "2024-07-11T19:13:06",
+        "edited_unixtime": "1720714386",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 59,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://drive.google.com/drive/folders/1Qk8YYeUie5_qoFfx4eA4XqTaDCUMDxcA?usp=sharing"
+            },
+            "\n\nLVIA 11-1-634 Тарифы податей со староств Оршанского повета, принадлежавших ВКЛ. 1773"
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://drive.google.com/drive/folders/1Qk8YYeUie5_qoFfx4eA4XqTaDCUMDxcA?usp=sharing"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nLVIA 11-1-634 Тарифы податей со староств Оршанского повета, принадлежавших ВКЛ. 1773"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤‍🔥",
+                "recent": [
+                    {
+                        "from": "Ex Ample",
+                        "from_id": "user5543513851",
+                        "date": "2024-07-18T20:43:50"
+                    },
+                    {
+                        "from": "N.Y.",
+                        "from_id": "user1841363435",
+                        "date": "2024-07-11T22:12:21"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Waler",
+                        "from_id": "user5147062305",
+                        "date": "2024-07-15T23:42:00"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍"
+            }
+        ]
+    },
+    {
+        "id": 1908,
+        "type": "message",
+        "date": "2024-07-11T19:14:49",
+        "date_unixtime": "1720714489",
+        "edited": "2024-07-11T19:15:59",
+        "edited_unixtime": "1720714559",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 1907,
+        "reply_to_peer_id": "channel1865422225",
+        "text": "Вообще мне очень понравился док. Генеалогической инфы не по евреям вроде почти нет, но исторической предостаточно. А у меня так вообще евреи там, повезло, так как это единственный док, где почти у всех пишутся имена членов семьи, но моего Погоста не нашел, к сожалению",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вообще мне очень понравился док. Генеалогической инфы не по евреям вроде почти нет, но исторической предостаточно. А у меня так вообще евреи там, повезло, так как это единственный док, где почти у всех пишутся имена членов семьи, но моего Погоста не нашел, к сожалению"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2024-07-11T19:16:00"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1923,
+        "type": "message",
+        "date": "2024-07-11T23:08:38",
+        "date_unixtime": "1720728518",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 1908,
+        "text": "😊так Погост вроде был в более старых границах Оршанского повета. Нет?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "😊так Погост вроде был в более старых границах Оршанского повета. Нет?"
+            }
+        ]
+    },
+    {
+        "id": 1925,
+        "type": "message",
+        "date": "2024-07-11T23:17:39",
+        "date_unixtime": "1720729059",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 1923,
+        "text": "Хм.. не задавался этим вопросом, разве не в 1793? Любошанское староство в 1773 еще есть",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Хм.. не задавался этим вопросом, разве не в 1793? Любошанское староство в 1773 еще есть"
+            }
+        ]
+    },
+    {
+        "id": 1926,
+        "type": "message",
+        "date": "2024-07-11T23:18:29",
+        "date_unixtime": "1720729109",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 1925,
+        "text": "а Вы уверены, что Любошанское староство целиком и всегда входило в Оршанский повет?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "а Вы уверены, что Любошанское староство целиком и всегда входило в Оршанский повет?"
+            }
+        ]
+    },
+    {
+        "id": 1927,
+        "type": "message",
+        "date": "2024-07-11T23:19:28",
+        "date_unixtime": "1720729168",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 1926,
+        "text": "Вроде как целиком, насчет всегда - не знаю, начал сомневаться)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вроде как целиком, насчет всегда - не знаю, начал сомневаться)"
+            }
+        ]
+    },
+    {
+        "id": 1928,
+        "type": "message",
+        "date": "2024-07-11T23:19:37",
+        "date_unixtime": "1720729177",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 1927,
+        "text": "вооот 😊",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "вооот 😊"
+            }
+        ]
+    },
+    {
+        "id": 1929,
+        "type": "message",
+        "date": "2024-07-11T23:19:54",
+        "date_unixtime": "1720729194",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 1928,
+        "text": "А вы не знаете случаем?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А вы не знаете случаем?"
+            }
+        ]
+    },
+    {
+        "id": 1954,
+        "type": "message",
+        "date": "2024-07-18T20:38:33",
+        "date_unixtime": "1721324313",
+        "edited": "2024-07-18T20:39:19",
+        "edited_unixtime": "1721324359",
+        "from": "Zagadka",
+        "from_id": "user5802151297",
+        "reply_to_message_id": 59,
+        "text": [
+            "Пра гісторыю адміністрацыйнага дзялення (Аршанскі раён) - раптам камусьці цікава ",
+            {
+                "type": "link",
+                "text": "https://www.orshanka.by/?p=122930"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Пра гісторыю адміністрацыйнага дзялення (Аршанскі раён) - раптам камусьці цікава "
+            },
+            {
+                "type": "link",
+                "text": "https://www.orshanka.by/?p=122930"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Вавёрка",
+                        "from_id": "user888801481",
+                        "date": "2024-07-19T01:39:34"
+                    },
+                    {
+                        "from": "Алеся",
+                        "from_id": "user5126250394",
+                        "date": "2024-07-18T20:41:37"
+                    },
+                    {
+                        "from": "Antikom",
+                        "from_id": "user305556701",
+                        "date": "2024-07-18T20:40:49"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤"
+            }
+        ]
+    },
+    {
+        "id": 1972,
+        "type": "message",
+        "date": "2024-07-27T00:22:33",
+        "date_unixtime": "1722028953",
+        "edited": "2024-07-27T00:40:44",
+        "edited_unixtime": "1722030044",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "11.1.701.zip",
+        "mime_type": "application/zip",
+        "text": "Тарифы доходов со староств Оршанского повета. Люстрация. 1789",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тарифы доходов со староств Оршанского повета. Люстрация. 1789"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Алеся",
+                        "from_id": "user5126250394",
+                        "date": "2024-07-27T09:48:04"
+                    },
+                    {
+                        "from": null,
+                        "from_id": "user75433030",
+                        "date": "2024-07-27T06:33:20"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😍",
+                "recent": [
+                    {
+                        "from": "N.Y.",
+                        "from_id": "user1841363435",
+                        "date": "2024-07-27T00:38:18"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1973,
+        "type": "message",
+        "date": "2024-07-27T00:22:33",
+        "date_unixtime": "1722028953",
+        "edited": "2024-07-27T00:40:56",
+        "edited_unixtime": "1722030056",
+        "from": "K.",
+        "from_id": "user1470689869",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "11.1.711.zip",
+        "mime_type": "application/zip",
+        "text": "Тариф дымов Витебского воеводства (только Бешенковский\nприход) Тариф дымов\nОршанского повета.\n(Taryfa dymów) 1790",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тариф дымов Витебского воеводства (только Бешенковский\nприход) Тариф дымов\nОршанского повета.\n(Taryfa dymów) 1790"
+            }
+        ]
+    },
+    {
+        "id": 2009,
+        "type": "message",
+        "date": "2024-08-07T21:11:17",
+        "date_unixtime": "1723054277",
+        "from": "Viktoriya Belka",
+        "from_id": "user478325908",
+        "reply_to_message_id": 59,
+        "text": "НИАБ Гродно:\n1884-2-11 Паспортные книжки жителей Гродненской, Ковенской, Могилевской, Сувалской губерний за 1908 г\n(Есть именной указатель: Барановская, Бедлюкевич, Добровольская, Кабанова, Клунейко, Малиновская, Матулевич, Пекарская)\n\n1884-1-47 Паспортные книжки жителей Гродн, Могил и Херсонской губерний за 1916-1918 гг \n(Есть именной указатель: Берзун, Денисюк, Лукашевич, Стюлькевич)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "НИАБ Гродно:\n1884-2-11 Паспортные книжки жителей Гродненской, Ковенской, Могилевской, Сувалской губерний за 1908 г\n(Есть именной указатель: Барановская, Бедлюкевич, Добровольская, Кабанова, Клунейко, Малиновская, Матулевич, Пекарская)\n\n1884-1-47 Паспортные книжки жителей Гродн, Могил и Херсонской губерний за 1916-1918 гг \n(Есть именной указатель: Берзун, Денисюк, Лукашевич, Стюлькевич)"
+            }
+        ]
+    },
+    {
+        "id": 2236,
+        "type": "message",
+        "date": "2024-10-11T18:04:29",
+        "date_unixtime": "1728659069",
+        "edited": "2024-10-11T18:04:56",
+        "edited_unixtime": "1728659096",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 59,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "VUB01_000669100_00001-1.jpg",
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "mime_type": "image/jpeg",
+        "width": 6370,
+        "height": 5172,
+        "text": "1766г.\n Granicy Powiatu Orszanskiego z woiewodztwem Smolenskim\n ",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "1766г.\n Granicy Powiatu Orszanskiego z woiewodztwem Smolenskim\n "
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "LP2023",
+                        "from_id": "user6028189882",
+                        "date": "2024-11-24T12:09:09"
+                    },
+                    {
+                        "from": "Waler",
+                        "from_id": "user5147062305",
+                        "date": "2024-10-14T23:12:57"
+                    },
+                    {
+                        "from": "Helena Pozharitckaia",
+                        "from_id": "user956631283",
+                        "date": "2024-10-11T22:59:39"
+                    }
+                ]
+            }
+        ]
+    }
+]

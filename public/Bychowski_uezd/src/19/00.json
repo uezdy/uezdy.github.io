@@ -1,0 +1,1132 @@
+[
+    {
+        "id": 70,
+        "type": "message",
+        "date": "2023-07-27T08:39:18",
+        "date_unixtime": "1690436358",
+        "edited": "2023-07-27T08:40:44",
+        "edited_unixtime": "1690436444",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "Свято-Троицкая церковь, г.Быхов",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Свято-Троицкая церковь, г.Быхов"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Дмитрий",
+                        "from_id": "user531695094",
+                        "date": "2023-07-28T21:50:56"
+                    },
+                    {
+                        "from": "Катерина",
+                        "from_id": "user1431805269",
+                        "date": "2023-07-27T11:01:54"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🥰",
+                "recent": [
+                    {
+                        "from": "Зоя",
+                        "from_id": "user5109435329",
+                        "date": "2023-07-27T10:52:58"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "type": "message",
+        "date": "2023-07-27T08:39:18",
+        "date_unixtime": "1690436358",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 72,
+        "type": "message",
+        "date": "2023-07-27T08:45:10",
+        "date_unixtime": "1690436710",
+        "edited": "2023-07-27T08:48:10",
+        "edited_unixtime": "1690436890",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 1033,
+        "text": "Барколабовский Свято-Вознесенский женский монастырь",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Барколабовский Свято-Вознесенский женский монастырь"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user5882332801",
+                        "date": "2023-08-16T14:40:08"
+                    },
+                    {
+                        "from": "Дмитрий",
+                        "from_id": "user531695094",
+                        "date": "2023-07-28T21:50:57"
+                    },
+                    {
+                        "from": "Катерина",
+                        "from_id": "user1431805269",
+                        "date": "2023-07-27T11:01:55"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🥰"
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "type": "message",
+        "date": "2023-07-27T08:45:10",
+        "date_unixtime": "1690436710",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 74,
+        "type": "message",
+        "date": "2023-07-27T08:54:33",
+        "date_unixtime": "1690437273",
+        "edited": "2023-07-27T09:24:09",
+        "edited_unixtime": "1690439049",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "Композиция «Баркулабовская летопись». Установлена огромная книга с изображением знаковых для быховского края элементов. На одной «странице» — икона Божьей Матери Баркулабовской, на другой — фрагмент Баркулабовской летописи, замечательного памятника белорусской письменности XVII века.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Композиция «Баркулабовская летопись». Установлена огромная книга с изображением знаковых для быховского края элементов. На одной «странице» — икона Божьей Матери Баркулабовской, на другой — фрагмент Баркулабовской летописи, замечательного памятника белорусской письменности XVII века."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Катерина",
+                        "from_id": "user1431805269",
+                        "date": "2023-07-27T11:02:02"
+                    },
+                    {
+                        "from": "Любовь",
+                        "from_id": "user1745829524",
+                        "date": "2023-07-27T09:56:26"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🥰",
+                "recent": [
+                    {
+                        "from": "Зоя",
+                        "from_id": "user5109435329",
+                        "date": "2023-07-27T10:52:38"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "type": "message",
+        "date": "2023-07-27T09:11:49",
+        "date_unixtime": "1690438309",
+        "edited": "2023-07-27T09:58:33",
+        "edited_unixtime": "1690441113",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 827,
+        "height": 459,
+        "text": "Лудчицкая высота. Символ мужества и героизма.\n\n24 июня 1984 года в дни празднования 40—летия освобождения Быховщины от немецко-фашистских захватчиков состоялось торжественное открытие Мемориала Воинской Славы, символа доблести и мужества советских воинов, знака глубокой благодарности и памяти быховчан. \nМемориал Воинской Славы представляет собой скульптурно-архитектурную композицию. На искусственно созданном высоком кургане установлена символическая фигура былинного Баяна, который как бы ведет вечную песнь, прославляющую подвиг воинов-героев.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Лудчицкая высота. Символ мужества и героизма.\n\n24 июня 1984 года в дни празднования 40—летия освобождения Быховщины от немецко-фашистских захватчиков состоялось торжественное открытие Мемориала Воинской Славы, символа доблести и мужества советских воинов, знака глубокой благодарности и памяти быховчан. \nМемориал Воинской Славы представляет собой скульптурно-архитектурную композицию. На искусственно созданном высоком кургане установлена символическая фигура былинного Баяна, который как бы ведет вечную песнь, прославляющую подвиг воинов-героев."
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "type": "message",
+        "date": "2023-07-27T09:11:49",
+        "date_unixtime": "1690438309",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 827,
+        "height": 453,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 78,
+        "type": "message",
+        "date": "2023-07-27T09:11:50",
+        "date_unixtime": "1690438310",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 79,
+        "type": "message",
+        "date": "2023-07-27T09:11:50",
+        "date_unixtime": "1690438310",
+        "from": "Ирина",
+        "from_id": "user489477240",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 255,
+        "type": "message",
+        "date": "2023-08-30T20:22:49",
+        "date_unixtime": "1693416169",
+        "edited": "2023-11-07T07:59:25",
+        "edited_unixtime": "1699333165",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 945,
+        "height": 1280,
+        "text": "г. Старый Быхов \n1949г. Шевченко Павел.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "г. Старый Быхов \n1949г. Шевченко Павел."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Олег Дьяченко",
+                        "from_id": "user495950832",
+                        "date": "2023-11-07T07:59:25"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 256,
+        "type": "message",
+        "date": "2023-08-30T20:22:49",
+        "date_unixtime": "1693416169",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 942,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 380,
+        "type": "message",
+        "date": "2023-09-27T23:53:32",
+        "date_unixtime": "1695848012",
+        "edited": "2023-09-28T08:09:51",
+        "edited_unixtime": "1695877791",
+        "from": null,
+        "from_id": "user5882332801",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "Майшчына. Месца, дзе калісьці знаходзілася Мала- Бялевіцкая праваслаўная царква Свяціцеля Мікалая. Метрыкі захаваліся з 1855 па 1920 гады. Месца захоўвання: НГАБ.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Майшчына. Месца, дзе калісьці знаходзілася Мала- Бялевіцкая праваслаўная царква Свяціцеля Мікалая. Метрыкі захаваліся з 1855 па 1920 гады. Месца захоўвання: НГАБ."
+            }
+        ]
+    },
+    {
+        "id": 381,
+        "type": "message",
+        "date": "2023-09-27T23:53:32",
+        "date_unixtime": "1695848012",
+        "from": null,
+        "from_id": "user5882332801",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 382,
+        "type": "message",
+        "date": "2023-09-27T23:53:32",
+        "date_unixtime": "1695848012",
+        "from": null,
+        "from_id": "user5882332801",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 383,
+        "type": "message",
+        "date": "2023-09-27T23:53:32",
+        "date_unixtime": "1695848012",
+        "from": null,
+        "from_id": "user5882332801",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 458,
+        "type": "message",
+        "date": "2023-11-06T22:12:53",
+        "date_unixtime": "1699297973",
+        "edited": "2023-11-06T22:34:51",
+        "edited_unixtime": "1699299291",
+        "from": null,
+        "from_id": "user5882332801",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "Быхаў. \nЗамак Хадкевічаў і Сапег. Пакуль у заняпадзе. Рэканструкцыя ідзе, але вельмі марудна.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Быхаў. \nЗамак Хадкевічаў і Сапег. Пакуль у заняпадзе. Рэканструкцыя ідзе, але вельмі марудна."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Ledy",
+                        "from_id": "user392986868",
+                        "date": "2024-10-26T00:37:10"
+                    },
+                    {
+                        "from": "Al Ehm",
+                        "from_id": "user5780145437",
+                        "date": "2024-05-25T16:55:44"
+                    },
+                    {
+                        "from": "🦋Людмила Павловская🦋",
+                        "from_id": "user1558885042",
+                        "date": "2024-04-02T17:27:42"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 459,
+        "type": "message",
+        "date": "2023-11-06T22:12:53",
+        "date_unixtime": "1699297973",
+        "from": null,
+        "from_id": "user5882332801",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 460,
+        "type": "message",
+        "date": "2023-11-06T22:12:53",
+        "date_unixtime": "1699297973",
+        "from": null,
+        "from_id": "user5882332801",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 461,
+        "type": "message",
+        "date": "2023-11-06T22:12:53",
+        "date_unixtime": "1699297973",
+        "from": null,
+        "from_id": "user5882332801",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 462,
+        "type": "message",
+        "date": "2023-11-06T22:12:53",
+        "date_unixtime": "1699297973",
+        "from": null,
+        "from_id": "user5882332801",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 463,
+        "type": "message",
+        "date": "2023-11-06T22:12:53",
+        "date_unixtime": "1699297973",
+        "from": null,
+        "from_id": "user5882332801",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 464,
+        "type": "message",
+        "date": "2023-11-06T22:12:53",
+        "date_unixtime": "1699297973",
+        "from": null,
+        "from_id": "user5882332801",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 465,
+        "type": "message",
+        "date": "2023-11-06T22:12:53",
+        "date_unixtime": "1699297973",
+        "from": null,
+        "from_id": "user5882332801",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 793,
+        "type": "message",
+        "date": "2024-07-20T20:15:25",
+        "date_unixtime": "1721495725",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "forwarded_from": "Любовь",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 875,
+        "height": 1280,
+        "text": [
+            "\"На память \nТяте, Маме\n и Шуре \nот вашего сына\nПавла Ивановича\n Понева\nг. Быхов  Б.С.С.Р. \n34. О.П.Б.\nI  41года\"\nИсточник: ",
+            {
+                "type": "link",
+                "text": "https://meshok.net/item/313553258_%D0%A0%D0%9A%D0%9A%D0%90_%D0%91%D1%8B%D1%85%D0%BE%D0%B2_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%81%D0%B8%D1%8F?from_recommended=index"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "\"На память \nТяте, Маме\n и Шуре \nот вашего сына\nПавла Ивановича\n Понева\nг. Быхов  Б.С.С.Р. \n34. О.П.Б.\nI  41года\"\nИсточник: "
+            },
+            {
+                "type": "link",
+                "text": "https://meshok.net/item/313553258_%D0%A0%D0%9A%D0%9A%D0%90_%D0%91%D1%8B%D1%85%D0%BE%D0%B2_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%81%D0%B8%D1%8F?from_recommended=index"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 794,
+        "type": "message",
+        "date": "2024-07-20T20:15:25",
+        "date_unixtime": "1721495725",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "forwarded_from": "Любовь",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 853,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 795,
+        "type": "message",
+        "date": "2024-07-20T20:15:46",
+        "date_unixtime": "1721495746",
+        "edited": "2024-08-02T21:03:02",
+        "edited_unixtime": "1722621782",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "forwarded_from": "Любовь",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1000,
+        "height": 683,
+        "text": [
+            "« На память Валентине В. от Веры Ивановны Ведер….. .\nБыхов  8-го сентября 1936г.\n10-ый класс I П.С.Ш. имени В.И. Ленина…»\n\n«На память Валентине от Нюси Шайтер\n…..\n8/ II – 1937 года\n10-ый класс  I П.С.Ш. …..»\nФото с  сайта аукциона",
+            {
+                "type": "spoiler",
+                "text": "  "
+            },
+            {
+                "type": "link",
+                "text": "http://ay.by/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "« На память Валентине В. от Веры Ивановны Ведер….. .\nБыхов  8-го сентября 1936г.\n10-ый класс I П.С.Ш. имени В.И. Ленина…»\n\n«На память Валентине от Нюси Шайтер\n…..\n8/ II – 1937 года\n10-ый класс  I П.С.Ш. …..»\nФото с  сайта аукциона"
+            },
+            {
+                "type": "spoiler",
+                "text": "  "
+            },
+            {
+                "type": "link",
+                "text": "http://ay.by/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "🦋Людмила Павловская🦋",
+                        "from_id": "user1558885042",
+                        "date": "2024-08-02T21:03:02"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 796,
+        "type": "message",
+        "date": "2024-07-20T20:15:46",
+        "date_unixtime": "1721495746",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "forwarded_from": "Любовь",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1000,
+        "height": 751,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 810,
+        "type": "message",
+        "date": "2024-08-02T20:24:58",
+        "date_unixtime": "1722619498",
+        "edited": "2024-08-02T20:42:53",
+        "edited_unixtime": "1722620573",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "Болонов Селец-1, Глухская волость, остатки Георгиевской церкви. Имеется захоронение священника по фамилии Голынец. Метрические книги не найдены.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Болонов Селец-1, Глухская волость, остатки Георгиевской церкви. Имеется захоронение священника по фамилии Голынец. Метрические книги не найдены."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Artem Pereslavtsev",
+                        "from_id": "user474789297",
+                        "date": "2024-08-04T17:45:05"
+                    },
+                    {
+                        "from": "Ирина",
+                        "from_id": "user489477240",
+                        "date": "2024-08-02T21:10:54"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "NikolaenkoN 😉",
+                        "from_id": "user1186887222",
+                        "date": "2024-09-06T20:21:00"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 811,
+        "type": "message",
+        "date": "2024-08-02T20:24:59",
+        "date_unixtime": "1722619499",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 812,
+        "type": "message",
+        "date": "2024-08-02T20:24:59",
+        "date_unixtime": "1722619499",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 813,
+        "type": "message",
+        "date": "2024-08-02T20:24:59",
+        "date_unixtime": "1722619499",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 814,
+        "type": "message",
+        "date": "2024-08-02T20:24:59",
+        "date_unixtime": "1722619499",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 815,
+        "type": "message",
+        "date": "2024-08-02T20:24:59",
+        "date_unixtime": "1722619499",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 816,
+        "type": "message",
+        "date": "2024-08-02T20:24:59",
+        "date_unixtime": "1722619499",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 817,
+        "type": "message",
+        "date": "2024-08-02T20:24:59",
+        "date_unixtime": "1722619499",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 818,
+        "type": "message",
+        "date": "2024-08-02T20:24:59",
+        "date_unixtime": "1722619499",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 819,
+        "type": "message",
+        "date": "2024-08-02T20:24:59",
+        "date_unixtime": "1722619499",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 831,
+        "type": "message",
+        "date": "2024-08-18T20:50:59",
+        "date_unixtime": "1724003459",
+        "edited": "2024-08-18T20:54:13",
+        "edited_unixtime": "1724003653",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "Глухи. Строящаяся церковь. Выбрано новое место. По рассказам местной жительницы, там где находилась церковь Николая Чудотворца (1752-1962), решили не тревожить.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Глухи. Строящаяся церковь. Выбрано новое место. По рассказам местной жительницы, там где находилась церковь Николая Чудотворца (1752-1962), решили не тревожить."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Дмитрий",
+                        "from_id": "user531695094",
+                        "date": "2024-08-18T21:49:07"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "💘",
+                "recent": [
+                    {
+                        "from": "V I",
+                        "from_id": "user7402758768",
+                        "date": "2024-08-20T19:16:28"
+                    },
+                    {
+                        "from": "Alexandra Sirenko",
+                        "from_id": "user950977599",
+                        "date": "2024-08-20T17:10:40"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 832,
+        "type": "message",
+        "date": "2024-08-18T20:51:00",
+        "date_unixtime": "1724003460",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 833,
+        "type": "message",
+        "date": "2024-08-18T20:51:00",
+        "date_unixtime": "1724003460",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 862,
+        "type": "message",
+        "date": "2024-08-18T21:59:40",
+        "date_unixtime": "1724007580",
+        "edited": "2024-08-18T22:01:04",
+        "edited_unixtime": "1724007664",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "Слоневщина. Август 2024. Слева перед въездом красивое болото. И вот такой дом с элегантными резными элементами ручной работы.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Слоневщина. Август 2024. Слева перед въездом красивое болото. И вот такой дом с элегантными резными элементами ручной работы."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Любовь",
+                        "from_id": "user1745829524",
+                        "date": "2024-08-18T22:02:33"
+                    },
+                    {
+                        "from": "Alex Streltsman",
+                        "from_id": "user220097631",
+                        "date": "2024-08-18T22:01:04"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 863,
+        "type": "message",
+        "date": "2024-08-18T21:59:40",
+        "date_unixtime": "1724007580",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 864,
+        "type": "message",
+        "date": "2024-08-18T22:00:44",
+        "date_unixtime": "1724007644",
+        "from": "Alex Streltsman",
+        "from_id": "user220097631",
+        "reply_to_message_id": 19,
+        "text": "Здорово!!!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здорово!!!"
+            }
+        ]
+    },
+    {
+        "id": 946,
+        "type": "message",
+        "date": "2024-09-01T21:38:42",
+        "date_unixtime": "1725215922",
+        "edited": "2024-09-01T21:54:39",
+        "edited_unixtime": "1725216879",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "Лубянка. Быхаўскі павет, Гарадзецкая (Старабыхаўская) воласць. Рэшты драўлянай царквы. Жнівень 2024.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Лубянка. Быхаўскі павет, Гарадзецкая (Старабыхаўская) воласць. Рэшты драўлянай царквы. Жнівень 2024."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "NikolaenkoN 😉",
+                        "from_id": "user1186887222",
+                        "date": "2024-12-22T20:00:58"
+                    },
+                    {
+                        "from": "Paval Hadzinski",
+                        "from_id": "user111398048",
+                        "date": "2024-09-02T01:39:31"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Олег Дьяченко",
+                        "from_id": "user495950832",
+                        "date": "2024-09-05T09:12:49"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 947,
+        "type": "message",
+        "date": "2024-09-01T21:38:42",
+        "date_unixtime": "1725215922",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 948,
+        "type": "message",
+        "date": "2024-09-01T21:38:42",
+        "date_unixtime": "1725215922",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 949,
+        "type": "message",
+        "date": "2024-09-01T21:38:42",
+        "date_unixtime": "1725215922",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 950,
+        "type": "message",
+        "date": "2024-09-01T21:38:42",
+        "date_unixtime": "1725215922",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 951,
+        "type": "message",
+        "date": "2024-09-01T21:38:42",
+        "date_unixtime": "1725215922",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 952,
+        "type": "message",
+        "date": "2024-09-01T21:38:42",
+        "date_unixtime": "1725215922",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 953,
+        "type": "message",
+        "date": "2024-09-01T21:38:42",
+        "date_unixtime": "1725215922",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 954,
+        "type": "message",
+        "date": "2024-09-01T21:38:42",
+        "date_unixtime": "1725215922",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 960,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 955,
+        "type": "message",
+        "date": "2024-09-01T21:38:42",
+        "date_unixtime": "1725215922",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 19,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    }
+]

@@ -1,0 +1,1056 @@
+[
+    {
+        "id": 196,
+        "type": "message",
+        "date": "2023-07-30T00:33:18",
+        "date_unixtime": "1690666398",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 30,
+        "text": [
+            "🏡 ",
+            {
+                "type": "bold",
+                "text": "Лиознянская волость"
+            },
+            " —",
+            {
+                "type": "bold",
+                "text": " "
+            },
+            {
+                "type": "text_link",
+                "text": "Radzima",
+                "href": "https://www.radzima.net/ru/volost/lioznyanskaya.html"
+            },
+            ", ",
+            {
+                "type": "text_link",
+                "text": "Familio\n\n",
+                "href": "https://familio.org/knowledge-base/catalogs/mogilev1910?level1=c49d9ae8-dee5-4d29-98d2-6a1a057b631d&page-group=1&page-records=1&level2=8eeb0935-97f8-4f7d-a817-8f8734444c8c"
+            },
+            {
+                "type": "text_link",
+                "text": "Адаменки, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/adamenki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Альхимково, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/alkhimkovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Антоновка, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/antonovka_22.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Багуты, урочище\n",
+                "href": "https://www.radzima.net/ru/miejsce/baguty.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Бель II, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/bel_ii_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Бель, село\n",
+                "href": "https://www.radzima.net/ru/miejsce/bel_5.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Бель, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/bel_6.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Бельская Пустош, поселение\n",
+                "href": "https://www.radzima.net/ru/miejsce/belskaya_pustosh.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Бобки, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/bobki_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Боровая, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/borovaya_6.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Боровка, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/borovka_9.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Бржезово, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/brzhezovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Буи, фольварк\n",
+                "href": "https://www.radzima.net/ru/miejsce/bui.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ветохма, поселение\n",
+                "href": "https://www.radzima.net/ru/miejsce/vetokhma.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Герблы, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/gerbly.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Гороватка, посёлок\n",
+                "href": "https://www.radzima.net/ru/miejsce/gorovatka_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Городок, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/gorodok_19.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Грищенки, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/grishchenki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Грищенки, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/grishchenki_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Дрозды, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/drozdy_5.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Дубровка, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/dubrovka_22.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Жар, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/zhar.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Жуково, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/zhukovo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Замошье, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/zamoshje_5.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Заольша, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/zaolsha.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Заольша, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/zaolsha_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Заольша, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/zaolsha_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Заровье, посёлок\n",
+                "href": "https://www.radzima.net/ru/miejsce/zarovje_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Засигово, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/zasigovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Зубки, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/zubki_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Зуи, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/zui_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Карпово, посёлок\n",
+                "href": "https://www.radzima.net/ru/miejsce/karpovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Кастечино, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/kastechino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Конашково, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/konashkovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Коренихи, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/korenikhi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Крупени, урочище\n",
+                "href": "https://www.radzima.net/ru/miejsce/krupeni.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Кулятино, посёлок\n",
+                "href": "https://www.radzima.net/ru/miejsce/kulyatino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лешаки, фольварк\n",
+                "href": "https://www.radzima.net/ru/miejsce/leshaki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лиозно, местечко\n",
+                "href": "https://www.radzima.net/ru/miejsce/liozno.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ловяги, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/lovyagi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Макаренки, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/makarenki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Макаренки, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/makarenki_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Макаренки, фольварк\n",
+                "href": "https://www.radzima.net/ru/miejsce/makarenki_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Максимово, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/maksimovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мальково, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/malkovo_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мальково, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/malkovo_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мальково, фольварк\n",
+                "href": "https://www.radzima.net/ru/miejsce/malkovo_4.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мартютково, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/martyutkovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Матушево, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/matushevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Низы, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/nizy.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Новины, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/noviny_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Озерок, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/ozerok.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ольховка, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/olkhovka_6.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Пасеки, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/paseki_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Плаксино, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/plaksino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Поддубье, выселок\n",
+                "href": "https://www.radzima.net/ru/miejsce/poddubje_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Поташня, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/potashnya.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Пронские, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/pronskie.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Прудище, фольварк\n",
+                "href": "https://www.radzima.net/ru/miejsce/prudishche.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Пунище, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/punishche_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ровы, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/rovy.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Розумово, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/rozumovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Рубежница, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/rubezhnitsa_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Сиговка, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/sigovka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Слобода, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/sloboda_32.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Созоново, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/sozonovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Соколовка, фольварк\n",
+                "href": "https://www.radzima.net/ru/miejsce/sokolovka_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Солонец, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/solonets_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Сороки, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/soroki_8.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Сосоны, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/sosony.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Станиславово, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/stanislavovo_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Старина, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/starina_8.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Строги, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/strogi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Сутоки Большие, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/sutoki_bolshie.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Сутоки Малые, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/sutoki_malye.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Тересполь, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/terespol_7.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Тимошки, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/timoshki_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Уно, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/uno.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ушивка, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/ushivka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Холмы, урочище\n",
+                "href": "https://www.radzima.net/ru/miejsce/kholmy_12.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Цитовичи, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/tsitovichi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Черница, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/chernitsa_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Черноручье, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/chernoruchje_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Чернышенки, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/chernyshenki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Шавники, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/shavniki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Шихи, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/shikhi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Шломки, посёлок\n",
+                "href": "https://www.radzima.net/ru/miejsce/shlomki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Якубовщина, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/yakubovshchina_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Яськовщина Большая, фольварк\n",
+                "href": "https://www.radzima.net/ru/miejsce/yaskovshchina_bolshaya_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Яськовщина Малая, фольварк\n",
+                "href": "https://www.radzima.net/ru/miejsce/yaskovshchina_malaya_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Яськовщина, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/yaskovshchina_bolshaya.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "🏡 "
+            },
+            {
+                "type": "bold",
+                "text": "Лиознянская волость"
+            },
+            {
+                "type": "plain",
+                "text": " —"
+            },
+            {
+                "type": "bold",
+                "text": " "
+            },
+            {
+                "type": "text_link",
+                "text": "Radzima",
+                "href": "https://www.radzima.net/ru/volost/lioznyanskaya.html"
+            },
+            {
+                "type": "plain",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "Familio\n\n",
+                "href": "https://familio.org/knowledge-base/catalogs/mogilev1910?level1=c49d9ae8-dee5-4d29-98d2-6a1a057b631d&page-group=1&page-records=1&level2=8eeb0935-97f8-4f7d-a817-8f8734444c8c"
+            },
+            {
+                "type": "text_link",
+                "text": "Адаменки, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/adamenki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Альхимково, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/alkhimkovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Антоновка, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/antonovka_22.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Багуты, урочище\n",
+                "href": "https://www.radzima.net/ru/miejsce/baguty.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Бель II, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/bel_ii_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Бель, село\n",
+                "href": "https://www.radzima.net/ru/miejsce/bel_5.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Бель, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/bel_6.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Бельская Пустош, поселение\n",
+                "href": "https://www.radzima.net/ru/miejsce/belskaya_pustosh.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Бобки, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/bobki_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Боровая, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/borovaya_6.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Боровка, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/borovka_9.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Бржезово, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/brzhezovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Буи, фольварк\n",
+                "href": "https://www.radzima.net/ru/miejsce/bui.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ветохма, поселение\n",
+                "href": "https://www.radzima.net/ru/miejsce/vetokhma.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Герблы, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/gerbly.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Гороватка, посёлок\n",
+                "href": "https://www.radzima.net/ru/miejsce/gorovatka_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Городок, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/gorodok_19.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Грищенки, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/grishchenki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Грищенки, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/grishchenki_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Дрозды, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/drozdy_5.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Дубровка, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/dubrovka_22.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Жар, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/zhar.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Жуково, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/zhukovo_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Замошье, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/zamoshje_5.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Заольша, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/zaolsha.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Заольша, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/zaolsha_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Заольша, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/zaolsha_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Заровье, посёлок\n",
+                "href": "https://www.radzima.net/ru/miejsce/zarovje_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Засигово, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/zasigovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Зубки, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/zubki_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Зуи, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/zui_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Карпово, посёлок\n",
+                "href": "https://www.radzima.net/ru/miejsce/karpovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Кастечино, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/kastechino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Конашково, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/konashkovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Коренихи, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/korenikhi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Крупени, урочище\n",
+                "href": "https://www.radzima.net/ru/miejsce/krupeni.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Кулятино, посёлок\n",
+                "href": "https://www.radzima.net/ru/miejsce/kulyatino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лешаки, фольварк\n",
+                "href": "https://www.radzima.net/ru/miejsce/leshaki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Лиозно, местечко\n",
+                "href": "https://www.radzima.net/ru/miejsce/liozno.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ловяги, застенок\n",
+                "href": "https://www.radzima.net/ru/miejsce/lovyagi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Макаренки, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/makarenki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Макаренки, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/makarenki_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Макаренки, фольварк\n",
+                "href": "https://www.radzima.net/ru/miejsce/makarenki_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Максимово, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/maksimovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мальково, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/malkovo_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мальково, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/malkovo_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мальково, фольварк\n",
+                "href": "https://www.radzima.net/ru/miejsce/malkovo_4.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Мартютково, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/martyutkovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Матушево, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/matushevo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Низы, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/nizy.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Новины, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/noviny_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Озерок, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/ozerok.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ольховка, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/olkhovka_6.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Пасеки, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/paseki_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Плаксино, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/plaksino.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Поддубье, выселок\n",
+                "href": "https://www.radzima.net/ru/miejsce/poddubje_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Поташня, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/potashnya.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Пронские, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/pronskie.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Прудище, фольварк\n",
+                "href": "https://www.radzima.net/ru/miejsce/prudishche.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Пунище, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/punishche_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ровы, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/rovy.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Розумово, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/rozumovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Рубежница, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/rubezhnitsa_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Сиговка, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/sigovka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Слобода, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/sloboda_32.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Созоново, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/sozonovo.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Соколовка, фольварк\n",
+                "href": "https://www.radzima.net/ru/miejsce/sokolovka_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Солонец, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/solonets_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Сороки, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/soroki_8.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Сосоны, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/sosony.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Станиславово, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/stanislavovo_3.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Старина, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/starina_8.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Строги, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/strogi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Сутоки Большие, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/sutoki_bolshie.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Сутоки Малые, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/sutoki_malye.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Тересполь, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/terespol_7.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Тимошки, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/timoshki_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Уно, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/uno.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Ушивка, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/ushivka.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Холмы, урочище\n",
+                "href": "https://www.radzima.net/ru/miejsce/kholmy_12.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Цитовичи, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/tsitovichi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Черница, усадьба\n",
+                "href": "https://www.radzima.net/ru/miejsce/chernitsa_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Черноручье, имение\n",
+                "href": "https://www.radzima.net/ru/miejsce/chernoruchje_2.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Чернышенки, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/chernyshenki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Шавники, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/shavniki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Шихи, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/shikhi.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Шломки, посёлок\n",
+                "href": "https://www.radzima.net/ru/miejsce/shlomki.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Якубовщина, деревня\n",
+                "href": "https://www.radzima.net/ru/miejsce/yakubovshchina_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Яськовщина Большая, фольварк\n",
+                "href": "https://www.radzima.net/ru/miejsce/yaskovshchina_bolshaya_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Яськовщина Малая, фольварк\n",
+                "href": "https://www.radzima.net/ru/miejsce/yaskovshchina_malaya_1.html"
+            },
+            {
+                "type": "text_link",
+                "text": "Яськовщина, деревня",
+                "href": "https://www.radzima.net/ru/miejsce/yaskovshchina_bolshaya.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 387,
+        "type": "message",
+        "date": "2023-08-05T13:09:32",
+        "date_unixtime": "1691230172",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "forwarded_from": "Евгений",
+        "reply_to_message_id": 30,
+        "text": "Поддубье и окрестности, Лиозненская воласть. Гончаровы.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Поддубье и окрестности, Лиозненская воласть. Гончаровы."
+            }
+        ]
+    },
+    {
+        "id": 1103,
+        "type": "message",
+        "date": "2023-12-08T18:58:08",
+        "date_unixtime": "1702051088",
+        "edited": "2023-12-08T19:20:54",
+        "edited_unixtime": "1702052454",
+        "from": "Adam Korvin",
+        "from_id": "user1177895349",
+        "reply_to_message_id": 30,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://youtu.be/B7-EhjljoVk?si=dcHwTgwYJrgn2wqO"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://youtu.be/B7-EhjljoVk?si=dcHwTgwYJrgn2wqO"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "K",
+                        "from_id": "user725953270",
+                        "date": "2024-08-11T16:53:54"
+                    },
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2023-12-08T19:20:54"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2924,
+        "type": "message",
+        "date": "2025-01-12T17:25:44",
+        "date_unixtime": "1736691944",
+        "from": "Elena",
+        "from_id": "user1603830313",
+        "reply_to_message_id": 30,
+        "text": "Здравствуйте.  Ищу Судзиловских, Янченко. Проживали в Высочанах в 1910.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте.  Ищу Судзиловских, Янченко. Проживали в Высочанах в 1910."
+            }
+        ]
+    }
+]

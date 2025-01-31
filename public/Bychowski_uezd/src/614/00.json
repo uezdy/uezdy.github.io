@@ -1,0 +1,133 @@
+[
+    {
+        "id": 615,
+        "type": "message",
+        "date": "2024-01-24T12:17:43",
+        "date_unixtime": "1706087863",
+        "edited": "2024-03-23T04:58:46",
+        "edited_unixtime": "1711159126",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "forwarded_from": "Любовь",
+        "reply_to_message_id": 614,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://youtube.com/playlist?list=PLNMWUGZLuEIsiRm7UZsPGbk2v2FG_mtuN"
+            },
+            " \n⬆️Телевизионный проект \"История с географией\".\nВсего 190 видео: о разных деревнях - маленьких и больших (Могилевская область); о местных достопримечательностях, а также  истории от сельчан.\n\nЛистайте, находите свои.\n\nБлагодарю ",
+            {
+                "type": "mention",
+                "text": "@irina8015"
+            },
+            ", что  напомнили об этом проекте."
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://youtube.com/playlist?list=PLNMWUGZLuEIsiRm7UZsPGbk2v2FG_mtuN"
+            },
+            {
+                "type": "plain",
+                "text": " \n⬆️Телевизионный проект \"История с географией\".\nВсего 190 видео: о разных деревнях - маленьких и больших (Могилевская область); о местных достопримечательностях, а также  истории от сельчан.\n\nЛистайте, находите свои.\n\nБлагодарю "
+            },
+            {
+                "type": "mention",
+                "text": "@irina8015"
+            },
+            {
+                "type": "plain",
+                "text": ", что  напомнили об этом проекте."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "💘",
+                "recent": [
+                    {
+                        "from": "Alexandra Sirenko",
+                        "from_id": "user950977599",
+                        "date": "2024-03-23T04:58:46"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 616,
+        "type": "message",
+        "date": "2024-01-24T12:18:08",
+        "date_unixtime": "1706087888",
+        "edited": "2024-11-12T09:45:29",
+        "edited_unixtime": "1731393929",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "forwarded_from": "Любовь",
+        "reply_to_message_id": 614,
+        "text": [
+            "Фонды к Быховскому уезду⏩ ",
+            {
+                "type": "link",
+                "text": "https://fk.archives.gov.by/advanced/%D0%91%D1%8B%D1%85%D0%BE%D0%B2/1/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Фонды к Быховскому уезду⏩ "
+            },
+            {
+                "type": "link",
+                "text": "https://fk.archives.gov.by/advanced/%D0%91%D1%8B%D1%85%D0%BE%D0%B2/1/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Polyatskaya Svetlana",
+                        "from_id": "user187710983",
+                        "date": "2024-11-12T09:45:29"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 617,
+        "type": "message",
+        "date": "2024-01-24T12:18:32",
+        "date_unixtime": "1706087912",
+        "from": "Любовь",
+        "from_id": "user1745829524",
+        "forwarded_from": "Anna Komarova",
+        "reply_to_message_id": 614,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://1914.svrt.ru/"
+            },
+            "  Первая мировая война, 1914–1918 гг. реестр воевавших"
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://1914.svrt.ru/"
+            },
+            {
+                "type": "plain",
+                "text": "  Первая мировая война, 1914–1918 гг. реестр воевавших"
+            }
+        ]
+    }
+]
