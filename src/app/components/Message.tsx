@@ -6,7 +6,7 @@ import {TextEntity, TGMessage} from "@/app/components/types";
 import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 
-export default async function Message({msg, topicId, page}: { msg: TGMessage, topicId: number, page: number }) {
+export default async function Message({uezd, msg, topicId, page}: { msg: TGMessage, topicId: number, page: number }) {
     let date = new Date(msg.date as any);
     let year = new Intl.DateTimeFormat('ru', { year: 'numeric' }).format(date);
     let month = new Intl.DateTimeFormat('ru', { month: 'short' }).format(date);
@@ -18,7 +18,7 @@ export default async function Message({msg, topicId, page}: { msg: TGMessage, to
                 <span className="message-top">
                     <span>
                         <Button size="small" aria-label="Информация по сообщению">
-                            <Link target="_blank" href={`https://t.me/uezdy${+topicId ? `/${topicId}` : ''}/${msg.id}`}
+                            <Link target="_blank" href={`https://t.me/${uezd}${+topicId ? `/${topicId}` : ''}/${msg.id}`}
                                   title="Открыть оригинальную запись в телеграм группе">
                                 {msg.id}
                             </Link>
@@ -30,7 +30,7 @@ export default async function Message({msg, topicId, page}: { msg: TGMessage, to
                     <span>
                         <span aria-label="Date of message" className="date-of-message">{`${day} ${month} ${year}`}</span>
                         <Button size="small" aria-label="Информация по сообщению">
-                            <Link href={`/uezdy/${topicId}/${page}/${msg.id}`}>##</Link>
+                            <Link href={`/${uezd}/${topicId}/${page}/${msg.id}`}>##</Link>
                         </Button>
                     </span>
                 </span>
@@ -53,6 +53,9 @@ const TextJoin = ({text}: any) => {
                 if (textEntity.type === 'mention') {
                     textString += `<a target="_blank" href="${`https://t.me/${textEntity.text.replace('@', '')}`}">${textEntity.text}</a>`
                 }
+                if (textEntity.type === 'mention_name') {
+                    textString += `<a target="_blank" data-user-id="${textEntity.user_id}" href="${`https://t.me/${textEntity.user_id}`}">${textEntity.text}</a>`
+                }
                 if (textEntity.type === 'text_link') {
                     textString += `<a target="_blank" href="${textEntity.href}">${textEntity.text}</a>`
                 }
@@ -61,6 +64,9 @@ const TextJoin = ({text}: any) => {
                 }
                 if (textEntity.type === 'bold') {
                     textString += `<b>${textEntity.text}</b>`;
+                }
+                if (textEntity.type === 'pre') {
+                    textString += `<code>${textEntity.text}</code>`;
                 }
                 if (textEntity.type === 'underline') {
                     textString += `<u>${textEntity.text}</u>`;

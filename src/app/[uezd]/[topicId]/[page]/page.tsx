@@ -53,7 +53,7 @@ export default async function Page({params}: any) {
                 Object.values(pageJson)
                     .map((msg: TGMessage | any) => {
                         return msg.text && msg.type === 'message' &&
-                            <Message key={msg.id} topicId={topicId} page={page} msg={msg}/>
+                            <Message key={msg.id} uezd={uezd} topicId={topicId} page={page} msg={msg}/>
                     })
             }
         </>
