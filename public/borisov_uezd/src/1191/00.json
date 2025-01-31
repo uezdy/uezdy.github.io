@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1192,
+        "type": "message",
+        "date": "2023-07-16T22:07:31",
+        "date_unixtime": "1689534451",
+        "edited": "2025-01-25T16:39:57",
+        "edited_unixtime": "1737812397",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "aalto",
+        "reply_to_message_id": 1191,
+        "text": [
+            "Опрос, в каких волостях Борисовского уезда проживали наши предки\n\n",
+            {
+                "type": "link",
+                "text": "https://forms.gle/DuExSdaqsgAkt7HS6"
+            },
+            "\n\nРезультаты опроса:\n\n",
+            {
+                "type": "link",
+                "text": "https://docs.google.com/spreadsheets/d/1pCO7gsQCen8Btym2dcH9izyTXEQdkLNuHOcglf3-Hhc/edit?usp=sharing"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Опрос, в каких волостях Борисовского уезда проживали наши предки\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://forms.gle/DuExSdaqsgAkt7HS6"
+            },
+            {
+                "type": "plain",
+                "text": "\n\nРезультаты опроса:\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://docs.google.com/spreadsheets/d/1pCO7gsQCen8Btym2dcH9izyTXEQdkLNuHOcglf3-Hhc/edit?usp=sharing"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "N Nnn",
+                        "from_id": "user5173130528",
+                        "date": "2025-01-25T16:39:57"
+                    }
+                ]
+            }
+        ]
+    }
+]

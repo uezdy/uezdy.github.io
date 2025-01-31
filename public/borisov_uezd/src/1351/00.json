@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1953,
+        "type": "message",
+        "date": "2023-11-06T22:32:20",
+        "date_unixtime": "1699299140",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1351,
+        "text": "Есть кое-какая информации по людям проживавшим в иезуитском имении  Гать, Зембинской волости и деревням входившим в приход Рождественско-Богородичной церкви. Кому интересно, пишите. Будем разбираться. Ныне д.Швабы. Лашкевичи, Тишкевичи, Королевичи, Гринь, Щуревичи...",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Есть кое-какая информации по людям проживавшим в иезуитском имении  Гать, Зембинской волости и деревням входившим в приход Рождественско-Богородичной церкви. Кому интересно, пишите. Будем разбираться. Ныне д.Швабы. Лашкевичи, Тишкевичи, Королевичи, Гринь, Щуревичи..."
+            }
+        ]
+    },
+    {
+        "id": 1954,
+        "type": "message",
+        "date": "2023-11-06T22:34:55",
+        "date_unixtime": "1699299295",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1351,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 923,
+        "height": 846,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1955,
+        "type": "message",
+        "date": "2023-11-06T22:36:18",
+        "date_unixtime": "1699299378",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1351,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 928,
+        "height": 1174,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1957,
+        "type": "message",
+        "date": "2023-11-07T13:52:52",
+        "date_unixtime": "1699354372",
+        "from": "Halina",
+        "from_id": "user1882507349",
+        "reply_to_message_id": 1953,
+        "text": "Мне интересно. Давайте разбираться",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мне интересно. Давайте разбираться"
+            }
+        ]
+    },
+    {
+        "id": 1958,
+        "type": "message",
+        "date": "2023-11-07T19:12:38",
+        "date_unixtime": "1699373558",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1351,
+        "text": "Давайте...",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Давайте..."
+            }
+        ]
+    },
+    {
+        "id": 1959,
+        "type": "message",
+        "date": "2023-11-07T20:15:47",
+        "date_unixtime": "1699377347",
+        "from": "Halina",
+        "from_id": "user1882507349",
+        "reply_to_message_id": 1351,
+        "text": "Что для этого требуется?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Что для этого требуется?"
+            }
+        ]
+    },
+    {
+        "id": 1960,
+        "type": "message",
+        "date": "2023-11-07T21:23:05",
+        "date_unixtime": "1699381385",
+        "from": "Andrei",
+        "from_id": "user1041972008",
+        "reply_to_message_id": 1955,
+        "text": "А по Юзефову нет Дзегелевичей/Дзегелёнков? Не позднее 1813 жили в заст. Мыльницкий, который иначе назывался Юзефово",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А по Юзефову нет Дзегелевичей/Дзегелёнков? Не позднее 1813 жили в заст. Мыльницкий, который иначе назывался Юзефово"
+            }
+        ]
+    },
+    {
+        "id": 1976,
+        "type": "message",
+        "date": "2023-11-10T18:51:16",
+        "date_unixtime": "1699631476",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1351,
+        "text": "Дзегилевичей я встречал много. Есть в Полянах, Сутоки",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Дзегилевичей я встречал много. Есть в Полянах, Сутоки"
+            }
+        ]
+    },
+    {
+        "id": 1977,
+        "type": "message",
+        "date": "2023-11-10T18:53:15",
+        "date_unixtime": "1699631595",
+        "from": "Andrei",
+        "from_id": "user1041972008",
+        "reply_to_message_id": 1976,
+        "text": "Т.е. выписок по рс 1816 по Гати у Вас нет?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Т.е. выписок по рс 1816 по Гати у Вас нет?"
+            }
+        ]
+    },
+    {
+        "id": 1978,
+        "type": "message",
+        "date": "2023-11-10T18:54:48",
+        "date_unixtime": "1699631688",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1351,
+        "text": "Есть.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Есть."
+            }
+        ]
+    },
+    {
+        "id": 1979,
+        "type": "message",
+        "date": "2023-11-10T18:57:53",
+        "date_unixtime": "1699631873",
+        "from": "Halina",
+        "from_id": "user1882507349",
+        "reply_to_message_id": 1351,
+        "text": "А вы бы могли ими поделиться?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А вы бы могли ими поделиться?"
+            }
+        ]
+    },
+    {
+        "id": 1980,
+        "type": "message",
+        "date": "2023-11-10T19:10:36",
+        "date_unixtime": "1699632636",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1977,
+        "text": "1795 год. Цна. Двор 9. Не ваши?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "1795 год. Цна. Двор 9. Не ваши?"
+            }
+        ]
+    },
+    {
+        "id": 1981,
+        "type": "message",
+        "date": "2023-11-10T19:10:58",
+        "date_unixtime": "1699632658",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1351,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1068,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1982,
+        "type": "message",
+        "date": "2023-11-10T19:10:58",
+        "date_unixtime": "1699632658",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1351,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 906,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1983,
+        "type": "message",
+        "date": "2023-11-10T19:10:58",
+        "date_unixtime": "1699632658",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1351,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 912,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1984,
+        "type": "message",
+        "date": "2023-11-10T19:10:58",
+        "date_unixtime": "1699632658",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1351,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 912,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1985,
+        "type": "message",
+        "date": "2023-11-10T19:10:58",
+        "date_unixtime": "1699632658",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1351,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 901,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1986,
+        "type": "message",
+        "date": "2023-11-10T19:16:36",
+        "date_unixtime": "1699632996",
+        "from": "Andrei",
+        "from_id": "user1041972008",
+        "reply_to_message_id": 1980,
+        "text": "Григорий по возрасту подходит, но мой был Якубов, не Осипов и жена по более поздним документам другая",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Григорий по возрасту подходит, но мой был Якубов, не Осипов и жена по более поздним документам другая"
+            }
+        ]
+    },
+    {
+        "id": 1987,
+        "type": "message",
+        "date": "2023-11-10T19:19:20",
+        "date_unixtime": "1699633160",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1986,
+        "text": "1774 год.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "1774 год."
+            }
+        ]
+    },
+    {
+        "id": 1988,
+        "type": "message",
+        "date": "2023-11-10T19:19:37",
+        "date_unixtime": "1699633177",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1351,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1193,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1989,
+        "type": "message",
+        "date": "2023-11-10T19:19:37",
+        "date_unixtime": "1699633177",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1351,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 891,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1990,
+        "type": "message",
+        "date": "2023-11-10T19:19:37",
+        "date_unixtime": "1699633177",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1351,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 799,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1991,
+        "type": "message",
+        "date": "2023-11-10T19:19:37",
+        "date_unixtime": "1699633177",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1351,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1052,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1992,
+        "type": "message",
+        "date": "2023-11-10T19:23:41",
+        "date_unixtime": "1699633421",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1979,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 947,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1993,
+        "type": "message",
+        "date": "2023-11-10T19:23:41",
+        "date_unixtime": "1699633421",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1979,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 888,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1994,
+        "type": "message",
+        "date": "2023-11-10T19:23:41",
+        "date_unixtime": "1699633421",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1979,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 1239,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1995,
+        "type": "message",
+        "date": "2023-11-10T19:24:09",
+        "date_unixtime": "1699633449",
+        "from": "Halina",
+        "from_id": "user1882507349",
+        "reply_to_message_id": 1351,
+        "text": "Спасибо!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо!"
+            }
+        ]
+    },
+    {
+        "id": 1996,
+        "type": "message",
+        "date": "2023-11-10T19:35:18",
+        "date_unixtime": "1699634118",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1995,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 955,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1997,
+        "type": "message",
+        "date": "2023-11-10T19:35:19",
+        "date_unixtime": "1699634119",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1995,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 918,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1998,
+        "type": "message",
+        "date": "2023-11-10T19:35:19",
+        "date_unixtime": "1699634119",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1995,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 870,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1999,
+        "type": "message",
+        "date": "2023-11-10T19:35:19",
+        "date_unixtime": "1699634119",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1995,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 903,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 2000,
+        "type": "message",
+        "date": "2023-11-10T19:35:19",
+        "date_unixtime": "1699634119",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1995,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 919,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 2001,
+        "type": "message",
+        "date": "2023-11-10T19:35:19",
+        "date_unixtime": "1699634119",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1995,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 886,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 2002,
+        "type": "message",
+        "date": "2023-11-10T19:35:19",
+        "date_unixtime": "1699634119",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1995,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 893,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 2003,
+        "type": "message",
+        "date": "2023-11-10T19:35:50",
+        "date_unixtime": "1699634150",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 1351,
+        "text": "Разбирайтесь.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Разбирайтесь."
+            }
+        ]
+    },
+    {
+        "id": 2122,
+        "type": "message",
+        "date": "2024-01-16T17:35:37",
+        "date_unixtime": "1705415737",
+        "edited": "2024-01-16T17:35:53",
+        "edited_unixtime": "1705415753",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "reply_to_message_id": 1351,
+        "text": "Запись найдена в МК села Герасименки Оршанского уезда",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Запись найдена в МК села Герасименки Оршанского уезда"
+            }
+        ]
+    },
+    {
+        "id": 2123,
+        "type": "message",
+        "date": "2024-01-16T17:35:37",
+        "date_unixtime": "1705415737",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Natasha",
+        "reply_to_message_id": 1351,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 491,
+        "text": "Оршанский уезд, с. Герасименки 1903",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Оршанский уезд, с. Герасименки 1903"
+            }
+        ]
+    },
+    {
+        "id": 2124,
+        "type": "message",
+        "date": "2024-01-16T17:36:47",
+        "date_unixtime": "1705415807",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "reply_to_message_id": 1351,
+        "text": "Села Гусино Оршанского уезда",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Села Гусино Оршанского уезда"
+            }
+        ]
+    },
+    {
+        "id": 2125,
+        "type": "message",
+        "date": "2024-01-16T17:36:47",
+        "date_unixtime": "1705415807",
+        "edited": "2024-08-18T22:39:54",
+        "edited_unixtime": "1724009994",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Natasha",
+        "reply_to_message_id": 1351,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 291,
+        "text": "Оршанский уезд, с. Гусино 1903г.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Оршанский уезд, с. Гусино 1903г."
+            }
+        ]
+    },
+    {
+        "id": 3799,
+        "type": "message",
+        "date": "2024-05-11T19:19:12",
+        "date_unixtime": "1715444352",
+        "edited": "2024-05-12T00:14:27",
+        "edited_unixtime": "1715462067",
+        "from": "Alla Lebedeva",
+        "from_id": "user1345556165",
+        "forwarded_from": "Natali Atamanoff",
+        "reply_to_message_id": 1351,
+        "text": "В Ачинске ф.10 оп.1 д.143 есть листочек Посемейно-имущественный список граждан д.Мехеды Швабского с/совета Зембинского района Борисовского округа БССР, переселяющихся на колонизационно-переселенческий фонд  Томской губернии Мариинского уезда. Фамилии: две семьи Васько и одна - Совастей. Годы не указаны🤔",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В Ачинске ф.10 оп.1 д.143 есть листочек Посемейно-имущественный список граждан д.Мехеды Швабского с/совета Зембинского района Борисовского округа БССР, переселяющихся на колонизационно-переселенческий фонд  Томской губернии Мариинского уезда. Фамилии: две семьи Васько и одна - Совастей. Годы не указаны🤔"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Viktor Lisiczonak",
+                        "from_id": "user997531186",
+                        "date": "2024-12-30T15:36:58"
+                    },
+                    {
+                        "from": "SVETLANA",
+                        "from_id": "user955925828",
+                        "date": "2024-05-26T19:46:39"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Halina",
+                        "from_id": "user1882507349",
+                        "date": "2024-05-24T10:04:25"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3800,
+        "type": "message",
+        "date": "2024-05-11T21:49:17",
+        "date_unixtime": "1715453357",
+        "from": "Nord",
+        "from_id": "user465702041",
+        "reply_to_message_id": 3799,
+        "text": "Интересная информация.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Интересная информация."
+            }
+        ]
+    },
+    {
+        "id": 4116,
+        "type": "message",
+        "date": "2024-08-18T20:50:38",
+        "date_unixtime": "1724003438",
+        "from": "Ella Drozdova",
+        "from_id": "user1002277780",
+        "reply_to_message_id": 1351,
+        "text": "Вітаю. Шукаю якую небудзь інфармацыю ад чаго можна атштурхнуцца. \nЦікавіць вёска Зарэмбы (здаецца адносіцца да Карсаковічскага прыхода) \nПрозвішча - Малінковіч ці Маленковіч \nТолькі пачынаю, зусім без досведу ў гэтых генеалагічных справах. Буду удзячна за любыя парады 🙏",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вітаю. Шукаю якую небудзь інфармацыю ад чаго можна атштурхнуцца. \nЦікавіць вёска Зарэмбы (здаецца адносіцца да Карсаковічскага прыхода) \nПрозвішча - Малінковіч ці Маленковіч \nТолькі пачынаю, зусім без досведу ў гэтых генеалагічных справах. Буду удзячна за любыя парады 🙏"
+            }
+        ]
+    },
+    {
+        "id": 4117,
+        "type": "message",
+        "date": "2024-08-18T21:00:41",
+        "date_unixtime": "1724004041",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "reply_to_message_id": 1351,
+        "text": [
+            "Советы начинающим генеалогам\n",
+            {
+                "type": "link",
+                "text": "https://docs.vgd.ru/kak-najti-predkov"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Советы начинающим генеалогам\n"
+            },
+            {
+                "type": "link",
+                "text": "https://docs.vgd.ru/kak-najti-predkov"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 4295,
+        "type": "message",
+        "date": "2024-09-26T18:47:20",
+        "date_unixtime": "1727365640",
+        "edited": "2024-09-26T18:47:41",
+        "edited_unixtime": "1727365661",
+        "from": "L",
+        "from_id": "user99883653",
+        "reply_to_message_id": 1351,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 357,
+        "height": 196,
+        "text": [
+            {
+                "type": "text_link",
+                "text": "Минскій Листокъ №6 / 1886",
+                "href": "https://syrakomla.org/Library/Minskij_Listok/Minskij_Listok_1886_06.pdf"
+            },
+            "\n\n31 минувшаго марта в лесу имения ",
+            {
+                "type": "bold",
+                "text": "Сержкутова"
+            },
+            ", Зембинской волости, 2 стана, найден повесившимся житель деревни ",
+            {
+                "type": "bold",
+                "text": "Зарембы "
+            },
+            "той-же волости, Борисовский мещанин Василий Романов ",
+            {
+                "type": "bold",
+                "text": "Глушанин"
+            },
+            ", имевший от роду 40 л. Причина самоубийства положительное неимение средств к поддержанию существования себя и своего семейства"
+        ],
+        "text_entities": [
+            {
+                "type": "text_link",
+                "text": "Минскій Листокъ №6 / 1886",
+                "href": "https://syrakomla.org/Library/Minskij_Listok/Minskij_Listok_1886_06.pdf"
+            },
+            {
+                "type": "plain",
+                "text": "\n\n31 минувшаго марта в лесу имения "
+            },
+            {
+                "type": "bold",
+                "text": "Сержкутова"
+            },
+            {
+                "type": "plain",
+                "text": ", Зембинской волости, 2 стана, найден повесившимся житель деревни "
+            },
+            {
+                "type": "bold",
+                "text": "Зарембы "
+            },
+            {
+                "type": "plain",
+                "text": "той-же волости, Борисовский мещанин Василий Романов "
+            },
+            {
+                "type": "bold",
+                "text": "Глушанин"
+            },
+            {
+                "type": "plain",
+                "text": ", имевший от роду 40 л. Причина самоубийства положительное неимение средств к поддержанию существования себя и своего семейства"
+            }
+        ]
+    },
+    {
+        "id": 6230,
+        "type": "message",
+        "date": "2024-12-23T15:09:42",
+        "date_unixtime": "1734955782",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 1351,
+        "text": "Dzień dobry,\nMam pytanie, na które tylko siła grupy może pomóc.\nMoja prababcia Anna Oleszkiewicz z domu Myćko, urodziła się 25.02 1902 ( jak wynika z odpisu aktu urodzenia) wieś Łogi  gmina Ziembin powiat Borysów województwo Łohojsk. Nie mam totalnie informacji odnośnie rodzeństwa prababci a wiem że miała. Rodzice prababci: Arciemiusz Myćko i Agata Worońko. Była środkowym dzieckiem więc zakładam że rodzice mogli brać ślub kilka lat wcześniej.\nMoje pytanie do Was drodzy grupowicze, gdzie szukać ich aktu ślubu? Wiem, nie mam dat. Ale może parafia będzie pomocna tylko która? Ziembin? Borysów ? Może ktoś ma nazwisko Myćko i Worońko w swoim drzewie? Pozdrawiam\n\nОт Каролины",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Dzień dobry,\nMam pytanie, na które tylko siła grupy może pomóc.\nMoja prababcia Anna Oleszkiewicz z domu Myćko, urodziła się 25.02 1902 ( jak wynika z odpisu aktu urodzenia) wieś Łogi  gmina Ziembin powiat Borysów województwo Łohojsk. Nie mam totalnie informacji odnośnie rodzeństwa prababci a wiem że miała. Rodzice prababci: Arciemiusz Myćko i Agata Worońko. Była środkowym dzieckiem więc zakładam że rodzice mogli brać ślub kilka lat wcześniej.\nMoje pytanie do Was drodzy grupowicze, gdzie szukać ich aktu ślubu? Wiem, nie mam dat. Ale może parafia będzie pomocna tylko która? Ziembin? Borysów ? Może ktoś ma nazwisko Myćko i Worońko w swoim drzewie? Pozdrawiam\n\nОт Каролины"
+            }
+        ]
+    }
+]

@@ -1,0 +1,3262 @@
+[
+    {
+        "id": 1365,
+        "type": "message",
+        "date": "2023-07-28T21:19:53",
+        "date_unixtime": "1690568393",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 762,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1366,
+        "type": "message",
+        "date": "2023-07-28T21:19:53",
+        "date_unixtime": "1690568393",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Если кого-то интересует тема финской войны могу глянуть Ваши фамилии",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Если кого-то интересует тема финской войны могу глянуть Ваши фамилии"
+            }
+        ]
+    },
+    {
+        "id": 1367,
+        "type": "message",
+        "date": "2023-07-28T21:27:05",
+        "date_unixtime": "1690568825",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "adr",
+        "reply_to_message_id": 1364,
+        "text": [
+            "Калі ласка, прозьвішчы ",
+            {
+                "type": "hashtag",
+                "text": "#Марчанка"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Пшонка"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Агеенка"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#Хамічонак"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Калі ласка, прозьвішчы "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Марчанка"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Пшонка"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Агеенка"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#Хамічонак"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "id": 1368,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "edited": "2023-10-12T13:53:46",
+        "edited_unixtime": "1697108026",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 821,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Елена Мороз",
+                        "from_id": "user5085994349",
+                        "date": "2023-10-12T13:53:46"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1369,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 795,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1370,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 809,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1371,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1052,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1372,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Валентина Марченко Психолог",
+        "reply_to_message_id": 1364,
+        "text": [
+            {
+                "type": "mention_name",
+                "text": "Виктория",
+                "user_id": 1245099187
+            },
+            " а можете посмотреть фамилии Авчинников, Комоско, Зуенок?"
+        ],
+        "text_entities": [
+            {
+                "type": "mention_name",
+                "text": "Виктория",
+                "user_id": 1245099187
+            },
+            {
+                "type": "plain",
+                "text": " а можете посмотреть фамилии Авчинников, Комоско, Зуенок?"
+            }
+        ]
+    },
+    {
+        "id": 1373,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Фамилии Ха(о)мичонок нет в книге",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Фамилии Ха(о)мичонок нет в книге"
+            }
+        ]
+    },
+    {
+        "id": 1374,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 792,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1375,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 827,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1376,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Mila",
+        "reply_to_message_id": 1364,
+        "text": "Добрый день, посмотрите, пожалуйста Акулич/Окулич/Новославский/Дрозд/Адамович🙏",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день, посмотрите, пожалуйста Акулич/Окулич/Новославский/Дрозд/Адамович🙏"
+            }
+        ]
+    },
+    {
+        "id": 1377,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "I m",
+        "reply_to_message_id": 1364,
+        "text": "Добрый день,Виктория.Посмотрите пожалуйста Лукин/Козловский.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день,Виктория.Посмотрите пожалуйста Лукин/Козловский."
+            }
+        ]
+    },
+    {
+        "id": 1378,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 790,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1379,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Федорова Лариса",
+        "reply_to_message_id": 1364,
+        "text": "А Тарасевич есть?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А Тарасевич есть?"
+            }
+        ]
+    },
+    {
+        "id": 1380,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 817,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1381,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 838,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1382,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Адамович нет",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Адамович нет"
+            }
+        ]
+    },
+    {
+        "id": 1383,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 754,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1384,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Дрозды",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Дрозды"
+            }
+        ]
+    },
+    {
+        "id": 1385,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 789,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1386,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 837,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1387,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1376,
+        "text": "Новославских нет",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Новославских нет"
+            }
+        ]
+    },
+    {
+        "id": 1388,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Чысты Гуманітарый",
+        "reply_to_message_id": 1364,
+        "text": "Посмотрите, пожалуйста, Ковалёв Григорий.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Посмотрите, пожалуйста, Ковалёв Григорий."
+            }
+        ]
+    },
+    {
+        "id": 1389,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Козловский",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Козловский"
+            }
+        ]
+    },
+    {
+        "id": 1390,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 800,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1391,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 855,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1392,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 762,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1393,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 811,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1394,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Лукин",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Лукин"
+            }
+        ]
+    },
+    {
+        "id": 1395,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 791,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1396,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Тарасевичи",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Тарасевичи"
+            }
+        ]
+    },
+    {
+        "id": 1397,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 773,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1398,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 824,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1399,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "SVETLANA",
+        "reply_to_message_id": 1364,
+        "text": "Добрый день! Колосовские, Чубковы, сосновские, головневы и Жуковы! Буду благодарна если посмотрите. Спасибо!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день! Колосовские, Чубковы, сосновские, головневы и Жуковы! Буду благодарна если посмотрите. Спасибо!"
+            }
+        ]
+    },
+    {
+        "id": 1400,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Ковалев есть Георгий или Коваленко Григорий",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ковалев есть Георгий или Коваленко Григорий"
+            }
+        ]
+    },
+    {
+        "id": 1401,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 785,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1402,
+        "type": "message",
+        "date": "2023-07-28T21:27:06",
+        "date_unixtime": "1690568826",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 828,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1403,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 929,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1404,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 830,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1405,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 824,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1406,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Людмила",
+        "reply_to_message_id": 1364,
+        "text": "Повторю свою просьбу.  Посмотрите, пожалуйста,  Корнюшко",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Повторю свою просьбу.  Посмотрите, пожалуйста,  Корнюшко"
+            }
+        ]
+    },
+    {
+        "id": 1407,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Колосовский нет",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Колосовский нет"
+            }
+        ]
+    },
+    {
+        "id": 1408,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 828,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1409,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 792,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1410,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Чубковых нет",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Чубковых нет"
+            }
+        ]
+    },
+    {
+        "id": 1411,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Сосновские",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сосновские"
+            }
+        ]
+    },
+    {
+        "id": 1412,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 773,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1413,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "бурный поток",
+        "reply_to_message_id": 1364,
+        "text": "Прошу прощения за беспокойство. Можно глянуть:  Хотченок, Хадченок и Урбанович",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Прошу прощения за беспокойство. Можно глянуть:  Хотченок, Хадченок и Урбанович"
+            }
+        ]
+    },
+    {
+        "id": 1414,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 767,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1415,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Halina",
+        "reply_to_message_id": 1364,
+        "text": "А посмотрите пожалуйста и мои фамилии. Красовский, Петраковский и Кравченко",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А посмотрите пожалуйста и мои фамилии. Красовский, Петраковский и Кравченко"
+            }
+        ]
+    },
+    {
+        "id": 1416,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Головневых нет",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Головневых нет"
+            }
+        ]
+    },
+    {
+        "id": 1417,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 792,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1418,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Жуковы",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Жуковы"
+            }
+        ]
+    },
+    {
+        "id": 1419,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 767,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1420,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 821,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1421,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 818,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1422,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1406,
+        "text": "Корнюшко нет, есть только Корнушенко",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Корнюшко нет, есть только Корнушенко"
+            }
+        ]
+    },
+    {
+        "id": 1423,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 788,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1424,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 908,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1425,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 908,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1426,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 848,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1427,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1056,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1428,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 780,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1429,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 872,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1430,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Автор книги Литвин Алексей Михайлович",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Автор книги Литвин Алексей Михайлович"
+            }
+        ]
+    },
+    {
+        "id": 1431,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Я в 2011 году с ним разговаривала о том, что в этой книге не все участники. Он сказал, что список не полный. Если у кого-то из Вас есть сведения об участнике советско-финской войны, то ему можно прислать данные. При переиздании книги могут добавить в списки и Вашего родственника.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я в 2011 году с ним разговаривала о том, что в этой книге не все участники. Он сказал, что список не полный. Если у кого-то из Вас есть сведения об участнике советско-финской войны, то ему можно прислать данные. При переиздании книги могут добавить в списки и Вашего родственника."
+            }
+        ]
+    },
+    {
+        "id": 1432,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Хотченок и Хадченок нет, есть Хочанкович",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Хотченок и Хадченок нет, есть Хочанкович"
+            }
+        ]
+    },
+    {
+        "id": 1433,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 778,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1434,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Урбанович",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Урбанович"
+            }
+        ]
+    },
+    {
+        "id": 1435,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Возможно и так, но можно и написать официально",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Возможно и так, но можно и написать официально"
+            }
+        ]
+    },
+    {
+        "id": 1436,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Красовский",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Красовский"
+            }
+        ]
+    },
+    {
+        "id": 1437,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 787,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1438,
+        "type": "message",
+        "date": "2023-07-28T21:27:07",
+        "date_unixtime": "1690568827",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 771,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1439,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Кравченко",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Кравченко"
+            }
+        ]
+    },
+    {
+        "id": 1440,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 777,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1441,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Петраковских нет",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Петраковских нет"
+            }
+        ]
+    },
+    {
+        "id": 1442,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 806,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1443,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 886,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1444,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 781,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1445,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Есть есть Суботка Иван Иванович",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Есть есть Суботка Иван Иванович"
+            }
+        ]
+    },
+    {
+        "id": 1446,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Чысты Гуманітарый",
+        "reply_to_message_id": 1364,
+        "text": "А вдруг есть Гламбоцкие/Глэмбоцкие. Борисовские как раз. Вариант -Кламбоцкие. Смотрю,  что встречается эта вариация.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А вдруг есть Гламбоцкие/Глэмбоцкие. Борисовские как раз. Вариант -Кламбоцкие. Смотрю,  что встречается эта вариация."
+            }
+        ]
+    },
+    {
+        "id": 1447,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 769,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1448,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Бируля",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Бируля"
+            }
+        ]
+    },
+    {
+        "id": 1449,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 821,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1450,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Бя(е)лыницких нет",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Бя(е)лыницких нет"
+            }
+        ]
+    },
+    {
+        "id": 1451,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Гла (э)мбоцких нет, Кла(е)мбоцких так же нет",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Гла (э)мбоцких нет, Кла(е)мбоцких так же нет"
+            }
+        ]
+    },
+    {
+        "id": 1452,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "maria_roos_petersburg",
+        "reply_to_message_id": 1364,
+        "text": "Прсмотрите, пожалуйста, Федюкович.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Прсмотрите, пожалуйста, Федюкович."
+            }
+        ]
+    },
+    {
+        "id": 1453,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1452,
+        "text": "Федюков",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Федюков"
+            }
+        ]
+    },
+    {
+        "id": 1454,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 755,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1455,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "R-M269",
+        "reply_to_message_id": 1364,
+        "text": [
+            {
+                "type": "mention_name",
+                "text": "Виктория",
+                "user_id": 1245099187
+            },
+            " а можно фамилии: Галуза, Липницкий"
+        ],
+        "text_entities": [
+            {
+                "type": "mention_name",
+                "text": "Виктория",
+                "user_id": 1245099187
+            },
+            {
+                "type": "plain",
+                "text": " а можно фамилии: Галуза, Липницкий"
+            }
+        ]
+    },
+    {
+        "id": 1456,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Dmitry Lonshakov",
+        "reply_to_message_id": 1364,
+        "text": "А еще фамилию Петрович, если не затруднит🙂",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А еще фамилию Петрович, если не затруднит🙂"
+            }
+        ]
+    },
+    {
+        "id": 1457,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Nataly",
+        "reply_to_message_id": 1364,
+        "text": "Посмотрите, пожалуйста, Гнедов, Гнедовский",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Посмотрите, пожалуйста, Гнедов, Гнедовский"
+            }
+        ]
+    },
+    {
+        "id": 1458,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Галуза",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Галуза"
+            }
+        ]
+    },
+    {
+        "id": 1459,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 813,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1460,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 858,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1461,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Липницкий",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Липницкий"
+            }
+        ]
+    },
+    {
+        "id": 1462,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 745,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1463,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Петрович",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Петрович"
+            }
+        ]
+    },
+    {
+        "id": 1464,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 826,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1465,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 734,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1466,
+        "type": "message",
+        "date": "2023-07-28T21:27:08",
+        "date_unixtime": "1690568828",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "text": "Гнедов",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Гнедов"
+            }
+        ]
+    },
+    {
+        "id": 1683,
+        "type": "message",
+        "date": "2023-08-06T21:17:11",
+        "date_unixtime": "1691345831",
+        "from": "Alexandr",
+        "from_id": "user290278902",
+        "reply_to_message_id": 1364,
+        "text": "Добрый день, можете посмотреть  фамилию \nМигаль / Мигель",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день, можете посмотреть  фамилию \nМигаль / Мигель"
+            }
+        ]
+    },
+    {
+        "id": 1684,
+        "type": "message",
+        "date": "2023-08-06T22:41:36",
+        "date_unixtime": "1691350896",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1466,
+        "text": "Гнедов",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Гнедов"
+            }
+        ]
+    },
+    {
+        "id": 1685,
+        "type": "message",
+        "date": "2023-08-06T22:42:35",
+        "date_unixtime": "1691350955",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 786,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1686,
+        "type": "message",
+        "date": "2023-08-06T22:43:43",
+        "date_unixtime": "1691351023",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1683,
+        "text": "Нет по фамилии Мигаль/Мигель",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Нет по фамилии Мигаль/Мигель"
+            }
+        ]
+    },
+    {
+        "id": 1687,
+        "type": "message",
+        "date": "2023-08-06T22:44:37",
+        "date_unixtime": "1691351077",
+        "from": "Alexandr",
+        "from_id": "user290278902",
+        "reply_to_message_id": 1686,
+        "text": "может есть Потёмкин?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "может есть Потёмкин?"
+            }
+        ]
+    },
+    {
+        "id": 1688,
+        "type": "message",
+        "date": "2023-08-06T22:44:40",
+        "date_unixtime": "1691351080",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 815,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1689,
+        "type": "message",
+        "date": "2023-08-07T04:34:52",
+        "date_unixtime": "1691372092",
+        "from": "Наталья Гаганина. Репетитор по русскому языку",
+        "from_id": "user494321603",
+        "reply_to_message_id": 1688,
+        "text": "Здравствуйте. Фамилию Устин посмотрите, пожалуйста 🙏",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте. Фамилию Устин посмотрите, пожалуйста 🙏"
+            }
+        ]
+    },
+    {
+        "id": 1695,
+        "type": "message",
+        "date": "2023-08-08T19:18:54",
+        "date_unixtime": "1691511534",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "text": "Потёмкин",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Потёмкин"
+            }
+        ]
+    },
+    {
+        "id": 1696,
+        "type": "message",
+        "date": "2023-08-08T19:19:48",
+        "date_unixtime": "1691511588",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 775,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1697,
+        "type": "message",
+        "date": "2023-08-08T19:20:46",
+        "date_unixtime": "1691511646",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "text": "Устин нет, а Устинов есть",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Устин нет, а Устинов есть"
+            }
+        ]
+    },
+    {
+        "id": 1698,
+        "type": "message",
+        "date": "2023-08-08T19:21:17",
+        "date_unixtime": "1691511677",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 833,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1699,
+        "type": "message",
+        "date": "2023-08-08T19:46:21",
+        "date_unixtime": "1691513181",
+        "from": "Наталья Гаганина. Репетитор по русскому языку",
+        "from_id": "user494321603",
+        "reply_to_message_id": 1697,
+        "text": "Спасибо большое 🤝",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо большое 🤝"
+            }
+        ]
+    },
+    {
+        "id": 1700,
+        "type": "message",
+        "date": "2023-08-08T19:47:13",
+        "date_unixtime": "1691513233",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1699,
+        "text": "Пожалуйста 💐",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Пожалуйста 💐"
+            }
+        ]
+    },
+    {
+        "id": 1701,
+        "type": "message",
+        "date": "2023-08-09T00:01:07",
+        "date_unixtime": "1691528467",
+        "from": "Alexandr",
+        "from_id": "user290278902",
+        "reply_to_message_id": 1696,
+        "text": "Спасибо огромное",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо огромное"
+            }
+        ]
+    },
+    {
+        "id": 1702,
+        "type": "message",
+        "date": "2023-08-09T00:37:21",
+        "date_unixtime": "1691530641",
+        "from": "Kirill Zakharenko",
+        "from_id": "user5241485678",
+        "reply_to_message_id": 1364,
+        "text": "Здравствуйте! Если несложно, посмотрите, пожалуйста, фамилию Захаренко (или Захаренков).",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте! Если несложно, посмотрите, пожалуйста, фамилию Захаренко (или Захаренков)."
+            }
+        ]
+    },
+    {
+        "id": 1704,
+        "type": "message",
+        "date": "2023-08-09T18:50:00",
+        "date_unixtime": "1691596200",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "text": "Захаренко",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Захаренко"
+            }
+        ]
+    },
+    {
+        "id": 1705,
+        "type": "message",
+        "date": "2023-08-09T18:50:54",
+        "date_unixtime": "1691596254",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 791,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1706,
+        "type": "message",
+        "date": "2023-08-09T23:46:49",
+        "date_unixtime": "1691614009",
+        "from": "Kirill Zakharenko",
+        "from_id": "user5241485678",
+        "reply_to_message_id": 1364,
+        "text": "Большое спасибо!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Большое спасибо!"
+            }
+        ]
+    },
+    {
+        "id": 1808,
+        "type": "message",
+        "date": "2023-09-17T06:46:37",
+        "date_unixtime": "1694922397",
+        "from": "Людмила",
+        "from_id": "user476588018",
+        "reply_to_message_id": 1366,
+        "text": "Очень интересует.  Писать можно сюда?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Очень интересует.  Писать можно сюда?"
+            }
+        ]
+    },
+    {
+        "id": 1809,
+        "type": "message",
+        "date": "2023-09-17T06:49:50",
+        "date_unixtime": "1694922590",
+        "from": "Людмила",
+        "from_id": "user476588018",
+        "reply_to_message_id": 1364,
+        "text": "Горенок (Горенков) Еремей Максимович",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Горенок (Горенков) Еремей Максимович"
+            }
+        ]
+    },
+    {
+        "id": 1889,
+        "type": "message",
+        "date": "2023-10-12T13:54:41",
+        "date_unixtime": "1697108081",
+        "from": "Елена Мороз",
+        "from_id": "user5085994349",
+        "reply_to_message_id": 1364,
+        "text": "Здравствуйте! Посмотрите, пожалуйста, фамилии: Важник",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте! Посмотрите, пожалуйста, фамилии: Важник"
+            }
+        ]
+    },
+    {
+        "id": 1894,
+        "type": "message",
+        "date": "2023-10-12T14:39:19",
+        "date_unixtime": "1697110759",
+        "edited": "2023-10-12T22:32:43",
+        "edited_unixtime": "1697139163",
+        "from": "Alena",
+        "from_id": "user435143220",
+        "reply_to_message_id": 1364,
+        "text": "Здравствуйте,\nОсипович Сергей Зосимович, но может быть и Иосифович или Осипович. \nСпасибо большое",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте,\nОсипович Сергей Зосимович, но может быть и Иосифович или Осипович. \nСпасибо большое"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Федорова Лариса",
+                        "from_id": "user732840164",
+                        "date": "2023-10-12T22:32:43"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1906,
+        "type": "message",
+        "date": "2023-10-13T13:47:09",
+        "date_unixtime": "1697194029",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1809,
+        "text": "Еремея нет Горенкова",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Еремея нет Горенкова"
+            }
+        ]
+    },
+    {
+        "id": 1907,
+        "type": "message",
+        "date": "2023-10-13T14:43:42",
+        "date_unixtime": "1697197422",
+        "from": "Людмила",
+        "from_id": "user476588018",
+        "reply_to_message_id": 1906,
+        "text": "Спасибо за ответ , не дошла ещё где смена фамилии случилась.но финскую воевал , мог быть записан и как Варфоломей",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо за ответ , не дошла ещё где смена фамилии случилась.но финскую воевал , мог быть записан и как Варфоломей"
+            }
+        ]
+    },
+    {
+        "id": 1912,
+        "type": "message",
+        "date": "2023-10-13T20:17:22",
+        "date_unixtime": "1697217442",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 768,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1913,
+        "type": "message",
+        "date": "2023-10-13T20:17:22",
+        "date_unixtime": "1697217442",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 793,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1914,
+        "type": "message",
+        "date": "2023-10-13T20:18:27",
+        "date_unixtime": "1697217507",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1889,
+        "text": "Важник нет в книге",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Важник нет в книге"
+            }
+        ]
+    },
+    {
+        "id": 1915,
+        "type": "message",
+        "date": "2023-10-13T20:19:08",
+        "date_unixtime": "1697217548",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 739,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1917,
+        "type": "message",
+        "date": "2023-10-13T20:21:36",
+        "date_unixtime": "1697217696",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1894,
+        "text": "Осиповича Сергея нет",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Осиповича Сергея нет"
+            }
+        ]
+    },
+    {
+        "id": 1918,
+        "type": "message",
+        "date": "2023-10-13T20:21:53",
+        "date_unixtime": "1697217713",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 827,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1919,
+        "type": "message",
+        "date": "2023-10-13T20:21:59",
+        "date_unixtime": "1697217719",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 776,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 1920,
+        "type": "message",
+        "date": "2023-10-13T20:22:14",
+        "date_unixtime": "1697217734",
+        "from": "Alena",
+        "from_id": "user435143220",
+        "reply_to_message_id": 1917,
+        "text": "Спасибо!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо!"
+            }
+        ]
+    },
+    {
+        "id": 1921,
+        "type": "message",
+        "date": "2023-10-13T20:23:25",
+        "date_unixtime": "1697217805",
+        "edited": "2023-10-13T20:24:58",
+        "edited_unixtime": "1697217898",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1920,
+        "text": "Есть Асипович С.И.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Есть Асипович С.И."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Alena",
+                        "from_id": "user435143220",
+                        "date": "2023-10-13T20:24:58"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1923,
+        "type": "message",
+        "date": "2023-10-13T20:23:52",
+        "date_unixtime": "1697217832",
+        "edited": "2023-10-13T20:24:48",
+        "edited_unixtime": "1697217888",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 771,
+        "height": 1280,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Alena",
+                        "from_id": "user435143220",
+                        "date": "2023-10-13T20:24:48"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3246,
+        "type": "message",
+        "date": "2024-02-08T13:59:44",
+        "date_unixtime": "1707389984",
+        "from": "Aleś Piminaŭ",
+        "from_id": "user5878633696",
+        "reply_to_message_id": 1364,
+        "text": "Калі ласка, прозьвішчы Казлоў, Клібанаў, Каждан, Мацкевіч, Пімі(е)наў, Прышчэп(аў). Дзякуй 🙏",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Калі ласка, прозьвішчы Казлоў, Клібанаў, Каждан, Мацкевіч, Пімі(е)наў, Прышчэп(аў). Дзякуй 🙏"
+            }
+        ]
+    },
+    {
+        "id": 3457,
+        "type": "message",
+        "date": "2024-02-13T00:13:29",
+        "date_unixtime": "1707772409",
+        "from": "Николай",
+        "from_id": "user1282448764",
+        "reply_to_message_id": 1364,
+        "text": "Фамилия Шилович, посмотрите пожалуйста. Родом из Михеек Слуцкого района может будет?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Фамилия Шилович, посмотрите пожалуйста. Родом из Михеек Слуцкого района может будет?"
+            }
+        ]
+    },
+    {
+        "id": 3595,
+        "type": "message",
+        "date": "2024-03-16T14:05:39",
+        "date_unixtime": "1710587139",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "text": "Козлов",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Козлов"
+            }
+        ]
+    },
+    {
+        "id": 3596,
+        "type": "message",
+        "date": "2024-03-16T14:06:14",
+        "date_unixtime": "1710587174",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 741,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 3597,
+        "type": "message",
+        "date": "2024-03-16T14:06:14",
+        "date_unixtime": "1710587174",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 761,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 3598,
+        "type": "message",
+        "date": "2024-03-16T14:06:14",
+        "date_unixtime": "1710587174",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 811,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 3599,
+        "type": "message",
+        "date": "2024-03-16T14:07:09",
+        "date_unixtime": "1710587229",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 836,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 3600,
+        "type": "message",
+        "date": "2024-03-16T14:07:17",
+        "date_unixtime": "1710587237",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "text": "Клебановы",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Клебановы"
+            }
+        ]
+    },
+    {
+        "id": 3601,
+        "type": "message",
+        "date": "2024-03-16T14:07:27",
+        "date_unixtime": "1710587247",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 823,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 3602,
+        "type": "message",
+        "date": "2024-03-16T14:08:18",
+        "date_unixtime": "1710587298",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "text": "Кажан",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Кажан"
+            }
+        ]
+    },
+    {
+        "id": 3603,
+        "type": "message",
+        "date": "2024-03-16T14:08:29",
+        "date_unixtime": "1710587309",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 793,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 3604,
+        "type": "message",
+        "date": "2024-03-16T14:09:25",
+        "date_unixtime": "1710587365",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "text": "Мацкевич",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мацкевич"
+            }
+        ]
+    },
+    {
+        "id": 3605,
+        "type": "message",
+        "date": "2024-03-16T14:09:33",
+        "date_unixtime": "1710587373",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 811,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 3606,
+        "type": "message",
+        "date": "2024-03-16T14:10:58",
+        "date_unixtime": "1710587458",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "text": "Пима(о)нов",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Пима(о)нов"
+            }
+        ]
+    },
+    {
+        "id": 3607,
+        "type": "message",
+        "date": "2024-03-16T14:11:27",
+        "date_unixtime": "1710587487",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 816,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 3608,
+        "type": "message",
+        "date": "2024-03-16T14:12:32",
+        "date_unixtime": "1710587552",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "text": "Прищепов",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Прищепов"
+            }
+        ]
+    },
+    {
+        "id": 3609,
+        "type": "message",
+        "date": "2024-03-16T14:13:04",
+        "date_unixtime": "1710587584",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 778,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 3610,
+        "type": "message",
+        "date": "2024-03-16T14:14:13",
+        "date_unixtime": "1710587653",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 3457,
+        "text": "Шилович",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Шилович"
+            }
+        ]
+    },
+    {
+        "id": 3611,
+        "type": "message",
+        "date": "2024-03-16T14:14:49",
+        "date_unixtime": "1710587689",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 834,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 3612,
+        "type": "message",
+        "date": "2024-03-16T14:15:47",
+        "date_unixtime": "1710587747",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 912,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 3613,
+        "type": "message",
+        "date": "2024-03-16T14:52:37",
+        "date_unixtime": "1710589957",
+        "from": "Aleś Piminaŭ",
+        "from_id": "user5878633696",
+        "reply_to_message_id": 1364,
+        "text": "Дзякуй!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Дзякуй!"
+            }
+        ]
+    },
+    {
+        "id": 3614,
+        "type": "message",
+        "date": "2024-03-16T17:22:22",
+        "date_unixtime": "1710598942",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 3613,
+        "text": "❤️",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "❤️"
+            }
+        ]
+    },
+    {
+        "id": 3633,
+        "type": "message",
+        "date": "2024-03-16T21:26:52",
+        "date_unixtime": "1710613612",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 912,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 3634,
+        "type": "message",
+        "date": "2024-03-16T21:26:53",
+        "date_unixtime": "1710613613",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Виктория Савич",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 739,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 3697,
+        "type": "message",
+        "date": "2024-03-17T08:04:50",
+        "date_unixtime": "1710651890",
+        "from": "SVETLANA",
+        "from_id": "user955925828",
+        "reply_to_message_id": 3612,
+        "text": "А в этой книге есть Суботко И И?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А в этой книге есть Суботко И И?"
+            }
+        ]
+    },
+    {
+        "id": 3702,
+        "type": "message",
+        "date": "2024-03-17T12:58:35",
+        "date_unixtime": "1710669515",
+        "from": "Юп",
+        "from_id": "user833570992",
+        "reply_to_message_id": 1364,
+        "text": "И, пожалуйста, Лойко",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И, пожалуйста, Лойко"
+            }
+        ]
+    },
+    {
+        "id": 4161,
+        "type": "message",
+        "date": "2024-08-24T16:56:19",
+        "date_unixtime": "1724507779",
+        "from": "Tatsiana",
+        "from_id": "user549859830",
+        "reply_to_message_id": 1364,
+        "text": "Добрый день, чат ещё действует?  Хотела бы посмотреть фамилии Соболевский и Дашкевич",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день, чат ещё действует?  Хотела бы посмотреть фамилии Соболевский и Дашкевич"
+            }
+        ]
+    },
+    {
+        "id": 4162,
+        "type": "message",
+        "date": "2024-08-24T16:59:11",
+        "date_unixtime": "1724507951",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "text": "Суботка",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Суботка"
+            }
+        ]
+    },
+    {
+        "id": 4163,
+        "type": "message",
+        "date": "2024-08-24T16:59:20",
+        "date_unixtime": "1724507960",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1053,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 4164,
+        "type": "message",
+        "date": "2024-08-24T17:01:28",
+        "date_unixtime": "1724508088",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "text": "Лойко",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Лойко"
+            }
+        ]
+    },
+    {
+        "id": 4165,
+        "type": "message",
+        "date": "2024-08-24T17:01:36",
+        "date_unixtime": "1724508096",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 1280,
+        "height": 761,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 4166,
+        "type": "message",
+        "date": "2024-08-24T17:02:48",
+        "date_unixtime": "1724508168",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "text": "Соболевский",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Соболевский"
+            }
+        ]
+    },
+    {
+        "id": 4167,
+        "type": "message",
+        "date": "2024-08-24T17:02:55",
+        "date_unixtime": "1724508175",
+        "edited": "2024-08-24T17:03:01",
+        "edited_unixtime": "1724508181",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 778,
+        "height": 1280,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Виктория Савич",
+                        "from_id": "user1245099187",
+                        "date": "2024-08-24T17:03:01"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4168,
+        "type": "message",
+        "date": "2024-08-24T17:04:03",
+        "date_unixtime": "1724508243",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "text": "Дашкевич",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Дашкевич"
+            }
+        ]
+    },
+    {
+        "id": 4169,
+        "type": "message",
+        "date": "2024-08-24T17:04:10",
+        "date_unixtime": "1724508250",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 785,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 4170,
+        "type": "message",
+        "date": "2024-08-24T17:08:26",
+        "date_unixtime": "1724508506",
+        "from": "Tatsiana",
+        "from_id": "user549859830",
+        "reply_to_message_id": 1364,
+        "text": "Спасибо!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо!"
+            }
+        ]
+    },
+    {
+        "id": 4171,
+        "type": "message",
+        "date": "2024-08-24T17:10:45",
+        "date_unixtime": "1724508645",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "text": "Пожалуйста 🌹",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Пожалуйста 🌹"
+            }
+        ]
+    },
+    {
+        "id": 4172,
+        "type": "message",
+        "date": "2024-08-24T17:22:13",
+        "date_unixtime": "1724509333",
+        "from": null,
+        "from_id": "user75433030",
+        "reply_to_message_id": 1364,
+        "text": "Посмотрите, пожалуйста Казак(Козак)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Посмотрите, пожалуйста Казак(Козак)"
+            }
+        ]
+    },
+    {
+        "id": 4173,
+        "type": "message",
+        "date": "2024-08-24T17:23:44",
+        "date_unixtime": "1724509424",
+        "edited": "2024-08-24T18:39:33",
+        "edited_unixtime": "1724513973",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "text": "Казак",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Казак"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": null,
+                        "from_id": "user75433030",
+                        "date": "2024-08-24T18:39:33"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4174,
+        "type": "message",
+        "date": "2024-08-24T17:23:59",
+        "date_unixtime": "1724509439",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 841,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 4175,
+        "type": "message",
+        "date": "2024-08-24T17:23:59",
+        "date_unixtime": "1724509439",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 792,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    {
+        "id": 4176,
+        "type": "message",
+        "date": "2024-08-24T18:38:26",
+        "date_unixtime": "1724513906",
+        "from": "Юп",
+        "from_id": "user833570992",
+        "reply_to_message_id": 1364,
+        "text": "Дзякуй за Лойкаў!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Дзякуй за Лойкаў!"
+            }
+        ]
+    },
+    {
+        "id": 4177,
+        "type": "message",
+        "date": "2024-08-24T18:50:05",
+        "date_unixtime": "1724514605",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1364,
+        "text": "Пожалуйста 🌷",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Пожалуйста 🌷"
+            }
+        ]
+    },
+    {
+        "id": 4178,
+        "type": "message",
+        "date": "2024-08-24T20:14:58",
+        "date_unixtime": "1724519698",
+        "from": "Anna",
+        "from_id": "user973891755",
+        "reply_to_message_id": 1366,
+        "text": "Здравствуйте. \nИвинский Иван Иванович, посмотрите , пожалуйста",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте. \nИвинский Иван Иванович, посмотрите , пожалуйста"
+            }
+        ]
+    },
+    {
+        "id": 4189,
+        "type": "message",
+        "date": "2024-08-25T08:39:21",
+        "date_unixtime": "1724564361",
+        "from": "Iryna",
+        "from_id": "user351417442",
+        "reply_to_message_id": 1366,
+        "text": "Здравствуйте. Посмотрите, пожалуйста, фамилии Юзефович и Сапранович",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте. Посмотрите, пожалуйста, фамилии Юзефович и Сапранович"
+            }
+        ]
+    },
+    {
+        "id": 4235,
+        "type": "message",
+        "date": "2024-08-29T03:25:44",
+        "date_unixtime": "1724891144",
+        "from": "O",
+        "from_id": "user5175297648",
+        "reply_to_message_id": 1364,
+        "text": "Здравствуйте, извините за беспокойство.Посмотрите пожалуйста фамилию Петрунин Алексей. Очень Вам благодарна.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте, извините за беспокойство.Посмотрите пожалуйста фамилию Петрунин Алексей. Очень Вам благодарна."
+            }
+        ]
+    },
+    {
+        "id": 4282,
+        "type": "message",
+        "date": "2024-09-17T09:11:42",
+        "date_unixtime": "1726553502",
+        "from": "SVETLANA",
+        "from_id": "user955925828",
+        "reply_to_message_id": 4163,
+        "text": "Мой дедушка, только он Илья Иванович, как исправить не знаю. Везде он как Иван. Он перезахоронен в Братскую могилу с погибшими во время 2 ВОВ в Выборге",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мой дедушка, только он Илья Иванович, как исправить не знаю. Везде он как Иван. Он перезахоронен в Братскую могилу с погибшими во время 2 ВОВ в Выборге"
+            }
+        ]
+    },
+    {
+        "id": 4338,
+        "type": "message",
+        "date": "2024-10-07T06:05:09",
+        "date_unixtime": "1728270309",
+        "edited": "2024-10-08T04:18:34",
+        "edited_unixtime": "1728350314",
+        "from": "Вячеслав",
+        "from_id": "user1546424735",
+        "reply_to_message_id": 1364,
+        "text": "Здравствуйте! Посмотрите, пожалуйста, есть Жерновские, Пацкевич, Пипко, Мащенко (Мащенок), Цаплин?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте! Посмотрите, пожалуйста, есть Жерновские, Пацкевич, Пипко, Мащенко (Мащенок), Цаплин?"
+            }
+        ]
+    },
+    {
+        "id": 6159,
+        "type": "message",
+        "date": "2024-12-09T09:47:13",
+        "date_unixtime": "1733726833",
+        "edited": "2024-12-09T09:47:49",
+        "edited_unixtime": "1733726869",
+        "from": "Наталья Сидорова",
+        "from_id": "user742859835",
+        "reply_to_message_id": 1366,
+        "text": "Здравствуйте! Не могли бы вы, пожалуйста, посмотреть Савицкие и Ка(о)моцкий 🙏🏻",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте! Не могли бы вы, пожалуйста, посмотреть Савицкие и Ка(о)моцкий 🙏🏻"
+            }
+        ]
+    },
+    {
+        "id": 6161,
+        "type": "message",
+        "date": "2024-12-09T09:57:50",
+        "date_unixtime": "1733727470",
+        "edited": "2024-12-09T10:04:20",
+        "edited_unixtime": "1733727860",
+        "from": "Gojya",
+        "from_id": "user1015386111",
+        "reply_to_message_id": 1364,
+        "text": [
+            "Может пригодится и такая книга ?\n\n1996-2005. Книга памяти, справочное издание. Посвящается памяти воинам, погибших и пропавших без вести в период советско-финляндской войны 1939-1940 гг., Автор: Г.П.Солоницын.\n\nСкачать можно здесь -\n",
+            {
+                "type": "link",
+                "text": "http://book-olds.ru/BookLibrary/00929-2-ya-Mirovaya-voyna-Sovetskaya-Armiya/1996.-Kniga-pamyati-spravochnoe-izdanie.-Posvyaschaetsya-pamyati-voynam-pogibshih-i-propavshih-bez-vesti-v-period-sovestko-finlyandskoy-voynyi-1939-1940-gg.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Может пригодится и такая книга ?\n\n1996-2005. Книга памяти, справочное издание. Посвящается памяти воинам, погибших и пропавших без вести в период советско-финляндской войны 1939-1940 гг., Автор: Г.П.Солоницын.\n\nСкачать можно здесь -\n"
+            },
+            {
+                "type": "link",
+                "text": "http://book-olds.ru/BookLibrary/00929-2-ya-Mirovaya-voyna-Sovetskaya-Armiya/1996.-Kniga-pamyati-spravochnoe-izdanie.-Posvyaschaetsya-pamyati-voynam-pogibshih-i-propavshih-bez-vesti-v-period-sovestko-finlyandskoy-voynyi-1939-1940-gg.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Viktor Lisiczonak",
+                        "from_id": "user997531186",
+                        "date": "2024-12-20T19:01:20"
+                    },
+                    {
+                        "from": "Борисовский уезд Минской губернии",
+                        "from_id": "channel1883536346",
+                        "date": "2024-12-09T10:04:20"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6215,
+        "type": "message",
+        "date": "2024-12-16T22:53:18",
+        "date_unixtime": "1734378798",
+        "from": "Tatsiana",
+        "from_id": "user549859830",
+        "reply_to_message_id": 1364,
+        "text": "Здравствуйте! Посмотрите пожалуйста Белькович 🙏",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте! Посмотрите пожалуйста Белькович 🙏"
+            }
+        ]
+    },
+    {
+        "id": 6216,
+        "type": "message",
+        "date": "2024-12-17T09:05:23",
+        "date_unixtime": "1734415523",
+        "from": "Tatsiana Trezubava-Toporkova",
+        "from_id": "user2013268763",
+        "reply_to_message_id": 1364,
+        "text": "Здравствуйте,  посмотрите пожалуйста Зайцев, Цухло,  Потапчук,  Топорков, Трезубов, Дидковский, Недашковский,Медведев, Баранов,Ганин.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте,  посмотрите пожалуйста Зайцев, Цухло,  Потапчук,  Топорков, Трезубов, Дидковский, Недашковский,Медведев, Баранов,Ганин."
+            }
+        ]
+    }
+]

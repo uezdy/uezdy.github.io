@@ -1,0 +1,1572 @@
+[
+    {
+        "id": 1584,
+        "type": "message",
+        "date": "2023-08-02T13:15:08",
+        "date_unixtime": "1690971308",
+        "edited": "2023-08-02T13:20:28",
+        "edited_unixtime": "1690971628",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "reply_to_message_id": 1197,
+        "text": [
+            "Доброго дня!\nКто сдавал тесты ДНК, информация для вас! \nНа сайте familytreedna (ftdna) создан проект для тех, чьи предки проживали в Бобрской, Павловичской, Ухвальской, Эсьмонской, Дмитровичской, Заречно-Толочинской волостях, ",
+            {
+                "type": "text_link",
+                "text": "запрос на присоединение можно отправить по ссылке",
+                "href": "https://www.familytreedna.com/groups/bel-b-u-p-e-d/about"
+            },
+            " Если вы сдавали тест в другой лаборатории, его бесплатно можно загрузить на сайт ",
+            {
+                "type": "text_link",
+                "text": "здесь можно узнать как это сделать",
+                "href": "https://telegra.ph/Zagruzka-testov-na-httpswwwfamilytreednacom-kotorye-sdavali-v-drugoj-laboratorii-08-02"
+            },
+            "."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Доброго дня!\nКто сдавал тесты ДНК, информация для вас! \nНа сайте familytreedna (ftdna) создан проект для тех, чьи предки проживали в Бобрской, Павловичской, Ухвальской, Эсьмонской, Дмитровичской, Заречно-Толочинской волостях, "
+            },
+            {
+                "type": "text_link",
+                "text": "запрос на присоединение можно отправить по ссылке",
+                "href": "https://www.familytreedna.com/groups/bel-b-u-p-e-d/about"
+            },
+            {
+                "type": "plain",
+                "text": " Если вы сдавали тест в другой лаборатории, его бесплатно можно загрузить на сайт "
+            },
+            {
+                "type": "text_link",
+                "text": "здесь можно узнать как это сделать",
+                "href": "https://telegra.ph/Zagruzka-testov-na-httpswwwfamilytreednacom-kotorye-sdavali-v-drugoj-laboratorii-08-02"
+            },
+            {
+                "type": "plain",
+                "text": "."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Чысты Гуманітарый",
+                        "from_id": "user453928472",
+                        "date": "2023-08-02T19:22:33"
+                    },
+                    {
+                        "from": "J K",
+                        "from_id": "user1306195931",
+                        "date": "2023-08-02T14:12:12"
+                    },
+                    {
+                        "from": "I D",
+                        "from_id": "user5726368881",
+                        "date": "2023-08-02T13:34:48"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1678,
+        "type": "message",
+        "date": "2023-08-06T20:17:23",
+        "date_unixtime": "1691342243",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "aalto",
+        "reply_to_message_id": 1197,
+        "text": [
+            {
+                "type": "link",
+                "text": "http://lib-belynichi.mogilev.by/the_name_of_the_victory_belynichskiy_region/index.htm"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "http://lib-belynichi.mogilev.by/the_name_of_the_victory_belynichskiy_region/index.htm"
+            }
+        ]
+    },
+    {
+        "id": 1679,
+        "type": "message",
+        "date": "2023-08-06T20:17:23",
+        "date_unixtime": "1691342243",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "aalto",
+        "reply_to_message_id": 1197,
+        "text": "Электронная книга Память. Белыничский район. Некоторые деревни входили в состав Эсьмонской волости Борисовского уезда.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Электронная книга Память. Белыничский район. Некоторые деревни входили в состав Эсьмонской волости Борисовского уезда."
+            }
+        ]
+    },
+    {
+        "id": 1680,
+        "type": "message",
+        "date": "2023-08-06T20:22:02",
+        "date_unixtime": "1691342522",
+        "edited": "2023-08-06T20:56:04",
+        "edited_unixtime": "1691344564",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "DEN",
+        "reply_to_message_id": 1197,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Krypskiy_1999.pdf",
+        "mime_type": "application/pdf",
+        "text": [
+            {
+                "type": "bold",
+                "text": "Память. Крупский район"
+            },
+            ". Памяць.\nза книгу спасибо Eka."
+        ],
+        "text_entities": [
+            {
+                "type": "bold",
+                "text": "Память. Крупский район"
+            },
+            {
+                "type": "plain",
+                "text": ". Памяць.\nза книгу спасибо Eka."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Oleg Novikov",
+                        "from_id": "user273682403",
+                        "date": "2023-08-07T14:34:04"
+                    },
+                    {
+                        "from": "Юлия",
+                        "from_id": "user5280505112",
+                        "date": "2023-08-07T02:55:23"
+                    },
+                    {
+                        "from": "I D",
+                        "from_id": "user5726368881",
+                        "date": "2023-08-06T20:56:04"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1681,
+        "type": "message",
+        "date": "2023-08-06T20:22:02",
+        "date_unixtime": "1691342522",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "DEN",
+        "reply_to_message_id": 1197,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Sennenskiy_2003.djvu",
+        "mime_type": "image/vnd.djvu+multipage",
+        "text": "Память. Сенненский район. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Сенненский район. Памяць."
+            }
+        ]
+    },
+    {
+        "id": 1682,
+        "type": "message",
+        "date": "2023-08-06T20:22:02",
+        "date_unixtime": "1691342522",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "DEN",
+        "reply_to_message_id": 1197,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Tolochinskiy_1988.pdf",
+        "mime_type": "application/pdf",
+        "text": "Память. Толочинский район. Памяць.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Память. Толочинский район. Памяць."
+            }
+        ]
+    },
+    {
+        "id": 1692,
+        "type": "message",
+        "date": "2023-08-07T11:01:26",
+        "date_unixtime": "1691395286",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "reply_to_message_id": 1197,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://lib-krugloe.mogilev.by/memorybook/2.html"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://lib-krugloe.mogilev.by/memorybook/2.html"
+            }
+        ]
+    },
+    {
+        "id": 1694,
+        "type": "message",
+        "date": "2023-08-08T14:42:21",
+        "date_unixtime": "1691494941",
+        "edited": "2023-08-08T15:03:58",
+        "edited_unixtime": "1691496238",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "forwarded_from": "Сергей",
+        "reply_to_message_id": 1197,
+        "text": [
+            "Поиск по ФИО погибших в советско-финляндской войне 1939-1940 гг.\n\n",
+            {
+                "type": "link",
+                "text": "http://winterwar.karelia.ru/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Поиск по ФИО погибших в советско-финляндской войне 1939-1940 гг.\n\n"
+            },
+            {
+                "type": "link",
+                "text": "http://winterwar.karelia.ru/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Ks Arche",
+                        "from_id": "user1705348657",
+                        "date": "2023-08-09T01:28:58"
+                    },
+                    {
+                        "from": "aalto",
+                        "from_id": "user5402646138",
+                        "date": "2023-08-08T15:03:58"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1758,
+        "type": "message",
+        "date": "2023-08-23T09:10:56",
+        "date_unixtime": "1692771056",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "reply_to_message_id": 1197,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://ru.openlist.wiki/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B9_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA:%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://ru.openlist.wiki/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B9_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA:%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+            }
+        ]
+    },
+    {
+        "id": 1966,
+        "type": "message",
+        "date": "2023-11-09T20:40:03",
+        "date_unixtime": "1699551603",
+        "edited": "2023-11-09T21:27:44",
+        "edited_unixtime": "1699554464",
+        "from": "L",
+        "from_id": "user99883653",
+        "reply_to_message_id": 1197,
+        "text": [
+            "Грамадзяне Барысава і Барысаўскага раёна, якія падвергліся палітычным рэпрэсіям і пазней былі рэабілітаваныя 1917-1941\n\nЗ кнігі Памяць. Барысаў. Барысаўскі раён\n\n",
+            {
+                "type": "link",
+                "text": "https://drive.google.com/drive/folders/1ebekUohsSch7NFelsH3LB1qJyx4Nm_HE?usp=drive_link"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Грамадзяне Барысава і Барысаўскага раёна, якія падвергліся палітычным рэпрэсіям і пазней былі рэабілітаваныя 1917-1941\n\nЗ кнігі Памяць. Барысаў. Барысаўскі раён\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://drive.google.com/drive/folders/1ebekUohsSch7NFelsH3LB1qJyx4Nm_HE?usp=drive_link"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Борисовский уезд Минской губернии",
+                        "from_id": "channel1883536346",
+                        "date": "2024-04-09T22:05:08"
+                    },
+                    {
+                        "from": "Gojya",
+                        "from_id": "user1015386111",
+                        "date": "2023-12-30T12:28:01"
+                    },
+                    {
+                        "from": "Vlada",
+                        "from_id": "user1425254701",
+                        "date": "2023-12-27T03:15:02"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2099,
+        "type": "message",
+        "date": "2023-12-30T02:21:30",
+        "date_unixtime": "1703892090",
+        "from": "ip",
+        "from_id": "user1345727059",
+        "reply_to_message_id": 1197,
+        "text": "Добрай ночы.\nА як завецца сайт, на як і можна пабачыць, дзе распаўсюджанае тое, ці іншае прозьвішча?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрай ночы.\nА як завецца сайт, на як і можна пабачыць, дзе распаўсюджанае тое, ці іншае прозьвішча?"
+            }
+        ]
+    },
+    {
+        "id": 2100,
+        "type": "message",
+        "date": "2023-12-30T02:32:56",
+        "date_unixtime": "1703892776",
+        "edited": "2023-12-30T05:08:54",
+        "edited_unixtime": "1703902134",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "reply_to_message_id": 1197,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://helper.archonline.by/#"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://helper.archonline.by/#"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "ip",
+                        "from_id": "user1345727059",
+                        "date": "2023-12-30T05:08:54"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3490,
+        "type": "message",
+        "date": "2024-02-21T17:29:31",
+        "date_unixtime": "1708525771",
+        "edited": "2024-02-21T17:48:45",
+        "edited_unixtime": "1708526925",
+        "from": "L",
+        "from_id": "user99883653",
+        "forwarded_from": "Генеалагічная дрыгва",
+        "reply_to_message_id": 1197,
+        "text": [
+            "Яшчэ ў кастрычніку ў чаце паветаў ",
+            {
+                "type": "text_link",
+                "text": "выкладвалі ",
+                "href": "https://t.me/uezdy/59424"
+            },
+            "справу з LVIA, якая падпісана аўтарам як \"Полоцкие экономии 1738 г\". На самой справе там не толькі пра Полацк, і справа гэтая LVIA 11-1-1058 - \"Инвентари имений, староств, держав и деревень ВКЛ. Актикации (1738г.)\". Аршанскі павет з Барысаўскімі мястэчкамі, вёскамі і засценкамі там таксама ёсць. У канцы справы маецца змест. \n\nСпасылка на арыгінальны гугл-дзіск (архіў 7GB)  - ",
+            {
+                "type": "text_link",
+                "text": "тут",
+                "href": "https://drive.google.com/file/d/1a_m1Bb5QnSDevqN_CKpkjUUexZjLYe0-/view?usp=sharing"
+            },
+            ". \n\nСпасылка на гугл-дзіск з аркушамі толькі па Аршанскаму павету (heic сканвертаваныя ў jpeg) - ",
+            {
+                "type": "text_link",
+                "text": "тут",
+                "href": "https://drive.google.com/drive/folders/1v40RHstGlDPazPXE513YoX-2oRHrgrsM?usp=sharing"
+            },
+            ".\n\nПрабеглася вачыма па справе, пазначыла сабе некаторыя лісты па Барысаву і наваколіцам:\n\nBorysow - 1118\nzascianki Borysowa - 1124\nNiemonica, zascianki tego miasteczka - 1126\nLosznica - 1127\nzascianki tego miasteczka - 1130\nNacza - 1130\nzascianki tego miasteczka - 1131\nRadzica, Baran - 1132\nzascianki, Krociewicze, Cimki - 1133\nzascianki, Zyckow, Dymki za Berezyna,  за Березина, Sieliszcze, Swiete Jeziero  - 1134\nBytcza, zascianki, Sciudzionka - 1135\nStachow Wielki i Maly, Pohozica - 1136\nZabierzycze Wieksze i Mniejsze, Dokudow, Kostrzyca, Mochow (па прозвішчах жыхароў - Лукашэвіч і Драздоўскі -  гэта Млёхава) - 1137\nKozubiec, Pupielicze?, Ihryszcze, Zaczyscie, Janczyn - 1138\nzascianek pad Janczynem, Niehnowicze Stare i Nowe, Uholoda, Trosnicka? - 1139\nOziatycze - 1140\nHoradno Wysznie i Niznie, Humno, Uznoz - 1141\nWydrzyca, Orzeszkowicze, Szewernicze, Chadczyce - 1142\nMichiewicze, Somry, Zaiezierze, Pupsa?, Wolica??, Denisewicze - 1143\nSkakowka, Dubowa, zascianki, Zabolocie, Sokol - 1144\nUchwala - 1145\nSmorki - 1161\nDrozdin - 1162\nJesmonska - 1165\nHibaylowicze, Swirydowka - 1170\nWielatycze - 1172\nMiodcza - 1173\nSieliszcze - 1174"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Яшчэ ў кастрычніку ў чаце паветаў "
+            },
+            {
+                "type": "text_link",
+                "text": "выкладвалі ",
+                "href": "https://t.me/uezdy/59424"
+            },
+            {
+                "type": "plain",
+                "text": "справу з LVIA, якая падпісана аўтарам як \"Полоцкие экономии 1738 г\". На самой справе там не толькі пра Полацк, і справа гэтая LVIA 11-1-1058 - \"Инвентари имений, староств, держав и деревень ВКЛ. Актикации (1738г.)\". Аршанскі павет з Барысаўскімі мястэчкамі, вёскамі і засценкамі там таксама ёсць. У канцы справы маецца змест. \n\nСпасылка на арыгінальны гугл-дзіск (архіў 7GB)  - "
+            },
+            {
+                "type": "text_link",
+                "text": "тут",
+                "href": "https://drive.google.com/file/d/1a_m1Bb5QnSDevqN_CKpkjUUexZjLYe0-/view?usp=sharing"
+            },
+            {
+                "type": "plain",
+                "text": ". \n\nСпасылка на гугл-дзіск з аркушамі толькі па Аршанскаму павету (heic сканвертаваныя ў jpeg) - "
+            },
+            {
+                "type": "text_link",
+                "text": "тут",
+                "href": "https://drive.google.com/drive/folders/1v40RHstGlDPazPXE513YoX-2oRHrgrsM?usp=sharing"
+            },
+            {
+                "type": "plain",
+                "text": ".\n\nПрабеглася вачыма па справе, пазначыла сабе некаторыя лісты па Барысаву і наваколіцам:\n\nBorysow - 1118\nzascianki Borysowa - 1124\nNiemonica, zascianki tego miasteczka - 1126\nLosznica - 1127\nzascianki tego miasteczka - 1130\nNacza - 1130\nzascianki tego miasteczka - 1131\nRadzica, Baran - 1132\nzascianki, Krociewicze, Cimki - 1133\nzascianki, Zyckow, Dymki za Berezyna,  за Березина, Sieliszcze, Swiete Jeziero  - 1134\nBytcza, zascianki, Sciudzionka - 1135\nStachow Wielki i Maly, Pohozica - 1136\nZabierzycze Wieksze i Mniejsze, Dokudow, Kostrzyca, Mochow (па прозвішчах жыхароў - Лукашэвіч і Драздоўскі -  гэта Млёхава) - 1137\nKozubiec, Pupielicze?, Ihryszcze, Zaczyscie, Janczyn - 1138\nzascianek pad Janczynem, Niehnowicze Stare i Nowe, Uholoda, Trosnicka? - 1139\nOziatycze - 1140\nHoradno Wysznie i Niznie, Humno, Uznoz - 1141\nWydrzyca, Orzeszkowicze, Szewernicze, Chadczyce - 1142\nMichiewicze, Somry, Zaiezierze, Pupsa?, Wolica??, Denisewicze - 1143\nSkakowka, Dubowa, zascianki, Zabolocie, Sokol - 1144\nUchwala - 1145\nSmorki - 1161\nDrozdin - 1162\nJesmonska - 1165\nHibaylowicze, Swirydowka - 1170\nWielatycze - 1172\nMiodcza - 1173\nSieliszcze - 1174"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Анна Анахата",
+                        "from_id": "user6418494776",
+                        "date": "2024-06-23T17:44:10"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Димасик",
+                        "from_id": "user5934004558",
+                        "date": "2024-07-10T18:49:34"
+                    },
+                    {
+                        "from": "Alena Rusakovich",
+                        "from_id": "user455467923",
+                        "date": "2024-04-09T22:01:42"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3497,
+        "type": "message",
+        "date": "2024-02-21T18:07:28",
+        "date_unixtime": "1708528048",
+        "from": "Виктория Савич",
+        "from_id": "user1245099187",
+        "reply_to_message_id": 1197,
+        "text": "👍",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "👍"
+            }
+        ]
+    },
+    {
+        "id": 3742,
+        "type": "message",
+        "date": "2024-04-09T21:16:24",
+        "date_unixtime": "1712686584",
+        "edited": "2024-04-10T01:33:01",
+        "edited_unixtime": "1712701981",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 1197,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/post/1103/42876/p4923077.htm#pp4923077"
+            },
+            "\n\n",
+            {
+                "type": "bold",
+                "text": "Статистические сведения об индивидуальных крестьянских хозяйствах по Всероссийской сельскохозяйственной переписи 1922 года (НАРБ. Ф. 30. Оп. 1):"
+            },
+            "\nД. 2529. Бытчанская волость (д. Дымки), Осовская волость\nД. 2530. Лошницкая волость (село Лошница)\nД. 2531. Лошницкая волость (Больш. Негновичи, Ратутичи, М. Жаберичи)\nД. 2532. Осовская волость\nД. 2533. Осовская волость\nД. 2534. Осовская, Лошницкая волости, г. Борисов\nД. 2535. Осовская волость, г. Борисов\nД. 2536. Осовская волость, г. Борисов\nД. 2537. Осовская волость\nД. 2538. г. Борисов, Лошницкая волость\nД. 2539. Лошницкая волость\nД. 2540. Лошницкая волость\nД. 2541. Лошницкая, Осовская, Хуторская (Колодезь) волости\nД. 2542. Лошницкая волость\nД. 2543. Лошницкая волость\nД. 2544. Лошницкая волость\nД. 2545. Лошницкая волость\nД. 2546. Лошницкая волость\nД. 2547. Лошницкая волость\nД. 2548. Лошницкая волость\nД. 2549. г. Борисов, Ново-Борисов\nД. 2550. Лошницкая волость (с л. 64 село Нача)\nД. 2551. Лошницкая волость\nД. 2552. Лошницкая волость\nД. 2553. Лошницкая волость"
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/post/1103/42876/p4923077.htm#pp4923077"
+            },
+            {
+                "type": "plain",
+                "text": "\n\n"
+            },
+            {
+                "type": "bold",
+                "text": "Статистические сведения об индивидуальных крестьянских хозяйствах по Всероссийской сельскохозяйственной переписи 1922 года (НАРБ. Ф. 30. Оп. 1):"
+            },
+            {
+                "type": "plain",
+                "text": "\nД. 2529. Бытчанская волость (д. Дымки), Осовская волость\nД. 2530. Лошницкая волость (село Лошница)\nД. 2531. Лошницкая волость (Больш. Негновичи, Ратутичи, М. Жаберичи)\nД. 2532. Осовская волость\nД. 2533. Осовская волость\nД. 2534. Осовская, Лошницкая волости, г. Борисов\nД. 2535. Осовская волость, г. Борисов\nД. 2536. Осовская волость, г. Борисов\nД. 2537. Осовская волость\nД. 2538. г. Борисов, Лошницкая волость\nД. 2539. Лошницкая волость\nД. 2540. Лошницкая волость\nД. 2541. Лошницкая, Осовская, Хуторская (Колодезь) волости\nД. 2542. Лошницкая волость\nД. 2543. Лошницкая волость\nД. 2544. Лошницкая волость\nД. 2545. Лошницкая волость\nД. 2546. Лошницкая волость\nД. 2547. Лошницкая волость\nД. 2548. Лошницкая волость\nД. 2549. г. Борисов, Ново-Борисов\nД. 2550. Лошницкая волость (с л. 64 село Нача)\nД. 2551. Лошницкая волость\nД. 2552. Лошницкая волость\nД. 2553. Лошницкая волость"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "W",
+                        "from_id": "user6844491050",
+                        "date": "2024-04-11T18:48:32"
+                    },
+                    {
+                        "from": "I D",
+                        "from_id": "user5726368881",
+                        "date": "2024-04-10T01:33:01"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3886,
+        "type": "message",
+        "date": "2024-06-16T22:08:55",
+        "date_unixtime": "1718564935",
+        "edited": "2024-06-16T22:49:54",
+        "edited_unixtime": "1718567394",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Марина Кармалькова",
+        "reply_to_message_id": 1197,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://prokuratura.gov.by/ru/activity/rassledovanie-ugolovnogo-dela-o-genotside/iz-materialov-ugolovnogo-dela/akty-chrezvychaynoy-gosudarstvennoy-komissii/"
+            },
+            "  для тех, кто ищет родственников, пострадавших во время оккупации. Минская область 1. Есть Крупский (папка1_102) и Борисовский районы (1-99). А также другие районы."
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://prokuratura.gov.by/ru/activity/rassledovanie-ugolovnogo-dela-o-genotside/iz-materialov-ugolovnogo-dela/akty-chrezvychaynoy-gosudarstvennoy-komissii/"
+            },
+            {
+                "type": "plain",
+                "text": "  для тех, кто ищет родственников, пострадавших во время оккупации. Минская область 1. Есть Крупский (папка1_102) и Борисовский районы (1-99). А также другие районы."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Alla Lebedeva",
+                        "from_id": "user1345556165",
+                        "date": "2024-06-17T05:04:23"
+                    },
+                    {
+                        "from": "Gojya",
+                        "from_id": "user1015386111",
+                        "date": "2024-06-16T22:49:54"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Елена",
+                        "from_id": "user457308118",
+                        "date": "2024-11-07T02:22:59"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3887,
+        "type": "message",
+        "date": "2024-06-17T00:13:58",
+        "date_unixtime": "1718572438",
+        "from": "Людмила",
+        "from_id": "user852358579",
+        "reply_to_message_id": 3886,
+        "text": "Спасибо за ссылки.\nКак же тяжело читать...",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо за ссылки.\nКак же тяжело читать..."
+            }
+        ]
+    },
+    {
+        "id": 3978,
+        "type": "message",
+        "date": "2024-07-13T21:15:26",
+        "date_unixtime": "1720894526",
+        "edited": "2024-07-13T21:42:38",
+        "edited_unixtime": "1720896158",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "forwarded_from": "Анна Анахата",
+        "reply_to_message_id": 1197,
+        "text": [
+            "Я иногда ищу на сайте Наши предки, к какому приходу относился населенный пункт.\nПо Заозерью там есть прямые ссылки на Метрические книги на family search.\n\nМожет кому пригодится или вы захотите по своим населенным пунктам добавить информацию  (ссылки на архивы или документы в открытом доступе).\n\n",
+            {
+                "type": "link",
+                "text": "https://nashipredki.com/location/zaozere-derevnya-32604"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я иногда ищу на сайте Наши предки, к какому приходу относился населенный пункт.\nПо Заозерью там есть прямые ссылки на Метрические книги на family search.\n\nМожет кому пригодится или вы захотите по своим населенным пунктам добавить информацию  (ссылки на архивы или документы в открытом доступе).\n\n"
+            },
+            {
+                "type": "link",
+                "text": "https://nashipredki.com/location/zaozere-derevnya-32604"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Natalia Iakovleva",
+                        "from_id": "user5170769785",
+                        "date": "2024-09-21T04:36:33"
+                    },
+                    {
+                        "from": "D.M.",
+                        "from_id": "user572729336",
+                        "date": "2024-07-15T08:12:51"
+                    },
+                    {
+                        "from": "Федорова Лариса",
+                        "from_id": "user732840164",
+                        "date": "2024-07-13T21:42:38"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4299,
+        "type": "message",
+        "date": "2024-09-29T09:36:20",
+        "date_unixtime": "1727591780",
+        "edited": "2024-09-29T10:36:48",
+        "edited_unixtime": "1727595408",
+        "from": "Marina Yurochka",
+        "from_id": "user6971824773",
+        "forwarded_from": "Генеалагічная дрыгва",
+        "reply_to_message_id": 1197,
+        "text": [
+            "Сёння толькі адна справа, але вялікая і цікавая.\n",
+            {
+                "type": "text_link",
+                "text": "\nLVIA 567-25-567 О выпусканых испытаниях в Борисовской частной женской прогимназии И. Любимова 1912",
+                "href": "https://t.me/genshafa/145"
+            },
+            "\n\n",
+            {
+                "type": "italic",
+                "text": "Спісы вучаніц з месцамі, датамі нараджэнняў, веравызнаннем, саслоўем, папярэдняй адукацыяй, адзнакамі за год. Экзаменацыйныя білеты па ўсіх прадметах (цікавае чытаніна), хто які білет выцягнуў, якія адзнакі атрымаў, ну і само сабой пасведчанні тых, хто іх быў удастоены. \n\nУ мяне ёсць такая ж справа па мужчынскай гімназіі, але там трохі пазл (не паспевала цалкам адсняць, таму яно кавалкамі ў беспарадаку, сёння ніяк не паспеваю яго выкласць)\n\n"
+            },
+            "1 Прошение коллежскаго регистратора Михаила Павловича ",
+            {
+                "type": "bold",
+                "text": "Богдана "
+            },
+            "разрешить его дочери Ксении держать выпускной экзамен\n2-7об Ведомость об ученицах 4 класса 1911-1912 (с оценками)\n",
+            {
+                "type": "bold",
+                "text": "Арцюх (Раково Новогрудского у.), Аболь * 3 (хутор Липки и Мулище), Богдан (Борисов), Бродкина (Борисов), Гелерман (Борисов), Гаевская (Лошница), Гинзбург (Борисов), Долгоплоск (м. Лукомль Могилевской г.), Ерусалимчик (м. Бобр Сеннинскаго у.), Ковнер (Вильно), Лившиц (Борисов), Мазо * 3 (Борисов), Полякова (Борисов), Пуцыкович (м. Юхновичи Минской г.), Сабулькина (Борисов), Станкевич (Пышачи), Теплиц (Чашники Лепельского у.), Шейнеман (Борисов), Элькинд (Борисов"
+            },
+            ")\n9 Окончательные баллы\n10 Программа пройденного по Закону Божию\n12 То же самое, католического вер.\n15 Программа (=билеты) по русскому языку\n16 Арифметике\n20 Географии\n22 Древней истории\n23 Русской истории\n24 Естествоведению\n25 Немецкому\n26 Французскому\n33-93об Экзаменационные списки и протоколы (кто какой билет вытащил, оценки от 3 экзаменаторов, итоговая)\n94 Ведомость об окончательных результаах испытания (оценки и удостоена или нет свидетельства)\n99 Свидетельства"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сёння толькі адна справа, але вялікая і цікавая.\n"
+            },
+            {
+                "type": "text_link",
+                "text": "\nLVIA 567-25-567 О выпусканых испытаниях в Борисовской частной женской прогимназии И. Любимова 1912",
+                "href": "https://t.me/genshafa/145"
+            },
+            {
+                "type": "plain",
+                "text": "\n\n"
+            },
+            {
+                "type": "italic",
+                "text": "Спісы вучаніц з месцамі, датамі нараджэнняў, веравызнаннем, саслоўем, папярэдняй адукацыяй, адзнакамі за год. Экзаменацыйныя білеты па ўсіх прадметах (цікавае чытаніна), хто які білет выцягнуў, якія адзнакі атрымаў, ну і само сабой пасведчанні тых, хто іх быў удастоены. \n\nУ мяне ёсць такая ж справа па мужчынскай гімназіі, але там трохі пазл (не паспевала цалкам адсняць, таму яно кавалкамі ў беспарадаку, сёння ніяк не паспеваю яго выкласць)\n\n"
+            },
+            {
+                "type": "plain",
+                "text": "1 Прошение коллежскаго регистратора Михаила Павловича "
+            },
+            {
+                "type": "bold",
+                "text": "Богдана "
+            },
+            {
+                "type": "plain",
+                "text": "разрешить его дочери Ксении держать выпускной экзамен\n2-7об Ведомость об ученицах 4 класса 1911-1912 (с оценками)\n"
+            },
+            {
+                "type": "bold",
+                "text": "Арцюх (Раково Новогрудского у.), Аболь * 3 (хутор Липки и Мулище), Богдан (Борисов), Бродкина (Борисов), Гелерман (Борисов), Гаевская (Лошница), Гинзбург (Борисов), Долгоплоск (м. Лукомль Могилевской г.), Ерусалимчик (м. Бобр Сеннинскаго у.), Ковнер (Вильно), Лившиц (Борисов), Мазо * 3 (Борисов), Полякова (Борисов), Пуцыкович (м. Юхновичи Минской г.), Сабулькина (Борисов), Станкевич (Пышачи), Теплиц (Чашники Лепельского у.), Шейнеман (Борисов), Элькинд (Борисов"
+            },
+            {
+                "type": "plain",
+                "text": ")\n9 Окончательные баллы\n10 Программа пройденного по Закону Божию\n12 То же самое, католического вер.\n15 Программа (=билеты) по русскому языку\n16 Арифметике\n20 Географии\n22 Древней истории\n23 Русской истории\n24 Естествоведению\n25 Немецкому\n26 Французскому\n33-93об Экзаменационные списки и протоколы (кто какой билет вытащил, оценки от 3 экзаменаторов, итоговая)\n94 Ведомость об окончательных результаах испытания (оценки и удостоена или нет свидетельства)\n99 Свидетельства"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Olga Polushkina",
+                        "from_id": "user1173573149",
+                        "date": "2024-09-30T03:49:43"
+                    },
+                    {
+                        "from": "Федорова Лариса",
+                        "from_id": "user732840164",
+                        "date": "2024-09-29T10:36:48"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4335,
+        "type": "message",
+        "date": "2024-10-05T20:10:15",
+        "date_unixtime": "1728148215",
+        "edited": "2024-10-05T20:16:19",
+        "edited_unixtime": "1728148579",
+        "from": "L",
+        "from_id": "user99883653",
+        "forwarded_from": "Генеалагічная дрыгва",
+        "reply_to_message_id": 1197,
+        "text": [
+            "Абяцаны працяг пра мужчынскую гімназію.\n\n",
+            {
+                "type": "text_link",
+                "text": "LVIA 567-25-596 ",
+                "href": "https://t.me/genshafa/146"
+            },
+            {
+                "type": "text_link",
+                "text": "О выпускных испытаниях в Борисовской городской частной мужской гимназии 1912",
+                "href": "https://t.me/genshafa/146"
+            },
+            "\n \n",
+            {
+                "type": "italic",
+                "text": "Розніца з жаночай: няма іспыту па Законе Божым, ёсць латынь; нямецкую і французскую здаюць усе, а не выбарачна. Плюс экзаменацыйныя лісты ідуць у храналагічным парадку, так што адразу відаць, што гэта гульня на выбыванне (атрымаў дваяк – наступныя іспыты не здаеш). У выніку ў 4 класе да апошняга экзамена «дажыла» менш за палову."
+            },
+            "\n\n",
+            {
+                "type": "italic",
+                "text": "Спрабавала гугліць, што стала з героямі гэтай справы: першыя дзве знойдзеныя спасылкі вядуць на Открытый список ("
+            },
+            {
+                "type": "text_link",
+                "text": "Герцыкаў",
+                "href": "https://ru.openlist.wiki/%D0%93%D0%B5%D1%80%D1%86%D0%B8%D0%BA%D0%BE%D0%B2_%D0%97%D0%B0%D0%BB%D0%BC%D0%B0%D0%BD_%D0%90%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_(1892)"
+            },
+            {
+                "type": "italic",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "Калецкі",
+                "href": "https://ru.openlist.wiki/%D0%9A%D0%B0%D0%BB%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%90%D0%B1%D1%80%D0%B0%D0%BC_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B8%D1%87_(1899)"
+            },
+            {
+                "type": "italic",
+                "text": "), пасля гэтага гугліць неяк перахацелася\n"
+            },
+            "\n",
+            {
+                "type": "italic",
+                "text": "UPD Мне тут падказваюць, што ўсё ж такі ў спісах ёсць два будучых навукоўца: "
+            },
+            {
+                "type": "text_link",
+                "text": "Берман",
+                "href": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BC%D0%B0%D0%BD,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87"
+            },
+            {
+                "type": "italic",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "Шкляр",
+                "href": "https://rosenbloom.info/shklyar/shklyar.html"
+            },
+            "\n\n3 Список учителей 1911/12 года\n9 Телеграмма с просьбой отца ученика Каца разрешить ему продолжать экзамены при двойке по устному русскому (отказ)\n10 Прошение мещанина Натана Фридмана допустить сына, который второй год \"сидит в 4 классе\" к дальнейшим экзаменам, так как задачи по алгебре он написал плохо из-за боли в глазах (отказ)\n13 Рапорт о расхождении ведомости и документов учеников (всего 39 расхождений в баллах, написаниях фамилий, сословиях итд)\n14 Ведомость 4 класса ",
+            {
+                "type": "bold",
+                "text": "Биргер, Вайнштейн, Годес, Горлин (все Борисов), Гурко (с. Микулино Оршанского у.), Иткин (м. Словени), Калецкий (Минск), Кац (Борисов), Кисин (Шклов), Клионский (Борисов), Лурье (Замостье), Мерлис (д. Шипяны Игуменского у.), Миниович (Минск), Смородинский (Борисов), Фердинанд (Борисов), Фридман (Борисов), Фрид (Смолевичи), Шейнеман (Борисов), Шенкарь (Хотин), Шульман (Борисов), Саулевич (Минск)"
+            },
+            "\n19 Ведомость 6 класса ",
+            {
+                "type": "bold",
+                "text": "Айзенберг (Борисов), Бененсон (Борисов), Берман (Холопеничи), Волк (Зембин), Герциков (Борисов), Гуревич (Пропойск Могилевской г.), Лапидус (Гродно), Лейбман (Минск), Лурье (Крупки), Мазо (Шклов), Мирский (Обольцы Оршанского у.), Несвижский (Верхнеднепровск Екатериносл. г), Павловский-Бурко (Борисов), Пинес (Березино), Понкцинский (Прат? предместье Варшавы), Понизовский (Ковель), Принцметал (Хотин), Принцметал (Жванц Каменецкого у.), Рабинович (Борисов), Розенталь (Борисов), Фердинанд (Борисов), Шкляр (Борисов), Школьник (Борисов), Элькинд (Борисов), Дихвольф (Ровно), Краевский (Зав.? Неман Виленской губ.) + Мейтин + Радунский"
+            },
+            "\n25 Дополнительно к ведомости 4 класса ",
+            {
+                "type": "bold",
+                "text": "Теплиц "
+            },
+            "(Борисов)\n26 Дополнительно к ведомости 6 класса ",
+            {
+                "type": "bold",
+                "text": "Бревдо "
+            },
+            "(Борисов), ",
+            {
+                "type": "bold",
+                "text": "Несвижский "
+            },
+            "(Верхнеднепровск)\n29 Программа (=билеты) устного испытания по латинскому языку для 4 класса\n31 Французскому\n32 Немецкому\nб/н Алгебре \n34 Арфиметике\n36 Русскому и древ. ц.-славянскому языкам\n37 Географии\n38 Древней истории\n39 Русской истории\n41 Экзаменационные списки 4 класса\n51 Протоколы (кто какой билет вытащил, оценки от 3 экзаменаторов, итоговая) 4 класса\n90-208 - пропущено, не было времени\n209 Протоколы (кто какой билет вытащил, оценки от 3 экзаменаторов, итоговая) 6 класса\n226 Ведомость об окончательных результатах 4 класса\n230 Свидетельства 4 класса\n258 Ведомость об окончательных результатах 6 класса\n288 Прошение Шкляра прислать свидетельство сына\n289 Свидетельства 6 класса"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Абяцаны працяг пра мужчынскую гімназію.\n\n"
+            },
+            {
+                "type": "text_link",
+                "text": "LVIA 567-25-596 ",
+                "href": "https://t.me/genshafa/146"
+            },
+            {
+                "type": "text_link",
+                "text": "О выпускных испытаниях в Борисовской городской частной мужской гимназии 1912",
+                "href": "https://t.me/genshafa/146"
+            },
+            {
+                "type": "plain",
+                "text": "\n \n"
+            },
+            {
+                "type": "italic",
+                "text": "Розніца з жаночай: няма іспыту па Законе Божым, ёсць латынь; нямецкую і французскую здаюць усе, а не выбарачна. Плюс экзаменацыйныя лісты ідуць у храналагічным парадку, так што адразу відаць, што гэта гульня на выбыванне (атрымаў дваяк – наступныя іспыты не здаеш). У выніку ў 4 класе да апошняга экзамена «дажыла» менш за палову."
+            },
+            {
+                "type": "plain",
+                "text": "\n\n"
+            },
+            {
+                "type": "italic",
+                "text": "Спрабавала гугліць, што стала з героямі гэтай справы: першыя дзве знойдзеныя спасылкі вядуць на Открытый список ("
+            },
+            {
+                "type": "text_link",
+                "text": "Герцыкаў",
+                "href": "https://ru.openlist.wiki/%D0%93%D0%B5%D1%80%D1%86%D0%B8%D0%BA%D0%BE%D0%B2_%D0%97%D0%B0%D0%BB%D0%BC%D0%B0%D0%BD_%D0%90%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_(1892)"
+            },
+            {
+                "type": "italic",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "Калецкі",
+                "href": "https://ru.openlist.wiki/%D0%9A%D0%B0%D0%BB%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%90%D0%B1%D1%80%D0%B0%D0%BC_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B8%D1%87_(1899)"
+            },
+            {
+                "type": "italic",
+                "text": "), пасля гэтага гугліць неяк перахацелася\n"
+            },
+            {
+                "type": "plain",
+                "text": "\n"
+            },
+            {
+                "type": "italic",
+                "text": "UPD Мне тут падказваюць, што ўсё ж такі ў спісах ёсць два будучых навукоўца: "
+            },
+            {
+                "type": "text_link",
+                "text": "Берман",
+                "href": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BC%D0%B0%D0%BD,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87"
+            },
+            {
+                "type": "italic",
+                "text": ", "
+            },
+            {
+                "type": "text_link",
+                "text": "Шкляр",
+                "href": "https://rosenbloom.info/shklyar/shklyar.html"
+            },
+            {
+                "type": "plain",
+                "text": "\n\n3 Список учителей 1911/12 года\n9 Телеграмма с просьбой отца ученика Каца разрешить ему продолжать экзамены при двойке по устному русскому (отказ)\n10 Прошение мещанина Натана Фридмана допустить сына, который второй год \"сидит в 4 классе\" к дальнейшим экзаменам, так как задачи по алгебре он написал плохо из-за боли в глазах (отказ)\n13 Рапорт о расхождении ведомости и документов учеников (всего 39 расхождений в баллах, написаниях фамилий, сословиях итд)\n14 Ведомость 4 класса "
+            },
+            {
+                "type": "bold",
+                "text": "Биргер, Вайнштейн, Годес, Горлин (все Борисов), Гурко (с. Микулино Оршанского у.), Иткин (м. Словени), Калецкий (Минск), Кац (Борисов), Кисин (Шклов), Клионский (Борисов), Лурье (Замостье), Мерлис (д. Шипяны Игуменского у.), Миниович (Минск), Смородинский (Борисов), Фердинанд (Борисов), Фридман (Борисов), Фрид (Смолевичи), Шейнеман (Борисов), Шенкарь (Хотин), Шульман (Борисов), Саулевич (Минск)"
+            },
+            {
+                "type": "plain",
+                "text": "\n19 Ведомость 6 класса "
+            },
+            {
+                "type": "bold",
+                "text": "Айзенберг (Борисов), Бененсон (Борисов), Берман (Холопеничи), Волк (Зембин), Герциков (Борисов), Гуревич (Пропойск Могилевской г.), Лапидус (Гродно), Лейбман (Минск), Лурье (Крупки), Мазо (Шклов), Мирский (Обольцы Оршанского у.), Несвижский (Верхнеднепровск Екатериносл. г), Павловский-Бурко (Борисов), Пинес (Березино), Понкцинский (Прат? предместье Варшавы), Понизовский (Ковель), Принцметал (Хотин), Принцметал (Жванц Каменецкого у.), Рабинович (Борисов), Розенталь (Борисов), Фердинанд (Борисов), Шкляр (Борисов), Школьник (Борисов), Элькинд (Борисов), Дихвольф (Ровно), Краевский (Зав.? Неман Виленской губ.) + Мейтин + Радунский"
+            },
+            {
+                "type": "plain",
+                "text": "\n25 Дополнительно к ведомости 4 класса "
+            },
+            {
+                "type": "bold",
+                "text": "Теплиц "
+            },
+            {
+                "type": "plain",
+                "text": "(Борисов)\n26 Дополнительно к ведомости 6 класса "
+            },
+            {
+                "type": "bold",
+                "text": "Бревдо "
+            },
+            {
+                "type": "plain",
+                "text": "(Борисов), "
+            },
+            {
+                "type": "bold",
+                "text": "Несвижский "
+            },
+            {
+                "type": "plain",
+                "text": "(Верхнеднепровск)\n29 Программа (=билеты) устного испытания по латинскому языку для 4 класса\n31 Французскому\n32 Немецкому\nб/н Алгебре \n34 Арфиметике\n36 Русскому и древ. ц.-славянскому языкам\n37 Географии\n38 Древней истории\n39 Русской истории\n41 Экзаменационные списки 4 класса\n51 Протоколы (кто какой билет вытащил, оценки от 3 экзаменаторов, итоговая) 4 класса\n90-208 - пропущено, не было времени\n209 Протоколы (кто какой билет вытащил, оценки от 3 экзаменаторов, итоговая) 6 класса\n226 Ведомость об окончательных результатах 4 класса\n230 Свидетельства 4 класса\n258 Ведомость об окончательных результатах 6 класса\n288 Прошение Шкляра прислать свидетельство сына\n289 Свидетельства 6 класса"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Yuri S.",
+                        "from_id": "user1620018925",
+                        "date": "2024-10-13T02:29:10"
+                    },
+                    {
+                        "from": "ina",
+                        "from_id": "user1161095317",
+                        "date": "2024-10-06T00:12:10"
+                    },
+                    {
+                        "from": "Борисовский уезд Минской губернии",
+                        "from_id": "channel1883536346",
+                        "date": "2024-10-05T20:22:47"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4354,
+        "type": "message",
+        "date": "2024-10-13T02:32:18",
+        "date_unixtime": "1728775938",
+        "edited": "2024-10-13T10:09:41",
+        "edited_unixtime": "1728803381",
+        "from": "Yuri S.",
+        "from_id": "user1620018925",
+        "reply_to_message_id": 4335,
+        "text": "Примерно в это время в гимназии учился прадед моей жены Василий Хацкевич 1899 гр и его брат Владимир 1901 гр",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Примерно в это время в гимназии учился прадед моей жены Василий Хацкевич 1899 гр и его брат Владимир 1901 гр"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Федорова Лариса",
+                        "from_id": "user732840164",
+                        "date": "2024-10-13T10:09:41"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4424,
+        "type": "message",
+        "date": "2024-10-21T20:25:35",
+        "date_unixtime": "1729531535",
+        "edited": "2024-10-21T21:09:37",
+        "edited_unixtime": "1729534177",
+        "from": "L",
+        "from_id": "user99883653",
+        "forwarded_from": "Генеалагічная дрыгва",
+        "reply_to_message_id": 1197,
+        "text": [
+            "Я, быць можа, зноў пра відавочнае: \n \nКалі хтосьці шукае інвентары па ",
+            {
+                "type": "bold",
+                "text": "Ратуцічах"
+            },
+            ", яны ляжаць і чакаюць вас анлайн на сайце бібліятэкі літоўскай АН, яна ж бібліятэка Урублеўскіх, пад невідавочнымі (для недасведчаных у літоўскай) назвамі. Ёсць сканы інвентароў за 1746, 1750 (два), 1757, 1758 «фальварка Ратуцічы, які належыць плябаніі Барысаўскай». Акрамя Ратуціч там яшчэ ",
+            {
+                "type": "bold",
+                "text": "Раннае, Клён і Навасёлкі"
+            },
+            ". Ёсць спісы галоў сем'яў (а месцамі і ўвогуле ўсіх мужчын), за выключэннем 1758 г., дзе фрагмент і больш пра жыта: \n \n",
+            {
+                "type": "text_link",
+                "text": "F43-6114 [Borisovo bažnyčios Ratučicų palivarko (Oršos pav.) inventorius] 1746 ",
+                "href": "https://elibrary.mab.lt/handle/1/11618"
+            },
+            " \n \n",
+            {
+                "type": "text_link",
+                "text": "F43-6116 [Borisovo bažnyčios Ratučicų palivarko (Oršos pav.) inventorius] 1750 (пазначаны ўсе мужчыны)",
+                "href": "https://elibrary.mab.lt/handle/1/11620"
+            },
+            " \n \n",
+            {
+                "type": "text_link",
+                "text": "F43-6117 [Borisovo bažnyčios Ratučicų palivarko (Oršos pav.) inventorius] 1750 (пазначаны ўсе мужчыны)",
+                "href": "https://elibrary.mab.lt/handle/1/11621"
+            },
+            " \n \n",
+            {
+                "type": "text_link",
+                "text": "F43-6119 [Borisovo bažnyčios Ratučicų palivarko (Oršos pav.) inventorius] 1757 (пазначаны ўсе мужчыны) ",
+                "href": "https://elibrary.mab.lt/handle/1/11623"
+            },
+            "  \n \n",
+            {
+                "type": "text_link",
+                "text": "F43-6120 [Borisovo bažnyčios Ratučicų palivarko (Oršos pav.) inventorius] 1758",
+                "href": "https://elibrary.mab.lt/handle/1/11624"
+            },
+            "  \n \nПры гэтым у Абрамовічуса ў ",
+            {
+                "type": "text_link",
+                "text": "даведніку ",
+                "href": "https://archive.org/details/abramavicius-feodaliniu-zemes-valdu-lietuvoje-inventoriu-aprasymas-1963/page/215/mode/2up"
+            },
+            "пазначаны толькі два: за 1750 і за 1757, прычым пад нумарамі VKF-2015 і VKF-2016. То бок фонд той самы, а нумары адносна сучасных зусім міма, што патэнцыйна ўскладняе пошук па неалічбаваных справах ",
+            {
+                "type": "strikethrough",
+                "text": "(шматзначна глядзіць на фонд Тышкевічаў)."
+            },
+            " \n \nАле і па алічбованаму знаходзіцца шмат цікавага: \n \n• Барысаўскі касцёл, ",
+            {
+                "type": "text_link",
+                "text": "візітацыя 1647 ",
+                "href": "https://elibrary.mab.lt/handle/1/212"
+            },
+            "і ",
+            {
+                "type": "text_link",
+                "text": "апісанне",
+                "href": "https://elibrary.mab.lt/handle/1/11615"
+            },
+            " \n• ",
+            {
+                "type": "text_link",
+                "text": "Грамата 1589 г",
+                "href": "https://elibrary.mab.lt/handle/1/26148"
+            },
+            ". з подпісам Льва Сапегі , у якой згадваюцца Аздзяцічы \n• ",
+            {
+                "type": "text_link",
+                "text": "Выпіскі",
+                "href": "https://elibrary.mab.lt/handle/1/18436"
+            },
+            " са спраў зямельных судоў розных паветаў 1622 г. (яшчэ не глядзела, але згадваецца Аршанскі павет і 222 старонак, што перспектыўна)\n• ",
+            {
+                "type": "text_link",
+                "text": "Віленскі беларускі фонд. F21",
+                "href": "https://elibrary.mab.lt/handle/1/3295"
+            },
+            " і ",
+            {
+                "type": "text_link",
+                "text": "Piesnia biełaruskich žaunierou 1794 hoda",
+                "href": "https://elibrary.mab.lt/handle/1/19036"
+            },
+            " \n \nІ іншае па фільтрам «у лоб»: ",
+            {
+                "type": "text_link",
+                "text": "Orš*",
+                "href": "https://elibrary.mab.lt/discover?scope=%2F&query=Or%C5%A1*&submit=Go&rpp=10"
+            },
+            " і ",
+            {
+                "type": "text_link",
+                "text": "Borisov*",
+                "href": "https://elibrary.mab.lt/discover?rpp=10&etal=0&query=Borisov*&scope=&group_by=none&page=1"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я, быць можа, зноў пра відавочнае: \n \nКалі хтосьці шукае інвентары па "
+            },
+            {
+                "type": "bold",
+                "text": "Ратуцічах"
+            },
+            {
+                "type": "plain",
+                "text": ", яны ляжаць і чакаюць вас анлайн на сайце бібліятэкі літоўскай АН, яна ж бібліятэка Урублеўскіх, пад невідавочнымі (для недасведчаных у літоўскай) назвамі. Ёсць сканы інвентароў за 1746, 1750 (два), 1757, 1758 «фальварка Ратуцічы, які належыць плябаніі Барысаўскай». Акрамя Ратуціч там яшчэ "
+            },
+            {
+                "type": "bold",
+                "text": "Раннае, Клён і Навасёлкі"
+            },
+            {
+                "type": "plain",
+                "text": ". Ёсць спісы галоў сем'яў (а месцамі і ўвогуле ўсіх мужчын), за выключэннем 1758 г., дзе фрагмент і больш пра жыта: \n \n"
+            },
+            {
+                "type": "text_link",
+                "text": "F43-6114 [Borisovo bažnyčios Ratučicų palivarko (Oršos pav.) inventorius] 1746 ",
+                "href": "https://elibrary.mab.lt/handle/1/11618"
+            },
+            {
+                "type": "plain",
+                "text": " \n \n"
+            },
+            {
+                "type": "text_link",
+                "text": "F43-6116 [Borisovo bažnyčios Ratučicų palivarko (Oršos pav.) inventorius] 1750 (пазначаны ўсе мужчыны)",
+                "href": "https://elibrary.mab.lt/handle/1/11620"
+            },
+            {
+                "type": "plain",
+                "text": " \n \n"
+            },
+            {
+                "type": "text_link",
+                "text": "F43-6117 [Borisovo bažnyčios Ratučicų palivarko (Oršos pav.) inventorius] 1750 (пазначаны ўсе мужчыны)",
+                "href": "https://elibrary.mab.lt/handle/1/11621"
+            },
+            {
+                "type": "plain",
+                "text": " \n \n"
+            },
+            {
+                "type": "text_link",
+                "text": "F43-6119 [Borisovo bažnyčios Ratučicų palivarko (Oršos pav.) inventorius] 1757 (пазначаны ўсе мужчыны) ",
+                "href": "https://elibrary.mab.lt/handle/1/11623"
+            },
+            {
+                "type": "plain",
+                "text": "  \n \n"
+            },
+            {
+                "type": "text_link",
+                "text": "F43-6120 [Borisovo bažnyčios Ratučicų palivarko (Oršos pav.) inventorius] 1758",
+                "href": "https://elibrary.mab.lt/handle/1/11624"
+            },
+            {
+                "type": "plain",
+                "text": "  \n \nПры гэтым у Абрамовічуса ў "
+            },
+            {
+                "type": "text_link",
+                "text": "даведніку ",
+                "href": "https://archive.org/details/abramavicius-feodaliniu-zemes-valdu-lietuvoje-inventoriu-aprasymas-1963/page/215/mode/2up"
+            },
+            {
+                "type": "plain",
+                "text": "пазначаны толькі два: за 1750 і за 1757, прычым пад нумарамі VKF-2015 і VKF-2016. То бок фонд той самы, а нумары адносна сучасных зусім міма, што патэнцыйна ўскладняе пошук па неалічбаваных справах "
+            },
+            {
+                "type": "strikethrough",
+                "text": "(шматзначна глядзіць на фонд Тышкевічаў)."
+            },
+            {
+                "type": "plain",
+                "text": " \n \nАле і па алічбованаму знаходзіцца шмат цікавага: \n \n• Барысаўскі касцёл, "
+            },
+            {
+                "type": "text_link",
+                "text": "візітацыя 1647 ",
+                "href": "https://elibrary.mab.lt/handle/1/212"
+            },
+            {
+                "type": "plain",
+                "text": "і "
+            },
+            {
+                "type": "text_link",
+                "text": "апісанне",
+                "href": "https://elibrary.mab.lt/handle/1/11615"
+            },
+            {
+                "type": "plain",
+                "text": " \n• "
+            },
+            {
+                "type": "text_link",
+                "text": "Грамата 1589 г",
+                "href": "https://elibrary.mab.lt/handle/1/26148"
+            },
+            {
+                "type": "plain",
+                "text": ". з подпісам Льва Сапегі , у якой згадваюцца Аздзяцічы \n• "
+            },
+            {
+                "type": "text_link",
+                "text": "Выпіскі",
+                "href": "https://elibrary.mab.lt/handle/1/18436"
+            },
+            {
+                "type": "plain",
+                "text": " са спраў зямельных судоў розных паветаў 1622 г. (яшчэ не глядзела, але згадваецца Аршанскі павет і 222 старонак, што перспектыўна)\n• "
+            },
+            {
+                "type": "text_link",
+                "text": "Віленскі беларускі фонд. F21",
+                "href": "https://elibrary.mab.lt/handle/1/3295"
+            },
+            {
+                "type": "plain",
+                "text": " і "
+            },
+            {
+                "type": "text_link",
+                "text": "Piesnia biełaruskich žaunierou 1794 hoda",
+                "href": "https://elibrary.mab.lt/handle/1/19036"
+            },
+            {
+                "type": "plain",
+                "text": " \n \nІ іншае па фільтрам «у лоб»: "
+            },
+            {
+                "type": "text_link",
+                "text": "Orš*",
+                "href": "https://elibrary.mab.lt/discover?scope=%2F&query=Or%C5%A1*&submit=Go&rpp=10"
+            },
+            {
+                "type": "plain",
+                "text": " і "
+            },
+            {
+                "type": "text_link",
+                "text": "Borisov*",
+                "href": "https://elibrary.mab.lt/discover?rpp=10&etal=0&query=Borisov*&scope=&group_by=none&page=1"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Eka",
+                        "from_id": "user510598726",
+                        "date": "2024-10-31T09:49:00"
+                    },
+                    {
+                        "from": "Natalia Iakovleva",
+                        "from_id": "user5170769785",
+                        "date": "2024-10-24T23:50:18"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Алексей Маркевич",
+                        "from_id": "user230097168",
+                        "date": "2024-10-21T21:11:02"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4426,
+        "type": "message",
+        "date": "2024-10-21T20:46:59",
+        "date_unixtime": "1729532819",
+        "edited": "2024-12-30T16:27:34",
+        "edited_unixtime": "1735565254",
+        "from": "Федорова Лариса",
+        "from_id": "user732840164",
+        "reply_to_message_id": 1197,
+        "text": "Блин! Ни че не понятно!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Блин! Ни че не понятно!"
+            }
+        ]
+    },
+    {
+        "id": 4427,
+        "type": "message",
+        "date": "2024-10-21T21:08:38",
+        "date_unixtime": "1729534118",
+        "edited": "2024-10-21T21:11:08",
+        "edited_unixtime": "1729534268",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "reply_to_message_id": 4426,
+        "text": "Воспользуйтесь встроенной функцией перевода в телеграмм, для этого нужно зайти в настройки, выбрать язык, бегунком включить кнопку \"перевести\"🤷‍♂",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Воспользуйтесь встроенной функцией перевода в телеграмм, для этого нужно зайти в настройки, выбрать язык, бегунком включить кнопку \"перевести\"🤷‍♂"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Алексей Маркевич",
+                        "from_id": "user230097168",
+                        "date": "2024-10-21T21:11:08"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5908,
+        "type": "message",
+        "date": "2024-11-01T03:54:02",
+        "date_unixtime": "1730422442",
+        "edited": "2024-11-01T14:28:21",
+        "edited_unixtime": "1730460501",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "reply_to_message_id": 1197,
+        "text": [
+            "НАРБ. Ф. 101 (Народный комиссариат рабоче-крестьянской инспекции БССР). Оп. 3. Д. 226. Списки бывших военнослужащих, призванных на военную службу ",
+            {
+                "type": "bold",
+                "text": "Борисовским"
+            },
+            ", Бобруйским и Игуменским уездными военкоматами (1920)."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "НАРБ. Ф. 101 (Народный комиссариат рабоче-крестьянской инспекции БССР). Оп. 3. Д. 226. Списки бывших военнослужащих, призванных на военную службу "
+            },
+            {
+                "type": "bold",
+                "text": "Борисовским"
+            },
+            {
+                "type": "plain",
+                "text": ", Бобруйским и Игуменским уездными военкоматами (1920)."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 6,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Елена",
+                        "from_id": "user457308118",
+                        "date": "2024-12-19T23:58:14"
+                    },
+                    {
+                        "from": "Marina Yurochka",
+                        "from_id": "user6971824773",
+                        "date": "2024-11-05T10:18:06"
+                    },
+                    {
+                        "from": "Eka",
+                        "from_id": "user510598726",
+                        "date": "2024-11-04T22:00:07"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5969,
+        "type": "message",
+        "date": "2024-11-06T23:24:53",
+        "date_unixtime": "1730924693",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "reply_to_message_id": 1197,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://t.me/ArchiveVed"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://t.me/ArchiveVed"
+            }
+        ]
+    },
+    {
+        "id": 5970,
+        "type": "message",
+        "date": "2024-11-06T23:26:27",
+        "date_unixtime": "1730924787",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "reply_to_message_id": 1197,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://t.me/gendryhva"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://t.me/gendryhva"
+            }
+        ]
+    },
+    {
+        "id": 5971,
+        "type": "message",
+        "date": "2024-11-06T23:28:00",
+        "date_unixtime": "1730924880",
+        "from": "Борисовский уезд Минской губернии",
+        "from_id": "channel1883536346",
+        "author": ".",
+        "reply_to_message_id": 1197,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://t.me/genshafa"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://t.me/genshafa"
+            }
+        ]
+    }
+]
