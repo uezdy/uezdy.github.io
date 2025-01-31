@@ -6,7 +6,7 @@ import {TextEntity, TGMessage} from "@/app/components/types";
 import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 
-export default async function Message({uezd, msg, topicId, page}: { msg: TGMessage, topicId: number, page: number }) {
+export default async function Message({uezd, msg, topicId, page}: { uezd: string, msg: TGMessage, topicId: number, page: number }) {
     let date = new Date(msg.date as any);
     let year = new Intl.DateTimeFormat('ru', { year: 'numeric' }).format(date);
     let month = new Intl.DateTimeFormat('ru', { month: 'short' }).format(date);
