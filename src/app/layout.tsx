@@ -23,6 +23,7 @@ export default function RootLayout({
     return (
         <html lang="ru">
         <head>
+            <meta name="robots" content="index, follow"/>
             <meta name="google-site-verification" content="WcZLxrvNHupEwOXBZ_xza8RMaDFrJ_7Nc_Ax_vyo0zw"/>
             <meta name="yandex-verification" content="9c6b753fbeb916ac"/>
         </head>
