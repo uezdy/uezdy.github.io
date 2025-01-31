@@ -1,11 +1,14 @@
 .message-top {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     border: 1px solid #d7e3ec;
     border-bottom: none;
     border-radius: 10px 10px 0 0;
 }
-
+.message-card {
+    border-radius: 0;
+}
 .message-top a,
 .message-top button {
     font-size: 0.5rem;
