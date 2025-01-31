@@ -56,6 +56,9 @@ const TextJoin = ({text}: any) => {
                 if (textEntity.type === 'text_link') {
                     textString += `<a target="_blank" href="${textEntity.href}">${textEntity.text}</a>`
                 }
+                if (textEntity.type === 'hashtag') {
+                    textString += `<a href="${textEntity.text}"><b>${textEntity.text}</b></a>`
+                }
                 if (textEntity.type === 'bold') {
                     textString += `<b>${textEntity.text}</b>`;
                 }
