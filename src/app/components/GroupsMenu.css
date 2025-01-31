@@ -1,0 +1,7 @@
+.group-list-item {
+    display: flex;
+    position: relative;
+}
+.group-list-item .icon {
+    margin-right: 1rem;
+}
