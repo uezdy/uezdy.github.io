@@ -5,7 +5,7 @@ import Button from '@mui/material/Button';
 import {TextEntity, TGMessage} from "@/app/components/types";
 import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
-import MouseHoverPopover from "@/app/components/MouseHoverPopover";
+import OriginalModal from "@/app/components/OriginalModal";
 
 export default async function Message({uezd, msg, topicId, page}: { uezd: string, msg: TGMessage, topicId: number, page: number }) {
     let date = new Date(msg.date as any);
@@ -31,8 +31,11 @@ export default async function Message({uezd, msg, topicId, page}: { uezd: string
                     <span>
                         <span aria-label="Date of message" className="date-of-message">{`${day} ${month} ${year}`}</span>
                         <Button size="small" aria-label="Информация по сообщению">
-                            <MouseHoverPopover path={`${uezd}/${msg.id}`} />
+                            <OriginalModal>
+                                <iframe id="telegram-post" src={`https://t.me/${uezd}/${msg.id}?embed=1`}></iframe>
+                            </OriginalModal>
                         </Button>
+
                     </span>
                 </span>
                 <TextJoin text={msg.text}/>

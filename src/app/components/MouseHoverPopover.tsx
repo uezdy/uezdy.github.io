@@ -2,6 +2,7 @@
 
 import * as React from 'react';
 import Popover from '@mui/material/Popover';
+import TelegramIcon from '@mui/icons-material/Telegram';
 
 export default function MouseHoverPopover({path}: any) {
     const [anchorEl, setAnchorEl] = React.useState<HTMLElement | null>(null);
@@ -24,7 +25,7 @@ export default function MouseHoverPopover({path}: any) {
                 onMouseEnter={handlePopoverOpen}
                 onMouseLeave={handlePopoverClose}
             >
-                ##
+                <TelegramIcon />
             </span>
             <Popover
                 id="mouse-over-popover"
