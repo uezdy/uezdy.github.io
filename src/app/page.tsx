@@ -7,6 +7,9 @@ import GroupsMenu from "@/app/components/GroupsMenu";
 export const metadata: Metadata = {
     title: 'Генеалогии Беларуси',
     description: 'Телеграм группы по генеалогии Беларуси',
+    icons: {
+        icon: `/favicon.svg`,
+    }
 };
 
 export default async function Home() {

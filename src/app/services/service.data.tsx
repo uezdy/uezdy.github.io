@@ -8,6 +8,9 @@ const topicsPool: any = {};
 const topicsList = fs.readdirSync(path.resolve(`public/`), 'utf8');
 
 topicsList.forEach((groupNickName) => {
+    if (~groupNickName.indexOf('.')) {
+        return;
+    }
     if (!topics[groupNickName]) {
         topics[groupNickName] = {};
     }
