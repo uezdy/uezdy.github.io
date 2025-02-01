@@ -7,9 +7,17 @@ import GroupsMenu from "@/app/components/GroupsMenu";
 export const metadata: Metadata = {
     title: 'Генеалогии Беларуси',
     description: 'Телеграм группы по генеалогии Беларуси',
-    icons: {
-        icon: `/favicon.svg`,
-    }
+    icons: [
+        {
+            url: '/favicon.svg',
+            type: 'image/svg+xml',
+            sizes: 'any',
+            rel: 'icon'
+        }
+    ],
+    keywords: ['Беларусь', 'генеалогия', 'поиск', 'губерния', 'уезд'],
+    referrer: 'origin',
+    robots: { index: true, follow: true }
 };
 
 export default async function Home() {

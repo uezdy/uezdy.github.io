@@ -1,7 +1,9 @@
 .group-list-item {
     display: flex;
     position: relative;
+    align-items: center;
 }
 .group-list-item .icon {
     margin-right: 1rem;
 }
+
