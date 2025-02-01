@@ -1,6 +1,6 @@
 import {Metadata} from "next";
 import React from "react";
-import TopicsMenu from "@/app/components/TopicsMenu";
+import TopicsList from "@/app/components/TopicsList";
 import {topicsPool, aboutGroups} from "@/app/services/service.data";
 
 export async function generateMetadata({ params }: any): Promise<Metadata> {
@@ -23,6 +23,6 @@ export default async function Home({params}: any) {
     const {uezd} = await params;
 
     return <>
-        <TopicsMenu uezd={uezd} topicsPool={topicsPool[uezd]} />
+        <TopicsList uezd={uezd} topicsPool={topicsPool[uezd]} />
     </>;
 }
