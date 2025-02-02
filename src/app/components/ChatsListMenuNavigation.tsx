@@ -18,11 +18,12 @@ export default function ChatsListMenuNavigation({aboutGroups, uezd}: any) {
     const handleClick = (event: React.MouseEvent<HTMLElement>) => {
         setAnchorEl(event.currentTarget);
     };
-    const handleClose = (event: React.MouseEvent<HTMLElement>, option: AboutItem | null) => {
+    const handleClose = (event: React.MouseEvent<HTMLElement>, group: AboutItem | null) => {
         setAnchorEl(null);
-        if (option) {
-            setSelectedIndex(option.groupNickName);
-            router.push(`/${option.groupNickName}`);
+        if (group) {
+            const href = group.noTopics ? `/${group.groupNickName}/0/1` : `/${group.groupNickName}`;
+            setSelectedIndex(group.groupNickName);
+            router.push(href);
         }
     };
 
@@ -49,12 +50,15 @@ export default function ChatsListMenuNavigation({aboutGroups, uezd}: any) {
                 className="chats-list-menu-navigation"
                 onClose={(e: React.MouseEvent<HTMLElement>) => handleClose(e, null)}
             >
-                {Object.values(aboutGroups).map((option: AboutItem | any) => (
-                    <MenuItem key={option.groupNickName} className={option.groupNickName} selected={option.groupNickName === selectedIndex}
-                              onClick={(e: React.MouseEvent<HTMLElement>) => handleClose(e, option)}>
-                        {option.title}
-                    </MenuItem>
-                ))}
+                {Object.values(aboutGroups).map((group: AboutItem | any) => {
+
+                    return (
+                        <MenuItem key={group.groupNickName} className={group.groupNickName} selected={group.groupNickName === selectedIndex}
+                                  onClick={(e: React.MouseEvent<HTMLElement>) => handleClose(e, group)}>
+                            {group.title}
+                        </MenuItem>
+                    )
+                })}
             </Menu>
         </>
     );

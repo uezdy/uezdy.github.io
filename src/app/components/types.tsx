@@ -58,4 +58,5 @@ export interface AboutItem {
     title: string;
     description: string;
     groupNickName: number;
+    noTopics: boolean;
 }
