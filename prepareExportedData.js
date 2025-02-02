@@ -4,6 +4,9 @@ const fs = require('fs');
 const topicsList = fs.readdirSync(path.resolve(`public/`), 'utf8');
 
 topicsList.forEach((groupNickName) => {
+    if (~groupNickName.indexOf('.')) {
+        return;
+    }
     const perChunk = 2000;
     const targetUezd = path.resolve(`public/${groupNickName}`);
     const targetDir = path.resolve(`public/${groupNickName}/src`);
