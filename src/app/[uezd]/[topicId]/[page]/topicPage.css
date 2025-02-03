@@ -1,6 +1,6 @@
 @media (min-width: 600px) {
-    main {
-        margin-left: 45px;
+    .message-card {
+        padding: 0 45px;
     }
     .static-navigation-bar {
         padding-left: 62px;

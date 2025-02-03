@@ -7,15 +7,25 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import OriginalModal from "@/app/components/OriginalModal";
 
-export default async function Message({uezd, msg, topicId, page}: { uezd: string, msg: TGMessage, topicId: number, page: number }) {
+export default async function Message({uezd, msg, topicId, replyMessage}: { uezd: string, msg: TGMessage, topicId: number, replyMessage: TGMessage }) {
     let date = new Date(msg.date as any);
     let year = new Intl.DateTimeFormat('ru', { year: 'numeric' }).format(date);
     let month = new Intl.DateTimeFormat('ru', { month: 'short' }).format(date);
     let day = new Intl.DateTimeFormat('ru', { day: '2-digit' }).format(date);
 
     return <>
-        <Card sx={{minWidth: 275}} className="message-card">
-            <CardContent>
+        <Card sx={{minWidth: 275}} className="message-card" raised={true}>
+            <>
+                {
+                    replyMessage ? <>
+                        <Link href={`#${msg.reply_to_message_id}`} className="reply-to-message-id">
+                            <div>Ответ на сообщение: {replyMessage.from}</div>
+                            <TextJoin className="truncate-long-text"  text={replyMessage.text} />
+                        </Link>
+                    </> : <></>
+                }
+            </>
+            <CardContent id={msg.id}>
                 <span className="message-top">
                     <span>
                         <Button size="small" aria-label="Информация по сообщению">
@@ -38,13 +48,13 @@ export default async function Message({uezd, msg, topicId, page}: { uezd: string
 
                     </span>
                 </span>
-                <TextJoin text={msg.text}/>
+                <TextJoin text={msg.text} tag="p" />
             </CardContent>
         </Card>
     </>
 };
 
-const TextJoin = ({text}: any) => {
+const TextJoin = ({text, tag, className}: any) => {
     let textString = '';
     if (Array.isArray(text)) {
         text.map((textEntity: TextEntity | string) => {
@@ -86,6 +96,10 @@ const TextJoin = ({text}: any) => {
     } else {
         textString = text;
     }
-    return <p className="tgme_widget_message_bubble tgme_widget_message_text js-message_text"
-              dangerouslySetInnerHTML={{__html: textString.replace(/\n/g, '<br>')}}/>
+    const innerHtml = {__html: textString.replace(/\n/g, '<br>')};
+    if (tag === 'p') {
+        return <p className={className} dangerouslySetInnerHTML={innerHtml}/>
+    } else {
+        return <div className={className} dangerouslySetInnerHTML={innerHtml}/>
+    }
 };

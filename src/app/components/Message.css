@@ -17,3 +17,27 @@
 .date-of-message {
     font-size: 0.6rem;
 }
+
+.reply-to-message-id + div {
+    padding-top: 0;
+}
+
+a.reply-to-message-id {
+    border-radius: 4px;
+}
+a.reply-to-message-id div {
+    margin: 0 32px;
+    text-decoration: none;
+    background-color: rgba(128, 128, 128, 0.06);
+}
+a.reply-to-message-id:hover {
+    text-decoration: none;
+}
+
+.truncate-long-text {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 2rem;
+    line-height: 2rem;
+}
