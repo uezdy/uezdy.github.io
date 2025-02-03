@@ -53,9 +53,10 @@ export default function ChatsListMenuNavigation({aboutGroups, uezd}: any) {
                 {Object.values(aboutGroups).map((group: AboutItem | any) => {
 
                     return (
-                        <MenuItem key={group.groupNickName} className={group.groupNickName} selected={group.groupNickName === selectedIndex}
+                        <MenuItem key={group.groupNickName} className={`group-list-item ${group.groupNickName}`} selected={group.groupNickName === selectedIndex}
                                   onClick={(e: React.MouseEvent<HTMLElement>) => handleClose(e, group)}>
-                            {group.title}
+                            <img className="icon" width="15rem" src={`/${group.groupNickName}/favicon.ico`} alt={group.title}/>
+                            <span>{group.title}</span>
                         </MenuItem>
                     )
                 })}

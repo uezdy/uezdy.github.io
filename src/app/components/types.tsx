@@ -1,6 +1,6 @@
 export interface TGMessage {
     id: number
-    type: string
+    type: 'message' | 'service'
     date: string
     date_unixtime: string
     from?: string
