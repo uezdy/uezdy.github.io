@@ -12,6 +12,7 @@ export default async function Message({uezd, msg, topicId, replyMessage}: { uezd
     let year = new Intl.DateTimeFormat('ru', { year: 'numeric' }).format(date);
     let month = new Intl.DateTimeFormat('ru', { month: 'short' }).format(date);
     let day = new Intl.DateTimeFormat('ru', { day: '2-digit' }).format(date);
+    const id: any = {id: msg.id} as any;
 
     return <>
         <Card sx={{minWidth: 275}} className="message-card" raised={true}>
@@ -25,7 +26,7 @@ export default async function Message({uezd, msg, topicId, replyMessage}: { uezd
                     </> : <></>
                 }
             </>
-            <CardContent id={msg.id}>
+            <CardContent {...id}>
                 <span className="message-top">
                     <span>
                         <Button size="small" aria-label="Информация по сообщению">
@@ -45,7 +46,6 @@ export default async function Message({uezd, msg, topicId, replyMessage}: { uezd
                                 <iframe id="telegram-post" src={`https://t.me/${uezd}/${msg.id}?embed=1`}></iframe>
                             </OriginalModal>
                         </Button>
-
                     </span>
                 </span>
                 <TextJoin text={msg.text} tag="p" />
