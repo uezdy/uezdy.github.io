@@ -10,7 +10,7 @@ import {topics, aboutGroups, topicsPool} from "@/app/services/service.data";
 export async function generateMetadata({ params }: any): Promise<Metadata> {
     const {uezd, topicId} = await params;
     return {
-        title: topicsPool[uezd][topicId].title,
+        title: `${topicsPool[uezd][topicId].title} / ${aboutGroups[uezd].title}`,
         description: topicsPool[uezd][topicId].description,
         icons: {
             icon: `/${uezd}/favicon.ico`,
