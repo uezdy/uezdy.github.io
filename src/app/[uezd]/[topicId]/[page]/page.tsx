@@ -58,7 +58,7 @@ export default async function Page({params}: any) {
                         const replyMessage = msg.reply_to_message_id ? replyPool[+msg.reply_to_message_id] : null;
 
                         return msg.text && msg.type === 'message' &&
-                            <Message key={msg.id} uezd={uezd} topicId={topicId} page={page} msg={msg} replyMessage={replyMessage}/>
+                            <Message key={msg.id} uezd={uezd} topicId={topicId} msg={msg} replyMessage={replyMessage}/>
                     })
             }
         </>
