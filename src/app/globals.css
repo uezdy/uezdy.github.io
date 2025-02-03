@@ -42,7 +42,7 @@ a:hover {
 }
 @media (max-width: 1000px) {
   .original-message-modal > .original-message-modal-box {
-    width: 99vw;
+    width: 96vw;
   }
 }
 @media (min-width: 600px) {
