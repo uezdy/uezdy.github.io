@@ -48,7 +48,7 @@ export default async function Page({params}: any) {
     const pageJson = JSON.parse(fs.readFileSync(pagePath, 'utf8'));
     const replyPool: any = {};
 
-    Object.values(pageJson).forEach((currentValue: TGMessage) => {
+    Object.values(pageJson).forEach((currentValue: TGMessage | any) => {
         replyPool[+currentValue.id] = currentValue;
     }, {});
 
