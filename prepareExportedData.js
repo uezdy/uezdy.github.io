@@ -69,24 +69,27 @@ groupsList.forEach((groupNickName) => {
         }
         const messagesArray = Object.values(pool[topicId]);
 
-        const chunckArray = messagesArray.reduce((resultArray, item, index) => {
+        const chunckObjects = messagesArray.reduce((resultObject, item, index) => {
             const chunkIndex = Math.floor(index/perChunk)
 
-            if(!resultArray[chunkIndex]) {
-                resultArray[chunkIndex] = [] // start a new chunk
+            if(!resultObject[chunkIndex]) {
+                resultObject[chunkIndex] = {};
             }
 
-            resultArray[chunkIndex].push(item)
+            resultObject[chunkIndex][item.id] = item;
 
-            return resultArray
+            return resultObject
         }, []);
 
-        chunckArray.forEach((chunck, index) => {
+        chunckObjects.forEach((chunck, index) => {
             fs.writeFileSync(`${targetDir}/${topicId}/${normalazePageNumb(index)}.json`, JSON.stringify(chunck, null, 4), {encoding: 'utf8', flag: 'w'});
         });
     }
 
-    fs.writeFileSync(`${targetUezd}/topics.json`, JSON.stringify(poolTopics, null, 4), {encoding: 'utf8', flag: 'w'});
+    const topicsPath = `${targetUezd}/topics.json`;
+    if (!fs.existsSync(topicsPath)){
+        fs.writeFileSync(topicsPath, JSON.stringify(poolTopics, null, 4), {encoding: 'utf8', flag: 'w'});
+    }
 });
 
 

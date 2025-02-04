@@ -47,13 +47,15 @@ export default async function Page({params}: any) {
     const pagePath = path.resolve(`public/${uezd}/src/${topicId}/0${page - 1}.json`);
     const pageJson = JSON.parse(fs.readFileSync(pagePath, 'utf8'));
     const replyPool: any = {};
-    pageJson.forEach((currentValue: TGMessage) => {
+
+    Object.values(pageJson).forEach((currentValue: TGMessage) => {
         replyPool[+currentValue.id] = currentValue;
     }, {});
+
     return (
         <>
             {
-                pageJson
+                Object.values(pageJson)
                     .map((msg: TGMessage | any) => {
                         const replyMessage = msg.reply_to_message_id ? replyPool[+msg.reply_to_message_id] : null;
 
