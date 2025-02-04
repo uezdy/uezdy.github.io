@@ -1,9 +1,9 @@
 const path = require('path');
 const fs = require('fs');
 
-const topicsList = fs.readdirSync(path.resolve(`public/`), 'utf8');
+const groupsList = fs.readdirSync(path.resolve(`public/`), 'utf8');
 
-topicsList.forEach((groupNickName) => {
+groupsList.forEach((groupNickName) => {
     if (~groupNickName.indexOf('.')) {
         return;
     }
