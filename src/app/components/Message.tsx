@@ -40,7 +40,7 @@ export default async function Message({uezd, msg, topicId, replyMessage}: { uezd
                         </Button>
                     </span>
                     <span>
-                        <span aria-label="Date of message" className="date-of-message">{`${day} ${month} ${year}`}</span>
+                        <time dateTime={msg.date} className="date-of-message">{`${day} ${month} ${year}`}</time>
                         <Button size="small" aria-label="Информация по сообщению">
                             <OriginalModal>
                                 <iframe id="telegram-post" src={`https://t.me/${uezd}/${msg.id}?embed=1`}></iframe>
