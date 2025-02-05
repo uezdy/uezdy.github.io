@@ -25,6 +25,7 @@ export default function RootLayout({
         <html lang="ru">
         <body>
             {children}
+            <time id="update-date" dateTime={new Date().toUTCString()} hidden />
         </body>
         </html>
     );
