@@ -21,7 +21,7 @@ export default async function Message({uezd, msg, topicId, replyMessage}: { uezd
                     replyMessage ? <>
                         <Link href={`#${msg.reply_to_message_id}`} className="reply-to-message-id">
                             <div>Ответ на сообщение: {replyMessage.from}</div>
-                            <TextJoin className="truncate-long-text"  text={replyMessage.text} />
+                            <TextJoin className="truncate-long-text" text={replyMessage.text} />
                         </Link>
                     </> : <></>
                 }
@@ -96,10 +96,10 @@ const TextJoin = ({text, tag, className}: any) => {
     } else {
         textString = text;
     }
-    const innerHtml = {__html: textString.replace(/\n/g, '<br>')};
+    const innerHtml = {__html: textString};
     if (tag === 'p') {
-        return <p className={className} dangerouslySetInnerHTML={innerHtml}/>
+    return <p className={className + ' message-text'} dangerouslySetInnerHTML={innerHtml} />
     } else {
-        return <div className={className} dangerouslySetInnerHTML={innerHtml}/>
+        return <div className={className+ ' message-text'} dangerouslySetInnerHTML={innerHtml}/>
     }
 };

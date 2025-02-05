@@ -41,3 +41,6 @@ a.reply-to-message-id:hover {
     height: 2rem;
     line-height: 2rem;
 }
+.message-text {
+    white-space: pre-wrap;
+}
