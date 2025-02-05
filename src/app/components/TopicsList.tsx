@@ -13,7 +13,7 @@ export default function TopicsList({uezd, topicsPool}: any) {
             {
                 Object.values(topicsPool).map((top: any) => <ListItem key={top.id}>
                     <CommentIcon className="comment-icon"/>
-                    <Link className="topic-list-item" href={`/${uezd}/${top.id}/1`}>
+                    <Link className="topic-list-item" href={`/${uezd}/${top.id}/1`} data-message={top.title} >
                         {top.title}
                     </Link>
                 </ListItem>)
