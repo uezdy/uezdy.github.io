@@ -5,13 +5,13 @@ import { useRouter } from 'next/navigation';
 import './PaginationLists.css';
 import React, {ChangeEvent} from "react";
 
-export default function PaginationLists({pagesCount, topicId, page}: any) {
+export default function PaginationLists({pagesCount, topicId, page, uezd}: any) {
     const [currentWidth, setCurrentWidth] = React.useState(1000);
     const router = useRouter();
 
     const clickHandler = (event: ChangeEvent<unknown>, nPage: number) => {
         event.preventDefault();
-        router.push(`/uezdy/${topicId}/${nPage}`);
+        router.push(`/${uezd}/${topicId}/${nPage}`);
     };
 
     React.useEffect(() => {

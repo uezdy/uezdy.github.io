@@ -18,11 +18,10 @@ export default async function Layout({ params, children }: any) {
         <>
             <nav className="static-navigation-bar top-navigation-bar">
                 <SelectedMenu uezd={uezd} topicsPool={topicsPool[uezd]} topicId={topicId}/>
-                <PaginationLists pagesCount={pagesCount} topicId={topicId} page={page} />
+                <PaginationLists pagesCount={pagesCount} topicId={topicId} page={page} uezd={uezd} />
                 <ChatsListMenuNavigation uezd={uezd} aboutGroups={aboutGroups} />
             </nav>
             <main>{children}</main>
-            <div id="down" />
         </>
     )
 }
