@@ -1,11 +1,10 @@
 import {Metadata} from "next";
 import React from "react";
-import styles from "@/app/page.module.css";
 import {aboutGroups} from "@/app/services/service.data";
-import GroupsMenu from "@/app/components/GroupsMenu";
+import GroupsList from "@/app/components/GroupsList";
 
 export const metadata: Metadata = {
-    title: 'Генеалогии Беларуси',
+    title: 'Телеграм группы по генеалогии Беларуси',
     description: 'Телеграм группы по генеалогии Беларуси',
     icons: [
         {
@@ -22,14 +21,10 @@ export const metadata: Metadata = {
 
 export default async function Home() {
 
-    return (
-        <div className={styles.page}>
-            <main className={styles.main}>
-                <GroupsMenu groupsList={Object.values(aboutGroups)} />
-            </main>
-            <footer className={styles.footer}>
-
-            </footer>
-        </div>
-    );
+    return <>
+        <header>
+            <h1>Список телеграм групп по генеалогии Беларуси</h1>
+        </header>
+        <GroupsList groupsList={Object.values(aboutGroups)} />
+    </>;
 }

@@ -1,0 +1,25 @@
+.group-list-item {
+    display: flex;
+    position: relative;
+    align-items: center;
+}
+.group-list-item .icon {
+    margin-right: 1rem;
+}
+
+.center {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    list-style-position: inside;
+}
+ul {
+    padding: 0;
+}
+ul > li {
+    margin-top: 10px;
+    list-style:none;
+}
+h1 {
+    text-align:center;
+}
