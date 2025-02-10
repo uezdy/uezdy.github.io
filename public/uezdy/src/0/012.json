@@ -4871,6 +4871,118 @@
             }
         ]
     },
+    "72186": {
+        "id": 72186,
+        "type": "message",
+        "date": "2024-02-06T15:57:33",
+        "date_unixtime": "1707224253",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 72184,
+        "text": "Так ваши - Елозы или Ялозы? Как в инвентарях написано?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Так ваши - Елозы или Ялозы? Как в инвентарях написано?"
+            }
+        ]
+    },
+    "72187": {
+        "id": 72187,
+        "type": "message",
+        "date": "2024-02-06T15:58:12",
+        "date_unixtime": "1707224292",
+        "from": "Alenа",
+        "from_id": "user1469281708",
+        "reply_to_message_id": 72184,
+        "text": "А инвентари за какие годы у вас есть? Буду благодарна,  если посмотрите Карась из Бешенковичей",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А инвентари за какие годы у вас есть? Буду благодарна,  если посмотрите Карась из Бешенковичей"
+            }
+        ]
+    },
+    "72189": {
+        "id": 72189,
+        "type": "message",
+        "date": "2024-02-06T16:00:50",
+        "date_unixtime": "1707224450",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 72185,
+        "text": "Формулировка будет такая - товарищу Ялозе две волоки оседлые навечность или до живота. О чем подписуюсь Жигимонт ваш III",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Формулировка будет такая - товарищу Ялозе две волоки оседлые навечность или до живота. О чем подписуюсь Жигимонт ваш III"
+            }
+        ]
+    },
+    "72191": {
+        "id": 72191,
+        "type": "message",
+        "date": "2024-02-06T16:02:52",
+        "date_unixtime": "1707224572",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 72185,
+        "text": "Т.е судебный пристав. Низшая поветовая должность. И очень опасная)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Т.е судебный пристав. Низшая поветовая должность. И очень опасная)"
+            }
+        ]
+    },
+    "72192": {
+        "id": 72192,
+        "type": "message",
+        "date": "2024-02-06T16:03:40",
+        "date_unixtime": "1707224620",
+        "from": "Jalozin",
+        "from_id": "user1314863059",
+        "reply_to_message_id": 72191,
+        "text": "Да, эт я уже понял, спасибо)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, эт я уже понял, спасибо)"
+            }
+        ]
+    },
+    "72193": {
+        "id": 72193,
+        "type": "message",
+        "date": "2024-02-06T16:04:32",
+        "date_unixtime": "1707224672",
+        "edited": "2024-02-06T16:07:05",
+        "edited_unixtime": "1707224825",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 72185,
+        "text": "На полях описи сноски с названием имений есть. И в одной из последних описей географический указатель",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На полях описи сноски с названием имений есть. И в одной из последних описей географический указатель"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Jalozin",
+                        "from_id": "user1314863059",
+                        "date": "2024-02-06T16:07:05"
+                    }
+                ]
+            }
+        ]
+    },
     "72214": {
         "id": 72214,
         "type": "message",
@@ -10376,6 +10488,60 @@
             }
         ]
     },
+    "94754": {
+        "id": 94754,
+        "type": "message",
+        "date": "2024-09-01T13:51:00",
+        "date_unixtime": "1725187860",
+        "edited": "2024-09-01T14:03:29",
+        "edited_unixtime": "1725188609",
+        "from": "San Hal",
+        "from_id": "user5143400515",
+        "reply_to_message_id": 94753,
+        "text": "R[ok]u 1819 M[ie]s[ą]ca 8bra [=Octembra] 19. Dnia Ja X[iądz] M. Zawadzki Pozadziwonowicki [?] Ochrzciłem Syna Jozefa Szlubnych Rodzicow Jana i Agaty Siwakow urodzonego na dniu tym że. Kumami byli Onufry Mieleszkiewicz z Maryanną Jasziekiewiczową. i tegoż po Chrzcie Pobierzmowałem. Dziecie ze Wsi Kamięczan. Kum z Plebanij Radzinowicz. Kuma ze Wsi Strzelcow",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "R[ok]u 1819 M[ie]s[ą]ca 8bra [=Octembra] 19. Dnia Ja X[iądz] M. Zawadzki Pozadziwonowicki [?] Ochrzciłem Syna Jozefa Szlubnych Rodzicow Jana i Agaty Siwakow urodzonego na dniu tym że. Kumami byli Onufry Mieleszkiewicz z Maryanną Jasziekiewiczową. i tegoż po Chrzcie Pobierzmowałem. Dziecie ze Wsi Kamięczan. Kum z Plebanij Radzinowicz. Kuma ze Wsi Strzelcow"
+            }
+        ]
+    },
+    "94765": {
+        "id": 94765,
+        "type": "message",
+        "date": "2024-09-01T17:10:27",
+        "date_unixtime": "1725199827",
+        "edited": "2024-09-01T17:17:01",
+        "edited_unixtime": "1725200221",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 94754,
+        "text": "P[aroch] Rа-\ndziwonowicki",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "P[aroch] Rа-\ndziwonowicki"
+            }
+        ]
+    },
+    "94768": {
+        "id": 94768,
+        "type": "message",
+        "date": "2024-09-01T17:15:58",
+        "date_unixtime": "1725200158",
+        "edited": "2024-09-01T17:38:33",
+        "edited_unixtime": "1725201513",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 94754,
+        "text": "*Radziwonowicz",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "*Radziwonowicz"
+            }
+        ]
+    },
     "94836": {
         "id": 94836,
         "type": "message",
@@ -13496,6 +13662,38 @@
             }
         ]
     },
+    "109069": {
+        "id": 109069,
+        "type": "message",
+        "date": "2025-01-08T18:56:22",
+        "date_unixtime": "1736351782",
+        "edited": "2025-01-08T19:09:28",
+        "edited_unixtime": "1736352568",
+        "from": "Вальдэк",
+        "from_id": "user1157687135",
+        "reply_to_message_id": 109061,
+        "text": "Если я правильно понял ваш вопрос, то хорошо работает программа Paysend, быстро и надёжно, можно скачать в Google play",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Если я правильно понял ваш вопрос, то хорошо работает программа Paysend, быстро и надёжно, можно скачать в Google play"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "💯",
+                "recent": [
+                    {
+                        "from": "Alena Vaitsiakhouskaya",
+                        "from_id": "user532861942",
+                        "date": "2025-01-08T19:09:28"
+                    }
+                ]
+            }
+        ]
+    },
     "109070": {
         "id": 109070,
         "type": "message",
@@ -13557,6 +13755,70 @@
             {
                 "type": "plain",
                 "text": "Спасибо большое! Все совпадает"
+            }
+        ]
+    },
+    "109076": {
+        "id": 109076,
+        "type": "message",
+        "date": "2025-01-08T21:16:02",
+        "date_unixtime": "1736360162",
+        "from": "Kris Romanyuk",
+        "from_id": "user173177233",
+        "reply_to_message_id": 109069,
+        "text": "Это какое то приложение, куда можно кинуть деньги с бел карты? Поделитесь опытом пожалуйста",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это какое то приложение, куда можно кинуть деньги с бел карты? Поделитесь опытом пожалуйста"
+            }
+        ]
+    },
+    "109123": {
+        "id": 109123,
+        "type": "message",
+        "date": "2025-01-09T08:46:07",
+        "date_unixtime": "1736401567",
+        "edited": "2025-01-09T08:49:50",
+        "edited_unixtime": "1736401790",
+        "from": "Alena Vaitsiakhouskaya",
+        "from_id": "user532861942",
+        "reply_to_message_id": 109076,
+        "text": "Да, там вводишь данные карты получателя, свои данные карты, выбираешь в какой валюте и сколько получатель должен получить, с Вашей карты снимут в той валюте, в которой у Вас карта.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, там вводишь данные карты получателя, свои данные карты, выбираешь в какой валюте и сколько получатель должен получить, с Вашей карты снимут в той валюте, в которой у Вас карта."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Kris Romanyuk",
+                        "from_id": "user173177233",
+                        "date": "2025-01-09T08:49:50"
+                    }
+                ]
+            }
+        ]
+    },
+    "109125": {
+        "id": 109125,
+        "type": "message",
+        "date": "2025-01-09T08:50:03",
+        "date_unixtime": "1736401803",
+        "from": "Kris Romanyuk",
+        "from_id": "user173177233",
+        "reply_to_message_id": 109123,
+        "text": "Спасибо 🙏",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо 🙏"
             }
         ]
     },
@@ -14082,5 +14344,191 @@
                 "text": "Большое спасибо! Извините, пожалуйста."
             }
         ]
+    },
+    "111181": {
+        "id": 111181,
+        "type": "message",
+        "date": "2025-01-22T14:05:51",
+        "date_unixtime": "1737543951",
+        "edited": "2025-01-22T14:06:29",
+        "edited_unixtime": "1737543989",
+        "from": "Szkapa",
+        "from_id": "user478727343",
+        "reply_to_message_id": 111177,
+        "text": "У вас хорошо сделали",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У вас хорошо сделали"
+            }
+        ]
+    },
+    "111182": {
+        "id": 111182,
+        "type": "message",
+        "date": "2025-01-22T14:06:13",
+        "date_unixtime": "1737543973",
+        "edited": "2025-01-22T14:06:21",
+        "edited_unixtime": "1737543981",
+        "from": "Владимир",
+        "from_id": "user831316871",
+        "reply_to_message_id": 111181,
+        "text": "здесь художник трудился своими ручками)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "здесь художник трудился своими ручками)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 7,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "В",
+                        "from_id": "user5050312544",
+                        "date": "2025-01-22T20:39:41"
+                    },
+                    {
+                        "from": "Марина",
+                        "from_id": "user1874881112",
+                        "date": "2025-01-22T15:23:06"
+                    },
+                    {
+                        "from": "Paul von Nachtigall",
+                        "from_id": "user251308718",
+                        "date": "2025-01-22T14:21:31"
+                    }
+                ]
+            }
+        ]
+    },
+    "111183": {
+        "id": 111183,
+        "type": "message",
+        "date": "2025-01-22T15:15:43",
+        "date_unixtime": "1737548143",
+        "edited": "2025-01-22T15:16:17",
+        "edited_unixtime": "1737548177",
+        "from": "Роман",
+        "from_id": "user1819081203",
+        "reply_to_message_id": 111182,
+        "text": "интересно узнать, что же делал художник в Испании..., а вообще у вас идеально восстановленная фотография, может даже лучше чем была сначала",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "интересно узнать, что же делал художник в Испании..., а вообще у вас идеально восстановленная фотография, может даже лучше чем была сначала"
+            }
+        ]
+    },
+    "111184": {
+        "id": 111184,
+        "type": "message",
+        "date": "2025-01-22T15:20:04",
+        "date_unixtime": "1737548404",
+        "from": "Владимир",
+        "from_id": "user831316871",
+        "reply_to_message_id": 111183,
+        "text": "Это не у меня спрашивайте))) а у автора сообщения",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это не у меня спрашивайте))) а у автора сообщения"
+            }
+        ]
+    },
+    "111190": {
+        "id": 111190,
+        "type": "message",
+        "date": "2025-01-22T15:46:44",
+        "date_unixtime": "1737550004",
+        "edited": "2025-01-23T22:23:18",
+        "edited_unixtime": "1737660198",
+        "from": "Гарик",
+        "from_id": "user7087009637",
+        "reply_to_message_id": 111175,
+        "text": "Здорово. Но я бы оставил сепию",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здорово. Но я бы оставил сепию"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2025-01-23T22:23:19"
+                    }
+                ]
+            }
+        ]
+    },
+    "111191": {
+        "id": 111191,
+        "type": "message",
+        "date": "2025-01-22T15:47:39",
+        "date_unixtime": "1737550059",
+        "edited": "2025-01-22T15:51:07",
+        "edited_unixtime": "1737550267",
+        "from": "Владимир",
+        "from_id": "user831316871",
+        "reply_to_message_id": 111190,
+        "text": "Согласен...но мне для моего проекта нужно было именно так)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Согласен...но мне для моего проекта нужно было именно так)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Гарик",
+                        "from_id": "user7087009637",
+                        "date": "2025-01-22T15:51:07"
+                    }
+                ]
+            }
+        ]
+    },
+    "111192": {
+        "id": 111192,
+        "type": "message",
+        "date": "2025-01-22T15:52:56",
+        "date_unixtime": "1737550376",
+        "from": "Helen",
+        "from_id": "user982746756",
+        "reply_to_message_id": 111175,
+        "text": "👌🏻Браво",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "👌🏻Браво"
+            }
+        ]
+    },
+    "112586": {
+        "id": 112586,
+        "type": "service",
+        "date": "2025-02-05T00:12:19",
+        "date_unixtime": "1738703539",
+        "actor": "Алексей Билецкий",
+        "actor_id": "user1133915357",
+        "action": "pin_message",
+        "message_id": 111586,
+        "text": "",
+        "text_entities": []
     }
 }

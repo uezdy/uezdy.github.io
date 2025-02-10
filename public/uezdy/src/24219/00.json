@@ -2411,5 +2411,75 @@
                 ]
             }
         ]
+    },
+    "112766": {
+        "id": 112766,
+        "type": "message",
+        "date": "2025-02-06T21:19:53",
+        "date_unixtime": "1738865993",
+        "edited": "2025-02-06T22:07:58",
+        "edited_unixtime": "1738868878",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 24219,
+        "text": [
+            "Создана группа по ",
+            {
+                "type": "bold",
+                "text": "Мозырскому"
+            },
+            " уезду Минской губернии\n",
+            {
+                "type": "link",
+                "text": "https://t.me/+9cd9H4We0OAxZGZi"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Создана группа по "
+            },
+            {
+                "type": "bold",
+                "text": "Мозырскому"
+            },
+            {
+                "type": "plain",
+                "text": " уезду Минской губернии\n"
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/+9cd9H4We0OAxZGZi"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Anpiel",
+                        "from_id": "user7460713234",
+                        "date": "2025-02-07T12:49:36"
+                    },
+                    {
+                        "from": "I D",
+                        "from_id": "user5726368881",
+                        "date": "2025-02-07T02:11:23"
+                    },
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2025-02-06T22:07:58"
+                    }
+                ]
+            }
+        ]
     }
 }
