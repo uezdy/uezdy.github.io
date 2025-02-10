@@ -1,0 +1,150 @@
+{
+    "104631": {
+        "id": 104631,
+        "type": "message",
+        "date": "2024-11-28T11:14:36",
+        "date_unixtime": "1732781676",
+        "edited": "2024-11-28T11:18:03",
+        "edited_unixtime": "1732781883",
+        "from": "Anastasia Nichiporovich",
+        "from_id": "user251428128",
+        "reply_to_message_id": 104630,
+        "text": "Largest segment = 27.7 cM\n\nTotal Half-Match segments (HIR) 88.9cM (2.478 Pct)\nEstimated number of generations to MRCA = 3.7\n\n5 shared segments found for this comparison.\n\n201932 SNPs used for this comparison.\n\n52.098 Percent of SNPs are full identical.\n\nComparison took 0.291.\nCPU time used: 0.04.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Largest segment = 27.7 cM\n\nTotal Half-Match segments (HIR) 88.9cM (2.478 Pct)\nEstimated number of generations to MRCA = 3.7\n\n5 shared segments found for this comparison.\n\n201932 SNPs used for this comparison.\n\n52.098 Percent of SNPs are full identical.\n\nComparison took 0.291.\nCPU time used: 0.04."
+            }
+        ]
+    },
+    "104637": {
+        "id": 104637,
+        "type": "message",
+        "date": "2024-11-28T11:31:07",
+        "date_unixtime": "1732782667",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 104630,
+        "text": "👆",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "👆"
+            }
+        ]
+    },
+    "105226": {
+        "id": 105226,
+        "type": "message",
+        "date": "2024-12-05T06:41:29",
+        "date_unixtime": "1733370089",
+        "from": "Гарик",
+        "from_id": "user7087009637",
+        "reply_to_message_id": 105225,
+        "text": "Многие этого и добиваются, часто безуспешно. Я не знаю о прецедентах, когда ПФ отдавал оригиналы",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Многие этого и добиваются, часто безуспешно. Я не знаю о прецедентах, когда ПФ отдавал оригиналы"
+            }
+        ]
+    },
+    "105228": {
+        "id": 105228,
+        "type": "message",
+        "date": "2024-12-05T09:01:11",
+        "date_unixtime": "1733378471",
+        "edited": "2024-12-06T13:12:26",
+        "edited_unixtime": "1733479946",
+        "from": "hvojka",
+        "from_id": "user6173649987",
+        "reply_to_message_id": 105225,
+        "text": "Но если у Вас жив родитель, то копию выдадут, что ли, только ему? В наследство же вступал он, а не Вы. Или у Вас есть документ о вступлении в наследство?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Но если у Вас жив родитель, то копию выдадут, что ли, только ему? В наследство же вступал он, а не Вы. Или у Вас есть документ о вступлении в наследство?"
+            }
+        ]
+    },
+    "105245": {
+        "id": 105245,
+        "type": "message",
+        "date": "2024-12-05T12:48:32",
+        "date_unixtime": "1733392112",
+        "edited": "2024-12-05T15:35:59",
+        "edited_unixtime": "1733402159",
+        "from": "Vasi Vasi",
+        "from_id": "user7071190955",
+        "reply_to_message_id": 105225,
+        "text": "У меня у мамы тоже лежала трудовая книжка. Мне не отдали. Даже копии не дали все что в деле было сидел час переписывал",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У меня у мамы тоже лежала трудовая книжка. Мне не отдали. Даже копии не дали все что в деле было сидел час переписывал"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "😢",
+                "recent": [
+                    {
+                        "from": "Y M",
+                        "from_id": "user5035576209",
+                        "date": "2024-12-05T15:35:59"
+                    }
+                ]
+            }
+        ]
+    },
+    "105248": {
+        "id": 105248,
+        "type": "message",
+        "date": "2024-12-05T15:35:29",
+        "date_unixtime": "1733402129",
+        "from": "Y M",
+        "from_id": "user5035576209",
+        "reply_to_message_id": 105228,
+        "text": "Нет, не жив. И о каком наследстве речь?🤔",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Нет, не жив. И о каком наследстве речь?🤔"
+            }
+        ]
+    },
+    "105260": {
+        "id": 105260,
+        "type": "message",
+        "date": "2024-12-05T17:26:22",
+        "date_unixtime": "1733408782",
+        "from": "hvojka",
+        "from_id": "user6173649987",
+        "reply_to_message_id": 105248,
+        "text": "Там, видите, по тексту нужны доки на право наследования.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Там, видите, по тексту нужны доки на право наследования."
+            }
+        ]
+    },
+    "105263": {
+        "id": 105263,
+        "type": "message",
+        "date": "2024-12-05T17:48:50",
+        "date_unixtime": "1733410130",
+        "from": "Y M",
+        "from_id": "user5035576209",
+        "reply_to_message_id": 105260,
+        "text": "хм, я думал это имеются ввиду просто документы подтверждающие родственную связь, не?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "хм, я думал это имеются ввиду просто документы подтверждающие родственную связь, не?"
+            }
+        ]
+    }
+}

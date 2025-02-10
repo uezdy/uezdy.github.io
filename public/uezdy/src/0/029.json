@@ -1,0 +1,338 @@
+{
+    "58468": {
+        "id": 58468,
+        "type": "message",
+        "date": "2023-10-07T14:42:40",
+        "date_unixtime": "1696678960",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 58465,
+        "text": "А дзе яна знаходзіцца?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А дзе яна знаходзіцца?"
+            }
+        ]
+    },
+    "58500": {
+        "id": 58500,
+        "type": "message",
+        "date": "2023-10-07T17:50:19",
+        "date_unixtime": "1696690219",
+        "from": "🤫🏍⛺",
+        "from_id": "user6213882374",
+        "reply_to_message_id": 58497,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 576,
+        "height": 1280,
+        "text": "По русски же название написано, зачем переводить?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "По русски же название написано, зачем переводить?"
+            }
+        ]
+    },
+    "58587": {
+        "id": 58587,
+        "type": "message",
+        "date": "2023-10-10T15:10:08",
+        "date_unixtime": "1696939808",
+        "from": "Андрей",
+        "from_id": "user5156395180",
+        "reply_to_message_id": 58586,
+        "text": [
+            "Обычно было наоборот - называли деревню по владельцу/основателю.\nЭто не Ваши, случайно?\n",
+            {
+                "type": "link",
+                "text": "https://coins.su/forum/topic/240774-poznahirko-boyare-pantsirnye-1610-pozdnyak/"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Обычно было наоборот - называли деревню по владельцу/основателю.\nЭто не Ваши, случайно?\n"
+            },
+            {
+                "type": "link",
+                "text": "https://coins.su/forum/topic/240774-poznahirko-boyare-pantsirnye-1610-pozdnyak/"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "58590": {
+        "id": 58590,
+        "type": "message",
+        "date": "2023-10-10T15:26:49",
+        "date_unixtime": "1696940809",
+        "from": "Андрей",
+        "from_id": "user5156395180",
+        "reply_to_message_id": 58589,
+        "text": "А на 1667 год название уже было?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А на 1667 год название уже было?"
+            }
+        ]
+    },
+    "58591": {
+        "id": 58591,
+        "type": "message",
+        "date": "2023-10-10T15:28:55",
+        "date_unixtime": "1696940935",
+        "edited": "2023-10-10T15:29:36",
+        "edited_unixtime": "1696940976",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 58589,
+        "text": "По первым жителям. Владелец перевел холопа Позняка осваивать кусок земли и стал называть ферму или остров в лесу по фамилии/прозвищу холопа и его семьи",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "По первым жителям. Владелец перевел холопа Позняка осваивать кусок земли и стал называть ферму или остров в лесу по фамилии/прозвищу холопа и его семьи"
+            }
+        ]
+    },
+    "59048": {
+        "id": 59048,
+        "type": "message",
+        "date": "2023-10-14T22:42:14",
+        "date_unixtime": "1697312534",
+        "from": "Juliosia",
+        "from_id": "user5367559954",
+        "reply_to_message_id": 59047,
+        "text": "Карткі ўліку настаўнікаў🥹 У мяне прадзед настаўнік быў. Цікава, што там за інфа будзе",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Карткі ўліку настаўнікаў🥹 У мяне прадзед настаўнік быў. Цікава, што там за інфа будзе"
+            }
+        ]
+    },
+    "59060": {
+        "id": 59060,
+        "type": "message",
+        "date": "2023-10-15T12:05:43",
+        "date_unixtime": "1697360743",
+        "edited": "2023-10-15T12:05:50",
+        "edited_unixtime": "1697360750",
+        "from": "Mikhail",
+        "from_id": "user381947699",
+        "reply_to_message_id": 59058,
+        "text": [
+            "попробуйте обратиться сюда:\n",
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/3/8097/500.htm"
+            },
+            "\nили сюда:\n",
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/3/114090/760.htm"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "попробуйте обратиться сюда:\n"
+            },
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/3/8097/500.htm"
+            },
+            {
+                "type": "plain",
+                "text": "\nили сюда:\n"
+            },
+            {
+                "type": "link",
+                "text": "https://forum.vgd.ru/3/114090/760.htm"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Darya",
+                        "from_id": "user353969106",
+                        "date": "2023-10-15T16:51:06"
+                    },
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2023-10-15T12:05:50"
+                    }
+                ]
+            }
+        ]
+    },
+    "59061": {
+        "id": 59061,
+        "type": "message",
+        "date": "2023-10-15T12:05:54",
+        "date_unixtime": "1697360754",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 59060,
+        "text": "Спасибо!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо!"
+            }
+        ]
+    },
+    "59131": {
+        "id": 59131,
+        "type": "message",
+        "date": "2023-10-17T10:52:24",
+        "date_unixtime": "1697529144",
+        "edited": "2023-10-17T10:54:59",
+        "edited_unixtime": "1697529299",
+        "from": "Anatoly Sazanovich",
+        "from_id": "user5542313094",
+        "reply_to_message_id": 59119,
+        "text": "Прочитал в живом журнале про горюнов. Очень интересно. Беру на заметку.LIVEJOURNAL",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Прочитал в живом журнале про горюнов. Очень интересно. Беру на заметку.LIVEJOURNAL"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Наталья Спасская",
+                        "from_id": "user1487544921",
+                        "date": "2023-10-28T10:23:05"
+                    },
+                    {
+                        "from": "T.A",
+                        "from_id": "user5696903696",
+                        "date": "2023-10-17T10:57:20"
+                    },
+                    {
+                        "from": "Darya",
+                        "from_id": "user353969106",
+                        "date": "2023-10-17T10:54:59"
+                    }
+                ]
+            }
+        ]
+    },
+    "59159": {
+        "id": 59159,
+        "type": "message",
+        "date": "2023-10-17T13:15:34",
+        "date_unixtime": "1697537734",
+        "from": "Sergey Fedosenkov",
+        "from_id": "user989610685",
+        "reply_to_message_id": 59058,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 591,
+        "height": 1280,
+        "text": "Здравствуйте! Если пришлете ссылки на my heritage, могу вам оттуда сделать. У них тоже есть эта инфа.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте! Если пришлете ссылки на my heritage, могу вам оттуда сделать. У них тоже есть эта инфа."
+            }
+        ]
+    },
+    "59160": {
+        "id": 59160,
+        "type": "message",
+        "date": "2023-10-17T13:15:35",
+        "date_unixtime": "1697537735",
+        "from": "Sergey Fedosenkov",
+        "from_id": "user989610685",
+        "reply_to_message_id": 59058,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 591,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "59197": {
+        "id": 59197,
+        "type": "message",
+        "date": "2023-10-17T21:49:11",
+        "date_unixtime": "1697568551",
+        "edited": "2023-10-17T22:40:31",
+        "edited_unixtime": "1697571631",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 59159,
+        "text": "Спасибо! Все скачал. Купил абонемент)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо! Все скачал. Купил абонемент)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Sergey Fedosenkov",
+                        "from_id": "user989610685",
+                        "date": "2023-10-17T22:40:31"
+                    }
+                ]
+            }
+        ]
+    },
+    "59356": {
+        "id": 59356,
+        "type": "message",
+        "date": "2023-10-20T16:27:45",
+        "date_unixtime": "1697808465",
+        "edited": "2023-10-20T16:28:11",
+        "edited_unixtime": "1697808491",
+        "from": "T.A",
+        "from_id": "user5696903696",
+        "reply_to_message_id": 59355,
+        "text": "Ну, ашкенази.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну, ашкенази."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Nik",
+                        "from_id": "user1432708269",
+                        "date": "2023-10-20T16:28:11"
+                    }
+                ]
+            }
+        ]
+    }
+}

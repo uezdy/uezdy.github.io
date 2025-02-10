@@ -1,0 +1,122 @@
+{
+    "96200": {
+        "id": 96200,
+        "type": "message",
+        "date": "2024-09-07T19:06:36",
+        "date_unixtime": "1725725196",
+        "edited": "2024-09-07T19:10:39",
+        "edited_unixtime": "1725725439",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 96199,
+        "text": "У меня довольно много кто был записан как мещане, при этом  жили не в городах. Чаще всего - это те, кто не смог подтвердить шляхетство, и поэтому приписывался к мещанам. А по факту жили в деревнях, околицах, застенках.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "У меня довольно много кто был записан как мещане, при этом  жили не в городах. Чаще всего - это те, кто не смог подтвердить шляхетство, и поэтому приписывался к мещанам. А по факту жили в деревнях, околицах, застенках."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Victor",
+                        "from_id": "user512489139",
+                        "date": "2024-09-07T19:10:39"
+                    }
+                ]
+            }
+        ]
+    },
+    "96434": {
+        "id": 96434,
+        "type": "message",
+        "date": "2024-09-09T13:30:16",
+        "date_unixtime": "1725877816",
+        "edited": "2024-09-09T13:30:21",
+        "edited_unixtime": "1725877821",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 96432,
+        "text": "Перешлите файлом. Посмотрите — нечитабельно же. Тг ужал снимок.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Перешлите файлом. Посмотрите — нечитабельно же. Тг ужал снимок."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "💯",
+                "recent": [
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2024-09-09T13:30:34"
+                    }
+                ]
+            }
+        ]
+    },
+    "97057": {
+        "id": 97057,
+        "type": "message",
+        "date": "2024-09-16T12:23:48",
+        "date_unixtime": "1726478628",
+        "edited": "2024-09-16T12:24:10",
+        "edited_unixtime": "1726478650",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 97053,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "Святога Міхаіла?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Святога Міхаіла?"
+            }
+        ]
+    },
+    "97061": {
+        "id": 97061,
+        "type": "message",
+        "date": "2024-09-16T12:30:30",
+        "date_unixtime": "1726479030",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 97053,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "width": 960,
+        "height": 1280,
+        "text": "Беніцкі касцёл",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Беніцкі касцёл"
+            }
+        ]
+    },
+    "97285": {
+        "id": 97285,
+        "type": "message",
+        "date": "2024-09-17T23:46:53",
+        "date_unixtime": "1726606013",
+        "from": "Arciom Malinoŭski",
+        "from_id": "user884889101",
+        "reply_to_message_id": 97284,
+        "text": "А, точно!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А, точно!"
+            }
+        ]
+    }
+}

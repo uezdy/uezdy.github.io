@@ -1,0 +1,71 @@
+{
+    "91299": {
+        "id": 91299,
+        "type": "message",
+        "date": "2024-08-04T11:58:43",
+        "date_unixtime": "1722761923",
+        "edited": "2024-08-04T13:40:58",
+        "edited_unixtime": "1722768058",
+        "from": "San Hal",
+        "from_id": "user5143400515",
+        "reply_to_message_id": 91298,
+        "text": "Ещё вам наверняка встретятся 7brа - Septem-brа , 8bra - Octem-bra. Как в японском письме: идеограмма-иероглиф + изменяемая часть слова - фонетическими знаками. Чернила, понимаешь ли, экономили.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ещё вам наверняка встретятся 7brа - Septem-brа , 8bra - Octem-bra. Как в японском письме: идеограмма-иероглиф + изменяемая часть слова - фонетическими знаками. Чернила, понимаешь ли, экономили."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Kris Romanyuk",
+                        "from_id": "user173177233",
+                        "date": "2024-08-04T13:40:58"
+                    }
+                ]
+            }
+        ]
+    },
+    "91634": {
+        "id": 91634,
+        "type": "service",
+        "date": "2024-08-08T20:02:17",
+        "date_unixtime": "1723136537",
+        "actor": "Алексей Билецкий",
+        "actor_id": "user1133915357",
+        "action": "topic_created",
+        "title": "Сбор средств на выкуп документов из архивов",
+        "text": "",
+        "text_entities": []
+    },
+    "91638": {
+        "id": 91638,
+        "type": "service",
+        "date": "2024-08-08T20:11:34",
+        "date_unixtime": "1723137094",
+        "actor": "Nik",
+        "actor_id": "user1432708269",
+        "action": "topic_edit",
+        "new_title": "Складчыны / Складчины",
+        "new_icon_emoji_id": 0,
+        "text": "",
+        "text_entities": []
+    },
+    "91995": {
+        "id": 91995,
+        "type": "service",
+        "date": "2024-08-12T15:37:34",
+        "date_unixtime": "1723466254",
+        "actor": "Nik",
+        "actor_id": "user1432708269",
+        "action": "topic_created",
+        "title": "Праекты валанцёраў / Проекты волонтеров",
+        "text": "",
+        "text_entities": []
+    }
+}

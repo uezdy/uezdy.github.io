@@ -7,7 +7,7 @@ groupsList.forEach((groupNickName) => {
     if (~groupNickName.indexOf('.')) {
         return;
     }
-    const perChunk = 2000;
+    let perChunk = 2000;
     const targetUezd = path.resolve(`public/${groupNickName}`);
     const targetDir = path.resolve(`public/${groupNickName}/src`);
     const pathJSON = path.join(`public/${groupNickName}/result.json`);
@@ -68,9 +68,14 @@ groupsList.forEach((groupNickName) => {
             fs.mkdirSync(`${targetDir}/${topicId}`);
         }
         const messagesArray = Object.values(pool[topicId]);
-
+        let chunkIndex = 0;
         const chunckObjects = messagesArray.reduce((resultObject, item, index) => {
-            const chunkIndex = Math.floor(index/perChunk)
+            const id = +item.id
+
+            if (id >= perChunk) {
+                perChunk += 2000;
+                chunkIndex += 1;
+            }
 
             if(!resultObject[chunkIndex]) {
                 resultObject[chunkIndex] = {};
