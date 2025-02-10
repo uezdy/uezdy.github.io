@@ -1,12 +1,37 @@
 const path = require('path');
 const fs = require('fs');
 
-const groupsList = fs.readdirSync(path.resolve(`public/`), 'utf8');
+const publicPath = path.resolve(`public/`);
+
+const groupsList = fs.readdirSync(publicPath, 'utf8');
+
+const getExistingMessagesOfGroup = (groupName) => {
+
+    const result = {};
+    const groupPath = path.join(publicPath, groupName, '/src');
+    const topicsList = fs.readdirSync(groupPath, 'utf8');
+    topicsList.forEach((topic) => {
+        const topicPath = path.join(groupPath, topic);
+        const pageFileItems = fs.readdirSync(topicPath, 'utf8');
+        pageFileItems.forEach((pageItem) => {
+            const messagesPageJSONFile = path.join(topicPath, pageItem);
+            const file = fs.readFileSync(messagesPageJSONFile, 'utf8');
+            const data = JSON.parse(file);
+            if (!result[topic]) {
+                result[topic] = {};
+            }
+            result[topic] = {...result[topic], ...data};
+        });
+    });
+
+    return result;
+};
 
 groupsList.forEach((groupNickName) => {
     if (~groupNickName.indexOf('.')) {
         return;
     }
+    const pool = getExistingMessagesOfGroup(groupNickName);
     const perChunk = 2000;
     const targetUezd = path.resolve(`public/${groupNickName}`);
     const targetDir = path.resolve(`public/${groupNickName}/src`);
@@ -14,9 +39,6 @@ groupsList.forEach((groupNickName) => {
     const file = fs.readFileSync(pathJSON, 'utf8');
     const data = JSON.parse(file);
 
-    const pool = {
-        '0': {}
-    };
     const poolID = {};
     const poolTopics = {
         '0': {
@@ -50,12 +72,18 @@ groupsList.forEach((groupNickName) => {
                 pool[tID] = {};
             }
             if (poolTopics[tID]) {
-                pool[tID][message.id] = message;
+                if (!pool[tID][message.id]) {
+                    pool[tID][message.id] = message;
+                }
             } else {
-                pool['0'][message.id] = message;
+                if (!pool['0'][message.id]) {
+                    pool['0'][message.id] = message;
+                }
             }
         } else {
-            pool['0'][message.id] = message;
+            if (!pool['0'][message.id]) {
+                pool['0'][message.id] = message;
+            }
         }
     });
 
