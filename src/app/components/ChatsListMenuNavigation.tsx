@@ -1,5 +1,6 @@
 'use client'
 
+import Image from 'next/image';
 import * as React from 'react';
 import IconButton from '@mui/material/IconButton';
 import Menu from '@mui/material/Menu';
@@ -55,7 +56,7 @@ export default function ChatsListMenuNavigation({aboutGroups, uezd}: any) {
                     return (
                         <MenuItem key={group.groupNickName} className={`group-list-item ${group.groupNickName}`} selected={group.groupNickName === selectedIndex}
                                   onClick={(e: React.MouseEvent<HTMLElement>) => handleClose(e, group)}>
-                            <img className="icon" width="15rem" src={`/${group.groupNickName}/favicon.ico`} alt={group.title}/>
+                            <Image className="icon" width={15} height={15} src={`/${group.groupNickName}/favicon.ico`} alt={group.title}/>
                             <span>{group.title}</span>
                         </MenuItem>
                     )
