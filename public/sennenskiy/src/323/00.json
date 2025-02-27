@@ -16061,5 +16061,1120 @@
                 "emoji": "🎉"
             }
         ]
+    },
+    "4438": {
+        "id": 4438,
+        "type": "message",
+        "date": "2025-02-08T16:08:45",
+        "date_unixtime": "1739020125",
+        "edited": "2025-02-08T16:13:46",
+        "edited_unixtime": "1739020426",
+        "from": "Сенненский уезд, Могилевская губерния",
+        "from_id": "channel1954910566",
+        "reply_to_message_id": 323,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 139498,
+        "width": 1280,
+        "height": 468,
+        "text": [
+            "22.10.1785 венчание Андрея Карицкого 1 браком из Ольшанники парафии Бобровской и Параси Жуковой из Михеевич Дмитровичкой парафии Борисовского уезда 1 браком, в восприемниках Криварот и Тимоха Карицкий ",
+            {
+                "type": "link",
+                "text": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSM4-WS4Y-B?cat=784537&i=946&lang=ru"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "22.10.1785 венчание Андрея Карицкого 1 браком из Ольшанники парафии Бобровской и Параси Жуковой из Михеевич Дмитровичкой парафии Борисовского уезда 1 браком, в восприемниках Криварот и Тимоха Карицкий "
+            },
+            {
+                "type": "link",
+                "text": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSM4-WS4Y-B?cat=784537&i=946&lang=ru"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "4440": {
+        "id": 4440,
+        "type": "message",
+        "date": "2025-02-08T20:37:30",
+        "date_unixtime": "1739036250",
+        "edited": "2025-02-09T23:14:55",
+        "edited_unixtime": "1739132095",
+        "from": "Сенненский уезд, Могилевская губерния",
+        "from_id": "channel1954910566",
+        "reply_to_message_id": 323,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 147313,
+        "width": 1280,
+        "height": 411,
+        "text": [
+            "02.11.1791 венчание пана Якуба Романовского из местечка Бобр парафии Бобровской и панной Елены Богоцкой ? из Ореховки Дмитровичской парафии Борисовского уезда ",
+            {
+                "type": "link",
+                "text": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSM4-WS4R-X?cat=784537&i=957&lang=ru"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "02.11.1791 венчание пана Якуба Романовского из местечка Бобр парафии Бобровской и панной Елены Богоцкой ? из Ореховки Дмитровичской парафии Борисовского уезда "
+            },
+            {
+                "type": "link",
+                "text": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSM4-WS4R-X?cat=784537&i=957&lang=ru"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "4442": {
+        "id": 4442,
+        "type": "message",
+        "date": "2025-02-09T10:07:56",
+        "date_unixtime": "1739084876",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 4440,
+        "text": "....с панной Еленой....",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "....с панной Еленой...."
+            }
+        ]
+    },
+    "4443": {
+        "id": 4443,
+        "type": "message",
+        "date": "2025-02-09T10:15:52",
+        "date_unixtime": "1739085352",
+        "from": "Эдвард",
+        "from_id": "user484254781",
+        "reply_to_message_id": 4440,
+        "text": "Романовские до сих пор живут в Бобре, но я не знаю, связаны с этим товарищем или нет)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Романовские до сих пор живут в Бобре, но я не знаю, связаны с этим товарищем или нет)"
+            }
+        ]
+    },
+    "4444": {
+        "id": 4444,
+        "type": "message",
+        "date": "2025-02-09T11:33:29",
+        "date_unixtime": "1739090009",
+        "edited": "2025-02-09T12:42:54",
+        "edited_unixtime": "1739094174",
+        "from": "Сенненский уезд, Могилевская губерния",
+        "from_id": "channel1954910566",
+        "reply_to_message_id": 323,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 191934,
+        "width": 1280,
+        "height": 537,
+        "text": [
+            "21.02.1793 венчание пана Тадеуша Князева из местечка Бобр и панни Агата Богдановичовна из Дмитровичской парафии Борисовского уезда ",
+            {
+                "type": "link",
+                "text": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSM4-WS4Y-S?cat=784537&i=960&lang=ru"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "21.02.1793 венчание пана Тадеуша Князева из местечка Бобр и панни Агата Богдановичовна из Дмитровичской парафии Борисовского уезда "
+            },
+            {
+                "type": "link",
+                "text": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSM4-WS4Y-S?cat=784537&i=960&lang=ru"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Larisa",
+                        "from_id": "user1591222382",
+                        "date": "2025-02-12T23:59:02"
+                    },
+                    {
+                        "from": "NinaEK",
+                        "from_id": "user1168230259",
+                        "date": "2025-02-09T12:42:54"
+                    }
+                ]
+            }
+        ]
+    },
+    "4445": {
+        "id": 4445,
+        "type": "message",
+        "date": "2025-02-09T12:29:18",
+        "date_unixtime": "1739093358",
+        "edited": "2025-02-09T12:33:39",
+        "edited_unixtime": "1739093619",
+        "from": "Olga Ladoga",
+        "from_id": "user205838998",
+        "reply_to_message_id": 323,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 96393,
+        "width": 1280,
+        "height": 887,
+        "text": "подскажите, может кто узнал место? вот этот вид на церковь  в Бобре примерно откуда? Не с улицы ли Заречье? Там дом бабушки стоял, хочу сопоставить местность.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "подскажите, может кто узнал место? вот этот вид на церковь  в Бобре примерно откуда? Не с улицы ли Заречье? Там дом бабушки стоял, хочу сопоставить местность."
+            }
+        ]
+    },
+    "4446": {
+        "id": 4446,
+        "type": "message",
+        "date": "2025-02-09T12:29:18",
+        "date_unixtime": "1739093358",
+        "from": "Olga Ladoga",
+        "from_id": "user205838998",
+        "reply_to_message_id": 323,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 204603,
+        "width": 1280,
+        "height": 887,
+        "text": "",
+        "text_entities": []
+    },
+    "4447": {
+        "id": 4447,
+        "type": "message",
+        "date": "2025-02-09T12:52:47",
+        "date_unixtime": "1739094767",
+        "edited": "2025-02-09T12:53:10",
+        "edited_unixtime": "1739094790",
+        "from": "Сенненский уезд, Могилевская губерния",
+        "from_id": "channel1954910566",
+        "reply_to_message_id": 4443,
+        "text": "Добрый день, нашла в 1793 году венчание нашего прадеда в Дмитровичском приходе",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый день, нашла в 1793 году венчание нашего прадеда в Дмитровичском приходе"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Alena Rusakovich",
+                        "from_id": "user455467923",
+                        "date": "2025-02-09T13:25:24"
+                    },
+                    {
+                        "from": "Olga Ladoga",
+                        "from_id": "user205838998",
+                        "date": "2025-02-09T13:00:42"
+                    },
+                    {
+                        "from": "NinaEK",
+                        "from_id": "user1168230259",
+                        "date": "2025-02-09T12:53:37"
+                    }
+                ]
+            }
+        ]
+    },
+    "4448": {
+        "id": 4448,
+        "type": "message",
+        "date": "2025-02-09T13:17:10",
+        "date_unixtime": "1739096230",
+        "edited": "2025-02-09T13:27:57",
+        "edited_unixtime": "1739096877",
+        "from": "Эдвард",
+        "from_id": "user484254781",
+        "reply_to_message_id": 4446,
+        "text": "Да, улица Заречная",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да, улица Заречная"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Olga Ladoga",
+                        "from_id": "user205838998",
+                        "date": "2025-02-09T13:27:57"
+                    }
+                ]
+            }
+        ]
+    },
+    "4449": {
+        "id": 4449,
+        "type": "message",
+        "date": "2025-02-09T14:11:25",
+        "date_unixtime": "1739099485",
+        "edited": "2025-02-09T14:16:58",
+        "edited_unixtime": "1739099818",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 323,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 79097,
+        "width": 816,
+        "height": 424,
+        "text": "На 1 марта 1923 года в Бобрской волости проживало 21 547 человек. И среди них есть ваши предки)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На 1 марта 1923 года в Бобрской волости проживало 21 547 человек. И среди них есть ваши предки)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "💯",
+                "recent": [
+                    {
+                        "from": "Древослав Русов .",
+                        "from_id": "user956963811",
+                        "date": "2025-02-10T09:16:56"
+                    },
+                    {
+                        "from": "Alena Rusakovich",
+                        "from_id": "user455467923",
+                        "date": "2025-02-09T20:26:26"
+                    },
+                    {
+                        "from": "Olga Ladoga",
+                        "from_id": "user205838998",
+                        "date": "2025-02-09T14:16:07"
+                    }
+                ]
+            }
+        ]
+    },
+    "4450": {
+        "id": 4450,
+        "type": "message",
+        "date": "2025-02-09T14:26:48",
+        "date_unixtime": "1739100408",
+        "from": "Olga Ladoga",
+        "from_id": "user205838998",
+        "reply_to_message_id": 4448,
+        "text": "Заречье =) ага, спасибо!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Заречье =) ага, спасибо!"
+            }
+        ]
+    },
+    "4451": {
+        "id": 4451,
+        "type": "message",
+        "date": "2025-02-09T21:50:53",
+        "date_unixtime": "1739127053",
+        "from": "Елена",
+        "from_id": "user1320477170",
+        "reply_to_message_id": 323,
+        "text": "Добрый вечер. Мой прадед Романовский Кузьма Леонович. Жил в деревне Шейка .Примерно 1873г.р.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый вечер. Мой прадед Романовский Кузьма Леонович. Жил в деревне Шейка .Примерно 1873г.р."
+            }
+        ]
+    },
+    "4458": {
+        "id": 4458,
+        "type": "message",
+        "date": "2025-02-13T23:34:22",
+        "date_unixtime": "1739478862",
+        "edited": "2025-02-13T23:41:54",
+        "edited_unixtime": "1739479314",
+        "from": "Наталия",
+        "from_id": "user5233241747",
+        "reply_to_message_id": 323,
+        "text": "Здравствуйте.\nНаши пра... оказались из д. Гапоновичи. Нашла сегодня  такую запись в списках налогоплательщиков от 1928 года по Питеру. В записи правда указано, что волость Бобровская и уезд Сенинский, но думаю как смогли так и записали.\nЗвали их :\nБородач Иван Васильевич, (с отчеством тут интересно, в другом источнике он Карпович) 1872 г.р.\nБородач Варвара Викторовна 1877 г.р. ( в другом источнике 1874 г.р.).\nПодскажите пожалуйста, как сохран метрик за этот период (1870-е годы) по Бобрской волости??",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте.\nНаши пра... оказались из д. Гапоновичи. Нашла сегодня  такую запись в списках налогоплательщиков от 1928 года по Питеру. В записи правда указано, что волость Бобровская и уезд Сенинский, но думаю как смогли так и записали.\nЗвали их :\nБородач Иван Васильевич, (с отчеством тут интересно, в другом источнике он Карпович) 1872 г.р.\nБородач Варвара Викторовна 1877 г.р. ( в другом источнике 1874 г.р.).\nПодскажите пожалуйста, как сохран метрик за этот период (1870-е годы) по Бобрской волости??"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Yulia S",
+                        "from_id": "user502425848",
+                        "date": "2025-02-14T07:27:21"
+                    },
+                    {
+                        "from": "Siarhei Andryjanau",
+                        "from_id": "user153886828",
+                        "date": "2025-02-13T23:46:55"
+                    },
+                    {
+                        "from": "S",
+                        "from_id": "user655643922",
+                        "date": "2025-02-13T23:41:54"
+                    }
+                ]
+            }
+        ]
+    },
+    "4459": {
+        "id": 4459,
+        "type": "message",
+        "date": "2025-02-13T23:37:06",
+        "date_unixtime": "1739479026",
+        "from": "Наталия",
+        "from_id": "user5233241747",
+        "reply_to_message_id": 323,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 236174,
+        "width": 1280,
+        "height": 720,
+        "text": "",
+        "text_entities": []
+    },
+    "4460": {
+        "id": 4460,
+        "type": "message",
+        "date": "2025-02-13T23:41:44",
+        "date_unixtime": "1739479304",
+        "edited": "2025-02-13T23:42:24",
+        "edited_unixtime": "1739479344",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 4458,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 135741,
+        "width": 738,
+        "height": 1280,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Наталия",
+                        "from_id": "user5233241747",
+                        "date": "2025-02-13T23:42:24"
+                    }
+                ]
+            }
+        ]
+    },
+    "4461": {
+        "id": 4461,
+        "type": "message",
+        "date": "2025-02-13T23:43:58",
+        "date_unixtime": "1739479438",
+        "from": "Наталия",
+        "from_id": "user5233241747",
+        "reply_to_message_id": 323,
+        "text": "Огромное спасибо!\nЯ так понимаю, что до 1874 г. метрик нет?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Огромное спасибо!\nЯ так понимаю, что до 1874 г. метрик нет?"
+            }
+        ]
+    },
+    "4462": {
+        "id": 4462,
+        "type": "message",
+        "date": "2025-02-13T23:44:36",
+        "date_unixtime": "1739479476",
+        "from": "S",
+        "from_id": "user655643922",
+        "reply_to_message_id": 4461,
+        "text": "1863 еще есть. Не влез в скрин",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "1863 еще есть. Не влез в скрин"
+            }
+        ]
+    },
+    "4463": {
+        "id": 4463,
+        "type": "message",
+        "date": "2025-02-13T23:45:10",
+        "date_unixtime": "1739479510",
+        "from": "Наталия",
+        "from_id": "user5233241747",
+        "reply_to_message_id": 323,
+        "text": "Ясно, 1863 г. пока не актуален )",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ясно, 1863 г. пока не актуален )"
+            }
+        ]
+    },
+    "4464": {
+        "id": 4464,
+        "type": "message",
+        "date": "2025-02-13T23:47:26",
+        "date_unixtime": "1739479646",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 323,
+        "text": "Но сегодня эти дела не выдают в ЧЗ",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Но сегодня эти дела не выдают в ЧЗ"
+            }
+        ]
+    },
+    "4465": {
+        "id": 4465,
+        "type": "message",
+        "date": "2025-02-13T23:47:35",
+        "date_unixtime": "1739479655",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 323,
+        "text": "Закрыто архивохранилище",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Закрыто архивохранилище"
+            }
+        ]
+    },
+    "4466": {
+        "id": 4466,
+        "type": "message",
+        "date": "2025-02-13T23:50:12",
+        "date_unixtime": "1739479812",
+        "from": "Наталия",
+        "from_id": "user5233241747",
+        "reply_to_message_id": 323,
+        "text": "А можно это как то отслеживать, на сайте архива например? Я сама в Подмосковье, мне в любом случае надо будет искать исполнителя, на сколько я поняла (пока только вникаю в тему) онлайн доступа особо нет (((",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А можно это как то отслеживать, на сайте архива например? Я сама в Подмосковье, мне в любом случае надо будет искать исполнителя, на сколько я поняла (пока только вникаю в тему) онлайн доступа особо нет ((("
+            }
+        ]
+    },
+    "4467": {
+        "id": 4467,
+        "type": "message",
+        "date": "2025-02-13T23:50:46",
+        "date_unixtime": "1739479846",
+        "from": "K•Lenka",
+        "from_id": "user1918841697",
+        "reply_to_message_id": 4461,
+        "text": "Вы можете родителей искать и их рождение",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вы можете родителей искать и их рождение"
+            }
+        ]
+    },
+    "4468": {
+        "id": 4468,
+        "type": "message",
+        "date": "2025-02-13T23:51:24",
+        "date_unixtime": "1739479884",
+        "edited": "2025-02-13T23:51:35",
+        "edited_unixtime": "1739479895",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 323,
+        "text": "На сайте архива есть новость, что закрыто архивохранилище. Когда откроют, сообщат наверняка на сайте.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "На сайте архива есть новость, что закрыто архивохранилище. Когда откроют, сообщат наверняка на сайте."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Наталия",
+                        "from_id": "user5233241747",
+                        "date": "2025-02-13T23:51:35"
+                    }
+                ]
+            }
+        ]
+    },
+    "4469": {
+        "id": 4469,
+        "type": "message",
+        "date": "2025-02-13T23:51:56",
+        "date_unixtime": "1739479916",
+        "edited": "2025-02-13T23:52:04",
+        "edited_unixtime": "1739479924",
+        "from": "Наталия",
+        "from_id": "user5233241747",
+        "reply_to_message_id": 323,
+        "text": "Буду следить тогда, спасибо )",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Буду следить тогда, спасибо )"
+            }
+        ]
+    },
+    "4470": {
+        "id": 4470,
+        "type": "message",
+        "date": "2025-02-13T23:53:04",
+        "date_unixtime": "1739479984",
+        "from": "Наталия",
+        "from_id": "user5233241747",
+        "reply_to_message_id": 4467,
+        "text": "А как? По Ревизии? Сразу вопрос, если в курсе, как с сохраном 10 ревизии?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А как? По Ревизии? Сразу вопрос, если в курсе, как с сохраном 10 ревизии?"
+            }
+        ]
+    },
+    "4471": {
+        "id": 4471,
+        "type": "message",
+        "date": "2025-02-13T23:54:01",
+        "date_unixtime": "1739480041",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 323,
+        "text": "Она только и сохранена по данной местности",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Она только и сохранена по данной местности"
+            }
+        ]
+    },
+    "4472": {
+        "id": 4472,
+        "type": "message",
+        "date": "2025-02-13T23:54:32",
+        "date_unixtime": "1739480072",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 323,
+        "text": "В смысле, только 10-я и есть",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "В смысле, только 10-я и есть"
+            }
+        ]
+    },
+    "4473": {
+        "id": 4473,
+        "type": "message",
+        "date": "2025-02-13T23:55:25",
+        "date_unixtime": "1739480125",
+        "from": "Наталия",
+        "from_id": "user5233241747",
+        "reply_to_message_id": 323,
+        "text": "Как плохо 😔.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Как плохо 😔."
+            }
+        ]
+    },
+    "4474": {
+        "id": 4474,
+        "type": "message",
+        "date": "2025-02-13T23:55:44",
+        "date_unixtime": "1739480144",
+        "edited": "2025-02-13T23:55:50",
+        "edited_unixtime": "1739480150",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 323,
+        "text": "Фонд 2151 опись 1 дело 103",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Фонд 2151 опись 1 дело 103"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Наталия",
+                        "from_id": "user5233241747",
+                        "date": "2025-02-13T23:55:50"
+                    }
+                ]
+            }
+        ]
+    },
+    "4475": {
+        "id": 4475,
+        "type": "message",
+        "date": "2025-02-13T23:57:32",
+        "date_unixtime": "1739480252",
+        "from": "Наталия",
+        "from_id": "user5233241747",
+        "reply_to_message_id": 323,
+        "text": "Спасибо ещё раз! Я бы сама так быстро не нашла шифр.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо ещё раз! Я бы сама так быстро не нашла шифр."
+            }
+        ]
+    },
+    "4476": {
+        "id": 4476,
+        "type": "message",
+        "date": "2025-02-13T23:57:36",
+        "date_unixtime": "1739480256",
+        "edited": "2025-02-13T23:58:11",
+        "edited_unixtime": "1739480291",
+        "from": "K•Lenka",
+        "from_id": "user1918841697",
+        "reply_to_message_id": 4470,
+        "text": "Да.\nИ по метрикам. У Вас их дофига.\nНо дорого.\nСначала - ревизию заказывайте",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Да.\nИ по метрикам. У Вас их дофига.\nНо дорого.\nСначала - ревизию заказывайте"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Наталия",
+                        "from_id": "user5233241747",
+                        "date": "2025-02-13T23:58:11"
+                    }
+                ]
+            }
+        ]
+    },
+    "4477": {
+        "id": 4477,
+        "type": "message",
+        "date": "2025-02-14T00:05:34",
+        "date_unixtime": "1739480734",
+        "edited": "2025-02-14T00:05:54",
+        "edited_unixtime": "1739480754",
+        "from": "Alena Rusakovich",
+        "from_id": "user455467923",
+        "reply_to_message_id": 323,
+        "text": "И будьте готовы к бесфамильным крестьянам.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "И будьте готовы к бесфамильным крестьянам."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Наталия",
+                        "from_id": "user5233241747",
+                        "date": "2025-02-14T00:08:05"
+                    },
+                    {
+                        "from": "Pavel",
+                        "from_id": "user1354985288",
+                        "date": "2025-02-14T00:05:54"
+                    }
+                ]
+            }
+        ]
+    },
+    "4478": {
+        "id": 4478,
+        "type": "message",
+        "date": "2025-02-14T00:09:56",
+        "date_unixtime": "1739480996",
+        "from": "Наталия",
+        "from_id": "user5233241747",
+        "reply_to_message_id": 323,
+        "text": "Ну у меня у всех практически фамилия появляется только к 20 веку ) Просто когда есть исповедки, метрики, ревизии в сохране проще проследить.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Ну у меня у всех практически фамилия появляется только к 20 веку ) Просто когда есть исповедки, метрики, ревизии в сохране проще проследить."
+            }
+        ]
+    },
+    "4524": {
+        "id": 4524,
+        "type": "message",
+        "date": "2025-02-22T16:48:07",
+        "date_unixtime": "1740232087",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 323,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 144756,
+        "width": 958,
+        "height": 690,
+        "text": "",
+        "text_entities": []
+    },
+    "4525": {
+        "id": 4525,
+        "type": "message",
+        "date": "2025-02-22T16:48:47",
+        "date_unixtime": "1740232127",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 323,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 179532,
+        "width": 958,
+        "height": 674,
+        "text": "",
+        "text_entities": []
+    },
+    "4526": {
+        "id": 4526,
+        "type": "message",
+        "date": "2025-02-22T16:49:27",
+        "date_unixtime": "1740232167",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 323,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 65813,
+        "width": 958,
+        "height": 301,
+        "text": "",
+        "text_entities": []
+    },
+    "4527": {
+        "id": 4527,
+        "type": "message",
+        "date": "2025-02-22T16:50:08",
+        "date_unixtime": "1740232208",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 323,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 130322,
+        "width": 958,
+        "height": 633,
+        "text": "",
+        "text_entities": []
+    },
+    "4528": {
+        "id": 4528,
+        "type": "message",
+        "date": "2025-02-22T16:50:45",
+        "date_unixtime": "1740232245",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 323,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 167864,
+        "width": 958,
+        "height": 671,
+        "text": "",
+        "text_entities": []
+    },
+    "4529": {
+        "id": 4529,
+        "type": "message",
+        "date": "2025-02-22T16:51:10",
+        "date_unixtime": "1740232270",
+        "edited": "2025-02-22T17:17:23",
+        "edited_unixtime": "1740233843",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 323,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 69595,
+        "width": 958,
+        "height": 296,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Pavel",
+                        "from_id": "user1354985288",
+                        "date": "2025-02-22T20:54:34"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Елена",
+                        "from_id": "user1320477170",
+                        "date": "2025-02-23T14:38:51"
+                    },
+                    {
+                        "from": "Waler",
+                        "from_id": "user5147062305",
+                        "date": "2025-02-23T12:53:44"
+                    }
+                ]
+            }
+        ]
+    },
+    "4540": {
+        "id": 4540,
+        "type": "message",
+        "date": "2025-02-24T21:42:49",
+        "date_unixtime": "1740422569",
+        "from": "Мария Самусенко",
+        "from_id": "user733816358",
+        "reply_to_message_id": 323,
+        "text": "Добрый вечер!\nМожет быть кто-то может подсказать про деревню Соколовичи: к какой церкви относилась деревня в 1889-1890 году, реально ли найти в архиве метрические книги?\nЗаранее спасибо за ответ",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добрый вечер!\nМожет быть кто-то может подсказать про деревню Соколовичи: к какой церкви относилась деревня в 1889-1890 году, реально ли найти в архиве метрические книги?\nЗаранее спасибо за ответ"
+            }
+        ]
+    },
+    "4542": {
+        "id": 4542,
+        "type": "message",
+        "date": "2025-02-25T00:30:47",
+        "date_unixtime": "1740432647",
+        "from": "Любовь Александровна",
+        "from_id": "user6788444951",
+        "reply_to_message_id": 323,
+        "text": "Я думаю к Бобрскому православному приходу.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Я думаю к Бобрскому православному приходу."
+            }
+        ]
+    },
+    "4543": {
+        "id": 4543,
+        "type": "message",
+        "date": "2025-02-25T00:34:03",
+        "date_unixtime": "1740432843",
+        "from": "Мария Самусенко",
+        "from_id": "user733816358",
+        "reply_to_message_id": 4542,
+        "text": "Спасибо за ответ!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо за ответ!"
+            }
+        ]
+    },
+    "4544": {
+        "id": 4544,
+        "type": "message",
+        "date": "2025-02-25T00:42:38",
+        "date_unixtime": "1740433358",
+        "edited": "2025-02-25T00:44:32",
+        "edited_unixtime": "1740433472",
+        "from": "Alena Rusakovich",
+        "from_id": "user455467923",
+        "reply_to_message_id": 4540,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 112909,
+        "width": 576,
+        "height": 1280,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Мария Самусенко",
+                        "from_id": "user733816358",
+                        "date": "2025-02-25T00:44:32"
+                    }
+                ]
+            }
+        ]
+    },
+    "4545": {
+        "id": 4545,
+        "type": "message",
+        "date": "2025-02-25T00:42:38",
+        "date_unixtime": "1740433358",
+        "from": "Alena Rusakovich",
+        "from_id": "user455467923",
+        "reply_to_message_id": 4540,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 83540,
+        "width": 576,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "4546": {
+        "id": 4546,
+        "type": "message",
+        "date": "2025-02-25T00:44:39",
+        "date_unixtime": "1740433479",
+        "from": "Мария Самусенко",
+        "from_id": "user733816358",
+        "reply_to_message_id": 4545,
+        "text": "Спасибо вам!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо вам!"
+            }
+        ]
+    },
+    "4547": {
+        "id": 4547,
+        "type": "message",
+        "date": "2025-02-25T00:44:43",
+        "date_unixtime": "1740433483",
+        "edited": "2025-02-25T00:44:57",
+        "edited_unixtime": "1740433497",
+        "from": "Alena Rusakovich",
+        "from_id": "user455467923",
+        "reply_to_message_id": 323,
+        "text": "Это православные",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Это православные"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Мария Самусенко",
+                        "from_id": "user733816358",
+                        "date": "2025-02-25T00:44:57"
+                    }
+                ]
+            }
+        ]
+    },
+    "4553": {
+        "id": 4553,
+        "type": "message",
+        "date": "2025-02-27T14:51:02",
+        "date_unixtime": "1740657062",
+        "edited": "2025-02-27T15:38:38",
+        "edited_unixtime": "1740659918",
+        "from": "Siarhei Andryjanau",
+        "from_id": "user153886828",
+        "reply_to_message_id": 323,
+        "text": [
+            "Объявление Сообщаем, что во II квартале 2025 г. в здании архива планируется начать строительно-монтажные работы в рамках капитального ремонта. Планируемый срок ремонтных работ – 5 месяцев. С учетом изложенного, на время проведения ремонта планируется закрытие всех архивохранилищ (выдача дел осуществляться не будет). О конкретных сроках начала ремонтных работ будет сообщено дополнительно. Просим учитывать данную информацию как при планировании исследовательских работ в архиве, так и при направлении соответствующих запросов\n\nИсточник: ",
+            {
+                "type": "link",
+                "text": "https://niab.by/newsite/ru"
+            },
+            "\nНациональный исторический архив Беларуси"
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Объявление Сообщаем, что во II квартале 2025 г. в здании архива планируется начать строительно-монтажные работы в рамках капитального ремонта. Планируемый срок ремонтных работ – 5 месяцев. С учетом изложенного, на время проведения ремонта планируется закрытие всех архивохранилищ (выдача дел осуществляться не будет). О конкретных сроках начала ремонтных работ будет сообщено дополнительно. Просим учитывать данную информацию как при планировании исследовательских работ в архиве, так и при направлении соответствующих запросов\n\nИсточник: "
+            },
+            {
+                "type": "link",
+                "text": "https://niab.by/newsite/ru"
+            },
+            {
+                "type": "plain",
+                "text": "\nНациональный исторический архив Беларуси"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "😢",
+                "recent": [
+                    {
+                        "from": "Pavel",
+                        "from_id": "user1354985288",
+                        "date": "2025-02-27T15:42:01"
+                    },
+                    {
+                        "from": "Alena Rusakovich",
+                        "from_id": "user455467923",
+                        "date": "2025-02-27T15:39:28"
+                    }
+                ]
+            }
+        ]
     }
 }

@@ -423,5 +423,76 @@
                 "text": "Благодарю! 👍"
             }
         ]
+    },
+    "4455": {
+        "id": 4455,
+        "type": "message",
+        "date": "2025-02-13T16:12:42",
+        "date_unixtime": "1739452362",
+        "from": "K•Lenka",
+        "from_id": "user1918841697",
+        "reply_to_message_id": 2226,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 219010,
+        "width": 859,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "4456": {
+        "id": 4456,
+        "type": "message",
+        "date": "2025-02-13T16:12:42",
+        "date_unixtime": "1739452362",
+        "from": "K•Lenka",
+        "from_id": "user1918841697",
+        "reply_to_message_id": 2226,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 223242,
+        "width": 1280,
+        "height": 1071,
+        "text": "",
+        "text_entities": []
+    },
+    "4457": {
+        "id": 4457,
+        "type": "message",
+        "date": "2025-02-13T16:12:42",
+        "date_unixtime": "1739452362",
+        "edited": "2025-02-13T16:16:12",
+        "edited_unixtime": "1739452572",
+        "from": "K•Lenka",
+        "from_id": "user1918841697",
+        "reply_to_message_id": 2226,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 223469,
+        "width": 878,
+        "height": 1280,
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 5,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "Larisa",
+                        "from_id": "user1591222382",
+                        "date": "2025-02-18T00:31:58"
+                    },
+                    {
+                        "from": "H Z",
+                        "from_id": "user1370750685",
+                        "date": "2025-02-14T00:02:47"
+                    },
+                    {
+                        "from": "Lenoka",
+                        "from_id": "user184406850",
+                        "date": "2025-02-13T16:18:55"
+                    }
+                ]
+            }
+        ]
     }
 }

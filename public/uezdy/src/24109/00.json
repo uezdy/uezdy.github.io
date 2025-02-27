@@ -55914,5 +55914,728 @@
                 "text": ""
             }
         ]
+    },
+    "113119": {
+        "id": 113119,
+        "type": "message",
+        "date": "2025-02-12T16:37:18",
+        "date_unixtime": "1739367438",
+        "from": "Детидетей",
+        "from_id": "user668121919",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "LVIA_515_12_438_ч_1Виленская_казённая_палата_Стол_выкупной_операции.zip",
+        "file_size": 1332505177,
+        "mime_type": "application/zip",
+        "text": "",
+        "text_entities": []
+    },
+    "113120": {
+        "id": 113120,
+        "type": "message",
+        "date": "2025-02-12T16:41:18",
+        "date_unixtime": "1739367678",
+        "from": "Детидетей",
+        "from_id": "user668121919",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "LVIA_515_12_438_ч_2Виленская_казённая_палата_Стол_выкупной_операции.zip",
+        "file_size": 1685816904,
+        "mime_type": "application/zip",
+        "text": "",
+        "text_entities": []
+    },
+    "113121": {
+        "id": 113121,
+        "type": "message",
+        "date": "2025-02-12T16:42:34",
+        "date_unixtime": "1739367754",
+        "edited": "2025-02-12T20:41:05",
+        "edited_unixtime": "1739382065",
+        "from": "Детидетей",
+        "from_id": "user668121919",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 250411,
+        "width": 964,
+        "height": 1280,
+        "text": "Якасць кепская",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Якасць кепская"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 4,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Gеоrge",
+                        "from_id": "user1208477498",
+                        "date": "2025-02-26T00:12:00"
+                    },
+                    {
+                        "from": "Aleh Piatrovich",
+                        "from_id": "user1352887174",
+                        "date": "2025-02-13T22:06:37"
+                    },
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2025-02-13T10:17:31"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "🔥"
+            }
+        ]
+    },
+    "113240": {
+        "id": 113240,
+        "type": "message",
+        "date": "2025-02-14T12:25:42",
+        "date_unixtime": "1739525142",
+        "edited": "2025-02-14T23:46:25",
+        "edited_unixtime": "1739565985",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 24109,
+        "text": "П.А.Литвинов. Польские национальные советы в БССР в 1920е гг.: История возникновения и количественная динамика. — Веснік БДУ. Сер.3. 2007. №2. С. 22-28.     В статье  автор делает вывод, что на территории Беларуси из 22 формально созданных польских национальных сельских советов только в 5 из них проживали этнические поляки-колонисты, в разное время прибывшие на территорию Беларуси. Это Веселовский, Кустовницкий, Рудня-Шлягинкий, Рудня-Столбунский и Рудня-Насимковичский. Причем, только в первых двух население смогло устоять против ассимиляции и сохранить признаки этноса.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "П.А.Литвинов. Польские национальные советы в БССР в 1920е гг.: История возникновения и количественная динамика. — Веснік БДУ. Сер.3. 2007. №2. С. 22-28.     В статье  автор делает вывод, что на территории Беларуси из 22 формально созданных польских национальных сельских советов только в 5 из них проживали этнические поляки-колонисты, в разное время прибывшие на территорию Беларуси. Это Веселовский, Кустовницкий, Рудня-Шлягинкий, Рудня-Столбунский и Рудня-Насимковичский. Причем, только в первых двух население смогло устоять против ассимиляции и сохранить признаки этноса."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "В",
+                        "from_id": "user5050312544",
+                        "date": "2025-02-14T23:46:25"
+                    }
+                ]
+            }
+        ]
+    },
+    "113498": {
+        "id": 113498,
+        "type": "message",
+        "date": "2025-02-17T16:11:35",
+        "date_unixtime": "1739797895",
+        "edited": "2025-02-17T16:18:58",
+        "edited_unixtime": "1739798338",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 310802,
+        "width": 943,
+        "height": 1280,
+        "text": [
+            "Юры Грыбоўскі. Беларусы ў польскім войску (",
+            {
+                "type": "phone",
+                "text": "1919-1947"
+            },
+            "). Манаграфія, 2023. 578 с. Ёсць асабовы і геаграфічны паказальнікі."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Юры Грыбоўскі. Беларусы ў польскім войску ("
+            },
+            {
+                "type": "phone",
+                "text": "1919-1947"
+            },
+            {
+                "type": "plain",
+                "text": "). Манаграфія, 2023. 578 с. Ёсць асабовы і геаграфічны паказальнікі."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 9,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2025-02-19T23:23:23"
+                    },
+                    {
+                        "from": "Grigory",
+                        "from_id": "user286320928",
+                        "date": "2025-02-18T13:43:32"
+                    },
+                    {
+                        "from": "Андрей Погодин",
+                        "from_id": "user7622609512",
+                        "date": "2025-02-17T21:21:15"
+                    }
+                ]
+            }
+        ]
+    },
+    "113499": {
+        "id": 113499,
+        "type": "message",
+        "date": "2025-02-17T16:11:36",
+        "date_unixtime": "1739797896",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 135568,
+        "width": 830,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "113500": {
+        "id": 113500,
+        "type": "message",
+        "date": "2025-02-17T16:11:36",
+        "date_unixtime": "1739797896",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 126368,
+        "width": 816,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "113501": {
+        "id": 113501,
+        "type": "message",
+        "date": "2025-02-17T16:11:36",
+        "date_unixtime": "1739797896",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 133723,
+        "width": 847,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "113502": {
+        "id": 113502,
+        "type": "message",
+        "date": "2025-02-17T16:11:37",
+        "date_unixtime": "1739797897",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 130146,
+        "width": 778,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "113503": {
+        "id": 113503,
+        "type": "message",
+        "date": "2025-02-17T16:11:37",
+        "date_unixtime": "1739797897",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 122409,
+        "width": 864,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "113504": {
+        "id": 113504,
+        "type": "message",
+        "date": "2025-02-17T16:11:37",
+        "date_unixtime": "1739797897",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 134269,
+        "width": 863,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "113505": {
+        "id": 113505,
+        "type": "message",
+        "date": "2025-02-17T16:11:37",
+        "date_unixtime": "1739797897",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 133819,
+        "width": 806,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "113506": {
+        "id": 113506,
+        "type": "message",
+        "date": "2025-02-17T16:11:38",
+        "date_unixtime": "1739797898",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 129971,
+        "width": 822,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "113507": {
+        "id": 113507,
+        "type": "message",
+        "date": "2025-02-17T16:11:38",
+        "date_unixtime": "1739797898",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 134645,
+        "width": 817,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "113508": {
+        "id": 113508,
+        "type": "message",
+        "date": "2025-02-17T16:11:39",
+        "date_unixtime": "1739797899",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 134784,
+        "width": 811,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "113509": {
+        "id": 113509,
+        "type": "message",
+        "date": "2025-02-17T16:11:39",
+        "date_unixtime": "1739797899",
+        "from": "ХТО НІХТО",
+        "from_id": "user425011945",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 131662,
+        "width": 818,
+        "height": 1280,
+        "text": "",
+        "text_entities": []
+    },
+    "113518": {
+        "id": 113518,
+        "type": "message",
+        "date": "2025-02-17T16:16:48",
+        "date_unixtime": "1739798208",
+        "edited": "2025-02-19T14:43:15",
+        "edited_unixtime": "1739965395",
+        "from": "MAlex",
+        "from_id": "user754345169",
+        "reply_to_message_id": 24109,
+        "text": "🔥",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "🔥"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Marina Yurochka",
+                        "from_id": "user6971824773",
+                        "date": "2025-02-19T14:43:15"
+                    }
+                ]
+            }
+        ]
+    },
+    "113548": {
+        "id": 113548,
+        "type": "message",
+        "date": "2025-02-18T01:22:10",
+        "date_unixtime": "1739830930",
+        "edited": "2025-02-18T01:25:24",
+        "edited_unixtime": "1739831124",
+        "from": "Детидетей",
+        "from_id": "user668121919",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "Сто_сайтов_для_поиска_предков (1).pdf",
+        "file_size": 13691696,
+        "mime_type": "application/pdf",
+        "text": "",
+        "text_entities": [],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 13,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Vlad",
+                        "from_id": "user745441320",
+                        "date": "2025-02-25T08:37:16"
+                    },
+                    {
+                        "from": "Валентин Ш",
+                        "from_id": "user968736097",
+                        "date": "2025-02-19T13:16:25"
+                    },
+                    {
+                        "from": "Лилия",
+                        "from_id": "user1286674269",
+                        "date": "2025-02-18T21:30:33"
+                    }
+                ]
+            }
+        ]
+    },
+    "113736": {
+        "id": 113736,
+        "type": "message",
+        "date": "2025-02-19T21:05:05",
+        "date_unixtime": "1739988305",
+        "edited": "2025-02-19T21:09:19",
+        "edited_unixtime": "1739988559",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "Храм святых Кирилла и Мефодия при МГУ",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 82073,
+        "width": 612,
+        "height": 1000,
+        "text": [
+            "⚡«Журнал Московской Патриархии» завершил публикацию своего архива за прошлые годы на сайте ",
+            {
+                "type": "text_link",
+                "text": "jmp.ru",
+                "href": "http://jmp.ru/"
+            },
+            ". \n\nТеперь для просмотра в разделе «Архив» доступны номера издания за всю его предшествующую историю.\n\n📚В настоящее время пользователям доступны: единый блок сканов с 1931 по 1935 годы, а также pdf-версии номеров «Журнала Московской Патриархии» с 1943 по 2024 годы (по № 7 включительно).\n\nРdf-версии новых номеров будут регулярно добавляться."
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "⚡«Журнал Московской Патриархии» завершил публикацию своего архива за прошлые годы на сайте "
+            },
+            {
+                "type": "text_link",
+                "text": "jmp.ru",
+                "href": "http://jmp.ru/"
+            },
+            {
+                "type": "plain",
+                "text": ". \n\nТеперь для просмотра в разделе «Архив» доступны номера издания за всю его предшествующую историю.\n\n📚В настоящее время пользователям доступны: единый блок сканов с 1931 по 1935 годы, а также pdf-версии номеров «Журнала Московской Патриархии» с 1943 по 2024 годы (по № 7 включительно).\n\nРdf-версии новых номеров будут регулярно добавляться."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 7,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Gеоrge",
+                        "from_id": "user1208477498",
+                        "date": "2025-02-26T00:13:49"
+                    },
+                    {
+                        "from": "Mikhail",
+                        "from_id": "user381947699",
+                        "date": "2025-02-20T09:10:47"
+                    },
+                    {
+                        "from": "Татьяна",
+                        "from_id": "user5723514362",
+                        "date": "2025-02-20T06:45:45"
+                    }
+                ]
+            }
+        ]
+    },
+    "113737": {
+        "id": 113737,
+        "type": "message",
+        "date": "2025-02-19T21:05:05",
+        "date_unixtime": "1739988305",
+        "from": "N.Y.",
+        "from_id": "user1841363435",
+        "forwarded_from": "Храм святых Кирилла и Мефодия при МГУ",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 101975,
+        "width": 610,
+        "height": 794,
+        "text": "",
+        "text_entities": []
+    },
+    "114121": {
+        "id": 114121,
+        "type": "message",
+        "date": "2025-02-24T23:16:53",
+        "date_unixtime": "1740428213",
+        "edited": "2025-02-27T02:28:16",
+        "edited_unixtime": "1740612496",
+        "from": "Гарик",
+        "from_id": "user7087009637",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "photo": "(File not included. Change data exporting settings to download.)",
+        "photo_file_size": 118261,
+        "width": 1230,
+        "height": 884,
+        "text": [
+            "Станислав Алексеевич Ваупшасов (1899–1976) — советский разведчик-нелегал, партизанский военачальник, писатель-мемуарист. ",
+            {
+                "type": "hashtag",
+                "text": "#СССР"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#РККА"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Станислав Алексеевич Ваупшасов (1899–1976) — советский разведчик-нелегал, партизанский военачальник, писатель-мемуарист. "
+            },
+            {
+                "type": "hashtag",
+                "text": "#СССР"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#РККА"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2025-02-27T02:28:16"
+                    }
+                ]
+            }
+        ]
+    },
+    "114122": {
+        "id": 114122,
+        "type": "message",
+        "date": "2025-02-24T23:16:53",
+        "date_unixtime": "1740428213",
+        "from": "Гарик",
+        "from_id": "user7087009637",
+        "forwarded_from": "bookoldsru",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1971 Na trvojn perekr zap chekista_00.pdf",
+        "file_size": 70357707,
+        "mime_type": "application/pdf",
+        "text": [
+            "------- ",
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            " -------\nЗаглавие: 1971. На тревожных перекрестках. Записки чекиста., 495 стр., 67,30 Мб., PDF.\nАвтор: С.А.Ваупшасов.\nЖанр: ",
+            {
+                "type": "hashtag",
+                "text": "#1971г"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#СССР"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#ВОВ"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#РККА"
+            },
+            " ",
+            {
+                "type": "hashtag",
+                "text": "#МВД"
+            },
+            "\nИздатель: Москва. Политическая литература.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на книгу в библиотеке: ",
+            {
+                "type": "link",
+                "text": "https://book-olds.ru/BookLibrary/00929-2-ya-Mirovaya-voyna-Sovetskaya-Armiya/1971.-Na-trevozhnyih-perekrestkah.-Zapiski-chekista.html"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "------- "
+            },
+            {
+                "type": "link",
+                "text": "book-olds.ru"
+            },
+            {
+                "type": "plain",
+                "text": " -------\nЗаглавие: 1971. На тревожных перекрестках. Записки чекиста., 495 стр., 67,30 Мб., PDF.\nАвтор: С.А.Ваупшасов.\nЖанр: "
+            },
+            {
+                "type": "hashtag",
+                "text": "#1971г"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#СССР"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#ВОВ"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#РККА"
+            },
+            {
+                "type": "plain",
+                "text": " "
+            },
+            {
+                "type": "hashtag",
+                "text": "#МВД"
+            },
+            {
+                "type": "plain",
+                "text": "\nИздатель: Москва. Политическая литература.\nАннотация: (в комментариях можно оставить своё описание книги ...)\nСсылка на книгу в библиотеке: "
+            },
+            {
+                "type": "link",
+                "text": "https://book-olds.ru/BookLibrary/00929-2-ya-Mirovaya-voyna-Sovetskaya-Armiya/1971.-Na-trevozhnyih-perekrestkah.-Zapiski-chekista.html"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "114330": {
+        "id": 114330,
+        "type": "message",
+        "date": "2025-02-26T07:07:23",
+        "date_unixtime": "1740542843",
+        "edited": "2025-02-26T10:45:18",
+        "edited_unixtime": "1740555918",
+        "from": "Гарик",
+        "from_id": "user7087009637",
+        "reply_to_message_id": 24109,
+        "text": "Взятие Минска 08.08.1919",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Взятие Минска 08.08.1919"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤔",
+                "recent": [
+                    {
+                        "from": "ა",
+                        "from_id": "user1164475893",
+                        "date": "2025-02-26T10:45:18"
+                    }
+                ]
+            }
+        ]
+    },
+    "114331": {
+        "id": 114331,
+        "type": "message",
+        "date": "2025-02-26T07:07:24",
+        "date_unixtime": "1740542844",
+        "from": "Гарик",
+        "from_id": "user7087009637",
+        "forwarded_from": "Л",
+        "reply_to_message_id": 24109,
+        "file": "(File not included. Change data exporting settings to download.)",
+        "file_name": "1919 год.png",
+        "file_size": 1022337,
+        "thumbnail": "(File not included. Change data exporting settings to download.)",
+        "thumbnail_file_size": 26630,
+        "mime_type": "image/png",
+        "width": 1054,
+        "height": 1031,
+        "text": "",
+        "text_entities": []
     }
 }
