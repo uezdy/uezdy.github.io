@@ -15031,5 +15031,1178 @@
         "message_id": 114317,
         "text": "",
         "text_entities": []
+    },
+    "114802": {
+        "id": 114802,
+        "type": "message",
+        "date": "2025-03-01T03:41:28",
+        "date_unixtime": "1740789688",
+        "edited": "2025-03-01T13:21:17",
+        "edited_unixtime": "1740824477",
+        "from": "Natalia Lu",
+        "from_id": "user219698220",
+        "reply_to_message_id": 114795,
+        "text": "Напишите мне в личку, завтра гляну",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Напишите мне в личку, завтра гляну"
+            }
+        ]
+    },
+    "114832": {
+        "id": 114832,
+        "type": "message",
+        "date": "2025-03-01T16:21:10",
+        "date_unixtime": "1740835270",
+        "edited": "2025-03-01T16:21:41",
+        "edited_unixtime": "1740835301",
+        "from": "G B",
+        "from_id": "user1462701472",
+        "reply_to_message_id": 114831,
+        "text": "По- моему там ясно Шишкину",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "По- моему там ясно Шишкину"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤝",
+                "recent": [
+                    {
+                        "from": "Noname No Name",
+                        "from_id": "user1878251399",
+                        "date": "2025-03-01T16:21:41"
+                    }
+                ]
+            }
+        ]
+    },
+    "114834": {
+        "id": 114834,
+        "type": "message",
+        "date": "2025-03-01T16:23:21",
+        "date_unixtime": "1740835401",
+        "edited": "2025-03-01T16:25:30",
+        "edited_unixtime": "1740835530",
+        "from": "G B",
+        "from_id": "user1462701472",
+        "reply_to_message_id": 114829,
+        "text": "Гилели (Гилеля)",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Гилели (Гилеля)"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤝",
+                "recent": [
+                    {
+                        "from": "Noname No Name",
+                        "from_id": "user1878251399",
+                        "date": "2025-03-01T16:25:30"
+                    }
+                ]
+            }
+        ]
+    },
+    "114835": {
+        "id": 114835,
+        "type": "message",
+        "date": "2025-03-01T16:26:09",
+        "date_unixtime": "1740835569",
+        "edited": "2025-03-01T16:27:33",
+        "edited_unixtime": "1740835653",
+        "from": "G B",
+        "from_id": "user1462701472",
+        "reply_to_message_id": 114824,
+        "text": "Голонта",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Голонта"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤝",
+                "recent": [
+                    {
+                        "from": "Noname No Name",
+                        "from_id": "user1878251399",
+                        "date": "2025-03-01T16:27:33"
+                    }
+                ]
+            }
+        ]
+    },
+    "114836": {
+        "id": 114836,
+        "type": "message",
+        "date": "2025-03-01T16:29:08",
+        "date_unixtime": "1740835748",
+        "edited": "2025-03-01T16:35:36",
+        "edited_unixtime": "1740836136",
+        "from": "G B",
+        "from_id": "user1462701472",
+        "reply_to_message_id": 114822,
+        "text": "Здесь мне кажется Райхман",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здесь мне кажется Райхман"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Т",
+                        "from_id": "user1205966658",
+                        "date": "2025-03-01T16:47:04"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤷",
+                "recent": [
+                    {
+                        "from": "Noname No Name",
+                        "from_id": "user1878251399",
+                        "date": "2025-03-01T16:35:36"
+                    }
+                ]
+            }
+        ]
+    },
+    "114841": {
+        "id": 114841,
+        "type": "message",
+        "date": "2025-03-01T16:44:44",
+        "date_unixtime": "1740836684",
+        "edited": "2025-03-01T16:54:42",
+        "edited_unixtime": "1740837282",
+        "from": "Т",
+        "from_id": "user1205966658",
+        "reply_to_message_id": 114830,
+        "text": "Фаивелева- отчество от имени Файвель.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Фаивелева- отчество от имени Файвель."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤‍🔥",
+                "recent": [
+                    {
+                        "from": "Noname No Name",
+                        "from_id": "user1878251399",
+                        "date": "2025-03-01T16:54:42"
+                    }
+                ]
+            }
+        ]
+    },
+    "114862": {
+        "id": 114862,
+        "type": "message",
+        "date": "2025-03-01T20:05:44",
+        "date_unixtime": "1740848744",
+        "edited": "2025-03-01T20:06:22",
+        "edited_unixtime": "1740848782",
+        "from": "Т",
+        "from_id": "user1205966658",
+        "reply_to_message_id": 114860,
+        "text": "К Мовши Шапиро - имя Мовша/Мойша",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "К Мовши Шапиро - имя Мовша/Мойша"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Vic",
+                        "from_id": "user5579643927",
+                        "date": "2025-03-02T10:54:49"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤝",
+                "recent": [
+                    {
+                        "from": "Noname No Name",
+                        "from_id": "user1878251399",
+                        "date": "2025-03-01T20:06:22"
+                    }
+                ]
+            }
+        ]
+    },
+    "114907": {
+        "id": 114907,
+        "type": "service",
+        "date": "2025-03-02T02:09:26",
+        "date_unixtime": "1740870566",
+        "actor": "Алексей Билецкий",
+        "actor_id": "user1133915357",
+        "action": "pin_message",
+        "message_id": 114853,
+        "text": "",
+        "text_entities": []
+    },
+    "115183": {
+        "id": 115183,
+        "type": "message",
+        "date": "2025-03-04T02:18:09",
+        "date_unixtime": "1741043889",
+        "edited": "2025-03-04T02:21:10",
+        "edited_unixtime": "1741044070",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 115182,
+        "text": "Сирвинт",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Сирвинт"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤔",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2025-03-04T03:06:14"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤝",
+                "recent": [
+                    {
+                        "from": "Noname No Name",
+                        "from_id": "user1878251399",
+                        "date": "2025-03-04T02:21:10"
+                    }
+                ]
+            }
+        ]
+    },
+    "115264": {
+        "id": 115264,
+        "type": "message",
+        "date": "2025-03-04T17:25:03",
+        "date_unixtime": "1741098303",
+        "edited": "2025-03-04T17:37:41",
+        "edited_unixtime": "1741099061",
+        "from": "Гарик",
+        "from_id": "user7087009637",
+        "reply_to_message_id": 115263,
+        "text": "Стоит посмотреть в первую очередь РС 1834г. Возможно там будет информация откуда они переехали. Если местные, то смотреть соседние униатские церкви, костел тоже можно глянуть.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Стоит посмотреть в первую очередь РС 1834г. Возможно там будет информация откуда они переехали. Если местные, то смотреть соседние униатские церкви, костел тоже можно глянуть."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Sviatlana",
+                        "from_id": "user380543352",
+                        "date": "2025-03-04T17:37:41"
+                    }
+                ]
+            }
+        ]
+    },
+    "115265": {
+        "id": 115265,
+        "type": "message",
+        "date": "2025-03-04T17:26:32",
+        "date_unixtime": "1741098392",
+        "edited": "2025-03-04T17:28:51",
+        "edited_unixtime": "1741098531",
+        "from": "Tacciana",
+        "from_id": "user6965994936",
+        "reply_to_message_id": 115264,
+        "text": "каб Вы ведалі, як дрэнна захаваліся РС па Гродзенскай губ...",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "каб Вы ведалі, як дрэнна захаваліся РС па Гродзенскай губ..."
+            }
+        ]
+    },
+    "115266": {
+        "id": 115266,
+        "type": "message",
+        "date": "2025-03-04T17:28:44",
+        "date_unixtime": "1741098524",
+        "edited": "2025-03-04T17:51:59",
+        "edited_unixtime": "1741099919",
+        "from": "Tacciana",
+        "from_id": "user6965994936",
+        "reply_to_message_id": 115263,
+        "text": [
+            "адказала тут ",
+            {
+                "type": "link",
+                "text": "t.me/brest_uezd"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "адказала тут "
+            },
+            {
+                "type": "link",
+                "text": "t.me/brest_uezd"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ]
+    },
+    "115277": {
+        "id": 115277,
+        "type": "message",
+        "date": "2025-03-04T18:45:02",
+        "date_unixtime": "1741103102",
+        "from": "V I",
+        "from_id": "user7402758768",
+        "reply_to_message_id": 115275,
+        "text": "Благодарю! \nВроде так , если по смыслу. После этих трёх слов написано Франтишек Сапега.\nТо есть владелец?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Благодарю! \nВроде так , если по смыслу. После этих трёх слов написано Франтишек Сапега.\nТо есть владелец?"
+            }
+        ]
+    },
+    "115293": {
+        "id": 115293,
+        "type": "message",
+        "date": "2025-03-04T21:22:44",
+        "date_unixtime": "1741112564",
+        "edited": "2025-03-04T22:45:04",
+        "edited_unixtime": "1741117504",
+        "from": "Sb",
+        "from_id": "user6512553342",
+        "reply_to_message_id": 115263,
+        "text": "Проверьте ещё под другой фамилией могут быть",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Проверьте ещё под другой фамилией могут быть"
+            }
+        ]
+    },
+    "115303": {
+        "id": 115303,
+        "type": "message",
+        "date": "2025-03-04T22:46:19",
+        "date_unixtime": "1741117579",
+        "from": null,
+        "from_id": "user8117803639",
+        "reply_to_message_id": 115277,
+        "text": "Выше правильно перевели",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Выше правильно перевели"
+            }
+        ]
+    },
+    "115333": {
+        "id": 115333,
+        "type": "message",
+        "date": "2025-03-05T07:36:45",
+        "date_unixtime": "1741149405",
+        "edited": "2025-03-05T11:39:43",
+        "edited_unixtime": "1741163983",
+        "from": "Анастасия Ушакова",
+        "from_id": "user512602229",
+        "reply_to_message_id": 115263,
+        "text": "Не знаю, пригодится ли вам эта информация, на территории Гродненской губ в Зельвенском районе жили Таболичи. Вроде бы похожие фамилии, просто варианты написания",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Не знаю, пригодится ли вам эта информация, на территории Гродненской губ в Зельвенском районе жили Таболичи. Вроде бы похожие фамилии, просто варианты написания"
+            }
+        ]
+    },
+    "115799": {
+        "id": 115799,
+        "type": "message",
+        "date": "2025-03-10T02:44:09",
+        "date_unixtime": "1741563849",
+        "edited": "2025-03-10T02:50:00",
+        "edited_unixtime": "1741564200",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 115796,
+        "text": "Шмуйлы\nНевуха\nАизика",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Шмуйлы\nНевуха\nАизика"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Noname No Name",
+                        "from_id": "user1878251399",
+                        "date": "2025-03-10T02:50:00"
+                    }
+                ]
+            }
+        ]
+    },
+    "115827": {
+        "id": 115827,
+        "type": "message",
+        "date": "2025-03-10T11:28:54",
+        "date_unixtime": "1741595334",
+        "edited": "2025-03-10T11:35:11",
+        "edited_unixtime": "1741595711",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 115825,
+        "text": "Возможно: ...по иску Анны Ложкиной(?)\n... по иску Рахили Кемп-...\n\n... с Мовши Ципкина",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Возможно: ...по иску Анны Ложкиной(?)\n... по иску Рахили Кемп-...\n\n... с Мовши Ципкина"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Noname No Name",
+                        "from_id": "user1878251399",
+                        "date": "2025-03-10T11:35:11"
+                    }
+                ]
+            }
+        ]
+    },
+    "115829": {
+        "id": 115829,
+        "type": "message",
+        "date": "2025-03-10T11:32:51",
+        "date_unixtime": "1741595571",
+        "edited": "2025-03-10T11:35:20",
+        "edited_unixtime": "1741595720",
+        "from": "Т",
+        "from_id": "user1205966658",
+        "reply_to_message_id": 115824,
+        "text": "Хлойны Фишбейна",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Хлойны Фишбейна"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Noname No Name",
+                        "from_id": "user1878251399",
+                        "date": "2025-03-10T11:35:20"
+                    }
+                ]
+            }
+        ]
+    },
+    "115832": {
+        "id": 115832,
+        "type": "message",
+        "date": "2025-03-10T11:37:18",
+        "date_unixtime": "1741595838",
+        "edited": "2025-03-10T11:37:44",
+        "edited_unixtime": "1741595864",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 115824,
+        "text": "Фишбейна?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Фишбейна?"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👏",
+                "recent": [
+                    {
+                        "from": "Noname No Name",
+                        "from_id": "user1878251399",
+                        "date": "2025-03-10T11:37:44"
+                    }
+                ]
+            }
+        ]
+    },
+    "115833": {
+        "id": 115833,
+        "type": "message",
+        "date": "2025-03-10T11:39:03",
+        "date_unixtime": "1741595943",
+        "edited": "2025-03-10T11:41:41",
+        "edited_unixtime": "1741596101",
+        "from": "Evita",
+        "from_id": "user66187238",
+        "reply_to_message_id": 115825,
+        "text": "Может, Липман Давидович",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Может, Липман Давидович"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2025-03-10T11:41:41"
+                    }
+                ]
+            }
+        ]
+    },
+    "115834": {
+        "id": 115834,
+        "type": "message",
+        "date": "2025-03-10T11:39:55",
+        "date_unixtime": "1741595995",
+        "edited": "2025-03-10T11:48:54",
+        "edited_unixtime": "1741596534",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 115824,
+        "text": "... Иогана Губерта...",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "... Иогана Губерта..."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Noname No Name",
+                        "from_id": "user1878251399",
+                        "date": "2025-03-10T11:48:54"
+                    }
+                ]
+            }
+        ]
+    },
+    "115835": {
+        "id": 115835,
+        "type": "message",
+        "date": "2025-03-10T11:41:34",
+        "date_unixtime": "1741596094",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 115825,
+        "text": "Может, Липмон?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Может, Липмон?"
+            }
+        ]
+    },
+    "115836": {
+        "id": 115836,
+        "type": "message",
+        "date": "2025-03-10T11:43:24",
+        "date_unixtime": "1741596204",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 115825,
+        "text": "... с ...Фиштейна",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "... с ...Фиштейна"
+            }
+        ]
+    },
+    "115837": {
+        "id": 115837,
+        "type": "message",
+        "date": "2025-03-10T11:46:18",
+        "date_unixtime": "1741596378",
+        "from": "Гарик",
+        "from_id": "user7087009637",
+        "reply_to_message_id": 115831,
+        "text": "Чат о гениалогии. В этой же группе.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Чат о гениалогии. В этой же группе."
+            }
+        ]
+    },
+    "115842": {
+        "id": 115842,
+        "type": "message",
+        "date": "2025-03-10T11:55:46",
+        "date_unixtime": "1741596946",
+        "edited": "2025-03-10T15:22:08",
+        "edited_unixtime": "1741609328",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 115824,
+        "text": "Здесь, я думаю, первая буква Х. Возможно, Хлойны.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здесь, я думаю, первая буква Х. Возможно, Хлойны."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👏",
+                "recent": [
+                    {
+                        "from": "Noname No Name",
+                        "from_id": "user1878251399",
+                        "date": "2025-03-10T11:58:02"
+                    }
+                ]
+            }
+        ]
+    },
+    "115845": {
+        "id": 115845,
+        "type": "message",
+        "date": "2025-03-10T11:56:05",
+        "date_unixtime": "1741596965",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 115844,
+        "text": "Липман находится.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Липман находится."
+            }
+        ]
+    },
+    "115960": {
+        "id": 115960,
+        "type": "message",
+        "date": "2025-03-10T14:12:31",
+        "date_unixtime": "1741605151",
+        "edited": "2025-03-10T15:06:16",
+        "edited_unixtime": "1741608376",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 115825,
+        "text": "Есть фамилия Конопасевич, возможно, она",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Есть фамилия Конопасевич, возможно, она"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤝",
+                "recent": [
+                    {
+                        "from": "Noname No Name",
+                        "from_id": "user1878251399",
+                        "date": "2025-03-10T15:06:16"
+                    }
+                ]
+            }
+        ]
+    },
+    "115969": {
+        "id": 115969,
+        "type": "message",
+        "date": "2025-03-10T16:20:14",
+        "date_unixtime": "1741612814",
+        "edited": "2025-03-10T16:35:37",
+        "edited_unixtime": "1741613737",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 115967,
+        "text": "Гершона Федера\nНевуха\nАполлона",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Гершона Федера\nНевуха\nАполлона"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Алексей Арт-Хща",
+                        "from_id": "user207514160",
+                        "date": "2025-03-10T16:48:31"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤝",
+                "recent": [
+                    {
+                        "from": "Noname No Name",
+                        "from_id": "user1878251399",
+                        "date": "2025-03-10T16:35:37"
+                    }
+                ]
+            }
+        ]
+    },
+    "115972": {
+        "id": 115972,
+        "type": "message",
+        "date": "2025-03-10T16:51:14",
+        "date_unixtime": "1741614674",
+        "edited": "2025-03-10T16:56:46",
+        "edited_unixtime": "1741615006",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 115971,
+        "text": "Айзика",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Айзика"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤝",
+                "recent": [
+                    {
+                        "from": "Noname No Name",
+                        "from_id": "user1878251399",
+                        "date": "2025-03-10T16:56:46"
+                    }
+                ]
+            }
+        ]
+    },
+    "115982": {
+        "id": 115982,
+        "type": "message",
+        "date": "2025-03-10T17:15:02",
+        "date_unixtime": "1741616102",
+        "edited": "2025-03-10T17:15:55",
+        "edited_unixtime": "1741616155",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 115975,
+        "text": "По иску Райцы Каждоновой... (есть фамилия Каждан) с Иогана и Эмилии Дор",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "По иску Райцы Каждоновой... (есть фамилия Каждан) с Иогана и Эмилии Дор"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤝",
+                "recent": [
+                    {
+                        "from": "Noname No Name",
+                        "from_id": "user1878251399",
+                        "date": "2025-03-10T17:15:47"
+                    }
+                ]
+            }
+        ]
+    },
+    "115996": {
+        "id": 115996,
+        "type": "message",
+        "date": "2025-03-10T18:00:18",
+        "date_unixtime": "1741618818",
+        "edited": "2025-03-10T18:14:14",
+        "edited_unixtime": "1741619654",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 115973,
+        "text": "Мне видится Шолом Грошев",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мне видится Шолом Грошев"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤷",
+                "recent": [
+                    {
+                        "from": "Noname No Name",
+                        "from_id": "user1878251399",
+                        "date": "2025-03-10T18:14:14"
+                    }
+                ]
+            }
+        ]
+    },
+    "115997": {
+        "id": 115997,
+        "type": "message",
+        "date": "2025-03-10T18:02:55",
+        "date_unixtime": "1741618975",
+        "edited": "2025-03-10T18:14:39",
+        "edited_unixtime": "1741619679",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 115974,
+        "text": "Мордуха я бы прочёл как Изгер",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Мордуха я бы прочёл как Изгер"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🤔",
+                "recent": [
+                    {
+                        "from": "Noname No Name",
+                        "from_id": "user1878251399",
+                        "date": "2025-03-10T18:14:39"
+                    }
+                ]
+            }
+        ]
+    },
+    "115998": {
+        "id": 115998,
+        "type": "message",
+        "date": "2025-03-10T18:05:01",
+        "date_unixtime": "1741619101",
+        "edited": "2025-03-10T18:14:59",
+        "edited_unixtime": "1741619699",
+        "from": "Игнатович А. Е.",
+        "from_id": "user346646662",
+        "reply_to_message_id": 115975,
+        "text": "Иогана и Эмилии.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Иогана и Эмилии."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🏆",
+                "recent": [
+                    {
+                        "from": "Noname No Name",
+                        "from_id": "user1878251399",
+                        "date": "2025-03-10T18:14:59"
+                    }
+                ]
+            }
+        ]
+    },
+    "116009": {
+        "id": 116009,
+        "type": "message",
+        "date": "2025-03-10T19:19:56",
+        "date_unixtime": "1741623596",
+        "edited": "2025-03-10T19:20:19",
+        "edited_unixtime": "1741623619",
+        "from": "NinaEK",
+        "from_id": "user1168230259",
+        "reply_to_message_id": 116002,
+        "text": "Рубермана",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Рубермана"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤‍🔥",
+                "recent": [
+                    {
+                        "from": "Noname No Name",
+                        "from_id": "user1878251399",
+                        "date": "2025-03-10T19:20:19"
+                    }
+                ]
+            }
+        ]
+    },
+    "116331": {
+        "id": 116331,
+        "type": "message",
+        "date": "2025-03-13T21:35:11",
+        "date_unixtime": "1741890911",
+        "from": "Гарик",
+        "from_id": "user7087009637",
+        "reply_to_message_id": 116329,
+        "text": "Прайшоу 81 год. Другая справа, што у закане сказана не зусiм пра тое ((( Але хай яны i адпiсваюцца. Iншага я пакуль не знайшоу",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Прайшоу 81 год. Другая справа, што у закане сказана не зусiм пра тое ((( Але хай яны i адпiсваюцца. Iншага я пакуль не знайшоу"
+            }
+        ]
+    },
+    "117909": {
+        "id": 117909,
+        "type": "message",
+        "date": "2025-03-29T02:09:45",
+        "date_unixtime": "1743203385",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 117908,
+        "text": "Вы прислали идентичную предыдущей запись.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вы прислали идентичную предыдущей запись."
+            }
+        ]
+    },
+    "118571": {
+        "id": 118571,
+        "type": "message",
+        "date": "2025-04-04T23:26:29",
+        "date_unixtime": "1743798389",
+        "edited": "2025-04-04T23:38:59",
+        "edited_unixtime": "1743799139",
+        "from": "Алексей Билецкий",
+        "from_id": "user1133915357",
+        "reply_to_message_id": 118570,
+        "text": "смотрите фонды 308, 627 и 582",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "смотрите фонды 308, 627 и 582"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "🙏",
+                "recent": [
+                    {
+                        "from": "96508",
+                        "from_id": "user5947260640",
+                        "date": "2025-04-04T23:39:00"
+                    }
+                ]
+            }
+        ]
+    },
+    "118632": {
+        "id": 118632,
+        "type": "message",
+        "date": "2025-04-05T16:30:17",
+        "date_unixtime": "1743859817",
+        "from": "Алла Викторовна",
+        "from_id": "user1682457785",
+        "reply_to_message_id": 118599,
+        "text": "Спасибо за помощь",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Спасибо за помощь"
+            }
+        ]
+    },
+    "118672": {
+        "id": 118672,
+        "type": "message",
+        "date": "2025-04-06T17:30:10",
+        "date_unixtime": "1743949810",
+        "from": "Алексей Арт-Хща",
+        "from_id": "user207514160",
+        "reply_to_message_id": 118566,
+        "text": "А он у Вас в фонде полка холостой или женатый?",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "А он у Вас в фонде полка холостой или женатый?"
+            }
+        ]
+    },
+    "118828": {
+        "id": 118828,
+        "type": "message",
+        "date": "2025-04-07T19:38:53",
+        "date_unixtime": "1744043933",
+        "edited": "2025-04-07T19:39:14",
+        "edited_unixtime": "1744043954",
+        "from": "ა",
+        "from_id": "user1164475893",
+        "reply_to_message_id": 118668,
+        "text": "Вилейский уезд план  перевыполнил.\nСкорость просто поражает.\nБудем подавать заявку.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Вилейский уезд план  перевыполнил.\nСкорость просто поражает.\nБудем подавать заявку."
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Pavel",
+                        "from_id": "user1354985288",
+                        "date": "2025-04-07T19:39:14"
+                    }
+                ]
+            }
+        ]
+    },
+    "119091": {
+        "id": 119091,
+        "type": "service",
+        "date": "2025-04-09T15:16:53",
+        "date_unixtime": "1744201013",
+        "actor": "Алексей Билецкий",
+        "actor_id": "user1133915357",
+        "action": "pin_message",
+        "message_id": 119090,
+        "text": "",
+        "text_entities": []
+    },
+    "119100": {
+        "id": 119100,
+        "type": "service",
+        "date": "2025-04-09T15:55:54",
+        "date_unixtime": "1744203354",
+        "actor": "Алексей Билецкий",
+        "actor_id": "user1133915357",
+        "action": "topic_created",
+        "title": "Этногенез белорусов",
+        "text": "",
+        "text_entities": []
+    },
+    "119149": {
+        "id": 119149,
+        "type": "service",
+        "date": "2025-04-09T16:10:55",
+        "date_unixtime": "1744204255",
+        "actor": "Алексей Билецкий",
+        "actor_id": "user1133915357",
+        "action": "pin_message",
+        "message_id": 119104,
+        "text": "",
+        "text_entities": []
+    },
+    "119151": {
+        "id": 119151,
+        "type": "service",
+        "date": "2025-04-09T16:29:58",
+        "date_unixtime": "1744205398",
+        "actor": "Алексей Билецкий",
+        "actor_id": "user1133915357",
+        "action": "pin_message",
+        "message_id": 119150,
+        "text": "",
+        "text_entities": []
     }
 }

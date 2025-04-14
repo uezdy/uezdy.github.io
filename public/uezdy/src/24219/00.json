@@ -3256,5 +3256,307 @@
                 ]
             }
         ]
+    },
+    "116026": {
+        "id": 116026,
+        "type": "message",
+        "date": "2025-03-10T19:42:59",
+        "date_unixtime": "1741624979",
+        "from": "L",
+        "from_id": "user6470626110",
+        "reply_to_message_id": 24219,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://t.me/+CI3IqM4VbXo0NDg6"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://t.me/+CI3IqM4VbXo0NDg6"
+            }
+        ]
+    },
+    "116028": {
+        "id": 116028,
+        "type": "message",
+        "date": "2025-03-10T19:44:45",
+        "date_unixtime": "1741625085",
+        "edited": "2025-03-10T19:45:28",
+        "edited_unixtime": "1741625128",
+        "from": "Алексей Билецкий",
+        "from_id": "user1133915357",
+        "reply_to_message_id": 24219,
+        "text": "Добавил в общее сообщение",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Добавил в общее сообщение"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 1,
+                "emoji": "❤",
+                "recent": [
+                    {
+                        "from": "L",
+                        "from_id": "user6470626110",
+                        "date": "2025-03-10T19:45:28"
+                    }
+                ]
+            }
+        ]
+    },
+    "116039": {
+        "id": 116039,
+        "type": "message",
+        "date": "2025-03-10T20:50:58",
+        "date_unixtime": "1741629058",
+        "edited": "2025-03-11T01:30:45",
+        "edited_unixtime": "1741645845",
+        "from": "Nik",
+        "from_id": "user1432708269",
+        "reply_to_message_id": 24541,
+        "text": "Все чаты вроде бы тут упоминаются, в том числе Гомельский)\nДумаю, в нашем списке они все-таки лишние",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Все чаты вроде бы тут упоминаются, в том числе Гомельский)\nДумаю, в нашем списке они все-таки лишние"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2025-03-11T12:28:05"
+                    },
+                    {
+                        "from": "A.",
+                        "from_id": "user853091369",
+                        "date": "2025-03-11T01:30:45"
+                    }
+                ]
+            }
+        ]
+    },
+    "116044": {
+        "id": 116044,
+        "type": "message",
+        "date": "2025-03-10T21:23:40",
+        "date_unixtime": "1741631020",
+        "edited": "2025-03-10T21:30:56",
+        "edited_unixtime": "1741631456",
+        "from": "Алексей Билецкий",
+        "from_id": "user1133915357",
+        "reply_to_message_id": 116039,
+        "text": "как появится самостоятельный Гомельский уезд, то поменяю",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "как появится самостоятельный Гомельский уезд, то поменяю"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Anastasia Nichiporovich",
+                        "from_id": "user251428128",
+                        "date": "2025-03-12T12:17:34"
+                    },
+                    {
+                        "from": "Vasi Vasi",
+                        "from_id": "user7071190955",
+                        "date": "2025-03-11T21:31:49"
+                    },
+                    {
+                        "from": "L",
+                        "from_id": "user6470626110",
+                        "date": "2025-03-10T21:30:56"
+                    }
+                ]
+            }
+        ]
+    },
+    "118766": {
+        "id": 118766,
+        "type": "message",
+        "date": "2025-04-07T14:34:53",
+        "date_unixtime": "1744025693",
+        "from": "First name",
+        "from_id": "user6194523011",
+        "reply_to_message_id": 24219,
+        "text": "Здравствуйте, есть ли чатик по г. Гродно? \nИнтересуют гродненские поляки и евреи.",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Здравствуйте, есть ли чатик по г. Гродно? \nИнтересуют гродненские поляки и евреи."
+            }
+        ]
+    },
+    "118778": {
+        "id": 118778,
+        "type": "message",
+        "date": "2025-04-07T15:30:25",
+        "date_unixtime": "1744029025",
+        "from": "Vasi Vasi",
+        "from_id": "user7071190955",
+        "reply_to_message_id": 24219,
+        "text": "Есть Генеалогия Гродно и Гродненской области",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Есть Генеалогия Гродно и Гродненской области"
+            }
+        ]
+    },
+    "118782": {
+        "id": 118782,
+        "type": "message",
+        "date": "2025-04-07T15:37:14",
+        "date_unixtime": "1744029434",
+        "edited": "2025-04-07T15:50:37",
+        "edited_unixtime": "1744030237",
+        "from": "Ірына Багачова",
+        "from_id": "user5403394858",
+        "reply_to_message_id": 24219,
+        "text": [
+            "Запрашаем да Сьвянцянскага павету:\n",
+            {
+                "type": "link",
+                "text": "https://t.me/Swienciany"
+            },
+            ""
+        ],
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Запрашаем да Сьвянцянскага павету:\n"
+            },
+            {
+                "type": "link",
+                "text": "https://t.me/Swienciany"
+            },
+            {
+                "type": "plain",
+                "text": ""
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 3,
+                "emoji": "🔥",
+                "recent": [
+                    {
+                        "from": "Яська Гаспадар з-пад Вільні",
+                        "from_id": "user787777714",
+                        "date": "2025-04-08T09:23:40"
+                    }
+                ]
+            },
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Алексей Билецкий",
+                        "from_id": "user1133915357",
+                        "date": "2025-04-07T17:52:08"
+                    },
+                    {
+                        "from": "Tacciana",
+                        "from_id": "user6965994936",
+                        "date": "2025-04-07T17:20:27"
+                    }
+                ]
+            }
+        ]
+    },
+    "118887": {
+        "id": 118887,
+        "type": "message",
+        "date": "2025-04-08T11:20:18",
+        "date_unixtime": "1744100418",
+        "from": "First name",
+        "from_id": "user6194523011",
+        "reply_to_message_id": 118778,
+        "text": "Может, будет у Вас ссылочка? Общий поиск не даёт результатов",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Может, будет у Вас ссылочка? Общий поиск не даёт результатов"
+            }
+        ]
+    },
+    "118888": {
+        "id": 118888,
+        "type": "message",
+        "date": "2025-04-08T11:25:13",
+        "date_unixtime": "1744100713",
+        "edited": "2025-04-09T18:18:33",
+        "edited_unixtime": "1744211913",
+        "from": "Aleksandras ssh",
+        "from_id": "user249176055",
+        "reply_to_message_id": 118887,
+        "text": [
+            {
+                "type": "link",
+                "text": "https://t.me/joinchat/JAT3X5zOwbQ4YTYy"
+            }
+        ],
+        "text_entities": [
+            {
+                "type": "link",
+                "text": "https://t.me/joinchat/JAT3X5zOwbQ4YTYy"
+            }
+        ],
+        "reactions": [
+            {
+                "type": "emoji",
+                "count": 2,
+                "emoji": "👍",
+                "recent": [
+                    {
+                        "from": "Jarus",
+                        "from_id": "user6733870475",
+                        "date": "2025-04-09T20:51:29"
+                    },
+                    {
+                        "from": "Екатерина З.",
+                        "from_id": "user963302417",
+                        "date": "2025-04-09T18:18:33"
+                    }
+                ]
+            }
+        ]
+    },
+    "118901": {
+        "id": 118901,
+        "type": "message",
+        "date": "2025-04-08T13:07:56",
+        "date_unixtime": "1744106876",
+        "from": "First name",
+        "from_id": "user6194523011",
+        "reply_to_message_id": 118888,
+        "text": "Благодарю Вас!!!",
+        "text_entities": [
+            {
+                "type": "plain",
+                "text": "Благодарю Вас!!!"
+            }
+        ]
     }
 }
