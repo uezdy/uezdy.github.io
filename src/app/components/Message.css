@@ -1,46 +1,159 @@
-.message-top {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    border: 1px solid #d7e3ec;
-    border-bottom: none;
-    border-radius: 10px 10px 0 0;
-}
+/* Один столбец «переписки»: пузырь не на всю ширину экрана */
 .message-card {
-    border-radius: 0;
-}
-.message-top a,
-.message-top button {
-    font-size: 0.5rem;
-}
-
-.date-of-message {
-    font-size: 0.6rem;
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 0.65rem;
+    scroll-margin-top: 52px;
 }
 
-.reply-to-message-id + div {
-    padding-top: 0;
+.message-bubble {
+    --bubble-bg: #e8eef5;
+    --bubble-border: rgba(25, 118, 210, 0.12);
+    --bubble-accent: #1976d2;
+    max-width: min(560px, 100%);
+    width: fit-content;
+    min-width: min(240px, 100%);
+    box-sizing: border-box;
+    padding: 0.55rem 0.75rem 0.65rem;
+    border-radius: 14px 14px 14px 4px;
+    background: var(--bubble-bg);
+    border: 1px solid var(--bubble-border);
+    box-shadow: 0 1px 2px rgba(15, 23, 42, 0.06);
 }
 
-a.reply-to-message-id {
-    border-radius: 4px;
-}
-a.reply-to-message-id div {
-    margin: 0 32px;
+/* Встроенная цитата ответа (как в мессенджерах) */
+.message-reply-quote {
+    display: block;
+    margin: 0 0 0.55rem;
+    padding: 0.4rem 0.5rem 0.45rem 0.55rem;
+    border-radius: 8px;
+    border-left: 3px solid var(--bubble-accent);
+    background: rgba(255, 255, 255, 0.55);
     text-decoration: none;
-    background-color: rgba(128, 128, 128, 0.06);
-}
-a.reply-to-message-id:hover {
-    text-decoration: none;
-}
-
-.truncate-long-text {
-    white-space: nowrap;
+    color: inherit;
     overflow: hidden;
-    text-overflow: ellipsis;
-    height: 2rem;
-    line-height: 2rem;
 }
-.message-text {
+
+.message-reply-quote:hover {
+    background: rgba(255, 255, 255, 0.85);
+    text-decoration: none;
+}
+
+.message-reply-quote__label {
+    display: block;
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #546e7a;
+    margin-bottom: 0.15rem;
+}
+
+.message-reply-quote__author {
+    display: block;
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: var(--bubble-accent);
+    margin-bottom: 0.2rem;
+}
+
+.message-reply-quote__text {
+    font-size: 0.8rem;
+    line-height: 1.35;
+    color: #455a64;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.message-meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.25rem 0.6rem;
+    margin-bottom: 0.35rem;
+    font-size: 0.75rem;
+    line-height: 1.2;
+}
+
+.message-meta__id {
+    font-variant-numeric: tabular-nums;
+    color: #78909c;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.message-meta__id:hover {
+    color: var(--bubble-accent, #1976d2);
+    text-decoration: underline;
+}
+
+.message-meta__author {
+    font-weight: 600;
+    color: #1565c0;
+    text-transform: none;
+    word-break: break-word;
+}
+
+.message-meta__time {
+    font-size: 0.72rem;
+    color: #78909c;
+    white-space: nowrap;
+}
+
+.message-meta__open {
+    margin-left: auto;
+    display: inline-flex;
+    align-items: center;
+    color: var(--bubble-accent);
+    cursor: pointer;
+}
+
+.message-meta__open > div {
+    display: inline-flex;
+    line-height: 0;
+}
+
+.message-body {
+    font-size: 0.95rem;
+    line-height: 1.45;
+    color: #1a237e;
+}
+
+.message-body .message-text {
+    margin: 0;
+    padding: 0;
+    border: none;
+    border-radius: 0;
+    word-break: break-word;
     white-space: pre-wrap;
+}
+
+.message-text a:hover {
+    text-decoration: underline;
+}
+
+.message-text code {
+    font-size: 0.88em;
+    padding: 0.1em 0.25em;
+    border-radius: 4px;
+    background: rgba(0, 0, 0, 0.06);
+}
+
+@media (max-width: 600px) {
+    .message-bubble {
+        max-width: 100%;
+        width: 100%;
+        min-width: 0;
+        border-radius: 12px 12px 12px 4px;
+        padding: 0.5rem 0.65rem 0.55rem;
+    }
+
+    .message-body {
+        font-size: 0.9rem;
+    }
+
+    .message-meta {
+        font-size: 0.72rem;
+    }
 }

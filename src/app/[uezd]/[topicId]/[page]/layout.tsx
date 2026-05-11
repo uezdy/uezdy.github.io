@@ -21,7 +21,7 @@ export default async function Layout({ params, children }: any) {
                 <PaginationLists pagesCount={pagesCount} topicId={topicId} page={page} uezd={uezd} />
                 <ChatsListMenuNavigation uezd={uezd} aboutGroups={aboutGroups} />
             </nav>
-            <main>{children}</main>
+            <main className="topic-main">{children}</main>
         </>
     )
 }

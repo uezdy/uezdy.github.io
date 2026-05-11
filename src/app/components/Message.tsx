@@ -1,60 +1,76 @@
 import "./Message.css";
 import React from "react";
 import Link from "next/link";
-import Button from '@mui/material/Button';
 import {TextEntity, TGMessage} from "@/app/components/types";
-import Card from '@mui/material/Card';
-import CardContent from '@mui/material/CardContent';
 import OriginalModal from "@/app/components/OriginalModal";
 
 export default async function Message({uezd, msg, topicId, replyMessage}: { uezd: string, msg: TGMessage, topicId: number, replyMessage: TGMessage }) {
-    let date = new Date(msg.date as any);
-    let year = new Intl.DateTimeFormat('ru', { year: 'numeric' }).format(date);
-    let month = new Intl.DateTimeFormat('ru', { month: 'short' }).format(date);
-    let day = new Intl.DateTimeFormat('ru', { day: '2-digit' }).format(date);
-    const id: any = {id: msg.id} as any;
+    const date = new Date(msg.date as string);
+    const year = new Intl.DateTimeFormat('ru', {year: 'numeric'}).format(date);
+    const month = new Intl.DateTimeFormat('ru', {month: 'short'}).format(date);
+    const day = new Intl.DateTimeFormat('ru', {day: '2-digit'}).format(date);
+    const timeShort = new Intl.DateTimeFormat('ru', {hour: '2-digit', minute: '2-digit'}).format(date);
+    const telegramHref = `https://t.me/${uezd}${+topicId ? `/${topicId}` : ''}/${msg.id}`;
 
-    return <>
-        <Card sx={{minWidth: 275}} className="message-card" raised={true}>
-            <>
-                {
-                    replyMessage ? <>
-                        <Link href={`#${msg.reply_to_message_id}`} className="reply-to-message-id">
-                            <div>Ответ на сообщение: {replyMessage.from}</div>
-                            <TextJoin className="truncate-long-text" text={replyMessage.text} />
-                        </Link>
-                    </> : <></>
-                }
-            </>
-            <CardContent {...id}>
-                <span className="message-top">
-                    <span>
-                        <Button size="small" aria-label="Информация по сообщению">
-                            <Link target="_blank" href={`https://t.me/${uezd}${+topicId ? `/${topicId}` : ''}/${msg.id}`}
-                                  title="Открыть оригинальную запись в телеграм группе">
-                                {msg.id}
-                            </Link>
-                        </Button>
-                        <Button size="small" aria-label="Автор сообщения" className={msg.from_id}>
-                            {msg.from || 'Удаленный Аккаунт'}
-                        </Button>
+    return (
+        <article className="message-card" id={String(msg.id)}>
+            <div className="message-bubble">
+                {replyMessage ? (
+                    <a href={`#${msg.reply_to_message_id}`} className="message-reply-quote">
+                        <span className="message-reply-quote__label">Ответ</span>
+                        <span className="message-reply-quote__author">{replyMessage.from || 'Удалённый аккаунт'}</span>
+                        <span className="message-reply-quote__text">{plainPreview(replyMessage.text)}</span>
+                    </a>
+                ) : null}
+                <header className="message-meta">
+                    <Link
+                        target="_blank"
+                        href={telegramHref}
+                        className="message-meta__id"
+                        title="Открыть в Telegram"
+                    >
+                        #{msg.id}
+                    </Link>
+                    <span className={`message-meta__author ${msg.from_id || ''}`}>{msg.from || 'Удалённый аккаунт'}</span>
+                    <time dateTime={msg.date} className="message-meta__time" title={`${day} ${month} ${year}`}>
+                        {timeShort}
+                    </time>
+                    <span className="message-meta__open" title="Оригинал в Telegram">
+                        <OriginalModal>
+                            <iframe id="telegram-post" src={`https://t.me/${uezd}/${msg.id}?embed=1`}/>
+                        </OriginalModal>
                     </span>
-                    <span>
-                        <time dateTime={msg.date} className="date-of-message">{`${day} ${month} ${year}`}</time>
-                        <Button size="small" aria-label="Информация по сообщению">
-                            <OriginalModal>
-                                <iframe id="telegram-post" src={`https://t.me/${uezd}/${msg.id}?embed=1`}></iframe>
-                            </OriginalModal>
-                        </Button>
-                    </span>
-                </span>
-                <TextJoin text={msg.text} tag="p" />
-            </CardContent>
-        </Card>
-    </>
-};
+                </header>
+                <div className="message-body">
+                    <TextJoin text={msg.text} tag="p"/>
+                </div>
+            </div>
+        </article>
+    );
+}
 
-const TextJoin = ({text, tag, className}: any) => {
+function plainPreview(text: unknown): string {
+    if (text == null) {
+        return '';
+    }
+    if (typeof text === 'string') {
+        return text;
+    }
+    if (!Array.isArray(text)) {
+        return '';
+    }
+    let s = '';
+    for (const part of text) {
+        if (typeof part === 'string') {
+            s += part;
+        } else if (part && typeof part === 'object' && 'text' in part && typeof (part as TextEntity).text === 'string') {
+            s += (part as TextEntity).text;
+        }
+    }
+    return s.replace(/\s+/g, ' ').trim();
+}
+
+const TextJoin = ({text, tag, className}: { text: any; tag?: string; className?: string }) => {
     let textString = '';
     if (Array.isArray(text)) {
         text.map((textEntity: TextEntity | string) => {
@@ -97,9 +113,9 @@ const TextJoin = ({text, tag, className}: any) => {
         textString = text;
     }
     const innerHtml = {__html: textString};
+    const baseClass = ['message-text', className].filter(Boolean).join(' ');
     if (tag === 'p') {
-    return <p className={className + ' message-text'} dangerouslySetInnerHTML={innerHtml} />
-    } else {
-        return <div className={className+ ' message-text'} dangerouslySetInnerHTML={innerHtml}/>
+        return <p className={baseClass} dangerouslySetInnerHTML={innerHtml}/>
     }
+    return <div className={baseClass} dangerouslySetInnerHTML={innerHtml}/>;
 };

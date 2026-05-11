@@ -1,6 +1,10 @@
+.topic-main .message-card {
+    padding: 0 10px;
+}
+
 @media (min-width: 600px) {
-    .message-card {
-        padding: 0 45px;
+    .topic-main .message-card {
+        padding: 0 16px 0 45px;
     }
     .static-navigation-bar {
         padding-left: 62px;
@@ -13,7 +17,8 @@
     }
 }
 
-main p {
+/* Сообщения оформляются в Message.css; здесь не трогаем параграфы внутри пузыря */
+main.topic-main > :not(.message-card) p {
     display: block;
     margin-top: 0;
     border-radius: 0 0 10px 10px;

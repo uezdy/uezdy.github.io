@@ -53,4 +53,16 @@ a:hover {
   height: 100%;
 }
 
+.original-modal-trigger {
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  border-radius: 4px;
+  padding: 2px;
+}
+
+.original-modal-trigger:hover {
+  background: rgba(25, 118, 210, 0.08);
+}
+
 

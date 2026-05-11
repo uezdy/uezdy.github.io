@@ -12,7 +12,9 @@ export default function OriginalModal({children}: any) {
 
     return (
         <div>
-            <span onClick={handleOpen}><TelegramIcon /></span>
+            <span onClick={handleOpen} className="original-modal-trigger" role="button" tabIndex={0}
+                  onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); handleOpen(); } }}
+                  aria-label="Открыть оригинал в Telegram"><TelegramIcon /></span>
             <Modal
                 open={open}
                 className="original-message-modal"
