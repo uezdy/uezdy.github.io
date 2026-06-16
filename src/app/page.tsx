@@ -31,6 +31,8 @@ export default function HomePage() {
             messages={messages}
             topics={topics}
             showTopics={showTopics}
+            chatHandle={exportState?.chat ?? 'telegram'}
+            isForum={exportState?.is_forum ?? false}
           />
         )}
       </div>

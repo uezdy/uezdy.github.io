@@ -20,10 +20,7 @@ function normalizeMessage(message: TelegramMessage): TelegramMessage {
 }
 
 export function getMessages(): TelegramMessage[] {
-  const messages = readJsonFile<TelegramMessage[]>(
-    'public/messages.json',
-    []
-  );
+  const messages = readJsonFile<TelegramMessage[]>('public/messages.json', []);
 
   return [...messages]
     .map(normalizeMessage)

@@ -93,11 +93,11 @@ STATE_PATH=data/export_state.json
 
 **Как указать группу в `TELEGRAM_CHAT`:**
 
-| Вариант | Пример |
-|---------|--------|
-| Публичная группа | `@my_group` |
-| Числовой id | `-1001234567890` |
-| Ссылка | `https://t.me/my_group` |
+| Вариант          | Пример                  |
+| ---------------- | ----------------------- |
+| Публичная группа | `@my_group`             |
+| Числовой id      | `-1001234567890`        |
+| Ссылка           | `https://t.me/my_group` |
 
 Для приватной группы без `@username` удобнее числовой id. Его можно узнать через бота вроде `@userinfobot` или из ссылки вида `t.me/c/1234567890/1` → id будет `-1001234567890`.
 
@@ -153,12 +153,12 @@ python scripts/export_telegram.py
 
 Добавьте secrets в **Settings → Secrets and variables → Actions**:
 
-| Secret | Описание |
-|--------|----------|
-| `TELEGRAM_API_ID` | API ID |
-| `TELEGRAM_API_HASH` | API Hash |
-| `TELEGRAM_SESSION` | String session из `create_session.py` |
-| `TELEGRAM_CHAT` | Группа/чат для экспорта |
+| Secret              | Описание                              |
+| ------------------- | ------------------------------------- |
+| `TELEGRAM_API_ID`   | API ID                                |
+| `TELEGRAM_API_HASH` | API Hash                              |
+| `TELEGRAM_SESSION`  | String session из `create_session.py` |
+| `TELEGRAM_CHAT`     | Группа/чат для экспорта               |
 
 Workflow `.github/workflows/export-telegram.yml`:
 
