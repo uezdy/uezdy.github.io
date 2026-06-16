@@ -161,7 +161,7 @@ python scripts/export_telegram.py
 
 Workflow `.github/workflows/export-telegram.yml`:
 
-- запускается по расписанию (ежедневно в 03:00 UTC);
+- запускается по расписанию (каждый понедельник в 03:00 UTC);
 - можно запустить вручную через **Actions → Export Telegram messages → Run workflow**;
 - коммитит обновлённый JSON, если появились новые сообщения.
 
