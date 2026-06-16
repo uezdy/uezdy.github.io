@@ -9,3 +9,7 @@ node_modules/
 out/
 public/messages.json
 public/export_state.json
+/.idea/.gitignore
+/.idea/modules.xml
+/.idea/uezdy.github.io.iml
+/.idea/vcs.xml
