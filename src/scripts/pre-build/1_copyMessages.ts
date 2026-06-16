@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import type { IScriptParams } from '../runner';
 
-const FILES = ['messages.json', 'export_state.json'] as const;
+const FILES = ['messages.json', 'export_state.json', 'topics.json'] as const;
 
 export default async function copyMessages(_params: IScriptParams) {
   const dataDir = path.join(process.cwd(), 'data');

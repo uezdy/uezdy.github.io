@@ -1,12 +1,14 @@
 import { ArchiveHeader } from '@/components/messages/ArchiveHeader';
-import { MessageItem } from '@/components/messages/MessageItem';
-import { MessageSearch } from '@/components/messages/MessageSearch';
+import { MessageArchive } from '@/components/messages/MessageArchive';
 import { getExportState, getMessages } from '@/lib/messages';
+import { getTopics, hasForumTopics } from '@/lib/topics';
 import styles from './page.module.css';
 
 export default function HomePage() {
   const messages = getMessages();
   const exportState = getExportState();
+  const topics = getTopics(messages);
+  const showTopics = hasForumTopics(messages) && topics.length > 0;
 
   return (
     <main className={styles.page}>
@@ -15,8 +17,6 @@ export default function HomePage() {
           exportState={exportState}
           messageCount={messages.length}
         />
-
-        <MessageSearch totalCount={messages.length} />
 
         {messages.length === 0 ? (
           <section className={styles.empty}>
@@ -27,11 +27,11 @@ export default function HomePage() {
             </p>
           </section>
         ) : (
-          <section className={styles.list} aria-label="Сообщения">
-            {messages.map((message) => (
-              <MessageItem key={message.id} message={message} />
-            ))}
-          </section>
+          <MessageArchive
+            messages={messages}
+            topics={topics}
+            showTopics={showTopics}
+          />
         )}
       </div>
     </main>

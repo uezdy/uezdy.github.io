@@ -22,6 +22,12 @@ export function ArchiveHeader({
           <dt>Сообщений</dt>
           <dd>{messageCount}</dd>
         </div>
+        {exportState?.is_forum ? (
+          <div>
+            <dt>Тем</dt>
+            <dd>{exportState.topic_count ?? '—'}</dd>
+          </div>
+        ) : null}
         <div>
           <dt>Последний id</dt>
           <dd>{exportState?.last_message_id ?? '—'}</dd>
