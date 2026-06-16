@@ -13,10 +13,26 @@ from dotenv import load_dotenv
 from telethon import TelegramClient
 from telethon.sessions import StringSession
 from telethon.tl.functions.messages import GetForumTopicsRequest
+from telethon.helpers import add_surrogate, del_surrogate
 from telethon.tl.types import (
     ForumTopic,
     Message,
     MessageActionTopicCreate,
+    MessageEntityBold,
+    MessageEntityBotCommand,
+    MessageEntityCashtag,
+    MessageEntityCode,
+    MessageEntityEmail,
+    MessageEntityHashtag,
+    MessageEntityItalic,
+    MessageEntityMention,
+    MessageEntityMentionName,
+    MessageEntityPhone,
+    MessageEntityPre,
+    MessageEntityStrike,
+    MessageEntityTextUrl,
+    MessageEntityUnderline,
+    MessageEntityUrl,
 )
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
@@ -32,6 +48,114 @@ def require_env(name: str) -> str:
 
 
 GENERAL_TOPIC_ID = 1
+
+ENTITY_TYPE_BY_CLASS: dict[type, str] = {
+    MessageEntityBold: "bold",
+    MessageEntityItalic: "italic",
+    MessageEntityUnderline: "underline",
+    MessageEntityStrike: "strikethrough",
+    MessageEntityCode: "code",
+    MessageEntityPre: "pre",
+    MessageEntityTextUrl: "text_link",
+    MessageEntityUrl: "link",
+    MessageEntityMention: "mention",
+    MessageEntityMentionName: "mention_name",
+    MessageEntityHashtag: "hashtag",
+    MessageEntityCashtag: "cashtag",
+    MessageEntityBotCommand: "bot_command",
+    MessageEntityEmail: "email",
+    MessageEntityPhone: "phone",
+}
+
+
+def map_entity_type(entity) -> str:
+    for cls, name in ENTITY_TYPE_BY_CLASS.items():
+        if isinstance(entity, cls):
+            return name
+    return "plain"
+
+
+def serialize_entities(message: Message) -> list[dict]:
+    text = message.message or ""
+    entities = message.entities or []
+
+    if not text:
+        return []
+
+    if not entities:
+        return [{"type": "plain", "text": text}]
+
+    surrogate_text = add_surrogate(text)
+    segments: list[dict] = []
+    last_end = 0
+
+    for entity in sorted(entities, key=lambda item: item.offset):
+        start = entity.offset
+        end = entity.offset + entity.length
+
+        if start > last_end:
+            plain_text = del_surrogate(surrogate_text[last_end:start])
+            if plain_text:
+                segments.append({"type": "plain", "text": plain_text})
+
+        segment_text = del_surrogate(surrogate_text[start:end])
+        if not segment_text:
+            last_end = max(last_end, end)
+            continue
+
+        segment: dict = {
+            "type": map_entity_type(entity),
+            "text": segment_text,
+        }
+
+        if isinstance(entity, MessageEntityTextUrl):
+            segment["href"] = entity.url
+        elif isinstance(entity, MessageEntityMentionName):
+            segment["user_id"] = entity.user_id
+        elif isinstance(entity, MessageEntityPre) and entity.language:
+            segment["language"] = entity.language
+
+        segments.append(segment)
+        last_end = end
+
+    if last_end < len(surrogate_text):
+        tail = del_surrogate(surrogate_text[last_end:])
+        if tail:
+            segments.append({"type": "plain", "text": tail})
+
+    return segments
+
+
+async def get_sender_name(message: Message) -> str | None:
+    if message.post_author:
+        return message.post_author
+
+    try:
+        sender = await message.get_sender()
+    except Exception:
+        return None
+
+    if sender is None:
+        return None
+
+    title = getattr(sender, "title", None)
+    if title:
+        return title
+
+    parts = [
+        part
+        for part in (
+            getattr(sender, "first_name", None),
+            getattr(sender, "last_name", None),
+        )
+        if part
+    ]
+    full_name = " ".join(parts).strip()
+    if full_name:
+        return full_name
+
+    username = getattr(sender, "username", None)
+    return f"@{username}" if username else None
 
 
 def get_topic_id(message: Message, is_forum: bool) -> int | None:
@@ -49,7 +173,7 @@ def get_topic_id(message: Message, is_forum: bool) -> int | None:
     return GENERAL_TOPIC_ID
 
 
-def message_to_dict(message: Message, is_forum: bool) -> dict:
+async def message_to_dict(message: Message, is_forum: bool) -> dict:
     media_type = None
     if message.media:
         media_type = type(message.media).__name__
@@ -58,7 +182,9 @@ def message_to_dict(message: Message, is_forum: bool) -> dict:
         "id": message.id,
         "date": message.date.isoformat() if message.date else None,
         "sender_id": message.sender_id,
+        "sender_name": await get_sender_name(message),
         "text": message.message or "",
+        "entities": serialize_entities(message),
         "reply_to": message.reply_to_msg_id,
         "topic_id": get_topic_id(message, is_forum),
         "has_media": bool(message.media),
@@ -151,16 +277,20 @@ async def export_messages() -> None:
     needs_topic_backfill = is_forum and any(
         item.get("topic_id") is None for item in existing_messages
     )
+    needs_metadata_backfill = any(
+        "entities" not in item or "sender_name" not in item
+        for item in existing_messages
+    )
 
     fetched: list[dict] = []
-    if last_message_id and not needs_topic_backfill:
+    if last_message_id and not needs_topic_backfill and not needs_metadata_backfill:
         async for message in client.iter_messages(chat, min_id=last_message_id):
             if isinstance(message, Message):
-                fetched.append(message_to_dict(message, is_forum))
+                fetched.append(await message_to_dict(message, is_forum))
     else:
         async for message in client.iter_messages(chat):
             if isinstance(message, Message):
-                fetched.append(message_to_dict(message, is_forum))
+                fetched.append(await message_to_dict(message, is_forum))
 
     fetched_topics = await fetch_forum_topics(client, entity)
 

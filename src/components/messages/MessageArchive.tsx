@@ -3,6 +3,7 @@
 import { useMemo, useState } from 'react';
 import { GENERAL_TOPIC_ID, type TopicWithCount } from '@/lib/topicConstants';
 import { buildSearchText } from '@/lib/search';
+import { getMessagePlainText } from '@/lib/messageText';
 import type { TelegramMessage } from '@/types/telegram';
 import { MessageItem } from './MessageItem';
 import { TopicsSidebar } from './TopicsSidebar';
@@ -21,7 +22,7 @@ function resolveMessageTopicId(message: TelegramMessage): number {
 }
 
 function hasDisplayText(message: TelegramMessage): boolean {
-  return message.text.trim().length > 0;
+  return getMessagePlainText(message).trim().length > 0;
 }
 
 export function MessageArchive({

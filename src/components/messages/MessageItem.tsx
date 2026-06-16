@@ -2,7 +2,8 @@ import {
   formatMessageDateTooltip,
   formatMessageTimeShort,
 } from '@/lib/dateFormat';
-import { formatSenderLabel, plainPreview } from '@/lib/messageText';
+import { MessageText } from '@/lib/messageEntities';
+import { formatSenderLabel, plainPreviewFromMessage } from '@/lib/messageText';
 import { buildTelegramMessageUrl } from '@/lib/telegramChat';
 import type { TelegramMessage } from '@/types/telegram';
 import styles from './MessageItem.module.css';
@@ -36,10 +37,13 @@ export function MessageItem({
           <a href={`#${message.reply_to}`} className={styles.replyQuote}>
             <span className={styles.replyLabel}>Ответ</span>
             <span className={styles.replyAuthor}>
-              {formatSenderLabel(replyMessage.sender_id)}
+              {formatSenderLabel(
+                replyMessage.sender_name,
+                replyMessage.sender_id
+              )}
             </span>
             <span className={styles.replyText}>
-              {plainPreview(replyMessage.text)}
+              {plainPreviewFromMessage(replyMessage)}
             </span>
           </a>
         ) : null}
@@ -55,7 +59,7 @@ export function MessageItem({
             #{message.id}
           </a>
           <span className={styles.metaAuthor}>
-            {formatSenderLabel(message.sender_id)}
+            {formatSenderLabel(message.sender_name, message.sender_id)}
           </span>
           <time
             dateTime={message.date ?? undefined}
@@ -87,7 +91,7 @@ export function MessageItem({
         </header>
 
         <div className={styles.body}>
-          <p className={styles.text}>{message.text}</p>
+          <MessageText entities={message.entities} className={styles.text} />
         </div>
       </div>
     </article>
