@@ -1,6 +1,10 @@
 import fs from 'fs';
 import path from 'path';
-import type { ExportState, TelegramMessage } from '@/types/telegram';
+import type {
+  ExportState,
+  TelegramMessage,
+  TextEntity,
+} from '@/types/telegram';
 
 function readJsonFile<T>(relativePath: string, fallback: T): T {
   const filePath = path.join(process.cwd(), relativePath);
@@ -12,10 +16,25 @@ function readJsonFile<T>(relativePath: string, fallback: T): T {
   return JSON.parse(fs.readFileSync(filePath, 'utf-8')) as T;
 }
 
+function buildFallbackEntities(text: string): TextEntity[] {
+  if (!text) {
+    return [];
+  }
+
+  return [{ type: 'plain', text }];
+}
+
 function normalizeMessage(message: TelegramMessage): TelegramMessage {
+  const entities =
+    message.entities && message.entities.length > 0
+      ? message.entities
+      : buildFallbackEntities(message.text);
+
   return {
     ...message,
     topic_id: message.topic_id ?? null,
+    sender_name: message.sender_name ?? null,
+    entities,
   };
 }
 

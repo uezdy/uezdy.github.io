@@ -1,8 +1,18 @@
+export type TextEntity = {
+  type: string;
+  text: string;
+  href?: string;
+  language?: string;
+  user_id?: number;
+};
+
 export type TelegramMessage = {
   id: number;
   date: string | null;
   sender_id: number | null;
+  sender_name: string | null;
   text: string;
+  entities: TextEntity[];
   reply_to: number | null;
   topic_id: number | null;
   has_media: boolean;
