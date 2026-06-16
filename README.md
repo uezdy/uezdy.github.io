@@ -1,4 +1,4 @@
-# uezdy.github.io
+# uezdy.github.io project
 
 Экспорт сообщений Telegram-группы в JSON и публикация полной истории на
 GitHub Pages через Next.js (SSG).
