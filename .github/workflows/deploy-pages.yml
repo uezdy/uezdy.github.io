@@ -4,6 +4,13 @@ on:
   push:
     branches:
       - new-approach
+  workflow_run:
+    workflows:
+      - Export Telegram messages
+    types:
+      - completed
+    branches:
+      - new-approach
   workflow_dispatch:
 
 permissions:
@@ -17,9 +24,30 @@ concurrency:
 
 jobs:
   build:
+    if: >-
+      github.event_name != 'workflow_run' ||
+      github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Export Telegram messages
+        env:
+          TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+          TELEGRAM_SESSION: ${{ secrets.TELEGRAM_SESSION }}
+          TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
+          OUTPUT_PATH: data/messages.json
+          STATE_PATH: data/export_state.json
+        run: |
+          pip install -r requirements.txt
+          python scripts/export_telegram.py
 
       - uses: actions/setup-node@v4
         with:

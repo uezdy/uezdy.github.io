@@ -198,6 +198,8 @@ npm run build
 Workflow `.github/workflows/deploy-pages.yml`:
 
 - запускается после push в `new-approach`;
+- запускается после успешного `Export Telegram messages`;
+- перед сборкой **экспортирует сообщения** (чтобы сайт не был пустым);
 - собирает статический Next.js сайт;
 - публикует содержимое `out/` в GitHub Pages.
 
@@ -205,6 +207,9 @@ Workflow `.github/workflows/deploy-pages.yml`:
 
 1. **Settings → Pages**
 2. **Source: GitHub Actions**
+
+Если на сайте пусто — перезапустите **Deploy GitHub Pages** вручную
+(**Actions → Deploy GitHub Pages → Run workflow**).
 
 ## Формат JSON
 
