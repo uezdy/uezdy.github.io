@@ -6,7 +6,7 @@ on:
       - new-approach
   schedule:
     # Every Monday at 03:00 UTC
-    - cron: "0 3 * * 1"
+    - cron: '0 3 * * 1'
   workflow_run:
     workflows:
       - Export Telegram messages

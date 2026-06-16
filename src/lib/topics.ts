@@ -1,9 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import {
-  GENERAL_TOPIC_ID,
-  type TopicWithCount,
-} from '@/lib/topicConstants';
+import { GENERAL_TOPIC_ID, type TopicWithCount } from '@/lib/topicConstants';
 import type { TelegramMessage, TelegramTopic } from '@/types/telegram';
 
 export { GENERAL_TOPIC_ID, type TopicWithCount } from '@/lib/topicConstants';
@@ -18,7 +15,10 @@ function readJsonFile<T>(relativePath: string, fallback: T): T {
   return JSON.parse(fs.readFileSync(filePath, 'utf-8')) as T;
 }
 
-function resolveTopicTitle(topicId: number, titles: Map<number, string>): string {
+function resolveTopicTitle(
+  topicId: number,
+  titles: Map<number, string>
+): string {
   if (titles.has(topicId)) {
     return titles.get(topicId)!;
   }
@@ -30,7 +30,9 @@ function resolveTopicTitle(topicId: number, titles: Map<number, string>): string
   return `Тема #${topicId}`;
 }
 
-function countMessagesByTopic(messages: TelegramMessage[]): Map<number, number> {
+function countMessagesByTopic(
+  messages: TelegramMessage[]
+): Map<number, number> {
   const counts = new Map<number, number>();
 
   for (const message of messages) {
@@ -42,8 +44,13 @@ function countMessagesByTopic(messages: TelegramMessage[]): Map<number, number> 
 }
 
 export function getTopics(messages: TelegramMessage[]): TopicWithCount[] {
-  const exportedTopics = readJsonFile<TelegramTopic[]>('public/topics.json', []);
-  const titles = new Map(exportedTopics.map((topic) => [topic.id, topic.title]));
+  const exportedTopics = readJsonFile<TelegramTopic[]>(
+    'public/topics.json',
+    []
+  );
+  const titles = new Map(
+    exportedTopics.map((topic) => [topic.id, topic.title])
+  );
   const counts = countMessagesByTopic(messages);
   const topicIds = new Set<number>([
     ...counts.keys(),

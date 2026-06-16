@@ -2,6 +2,7 @@
 
 import { useMemo, useState } from 'react';
 import { GENERAL_TOPIC_ID, type TopicWithCount } from '@/lib/topicConstants';
+import { buildSearchText } from '@/lib/search';
 import type { TelegramMessage } from '@/types/telegram';
 import { MessageItem } from './MessageItem';
 import { TopicsSidebar } from './TopicsSidebar';
@@ -11,22 +12,24 @@ type MessageArchiveProps = {
   messages: TelegramMessage[];
   topics: TopicWithCount[];
   showTopics: boolean;
+  chatHandle: string;
+  isForum: boolean;
 };
-
-function buildSearchText(message: TelegramMessage): string {
-  return [message.text, String(message.sender_id ?? ''), String(message.id)]
-    .join(' ')
-    .toLowerCase();
-}
 
 function resolveMessageTopicId(message: TelegramMessage): number {
   return message.topic_id ?? GENERAL_TOPIC_ID;
+}
+
+function hasDisplayText(message: TelegramMessage): boolean {
+  return message.text.trim().length > 0;
 }
 
 export function MessageArchive({
   messages,
   topics,
   showTopics,
+  chatHandle,
+  isForum,
 }: MessageArchiveProps) {
   const [selectedTopicId, setSelectedTopicId] = useState(
     topics[0]?.id ?? GENERAL_TOPIC_ID
@@ -35,14 +38,24 @@ export function MessageArchive({
 
   const normalizedQuery = query.trim().toLowerCase();
 
-  const topicMessages = useMemo(() => {
-    if (!showTopics) {
-      return messages;
+  const replyPool = useMemo(() => {
+    const pool = new Map<number, TelegramMessage>();
+
+    for (const message of messages) {
+      pool.set(message.id, message);
     }
 
-    return messages.filter(
-      (message) => resolveMessageTopicId(message) === selectedTopicId
-    );
+    return pool;
+  }, [messages]);
+
+  const topicMessages = useMemo(() => {
+    const scopedMessages = showTopics
+      ? messages.filter(
+          (message) => resolveMessageTopicId(message) === selectedTopicId
+        )
+      : messages;
+
+    return scopedMessages.filter(hasDisplayText);
   }, [messages, selectedTopicId, showTopics]);
 
   const visibleMessages = useMemo(() => {
@@ -85,7 +98,7 @@ export function MessageArchive({
               ? `Найдено: ${visibleMessages.length} из ${topicMessages.length}`
               : showTopics && selectedTopic
                 ? `${selectedTopic.title}: ${topicMessages.length} сообщений`
-                : `Всего сообщений: ${messages.length}`}
+                : `Всего сообщений: ${topicMessages.length}`}
           </p>
         </section>
 
@@ -100,7 +113,18 @@ export function MessageArchive({
             </div>
           ) : (
             visibleMessages.map((message) => (
-              <MessageItem key={message.id} message={message} />
+              <MessageItem
+                key={message.id}
+                message={message}
+                replyMessage={
+                  message.reply_to
+                    ? (replyPool.get(message.reply_to) ?? null)
+                    : null
+                }
+                chatHandle={chatHandle}
+                topicId={showTopics ? selectedTopicId : null}
+                isForum={isForum}
+              />
             ))
           )}
         </section>
