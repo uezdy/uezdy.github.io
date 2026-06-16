@@ -1,6 +1,7 @@
 # uezdy.github.io
 
-Экспорт сообщений Telegram-группы в JSON. Один скрипт работает локально и в GitHub Actions.
+Экспорт сообщений Telegram-группы в JSON и публикация полной истории на
+GitHub Pages через Next.js (SSG).
 
 ## Локальный запуск
 
@@ -161,9 +162,49 @@ python scripts/export_telegram.py
 
 Workflow `.github/workflows/export-telegram.yml`:
 
+- запускается после каждого push в ветку `new-approach`;
 - запускается по расписанию (каждый понедельник в 03:00 UTC);
 - можно запустить вручную через **Actions → Export Telegram messages → Run workflow**;
 - коммитит обновлённый JSON, если появились новые сообщения.
+
+## Веб-интерфейс (Next.js + SSG)
+
+Архив рендерится статически (SSG) и публикуется на GitHub Pages.
+
+### Локальный запуск сайта
+
+```powershell
+cd C:\Users\Lenovo\WebstormProjects\uezdy.github.io
+npm install
+npm run dev
+```
+
+Откройте `http://localhost:4002`.
+
+### Локальная production-сборка
+
+```powershell
+npm run build
+```
+
+Во время сборки запускается prebuild-скрипт:
+
+- копирует `data/messages.json` → `public/messages.json`;
+- копирует `data/export_state.json` → `public/export_state.json`;
+- Next.js генерирует статические страницы в `out/`.
+
+### Деплой на GitHub Pages
+
+Workflow `.github/workflows/deploy-pages.yml`:
+
+- запускается после push в `new-approach`;
+- собирает статический Next.js сайт;
+- публикует содержимое `out/` в GitHub Pages.
+
+Чтобы публикация работала, в репозитории включите:
+
+1. **Settings → Pages**
+2. **Source: GitHub Actions**
 
 ## Формат JSON
 

@@ -1,0 +1,35 @@
+.searchPanel {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: var(--surface);
+}
+
+.label {
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.input {
+  width: 100%;
+  padding: 0.75rem 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--background);
+  color: var(--text);
+  font: inherit;
+}
+
+.input:focus {
+  outline: 2px solid rgb(37 99 235 / 25%);
+  border-color: var(--accent);
+}
+
+.counter {
+  margin: 0;
+  font-size: 0.875rem;
+  color: var(--text-muted);
+}
