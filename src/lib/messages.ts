@@ -28,7 +28,10 @@ function normalizeMessage(message: TelegramMessage): TelegramMessage {
   };
 }
 
-export function getMessages(groupSlug: string): TelegramMessage[] {
+const messagesCache = new Map<string, TelegramMessage[]>();
+const exportStateCache = new Map<string, ExportState | null>();
+
+function loadMessages(groupSlug: string): TelegramMessage[] {
   const messages = readJsonFile<TelegramMessage[]>(
     getGroupDataPath(groupSlug, 'messages.json'),
     []
@@ -39,9 +42,31 @@ export function getMessages(groupSlug: string): TelegramMessage[] {
     .sort((left, right) => left.id - right.id);
 }
 
+export function getMessages(groupSlug: string): TelegramMessage[] {
+  const cached = messagesCache.get(groupSlug);
+
+  if (cached) {
+    return cached;
+  }
+
+  const messages = loadMessages(groupSlug);
+  messagesCache.set(groupSlug, messages);
+
+  return messages;
+}
+
 export function getExportState(groupSlug: string): ExportState | null {
-  return readJsonFile<ExportState | null>(
+  const cached = exportStateCache.get(groupSlug);
+
+  if (cached !== undefined) {
+    return cached;
+  }
+
+  const exportState = readJsonFile<ExportState | null>(
     getGroupDataPath(groupSlug, 'export_state.json'),
     null
   );
+  exportStateCache.set(groupSlug, exportState);
+
+  return exportState;
 }

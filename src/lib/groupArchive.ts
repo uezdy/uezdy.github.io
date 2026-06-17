@@ -20,9 +20,9 @@ export type GroupArchiveContext = {
   showTopics: boolean;
 };
 
-export function getGroupArchiveContext(
-  slug: string
-): GroupArchiveContext | null {
+const groupArchiveContextCache = new Map<string, GroupArchiveContext | null>();
+
+function loadGroupArchiveContext(slug: string): GroupArchiveContext | null {
   const group = getGroup(slug);
 
   if (!group) {
@@ -43,6 +43,21 @@ export function getGroupArchiveContext(
     topics,
     showTopics,
   };
+}
+
+export function getGroupArchiveContext(
+  slug: string
+): GroupArchiveContext | null {
+  const cached = groupArchiveContextCache.get(slug);
+
+  if (cached !== undefined) {
+    return cached;
+  }
+
+  const context = loadGroupArchiveContext(slug);
+  groupArchiveContextCache.set(slug, context);
+
+  return context;
 }
 
 export function getGroupMessagePageParams(): { group: string; page: string }[] {
