@@ -1,0 +1,23 @@
+.layoutWithSidebar {
+  display: grid;
+  grid-template-columns: minmax(220px, 280px) minmax(0, 1fr);
+  gap: 1.25rem;
+  align-items: start;
+}
+
+.layoutPlain {
+  display: block;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  min-width: 0;
+}
+
+@media (max-width: 860px) {
+  .layoutWithSidebar {
+    grid-template-columns: 1fr;
+  }
+}
