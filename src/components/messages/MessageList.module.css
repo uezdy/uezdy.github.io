@@ -1,0 +1,18 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.empty {
+  padding: 2rem 1.25rem;
+  border: 1px dashed var(--border);
+  border-radius: 16px;
+  background: var(--surface);
+  text-align: center;
+}
+
+.empty p {
+  margin: 0;
+  color: var(--text-muted);
+}

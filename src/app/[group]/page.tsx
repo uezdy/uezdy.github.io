@@ -2,10 +2,12 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { ArchiveHeader } from '@/components/messages/ArchiveHeader';
-import { MessageArchive } from '@/components/messages/MessageArchive';
-import { getGroup, getGroups, resolveGroupTitle } from '@/lib/groups';
-import { getExportState, getMessages } from '@/lib/messages';
-import { getTopics, hasForumTopics } from '@/lib/topics';
+import { GroupTopicsList } from '@/components/messages/GroupTopicsList';
+import { getGroupArchiveContext } from '@/lib/groupArchive';
+import { getGroups } from '@/lib/groups';
+import { groupMessagesPagePath } from '@/lib/groupRoutes';
+import { getDisplayableMessages } from '@/lib/messageFilters';
+import { getTotalPages } from '@/lib/pagination';
 import styles from './page.module.css';
 
 type GroupPageProps = {
@@ -20,33 +22,28 @@ export async function generateMetadata({
   params,
 }: GroupPageProps): Promise<Metadata> {
   const { group: slug } = await params;
-  const group = getGroup(slug);
+  const context = getGroupArchiveContext(slug);
 
-  if (!group) {
+  if (!context) {
     return { title: 'Группа не найдена' };
   }
 
-  const title = resolveGroupTitle(group);
-
   return {
-    title: `${title} — Telegram Archive`,
-    description: `Архив сообщений группы ${group.chat}`,
+    title: `${context.title} — Telegram Archive`,
+    description: `Архив сообщений группы ${context.group.chat}`,
   };
 }
 
 export default async function GroupPage({ params }: GroupPageProps) {
   const { group: slug } = await params;
-  const group = getGroup(slug);
+  const context = getGroupArchiveContext(slug);
 
-  if (!group) {
+  if (!context) {
     notFound();
   }
 
-  const messages = getMessages(slug);
-  const exportState = getExportState(slug);
-  const topics = getTopics(slug, messages);
-  const showTopics = hasForumTopics(messages) && topics.length > 0;
-  const title = resolveGroupTitle(group);
+  const displayableCount = getDisplayableMessages(context.messages).length;
+  const totalPages = getTotalPages(displayableCount);
 
   return (
     <main className={styles.page}>
@@ -56,12 +53,12 @@ export default async function GroupPage({ params }: GroupPageProps) {
         </Link>
 
         <ArchiveHeader
-          title={title}
-          exportState={exportState}
-          messageCount={messages.length}
+          title={context.title}
+          exportState={context.exportState}
+          messageCount={displayableCount}
         />
 
-        {messages.length === 0 ? (
+        {displayableCount === 0 ? (
           <section className={styles.empty}>
             <h2>Архив пока пуст</h2>
             <p>
@@ -69,14 +66,22 @@ export default async function GroupPage({ params }: GroupPageProps) {
               сообщения.
             </p>
           </section>
+        ) : context.showTopics ? (
+          <GroupTopicsList groupSlug={context.slug} topics={context.topics} />
         ) : (
-          <MessageArchive
-            messages={messages}
-            topics={topics}
-            showTopics={showTopics}
-            chatHandle={exportState?.chat ?? group.chat}
-            isForum={exportState?.is_forum ?? false}
-          />
+          <section className={styles.entry}>
+            <h2 className={styles.entryTitle}>Сообщения</h2>
+            <p className={styles.entryMeta}>
+              {displayableCount} сообщений
+              {totalPages > 1 ? ` · ${totalPages} стр.` : ''}
+            </p>
+            <Link
+              className={styles.entryLink}
+              href={groupMessagesPagePath(context.slug, 1)}
+            >
+              Открыть архив
+            </Link>
+          </section>
         )}
       </div>
     </main>

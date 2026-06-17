@@ -1,0 +1,71 @@
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: var(--surface);
+}
+
+.edgeLink {
+  color: var(--accent);
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.edgeLink:hover {
+  text-decoration: underline;
+}
+
+.edgeLinkDisabled {
+  color: var(--text-subtle);
+  font-size: 0.95rem;
+}
+
+.pages {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.pageLink,
+.currentPage,
+.ellipsis {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2rem;
+  min-height: 2rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 8px;
+  font-size: 0.9rem;
+}
+
+.pageLink {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.pageLink:hover {
+  background: rgb(37 99 235 / 8%);
+  color: var(--accent);
+}
+
+.currentPage {
+  background: rgb(37 99 235 / 12%);
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.ellipsis {
+  color: var(--text-subtle);
+}

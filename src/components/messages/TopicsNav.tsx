@@ -1,35 +1,36 @@
+import Link from 'next/link';
+import { topicMessagesPagePath } from '@/lib/groupRoutes';
 import type { TopicWithCount } from '@/lib/topicConstants';
-import styles from './TopicsSidebar.module.css';
+import styles from './TopicsNav.module.css';
 
-type TopicsSidebarProps = {
+type TopicsNavProps = {
+  groupSlug: string;
   topics: TopicWithCount[];
-  selectedTopicId: number;
-  onSelectTopic: (topicId: number) => void;
+  activeTopicId: number;
 };
 
-export function TopicsSidebar({
+export function TopicsNav({
+  groupSlug,
   topics,
-  selectedTopicId,
-  onSelectTopic,
-}: TopicsSidebarProps) {
+  activeTopicId,
+}: TopicsNavProps) {
   return (
     <aside className={styles.sidebar} aria-label="Темы группы">
       <h2 className={styles.title}>Темы</h2>
       <ul className={styles.list}>
         {topics.map((topic) => {
-          const isActive = topic.id === selectedTopicId;
+          const isActive = topic.id === activeTopicId;
 
           return (
             <li key={topic.id}>
-              <button
-                type="button"
-                className={`${styles.topicButton} ${isActive ? styles.topicButtonActive : ''}`}
-                aria-current={isActive ? 'true' : undefined}
-                onClick={() => onSelectTopic(topic.id)}
+              <Link
+                className={`${styles.topicLink} ${isActive ? styles.topicLinkActive : ''}`}
+                href={topicMessagesPagePath(groupSlug, topic.id, 1)}
+                aria-current={isActive ? 'page' : undefined}
               >
                 <span className={styles.topicTitle}>{topic.title}</span>
                 <span className={styles.topicCount}>{topic.message_count}</span>
-              </button>
+              </Link>
             </li>
           );
         })}

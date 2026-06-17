@@ -1,0 +1,17 @@
+.summary {
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: var(--surface);
+}
+
+.summaryText {
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+.summaryLabel {
+  color: var(--text-subtle);
+  font-weight: 600;
+}
