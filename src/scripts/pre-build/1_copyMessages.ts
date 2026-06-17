@@ -2,7 +2,42 @@ import fs from 'fs';
 import path from 'path';
 import type { IScriptParams } from '../runner';
 
-const FILES = ['messages.json', 'export_state.json', 'topics.json'] as const;
+const GROUP_FILES = [
+  'messages.json',
+  'export_state.json',
+  'topics.json',
+] as const;
+
+function copyGroupData(dataDir: string, publicDir: string) {
+  const groupsSourceDir = path.join(dataDir, 'groups');
+  const groupsTargetDir = path.join(publicDir, 'groups');
+
+  if (!fs.existsSync(groupsSourceDir)) {
+    console.warn(`Prebuild: missing ${groupsSourceDir}`);
+    return;
+  }
+
+  for (const slug of fs.readdirSync(groupsSourceDir, { withFileTypes: true })) {
+    if (!slug.isDirectory()) {
+      continue;
+    }
+
+    const targetGroupDir = path.join(groupsTargetDir, slug.name);
+    fs.mkdirSync(targetGroupDir, { recursive: true });
+
+    for (const file of GROUP_FILES) {
+      const sourcePath = path.join(groupsSourceDir, slug.name, file);
+      const targetPath = path.join(targetGroupDir, file);
+
+      if (!fs.existsSync(sourcePath)) {
+        continue;
+      }
+
+      fs.copyFileSync(sourcePath, targetPath);
+      console.log(`Prebuild: copied groups/${slug.name}/${file}`);
+    }
+  }
+}
 
 export default async function copyMessages(_params: IScriptParams) {
   const dataDir = path.join(process.cwd(), 'data');
@@ -10,16 +45,15 @@ export default async function copyMessages(_params: IScriptParams) {
 
   fs.mkdirSync(publicDir, { recursive: true });
 
-  for (const file of FILES) {
-    const sourcePath = path.join(dataDir, file);
-    const targetPath = path.join(publicDir, file);
+  const manifestPath = path.join(dataDir, 'groups.json');
+  const manifestTargetPath = path.join(publicDir, 'groups.json');
 
-    if (!fs.existsSync(sourcePath)) {
-      console.warn(`Prebuild: missing ${sourcePath}`);
-      continue;
-    }
-
-    fs.copyFileSync(sourcePath, targetPath);
-    console.log(`Prebuild: copied ${file}`);
+  if (fs.existsSync(manifestPath)) {
+    fs.copyFileSync(manifestPath, manifestTargetPath);
+    console.log('Prebuild: copied groups.json');
+  } else {
+    console.warn(`Prebuild: missing ${manifestPath}`);
   }
+
+  copyGroupData(dataDir, publicDir);
 }

@@ -32,3 +32,20 @@ export type ExportState = {
   is_forum: boolean;
   exported_at: string;
 };
+
+export type TelegramGroupConfig = {
+  slug: string;
+  chat: string;
+  title?: string;
+};
+
+export type GroupsManifest = {
+  groups: TelegramGroupConfig[];
+};
+
+export type GroupSummary = TelegramGroupConfig & {
+  messageCount: number;
+  topicCount: number;
+  isForum: boolean;
+  exportedAt: string | null;
+};

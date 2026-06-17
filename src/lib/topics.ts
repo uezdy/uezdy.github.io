@@ -1,19 +1,9 @@
-import fs from 'fs';
-import path from 'path';
+import { getGroupDataPath } from '@/lib/groups';
+import { readJsonFile } from '@/lib/readJson';
 import { GENERAL_TOPIC_ID, type TopicWithCount } from '@/lib/topicConstants';
 import type { TelegramMessage, TelegramTopic } from '@/types/telegram';
 
 export { GENERAL_TOPIC_ID, type TopicWithCount } from '@/lib/topicConstants';
-
-function readJsonFile<T>(relativePath: string, fallback: T): T {
-  const filePath = path.join(process.cwd(), relativePath);
-
-  if (!fs.existsSync(filePath)) {
-    return fallback;
-  }
-
-  return JSON.parse(fs.readFileSync(filePath, 'utf-8')) as T;
-}
 
 function resolveTopicTitle(
   topicId: number,
@@ -43,9 +33,12 @@ function countMessagesByTopic(
   return counts;
 }
 
-export function getTopics(messages: TelegramMessage[]): TopicWithCount[] {
+export function getTopics(
+  groupSlug: string,
+  messages: TelegramMessage[]
+): TopicWithCount[] {
   const exportedTopics = readJsonFile<TelegramTopic[]>(
-    'public/topics.json',
+    getGroupDataPath(groupSlug, 'topics.json'),
     []
   );
   const titles = new Map(

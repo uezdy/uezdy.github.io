@@ -7,8 +7,8 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: 'Telegram Archive',
-  description: 'Архив сообщений Telegram-группы',
+  title: 'Telegram Archives',
+  description: 'Архивы сообщений Telegram-групп для индексации поисковыми системами',
 };
 
 export default function RootLayout({
