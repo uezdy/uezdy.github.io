@@ -3,7 +3,10 @@ import { MessagesPageLayout } from '@/components/messages/MessagesPageLayout';
 import { PaginationNav } from '@/components/messages/PaginationNav';
 import { TopicsNav } from '@/components/messages/TopicsNav';
 import type { GroupArchiveContext } from '@/lib/groupArchive';
-import { getDisplayableMessages } from '@/lib/messageFilters';
+import {
+  buildReplyPoolForPage,
+  getDisplayableMessages,
+} from '@/lib/messageFilters';
 import { getTotalPages, slicePage } from '@/lib/pagination';
 import styles from './MessagesArchiveView.module.css';
 
@@ -70,7 +73,7 @@ export function MessagesArchiveView({
 
       <MessageList
         messages={pageMessages}
-        replyPool={displayable}
+        replyPool={buildReplyPoolForPage(pageMessages, displayable)}
         chatHandle={chatHandle}
         topicId={topicId ?? null}
         isForum={isForum}

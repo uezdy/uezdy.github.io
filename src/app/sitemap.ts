@@ -4,7 +4,7 @@ import {
   getGroupMessagePageParams,
   getTopicMessagePageParams,
 } from '@/lib/groupArchive';
-import { getGroupSummaries } from '@/lib/groups';
+import { getGroupSummaries, getGroups } from '@/lib/groups';
 import {
   groupMessagesPagePath,
   groupOverviewPath,
@@ -42,12 +42,25 @@ function buildGroupEntry(
   };
 }
 
-function buildMessagePageEntries(): MetadataRoute.Sitemap {
-  return getGroupMessagePageParams().map(({ group, page }) => {
-    const context = getGroupArchiveContext(group);
+function buildGroupLastModifiedMap(): Map<string, Date | undefined> {
+  const lastModifiedByGroup = new Map<string, Date | undefined>();
+
+  for (const group of getGroups()) {
+    const context = getGroupArchiveContext(group.slug);
     const lastModified = context?.exportState?.exported_at
       ? new Date(context.exportState.exported_at)
       : undefined;
+    lastModifiedByGroup.set(group.slug, lastModified);
+  }
+
+  return lastModifiedByGroup;
+}
+
+function buildMessagePageEntries(
+  lastModifiedByGroup: Map<string, Date | undefined>
+): MetadataRoute.Sitemap {
+  return getGroupMessagePageParams().map(({ group, page }) => {
+    const lastModified = lastModifiedByGroup.get(group);
 
     return {
       url: absoluteUrl(groupMessagesPagePath(group, Number(page))),
@@ -58,12 +71,11 @@ function buildMessagePageEntries(): MetadataRoute.Sitemap {
   });
 }
 
-function buildTopicPageEntries(): MetadataRoute.Sitemap {
+function buildTopicPageEntries(
+  lastModifiedByGroup: Map<string, Date | undefined>
+): MetadataRoute.Sitemap {
   return getTopicMessagePageParams().map(({ group, topicId, page }) => {
-    const context = getGroupArchiveContext(group);
-    const lastModified = context?.exportState?.exported_at
-      ? new Date(context.exportState.exported_at)
-      : undefined;
+    const lastModified = lastModifiedByGroup.get(group);
 
     return {
       url: absoluteUrl(
@@ -79,6 +91,7 @@ function buildTopicPageEntries(): MetadataRoute.Sitemap {
 export default function sitemap(): MetadataRoute.Sitemap {
   const groups = getGroupSummaries();
   const homeLastModified = getLatestExportDate(groups);
+  const lastModifiedByGroup = buildGroupLastModifiedMap();
 
   const homeEntry: MetadataRoute.Sitemap[number] = {
     url: absoluteUrl('/'),
@@ -90,7 +103,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   return [
     homeEntry,
     ...groups.map(buildGroupEntry),
-    ...buildMessagePageEntries(),
-    ...buildTopicPageEntries(),
+    ...buildMessagePageEntries(lastModifiedByGroup),
+    ...buildTopicPageEntries(lastModifiedByGroup),
   ];
 }
