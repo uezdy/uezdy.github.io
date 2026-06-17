@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from 'next';
+import { getSiteUrl } from '@/lib/siteUrl';
 import './globals.css';
 
 export const viewport: Viewport = {
@@ -7,6 +8,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
+  metadataBase: new URL(getSiteUrl()),
   title: 'Telegram Archives',
   description: 'Архивы сообщений Telegram-групп для индексации поисковыми системами',
 };
