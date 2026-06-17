@@ -5,6 +5,7 @@ from __future__ import annotations
 import asyncio
 import json
 import os
+import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -254,23 +255,48 @@ async def fetch_forum_topics(client: TelegramClient, entity) -> list[dict]:
     return topics
 
 
-async def export_messages() -> None:
-    api_id = int(require_env("TELEGRAM_API_ID"))
-    api_hash = require_env("TELEGRAM_API_HASH")
-    session = require_env("TELEGRAM_SESSION")
-    chat = require_env("TELEGRAM_CHAT")
+def chat_to_slug(chat: str) -> str:
+    normalized = chat.strip()
+    if normalized.startswith("@"):
+        return normalized[1:]
+    if normalized.startswith("https://t.me/"):
+        normalized = normalized.removeprefix("https://t.me/")
+    return re.sub(r"[^a-zA-Z0-9_-]+", "_", normalized)
 
-    output_path = Path(os.environ.get("OUTPUT_PATH", "data/messages.json"))
-    topics_path = Path(os.environ.get("TOPICS_PATH", "data/topics.json"))
-    state_path = Path(os.environ.get("STATE_PATH", "data/export_state.json"))
+
+def load_groups() -> list[dict]:
+    groups_path = ROOT_DIR / "data" / "groups.json"
+    if groups_path.exists():
+        manifest = load_json(groups_path, {"groups": []})
+        groups = manifest.get("groups", [])
+        if groups:
+            return groups
+
+    chat = os.environ.get("TELEGRAM_CHAT", "").strip()
+    if chat:
+        return [{"slug": chat_to_slug(chat), "chat": chat}]
+
+    print(
+        "No groups configured. Add data/groups.json or set TELEGRAM_CHAT.",
+        file=sys.stderr,
+    )
+    sys.exit(1)
+
+
+async def export_group(
+    client: TelegramClient,
+    slug: str,
+    chat: str,
+) -> None:
+    output_dir = ROOT_DIR / "data" / "groups" / slug
+    output_path = output_dir / "messages.json"
+    topics_path = output_dir / "topics.json"
+    state_path = output_dir / "export_state.json"
 
     existing_messages = load_json(output_path, [])
     existing_topics = load_json(topics_path, [])
     state = load_json(state_path, {})
     last_message_id = int(state.get("last_message_id", 0))
-
-    client = TelegramClient(StringSession(session), api_id, api_hash)
-    await client.start()
 
     entity = await client.get_entity(chat)
     is_forum = bool(getattr(entity, "forum", False))
@@ -294,8 +320,6 @@ async def export_messages() -> None:
 
     fetched_topics = await fetch_forum_topics(client, entity)
 
-    await client.disconnect()
-
     merged = merge_messages(existing_messages, fetched)
     merged_topics = merge_topics(existing_topics, fetched_topics)
     max_id = max((item["id"] for item in merged), default=last_message_id)
@@ -315,9 +339,26 @@ async def export_messages() -> None:
     )
 
     print(
-        f"Exported {len(fetched)} new message(s); "
+        f"[{slug}] Exported {len(fetched)} new message(s); "
         f"total {len(merged)} -> {output_path}"
     )
+
+
+async def export_messages() -> None:
+    api_id = int(require_env("TELEGRAM_API_ID"))
+    api_hash = require_env("TELEGRAM_API_HASH")
+    session = require_env("TELEGRAM_SESSION")
+    groups = load_groups()
+
+    client = TelegramClient(StringSession(session), api_id, api_hash)
+    await client.start()
+
+    for group in groups:
+        slug = group.get("slug") or chat_to_slug(group["chat"])
+        chat = group["chat"]
+        await export_group(client, slug, chat)
+
+    await client.disconnect()
 
 
 def main() -> None:

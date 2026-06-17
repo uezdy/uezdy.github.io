@@ -1,20 +1,10 @@
-import fs from 'fs';
-import path from 'path';
+import { getGroupDataPath } from '@/lib/groups';
+import { readJsonFile } from '@/lib/readJson';
 import type {
   ExportState,
   TelegramMessage,
   TextEntity,
 } from '@/types/telegram';
-
-function readJsonFile<T>(relativePath: string, fallback: T): T {
-  const filePath = path.join(process.cwd(), relativePath);
-
-  if (!fs.existsSync(filePath)) {
-    return fallback;
-  }
-
-  return JSON.parse(fs.readFileSync(filePath, 'utf-8')) as T;
-}
 
 function buildFallbackEntities(text: string): TextEntity[] {
   if (!text) {
@@ -38,14 +28,20 @@ function normalizeMessage(message: TelegramMessage): TelegramMessage {
   };
 }
 
-export function getMessages(): TelegramMessage[] {
-  const messages = readJsonFile<TelegramMessage[]>('public/messages.json', []);
+export function getMessages(groupSlug: string): TelegramMessage[] {
+  const messages = readJsonFile<TelegramMessage[]>(
+    getGroupDataPath(groupSlug, 'messages.json'),
+    []
+  );
 
   return [...messages]
     .map(normalizeMessage)
     .sort((left, right) => left.id - right.id);
 }
 
-export function getExportState(): ExportState | null {
-  return readJsonFile<ExportState | null>('public/export_state.json', null);
+export function getExportState(groupSlug: string): ExportState | null {
+  return readJsonFile<ExportState | null>(
+    getGroupDataPath(groupSlug, 'export_state.json'),
+    null
+  );
 }

@@ -3,20 +3,20 @@ import { formatExportDate } from '@/lib/dateFormat';
 import styles from './ArchiveHeader.module.css';
 
 type ArchiveHeaderProps = {
+  title: string;
   exportState: ExportState | null;
   messageCount: number;
 };
 
 export function ArchiveHeader({
+  title,
   exportState,
   messageCount,
 }: ArchiveHeaderProps) {
-  const chatTitle = exportState?.chat ?? 'Telegram archive';
-
   return (
     <header className={styles.header}>
       <p className={styles.eyebrow}>История группы</p>
-      <h1 className={styles.title}>{chatTitle}</h1>
+      <h1 className={styles.title}>{title}</h1>
       <dl className={styles.stats}>
         <div>
           <dt>Сообщений</dt>
