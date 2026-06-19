@@ -7,10 +7,7 @@ import {
   getGroupArchiveContext,
   getTopicMessagePageParamsForExport,
 } from '@/lib/groupArchive';
-import {
-  groupOverviewPath,
-  topicMessagesPagePath,
-} from '@/lib/groupRoutes';
+import { groupOverviewPath, topicMessagesPagePath } from '@/lib/groupRoutes';
 import { getDisplayableMessages } from '@/lib/messageFilters';
 import { getTotalPages, parsePageParam } from '@/lib/pagination';
 import { absoluteUrl } from '@/lib/siteUrl';

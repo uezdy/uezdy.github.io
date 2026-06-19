@@ -5,7 +5,8 @@ import styles from './page.module.css';
 
 export const metadata: Metadata = {
   title: 'Telegram Archives',
-  description: 'Архивы сообщений Telegram-групп для индексации поисковыми системами',
+  description:
+    'Архивы сообщений Telegram-групп для индексации поисковыми системами',
 };
 
 export default function HomePage() {

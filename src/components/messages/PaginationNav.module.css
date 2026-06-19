@@ -1,4 +1,11 @@
+.anchor {
+  min-height: 4.25rem;
+}
+
 .nav {
+  position: fixed;
+  bottom: 1rem;
+  z-index: 20;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -8,6 +15,25 @@
   border: 1px solid var(--border);
   border-radius: 14px;
   background: var(--surface);
+  box-shadow: 0 8px 24px rgb(15 23 42 / 10%);
+  transform: translateY(0);
+  opacity: 1;
+  pointer-events: auto;
+  transition:
+    transform 0.25s ease,
+    opacity 0.25s ease;
+}
+
+.navHidden {
+  transform: translateY(calc(100% + 1.25rem));
+  opacity: 0;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .nav {
+    transition: none;
+  }
 }
 
 .edgeLink {

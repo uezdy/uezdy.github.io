@@ -9,12 +9,13 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   verification: {
-    google: "WcZLxrvNHupEwOXBZ_xza8RMaDFrJ_7Nc_Ax_vyo0zw",
-    yandex: "9c6b753fbeb916ac"
+    google: 'WcZLxrvNHupEwOXBZ_xza8RMaDFrJ_7Nc_Ax_vyo0zw',
+    yandex: '9c6b753fbeb916ac',
   },
   metadataBase: new URL(getSiteUrl()),
   title: 'Telegram Archives',
-  description: 'Архивы сообщений Telegram-групп для индексации поисковыми системами',
+  description:
+    'Архивы сообщений Telegram-групп для индексации поисковыми системами',
 };
 
 export default function RootLayout({
