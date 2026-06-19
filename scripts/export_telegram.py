@@ -39,6 +39,26 @@ from telethon.tl.types import (
 ROOT_DIR = Path(__file__).resolve().parent.parent
 load_dotenv(ROOT_DIR / ".env")
 
+GLOBAL_STAGE_COUNT = 5
+GROUP_STAGE_COUNT = 6
+
+
+class StageLogger:
+    def __init__(self, total: int, *, prefix: str = "") -> None:
+        self.total = total
+        self.step = 0
+        self.prefix = f"{prefix} " if prefix else ""
+
+    def advance(self, title: str, detail: str | None = None) -> None:
+        self.step += 1
+        line = f"{self.prefix}[{self.step}/{self.total}] {title}"
+        if detail:
+            line += f" — {detail}"
+        print(line, flush=True)
+
+    def note(self, message: str) -> None:
+        print(f"{self.prefix}  {message}", flush=True)
+
 
 def require_env(name: str) -> str:
     value = os.environ.get(name, "").strip()
@@ -283,23 +303,60 @@ def load_groups() -> list[dict]:
     sys.exit(1)
 
 
+def describe_export_mode(
+    last_message_id: int,
+    needs_topic_backfill: bool,
+    needs_metadata_backfill: bool,
+) -> str:
+    if needs_topic_backfill and needs_metadata_backfill:
+        return "full rescan (topic and metadata backfill)"
+    if needs_topic_backfill:
+        return "full rescan (topic backfill)"
+    if needs_metadata_backfill:
+        return "full rescan (metadata backfill)"
+    if last_message_id:
+        return f"incremental (messages after id {last_message_id})"
+    return "full history (first export)"
+
+
 async def export_group(
     client: TelegramClient,
     slug: str,
     chat: str,
+    *,
+    group_index: int,
+    group_total: int,
 ) -> None:
+    group_prefix = f"Group {group_index}/{group_total} [{slug}]"
+    stages = StageLogger(GROUP_STAGE_COUNT, prefix=group_prefix)
+
     output_dir = ROOT_DIR / "data" / "groups" / slug
     output_path = output_dir / "messages.json"
     topics_path = output_dir / "topics.json"
     state_path = output_dir / "export_state.json"
 
+    stages.advance(
+        "Load local export data",
+        f"reading {output_dir.relative_to(ROOT_DIR)}",
+    )
     existing_messages = load_json(output_path, [])
     existing_topics = load_json(topics_path, [])
     state = load_json(state_path, {})
     last_message_id = int(state.get("last_message_id", 0))
+    stages.note(
+        f"on disk: {len(existing_messages)} message(s), "
+        f"{len(existing_topics)} topic(s), last_message_id={last_message_id}"
+    )
 
+    stages.advance("Resolve Telegram chat", chat)
     entity = await client.get_entity(chat)
+    entity_title = getattr(entity, "title", None) or getattr(entity, "username", chat)
     is_forum = bool(getattr(entity, "forum", False))
+    stages.note(
+        f"resolved as «{entity_title}»"
+        + (" (forum)" if is_forum else " (regular chat)")
+    )
+
     needs_topic_backfill = is_forum and any(
         item.get("topic_id") is None for item in existing_messages
     )
@@ -307,7 +364,13 @@ async def export_group(
         "entities" not in item or "sender_name" not in item
         for item in existing_messages
     )
+    export_mode = describe_export_mode(
+        last_message_id,
+        needs_topic_backfill,
+        needs_metadata_backfill,
+    )
 
+    stages.advance("Fetch messages from Telegram", export_mode)
     fetched: list[dict] = []
     if last_message_id and not needs_topic_backfill and not needs_metadata_backfill:
         async for message in client.iter_messages(chat, min_id=last_message_id):
@@ -317,13 +380,29 @@ async def export_group(
         async for message in client.iter_messages(chat):
             if isinstance(message, Message):
                 fetched.append(await message_to_dict(message, is_forum))
+    stages.note(f"fetched {len(fetched)} message(s) from API")
 
-    fetched_topics = await fetch_forum_topics(client, entity)
+    if is_forum:
+        stages.advance("Fetch forum topics", "loading topic list")
+        fetched_topics = await fetch_forum_topics(client, entity)
+        stages.note(f"fetched {len(fetched_topics)} topic(s) from API")
+    else:
+        stages.advance("Fetch forum topics", "skipped (not a forum)")
+        fetched_topics = []
 
+    stages.advance("Merge local data with fetched data")
     merged = merge_messages(existing_messages, fetched)
     merged_topics = merge_topics(existing_topics, fetched_topics)
     max_id = max((item["id"] for item in merged), default=last_message_id)
+    stages.note(
+        f"merged totals: {len(merged)} message(s), "
+        f"{len(merged_topics)} topic(s), max message id={max_id}"
+    )
 
+    stages.advance(
+        "Save JSON files",
+        "messages.json, topics.json, export_state.json",
+    )
     save_json(output_path, merged)
     save_json(topics_path, merged_topics)
     save_json(
@@ -337,28 +416,58 @@ async def export_group(
             "exported_at": datetime.now(timezone.utc).isoformat(),
         },
     )
-
-    print(
-        f"[{slug}] Exported {len(fetched)} new message(s); "
-        f"total {len(merged)} -> {output_path}"
+    stages.note(f"written to {output_dir.relative_to(ROOT_DIR)}")
+    stages.note(
+        f"done: +{len(fetched)} new message(s), {len(merged)} total in archive"
     )
 
 
 async def export_messages() -> None:
+    stages = StageLogger(GLOBAL_STAGE_COUNT)
+    print(f"Telegram export started ({GLOBAL_STAGE_COUNT} stages)", flush=True)
+
+    stages.advance("Validate environment", "TELEGRAM_API_ID, TELEGRAM_API_HASH, TELEGRAM_SESSION")
     api_id = int(require_env("TELEGRAM_API_ID"))
     api_hash = require_env("TELEGRAM_API_HASH")
     session = require_env("TELEGRAM_SESSION")
-    groups = load_groups()
+    stages.note("required variables are present")
 
+    stages.advance("Load groups configuration", "data/groups.json or TELEGRAM_CHAT")
+    groups = load_groups()
+    stages.note(f"found {len(groups)} group(s) to export")
+
+    stages.advance("Connect to Telegram API")
     client = TelegramClient(StringSession(session), api_id, api_hash)
     await client.start()
+    me = await client.get_me()
+    display_name = getattr(me, "username", None) or getattr(me, "first_name", "account")
+    stages.note(f"connected as @{display_name}" if getattr(me, "username", None) else f"connected as {display_name}")
 
-    for group in groups:
+    stages.advance(
+        "Export groups",
+        f"{len(groups)} group(s), {GROUP_STAGE_COUNT} sub-stages each",
+    )
+    for index, group in enumerate(groups, start=1):
         slug = group.get("slug") or chat_to_slug(group["chat"])
         chat = group["chat"]
-        await export_group(client, slug, chat)
+        print(flush=True)
+        await export_group(
+            client,
+            slug,
+            chat,
+            group_index=index,
+            group_total=len(groups),
+        )
 
+    stages.advance("Disconnect from Telegram")
     await client.disconnect()
+    stages.note("session closed")
+
+    print(flush=True)
+    print(
+        f"Telegram export finished: {len(groups)} group(s) processed.",
+        flush=True,
+    )
 
 
 def main() -> None:
