@@ -1,6 +1,6 @@
 import {
-  formatMessageDateTooltip,
-  formatMessageTimeShort,
+  formatMessageDate,
+  formatMessageDateTimeShort,
 } from '@/lib/dateFormat';
 import { MessageText } from '@/lib/messageEntities';
 import { formatSenderLabel, plainPreviewFromMessage } from '@/lib/messageText';
@@ -64,9 +64,9 @@ export function MessageItem({
           <time
             dateTime={message.date ?? undefined}
             className={styles.metaTime}
-            title={formatMessageDateTooltip(message.date)}
+            title={formatMessageDate(message.date)}
           >
-            {formatMessageTimeShort(message.date)}
+            {formatMessageDateTimeShort(message.date)}
           </time>
           <a
             href={telegramHref}
