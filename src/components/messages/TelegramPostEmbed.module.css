@@ -8,3 +8,9 @@
   height: 100%;
   border: none;
 }
+
+@media (max-width: 600px) {
+  .root {
+    height: min(55vh, 420px);
+  }
+}
