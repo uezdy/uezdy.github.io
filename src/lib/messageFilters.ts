@@ -29,9 +29,7 @@ function computeDisplayableMessages(
   topicId?: number
 ): TelegramMessage[] {
   const scoped =
-    topicId === undefined
-      ? messages
-      : filterMessagesByTopic(messages, topicId);
+    topicId === undefined ? messages : filterMessagesByTopic(messages, topicId);
 
   return scoped.filter(hasDisplayText);
 }

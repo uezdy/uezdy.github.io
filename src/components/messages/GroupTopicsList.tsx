@@ -21,9 +21,7 @@ export function GroupTopicsList({ groupSlug, topics }: GroupTopicsListProps) {
             <li key={topic.id}>
               <article className={styles.card}>
                 <h3 className={styles.title}>
-                  <Link
-                    href={topicMessagesPagePath(groupSlug, topic.id, 1)}
-                  >
+                  <Link href={topicMessagesPagePath(groupSlug, topic.id, 1)}>
                     {topic.title}
                   </Link>
                 </h3>

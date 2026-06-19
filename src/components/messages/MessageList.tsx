@@ -10,7 +10,9 @@ type MessageListProps = {
   isForum: boolean;
 };
 
-function buildReplyPool(messages: TelegramMessage[]): Map<number, TelegramMessage> {
+function buildReplyPool(
+  messages: TelegramMessage[]
+): Map<number, TelegramMessage> {
   return new Map(messages.map((message) => [message.id, message]));
 }
 

@@ -1,5 +1,7 @@
-import Link from 'next/link';
-import styles from './PaginationNav.module.css';
+import {
+  PaginationNavBar,
+  type PaginationNavItem,
+} from '@/components/messages/PaginationNavBar';
 
 type PaginationNavProps = {
   currentPage: number;
@@ -43,6 +45,25 @@ function getVisiblePages(
   return result;
 }
 
+function buildNavItems(
+  currentPage: number,
+  visiblePages: (number | 'ellipsis')[],
+  buildPageHref: (page: number) => string
+): PaginationNavItem[] {
+  return visiblePages.map((page, index) => {
+    if (page === 'ellipsis') {
+      return { kind: 'ellipsis', id: `ellipsis-${index}` };
+    }
+
+    return {
+      kind: 'page',
+      page,
+      href: buildPageHref(page),
+      isCurrent: page === currentPage,
+    };
+  });
+}
+
 export function PaginationNav({
   currentPage,
   totalPages,
@@ -57,52 +78,10 @@ export function PaginationNav({
   const visiblePages = getVisiblePages(currentPage, totalPages);
 
   return (
-    <nav className={styles.nav} aria-label="Навигация по страницам">
-      {previousPage ? (
-        <Link
-          className={styles.edgeLink}
-          href={buildPageHref(previousPage)}
-          rel="prev"
-        >
-          ← Назад
-        </Link>
-      ) : (
-        <span className={styles.edgeLinkDisabled}>← Назад</span>
-      )}
-
-      <ol className={styles.pages}>
-        {visiblePages.map((page, index) =>
-          page === 'ellipsis' ? (
-            <li key={`ellipsis-${index}`} className={styles.ellipsis}>
-              …
-            </li>
-          ) : (
-            <li key={page}>
-              {page === currentPage ? (
-                <span className={styles.currentPage} aria-current="page">
-                  {page}
-                </span>
-              ) : (
-                <Link className={styles.pageLink} href={buildPageHref(page)}>
-                  {page}
-                </Link>
-              )}
-            </li>
-          )
-        )}
-      </ol>
-
-      {nextPage ? (
-        <Link
-          className={styles.edgeLink}
-          href={buildPageHref(nextPage)}
-          rel="next"
-        >
-          Вперёд →
-        </Link>
-      ) : (
-        <span className={styles.edgeLinkDisabled}>Вперёд →</span>
-      )}
-    </nav>
+    <PaginationNavBar
+      previousHref={previousPage ? buildPageHref(previousPage) : null}
+      nextHref={nextPage ? buildPageHref(nextPage) : null}
+      items={buildNavItems(currentPage, visiblePages, buildPageHref)}
+    />
   );
 }

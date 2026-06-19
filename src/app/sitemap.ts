@@ -29,16 +29,12 @@ function getLatestExportDate(groups: GroupSummary[]): Date | undefined {
   return new Date(Math.max(...timestamps));
 }
 
-function buildGroupEntry(
-  group: GroupSummary
-): MetadataRoute.Sitemap[number] {
+function buildGroupEntry(group: GroupSummary): MetadataRoute.Sitemap[number] {
   return {
     url: absoluteUrl(groupOverviewPath(group.slug)),
     changeFrequency: 'weekly',
     priority: 0.8,
-    ...(group.exportedAt
-      ? { lastModified: new Date(group.exportedAt) }
-      : {}),
+    ...(group.exportedAt ? { lastModified: new Date(group.exportedAt) } : {}),
   };
 }
 
