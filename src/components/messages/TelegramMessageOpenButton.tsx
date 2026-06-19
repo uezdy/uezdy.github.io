@@ -44,6 +44,7 @@ export function TelegramMessageOpenButton({
         isOpen={isOpen}
         onClose={() => setIsOpen(false)}
         title="Сообщение в Telegram"
+        backdropClassName={buttonStyles.backdrop}
         className={buttonStyles.dialog}
         bodyClassName={buttonStyles.body}
         footer={

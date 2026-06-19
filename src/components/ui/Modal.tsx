@@ -11,6 +11,7 @@ type ModalProps = {
   footer?: ReactNode;
   className?: string;
   bodyClassName?: string;
+  backdropClassName?: string;
 };
 
 export function Modal({
@@ -21,6 +22,7 @@ export function Modal({
   footer,
   className,
   bodyClassName,
+  backdropClassName,
 }: ModalProps) {
   const titleId = useId();
 
@@ -52,7 +54,7 @@ export function Modal({
 
   return (
     <div
-      className={styles.backdrop}
+      className={[styles.backdrop, backdropClassName].filter(Boolean).join(' ')}
       onClick={onClose}
       role="presentation"
     >
