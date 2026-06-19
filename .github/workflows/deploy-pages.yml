@@ -34,6 +34,15 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
+      - name: Restore Telegram export cache
+        uses: actions/cache/restore@v4
+        id: telegram-export-cache
+        with:
+          path: data/groups
+          key: telegram-export-${{ runner.os }}-${{ hashFiles('data/groups.json', 'data/groups/**/export_state.json') }}
+          restore-keys: |
+            telegram-export-${{ runner.os }}-
+
       - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
@@ -48,6 +57,13 @@ jobs:
         run: |
           pip install -r requirements.txt
           python scripts/export_telegram.py
+
+      - name: Save Telegram export cache
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: data/groups
+          key: telegram-export-${{ runner.os }}-${{ hashFiles('data/groups.json', 'data/groups/**/export_state.json') }}
 
       - uses: actions/setup-node@v6
         with:
