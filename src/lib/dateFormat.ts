@@ -25,24 +25,14 @@ export function formatMessageDate(value: string | null): string {
   return format(date, 'd MMMM yyyy, HH:mm', { locale: ru });
 }
 
-export function formatMessageTimeShort(value: string | null): string {
+export function formatMessageDateTimeShort(value: string | null): string {
   const date = parseDate(value);
 
   if (!date) {
     return '—';
   }
 
-  return format(date, 'HH:mm', { locale: ru });
-}
-
-export function formatMessageDateTooltip(value: string | null): string {
-  const date = parseDate(value);
-
-  if (!date) {
-    return '—';
-  }
-
-  return format(date, 'd MMM yyyy', { locale: ru });
+  return format(date, 'd MMM yyyy, HH:mm', { locale: ru });
 }
 
 export function formatExportDate(value: string | null): string {
