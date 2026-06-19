@@ -16,3 +16,12 @@ export function buildTelegramMessageUrl(
 
   return `https://t.me/${handle}/${messageId}`;
 }
+
+export function buildTelegramMessageEmbedUrl(
+  chatHandle: string,
+  messageId: number
+): string {
+  const handle = normalizeChatHandle(chatHandle);
+
+  return `https://t.me/${handle}/${messageId}?embed=1`;
+}
