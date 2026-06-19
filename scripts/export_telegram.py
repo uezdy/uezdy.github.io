@@ -41,9 +41,6 @@ load_dotenv(ROOT_DIR / ".env")
 
 GLOBAL_STAGE_COUNT = 5
 GROUP_STAGE_COUNT = 6
-RECONNECT_DELAY_SEC = 5
-MAX_RECONNECT_ATTEMPTS = 12
-CHECKPOINT_EVERY = 1000
 
 
 class StageLogger:
@@ -150,17 +147,15 @@ def serialize_entities(message: Message) -> list[dict]:
     return segments
 
 
-def build_sender_cache(messages: list[dict]) -> dict[int, str]:
-    cache: dict[int, str] = {}
-    for item in messages:
-        sender_id = item.get("sender_id")
-        sender_name = item.get("sender_name")
-        if sender_id and sender_name:
-            cache[int(sender_id)] = sender_name
-    return cache
+async def get_sender_name(message: Message) -> str | None:
+    if message.post_author:
+        return message.post_author
 
+    try:
+        sender = await message.get_sender()
+    except Exception:
+        return None
 
-def sender_name_from_entity(sender) -> str | None:
     if sender is None:
         return None
 
@@ -184,27 +179,6 @@ def sender_name_from_entity(sender) -> str | None:
     return f"@{username}" if username else None
 
 
-async def get_sender_name(
-    message: Message,
-    sender_cache: dict[int, str],
-) -> str | None:
-    if message.post_author:
-        return message.post_author
-
-    if message.sender_id and message.sender_id in sender_cache:
-        return sender_cache[message.sender_id]
-
-    try:
-        sender = await message.get_sender()
-    except Exception:
-        return None
-
-    name = sender_name_from_entity(sender)
-    if name and message.sender_id:
-        sender_cache[message.sender_id] = name
-    return name
-
-
 def get_topic_id(message: Message, is_forum: bool) -> int | None:
     if not is_forum:
         return None
@@ -220,11 +194,7 @@ def get_topic_id(message: Message, is_forum: bool) -> int | None:
     return GENERAL_TOPIC_ID
 
 
-async def message_to_dict(
-    message: Message,
-    is_forum: bool,
-    sender_cache: dict[int, str],
-) -> dict:
+async def message_to_dict(message: Message, is_forum: bool) -> dict:
     media_type = None
     if message.media:
         media_type = type(message.media).__name__
@@ -233,7 +203,7 @@ async def message_to_dict(
         "id": message.id,
         "date": message.date.isoformat() if message.date else None,
         "sender_id": message.sender_id,
-        "sender_name": await get_sender_name(message, sender_cache),
+        "sender_name": await get_sender_name(message),
         "text": message.message or "",
         "entities": serialize_entities(message),
         "reply_to": message.reply_to_msg_id,
@@ -271,88 +241,10 @@ def merge_topics(existing: list[dict], fetched: list[dict]) -> list[dict]:
     return [by_id[key] for key in sorted(by_id)]
 
 
-async def ensure_connected(client: TelegramClient) -> None:
-    if not client.is_connected():
-        await client.connect()
-    if not await client.is_user_authorized():
-        print("Telegram session is not authorized", file=sys.stderr)
-        sys.exit(1)
-
-
-async def reconnect_client(client: TelegramClient, *, reason: str) -> None:
-    print(f"Reconnecting to Telegram ({reason})...", flush=True)
-    if client.is_connected():
-        await client.disconnect()
-    await asyncio.sleep(RECONNECT_DELAY_SEC)
-    await ensure_connected(client)
-
-
-async def fetch_messages_resilient(
-    client: TelegramClient,
-    chat: str,
-    *,
-    incremental: bool,
-    resume_from_id: int,
-    is_forum: bool,
-    sender_cache: dict[int, str],
-    on_batch=None,
-) -> list[dict]:
-    fetched: list[dict] = []
-    checkpoint_counter = 0
-    offset_id = 0
-    min_id = resume_from_id
-
-    for attempt in range(1, MAX_RECONNECT_ATTEMPTS + 1):
-        await ensure_connected(client)
-        try:
-            iterator = (
-                client.iter_messages(chat, min_id=min_id)
-                if incremental
-                else client.iter_messages(chat, offset_id=offset_id)
-            )
-            async for message in iterator:
-                if not isinstance(message, Message):
-                    continue
-
-                fetched.append(await message_to_dict(message, is_forum, sender_cache))
-                checkpoint_counter += 1
-
-                if incremental:
-                    min_id = max(min_id, message.id)
-                else:
-                    offset_id = message.id
-
-                if on_batch and checkpoint_counter >= CHECKPOINT_EVERY:
-                    await on_batch(fetched)
-                    checkpoint_counter = 0
-            return fetched
-        except ConnectionError:
-            if attempt == MAX_RECONNECT_ATTEMPTS:
-                raise
-
-            resume_detail = (
-                f"after message id {min_id}"
-                if incremental
-                else f"before message id {offset_id}"
-            )
-            await reconnect_client(
-                client,
-                reason=f"connection lost {resume_detail} "
-                f"(attempt {attempt}/{MAX_RECONNECT_ATTEMPTS})",
-            )
-
-            if on_batch and fetched:
-                await on_batch(fetched)
-                checkpoint_counter = 0
-
-    return fetched
-
-
 async def fetch_forum_topics(client: TelegramClient, entity) -> list[dict]:
     if not getattr(entity, "forum", False):
         return []
 
-    await ensure_connected(client)
     topics: list[dict] = []
     offset_topic = 0
 
@@ -457,7 +349,6 @@ async def export_group(
     )
 
     stages.advance("Resolve Telegram chat", chat)
-    await ensure_connected(client)
     entity = await client.get_entity(chat)
     entity_title = getattr(entity, "title", None) or getattr(entity, "username", chat)
     is_forum = bool(getattr(entity, "forum", False))
@@ -480,45 +371,15 @@ async def export_group(
     )
 
     stages.advance("Fetch messages from Telegram", export_mode)
-    sender_cache = build_sender_cache(existing_messages)
-    incremental = (
-        bool(last_message_id)
-        and not needs_topic_backfill
-        and not needs_metadata_backfill
-    )
-
-    async def checkpoint(batch: list[dict]) -> None:
-        merged_checkpoint = merge_messages(existing_messages, batch)
-        max_checkpoint_id = max(
-            (item["id"] for item in merged_checkpoint),
-            default=last_message_id,
-        )
-        save_json(output_path, merged_checkpoint)
-        save_json(
-            state_path,
-            {
-                "chat": chat,
-                "last_message_id": max_checkpoint_id,
-                "message_count": len(merged_checkpoint),
-                "topic_count": len(existing_topics),
-                "is_forum": is_forum,
-                "exported_at": datetime.now(timezone.utc).isoformat(),
-            },
-        )
-        stages.note(
-            f"checkpoint: {len(merged_checkpoint)} message(s) on disk "
-            f"(+{len(batch)} fetched this run)"
-        )
-
-    fetched = await fetch_messages_resilient(
-        client,
-        chat,
-        incremental=incremental,
-        resume_from_id=last_message_id,
-        is_forum=is_forum,
-        sender_cache=sender_cache,
-        on_batch=checkpoint,
-    )
+    fetched: list[dict] = []
+    if last_message_id and not needs_topic_backfill and not needs_metadata_backfill:
+        async for message in client.iter_messages(chat, min_id=last_message_id):
+            if isinstance(message, Message):
+                fetched.append(await message_to_dict(message, is_forum))
+    else:
+        async for message in client.iter_messages(chat):
+            if isinstance(message, Message):
+                fetched.append(await message_to_dict(message, is_forum))
     stages.note(f"fetched {len(fetched)} message(s) from API")
 
     if is_forum:
@@ -576,17 +437,8 @@ async def export_messages() -> None:
     stages.note(f"found {len(groups)} group(s) to export")
 
     stages.advance("Connect to Telegram API")
-    client = TelegramClient(
-        StringSession(session),
-        api_id,
-        api_hash,
-        connection_retries=5,
-        retry_delay=2,
-        timeout=60,
-        auto_reconnect=True,
-    )
+    client = TelegramClient(StringSession(session), api_id, api_hash)
     await client.start()
-    await ensure_connected(client)
     me = await client.get_me()
     display_name = getattr(me, "username", None) or getattr(me, "first_name", "account")
     stages.note(f"connected as @{display_name}" if getattr(me, "username", None) else f"connected as {display_name}")
@@ -599,7 +451,6 @@ async def export_messages() -> None:
         slug = group.get("slug") or chat_to_slug(group["chat"])
         chat = group["chat"]
         print(flush=True)
-        await ensure_connected(client)
         await export_group(
             client,
             slug,
