@@ -14,6 +14,7 @@ on:
   workflow_dispatch:
 
 permissions:
+  actions: read
   contents: read
   pages: write
   id-token: write
@@ -37,6 +38,20 @@ jobs:
           cache: pip
           cache-dependency-path: requirements.txt
 
+      - name: Prepare archive directory
+        run: mkdir -p data/groups
+
+      - name: Restore telegram archive from previous run
+        uses: dawidd6/action-download-artifact@v6
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          workflow: deploy-pages.yml
+          name: telegram-archive
+          path: data/groups
+          workflow_conclusion: success
+          search_artifacts: true
+          if_no_artifact_found: warn
+
       - name: Export Telegram messages
         env:
           TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
@@ -45,6 +60,13 @@ jobs:
         run: |
           pip install -r requirements.txt
           python scripts/export_telegram.py
+
+      - name: Save telegram archive for next run
+        uses: actions/upload-artifact@v4
+        with:
+          name: telegram-archive
+          path: data/groups/
+          retention-days: 90
 
       - uses: actions/setup-node@v6
         with:
