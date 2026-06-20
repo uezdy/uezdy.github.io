@@ -47,7 +47,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           workflow: deploy-pages.yml
           name: telegram-archive
-          path: data/groups
+          path: data
           workflow_conclusion: success
           search_artifacts: true
           if_no_artifact_found: warn
@@ -61,13 +61,6 @@ jobs:
           pip install -r requirements.txt
           python scripts/export_telegram.py
 
-      - name: Save telegram archive for next run
-        uses: actions/upload-artifact@v4
-        with:
-          name: telegram-archive
-          path: data/groups/
-          retention-days: 90
-
       - uses: actions/setup-node@v6
         with:
           node-version: '22'
@@ -78,6 +71,16 @@ jobs:
 
       - name: Build static site
         run: npm run build
+
+      - name: Save telegram archive for next run
+        uses: actions/upload-artifact@v4
+        with:
+          name: telegram-archive
+          path: |
+            data/groups/
+            data/sitemap-state.json
+          if-no-files-found: warn
+          retention-days: 90
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v5

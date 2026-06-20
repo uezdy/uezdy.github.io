@@ -1,105 +1,55 @@
 import type { MetadataRoute } from 'next';
 import {
-  getGroupArchiveContext,
-  getGroupMessagePageParams,
-  getTopicMessagePageParams,
-} from '@/lib/groupArchive';
-import { getGroupSummaries, getGroups } from '@/lib/groups';
-import {
-  groupMessagesPagePath,
-  groupOverviewPath,
-  topicMessagesPagePath,
-} from '@/lib/groupRoutes';
+  isLastMessagePage,
+  readSitemapState,
+} from '@/lib/sitemapState';
 import { absoluteUrl } from '@/lib/siteUrl';
-import type { GroupSummary } from '@/types/telegram';
 
 export const dynamic = 'force-static';
 
-function getLatestExportDate(groups: GroupSummary[]): Date | undefined {
-  const timestamps = groups
-    .map((group) => group.exportedAt)
-    .filter((value): value is string => value !== null)
-    .map((value) => new Date(value).getTime())
-    .filter((value) => !Number.isNaN(value));
-
-  if (timestamps.length === 0) {
-    return undefined;
+function resolveChangeFrequency(
+  path: string
+): MetadataRoute.Sitemap[number]['changeFrequency'] {
+  if (path === '/') {
+    return 'weekly';
   }
 
-  return new Date(Math.max(...timestamps));
-}
-
-function buildGroupEntry(group: GroupSummary): MetadataRoute.Sitemap[number] {
-  return {
-    url: absoluteUrl(groupOverviewPath(group.slug)),
-    changeFrequency: 'weekly',
-    priority: 0.8,
-    ...(group.exportedAt ? { lastModified: new Date(group.exportedAt) } : {}),
-  };
-}
-
-function buildGroupLastModifiedMap(): Map<string, Date | undefined> {
-  const lastModifiedByGroup = new Map<string, Date | undefined>();
-
-  for (const group of getGroups()) {
-    const context = getGroupArchiveContext(group.slug);
-    const lastModified = context?.exportState?.exported_at
-      ? new Date(context.exportState.exported_at)
-      : undefined;
-    lastModifiedByGroup.set(group.slug, lastModified);
+  if (/^\/[^/]+\/$/.test(path)) {
+    return 'monthly';
   }
 
-  return lastModifiedByGroup;
+  if (/\/messages\/\d+\/$/.test(path)) {
+    return isLastMessagePage(path) ? 'weekly' : 'yearly';
+  }
+
+  return 'monthly';
 }
 
-function buildMessagePageEntries(
-  lastModifiedByGroup: Map<string, Date | undefined>
-): MetadataRoute.Sitemap {
-  return getGroupMessagePageParams().map(({ group, page }) => {
-    const lastModified = lastModifiedByGroup.get(group);
+function resolvePriority(path: string): number {
+  if (path === '/') {
+    return 1;
+  }
 
-    return {
-      url: absoluteUrl(groupMessagesPagePath(group, Number(page))),
-      changeFrequency: 'weekly' as const,
-      priority: 0.6,
-      ...(lastModified ? { lastModified } : {}),
-    };
-  });
-}
+  if (/^\/[^/]+\/$/.test(path)) {
+    return 0.8;
+  }
 
-function buildTopicPageEntries(
-  lastModifiedByGroup: Map<string, Date | undefined>
-): MetadataRoute.Sitemap {
-  return getTopicMessagePageParams().map(({ group, topicId, page }) => {
-    const lastModified = lastModifiedByGroup.get(group);
+  if (/\/messages\/\d+\/$/.test(path)) {
+    return isLastMessagePage(path) ? 0.7 : 0.6;
+  }
 
-    return {
-      url: absoluteUrl(
-        topicMessagesPagePath(group, Number(topicId), Number(page))
-      ),
-      changeFrequency: 'weekly' as const,
-      priority: 0.6,
-      ...(lastModified ? { lastModified } : {}),
-    };
-  });
+  return 0.6;
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const groups = getGroupSummaries();
-  const homeLastModified = getLatestExportDate(groups);
-  const lastModifiedByGroup = buildGroupLastModifiedMap();
+  const state = readSitemapState();
 
-  const homeEntry: MetadataRoute.Sitemap[number] = {
-    url: absoluteUrl('/'),
-    changeFrequency: 'weekly',
-    priority: 1,
-    ...(homeLastModified ? { lastModified: homeLastModified } : {}),
-  };
-
-  return [
-    homeEntry,
-    ...groups.map(buildGroupEntry),
-    ...buildMessagePageEntries(lastModifiedByGroup),
-    ...buildTopicPageEntries(lastModifiedByGroup),
-  ];
+  return Object.entries(state.urls)
+    .sort(([leftPath], [rightPath]) => leftPath.localeCompare(rightPath))
+    .map(([path, urlState]) => ({
+      url: absoluteUrl(path),
+      lastModified: new Date(urlState.lastModified),
+      changeFrequency: resolveChangeFrequency(path),
+      priority: resolvePriority(path),
+    }));
 }
