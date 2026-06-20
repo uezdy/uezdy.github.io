@@ -27,32 +27,46 @@ const EMPTY_STATE: SitemapState = {
   urls: {},
 };
 
-function maxMessageDate(messages: TelegramMessage[]): Date | undefined {
-  const timestamps = messages
-    .map((message) => message.date)
-    .filter((value): value is string => value !== null)
-    .map((value) => new Date(value).getTime())
-    .filter((value) => !Number.isNaN(value));
-
+function maxTimestamp(timestamps: number[]): number | undefined {
   if (timestamps.length === 0) {
     return undefined;
   }
 
-  return new Date(Math.max(...timestamps));
+  return timestamps.reduce(
+    (max, value) => (value > max ? value : max),
+    timestamps[0]
+  );
+}
+
+function minTimestamp(timestamps: number[]): number | undefined {
+  if (timestamps.length === 0) {
+    return undefined;
+  }
+
+  return timestamps.reduce(
+    (min, value) => (value < min ? value : min),
+    timestamps[0]
+  );
+}
+
+function messageTimestamps(messages: TelegramMessage[]): number[] {
+  return messages
+    .map((message) => message.date)
+    .filter((value): value is string => value !== null)
+    .map((value) => new Date(value).getTime())
+    .filter((value) => !Number.isNaN(value));
+}
+
+function maxMessageDate(messages: TelegramMessage[]): Date | undefined {
+  const max = maxTimestamp(messageTimestamps(messages));
+
+  return max === undefined ? undefined : new Date(max);
 }
 
 function minMessageDate(messages: TelegramMessage[]): Date | undefined {
-  const timestamps = messages
-    .map((message) => message.date)
-    .filter((value): value is string => value !== null)
-    .map((value) => new Date(value).getTime())
-    .filter((value) => !Number.isNaN(value));
+  const min = minTimestamp(messageTimestamps(messages));
 
-  if (timestamps.length === 0) {
-    return undefined;
-  }
-
-  return new Date(Math.min(...timestamps));
+  return min === undefined ? undefined : new Date(min);
 }
 
 export function buildPageFingerprint(
@@ -198,8 +212,14 @@ function resolveHomeLastModified(
       return previousHome;
     }
 
+    const max = maxTimestamp(timestamps);
+
+    if (max === undefined) {
+      return previousHome;
+    }
+
     return {
-      lastModified: new Date(Math.max(...timestamps)).toISOString(),
+      lastModified: new Date(max).toISOString(),
     };
   }
 
@@ -211,12 +231,14 @@ function resolveHomeLastModified(
     .map((state) => new Date(state.lastModified).getTime())
     .filter((value) => !Number.isNaN(value));
 
-  if (timestamps.length === 0) {
+  const max = maxTimestamp(timestamps);
+
+  if (max === undefined) {
     return undefined;
   }
 
   return {
-    lastModified: new Date(Math.max(...timestamps)).toISOString(),
+    lastModified: new Date(max).toISOString(),
   };
 }
 
