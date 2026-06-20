@@ -70,6 +70,8 @@ jobs:
         run: npm ci
 
       - name: Build static site
+        env:
+          NEXT_PUBLIC_GA_MEASUREMENT_ID: G-6QHG8Y9277
         run: npm run build
 
       - name: Save telegram archive for next run
