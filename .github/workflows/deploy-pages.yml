@@ -42,7 +42,7 @@ jobs:
         run: mkdir -p data/groups
 
       - name: Restore telegram archive from previous run
-        uses: dawidd6/action-download-artifact@v6
+        uses: dawidd6/action-download-artifact@v21
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           workflow: deploy-pages.yml
@@ -75,14 +75,14 @@ jobs:
         run: npm run build
 
       - name: Save telegram archive for next run
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: telegram-archive
           path: |
             data/groups/
             data/sitemap-state.json
           if-no-files-found: warn
-          retention-days: 90
+          retention-days: 30
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v5
