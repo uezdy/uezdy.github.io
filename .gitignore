@@ -11,7 +11,4 @@ data/groups/
 data/sitemap-state.json
 public/groups/
 public/sitemap-state.json
-/.idea/.gitignore
-/.idea/modules.xml
-/.idea/uezdy.github.io.iml
-/.idea/vcs.xml
+/.idea/*

@@ -1,6 +1,6 @@
-import js from '@eslint/js';
+import eslintJs from '@eslint/js';
+import eslintReact from '@eslint-react/eslint-plugin';
 import globals from 'globals';
-import react from 'eslint-plugin-react';
 import reactHooks from 'eslint-plugin-react-hooks';
 import tseslint from 'typescript-eslint';
 
@@ -9,7 +9,11 @@ export default tseslint.config(
     ignores: ['node_modules', '.next', 'out'],
   },
   {
-    extends: [js.configs.recommended, ...tseslint.configs.recommended],
+    extends: [
+      eslintJs.configs.recommended,
+      ...tseslint.configs.recommended,
+      eslintReact.configs.recommended,
+    ],
     files: ['**/*.{ts,tsx}'],
     languageOptions: {
       ecmaVersion: 2022,
@@ -25,23 +29,15 @@ export default tseslint.config(
       },
     },
     plugins: {
-      react,
       'react-hooks': reactHooks,
     },
     rules: {
-      ...react.configs.recommended.rules,
-      ...reactHooks.configs.recommended.rules,
-      'react/react-in-jsx-scope': 'off',
-      'react/prop-types': 'off',
+      ...reactHooks.configs.flat.recommended.rules,
       '@typescript-eslint/no-unused-vars': 'off',
       'no-unused-vars': 'off',
       'react-hooks/exhaustive-deps': 'off',
+      '@eslint-react/set-state-in-effect': 'off',
       '@typescript-eslint/no-explicit-any': 'off',
-    },
-    settings: {
-      react: {
-        version: 'detect',
-      },
     },
   }
 );
