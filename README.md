@@ -140,6 +140,7 @@ python scripts/export_telegram.py
 - `data/groups/<slug>/messages.json` — все сообщения
 - `data/groups/<slug>/topics.json` — темы форума (если группа с топиками)
 - `data/groups/<slug>/export_state.json` — последний id, дата экспорта, счётчики
+- `data/groups/<slug>/icon.jpg` — аватар группы (favicon на страницах архива)
 
 Первый запуск скачивает **всю историю**. Повторный — только **новые** сообщения.
 

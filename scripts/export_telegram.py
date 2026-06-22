@@ -466,8 +466,9 @@ async def export_group(
 
     stages.advance(
         "Save JSON files",
-        "messages.json, topics.json, export_state.json",
+        "messages.json, topics.json, export_state.json, icon",
     )
+    output_dir.mkdir(parents=True, exist_ok=True)
     save_json(output_path, merged)
     save_json(topics_path, merged_topics)
     save_json(
@@ -482,6 +483,15 @@ async def export_group(
             "exported_at": datetime.now(timezone.utc).isoformat(),
         },
     )
+    icon_path = output_dir / "icon.jpg"
+    icon_file = await client.download_profile_photo(entity, file=str(icon_path))
+    if icon_file:
+        stages.note(f"saved {icon_path.name}")
+    elif icon_path.exists():
+        icon_path.unlink()
+        stages.note("removed stale group icon (no profile photo)")
+    else:
+        stages.note("no group profile photo")
     stages.note(f"written to {output_dir.relative_to(ROOT_DIR)}")
     stages.note(
         f"done: +{len(fetched)} new message(s), {len(merged)} total in archive"
