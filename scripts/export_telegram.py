@@ -409,6 +409,7 @@ async def export_group(
         state_path,
         {
             "chat": chat,
+            "title": entity_title,
             "last_message_id": max_id,
             "message_count": len(merged),
             "topic_count": len(merged_topics),

@@ -28,8 +28,24 @@ export function getGroup(slug: string): TelegramGroupConfig | null {
   return getGroups().find((group) => group.slug === slug) ?? null;
 }
 
-export function resolveGroupTitle(group: TelegramGroupConfig): string {
-  return group.title ?? group.chat;
+export function enrichGroupWithExportState(
+  group: TelegramGroupConfig,
+  exportState: ExportState | null
+): TelegramGroupConfig {
+  const title = group.title ?? exportState?.title;
+
+  if (!title) {
+    return group;
+  }
+
+  return { ...group, title };
+}
+
+export function resolveGroupTitle(
+  group: TelegramGroupConfig,
+  exportState?: ExportState | null
+): string {
+  return group.title ?? exportState?.title ?? group.chat;
 }
 
 export function chatToSlug(chat: string): string {
@@ -48,7 +64,7 @@ export function getGroupSummaries(): GroupSummary[] {
     );
 
     return {
-      ...group,
+      ...enrichGroupWithExportState(group, exportState),
       messageCount: exportState?.message_count ?? messages.length,
       topicCount: exportState?.topic_count ?? 0,
       isForum: exportState?.is_forum ?? false,
