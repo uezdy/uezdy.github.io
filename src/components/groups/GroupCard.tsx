@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { formatExportDate } from '@/lib/dateFormat';
+import { getGroupIconPath, hasGroupIcon } from '@/lib/groupIcon';
 import { resolveGroupTitle } from '@/lib/groups';
 import type { GroupSummary } from '@/types/telegram';
 import styles from './GroupCard.module.css';
@@ -10,14 +11,26 @@ type GroupCardProps = {
 
 export function GroupCard({ group }: GroupCardProps) {
   const title = resolveGroupTitle(group);
+  const showIcon = hasGroupIcon(group.slug);
 
   return (
     <article className={styles.card}>
       <div className={styles.header}>
-        <h2 className={styles.title}>
-          <Link href={`/${group.slug}/`}>{title}</Link>
-        </h2>
-        <p className={styles.handle}>{group.chat}</p>
+        {showIcon ? (
+          <img
+            className={styles.icon}
+            src={getGroupIconPath(group.slug)}
+            alt=""
+            width={48}
+            height={48}
+          />
+        ) : null}
+        <div className={styles.headerText}>
+          <h2 className={styles.title}>
+            <Link href={`/${group.slug}/`}>{title}</Link>
+          </h2>
+          <p className={styles.handle}>{group.chat}</p>
+        </div>
       </div>
 
       <dl className={styles.stats}>

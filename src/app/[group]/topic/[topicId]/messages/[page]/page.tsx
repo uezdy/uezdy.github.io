@@ -10,6 +10,7 @@ import {
 import { groupOverviewPath, topicMessagesPagePath } from '@/lib/groupRoutes';
 import { getDisplayableMessages } from '@/lib/messageFilters';
 import { getTotalPages, parsePageParam } from '@/lib/pagination';
+import { groupIconMetadata } from '@/lib/groupIcon';
 import { absoluteUrl } from '@/lib/siteUrl';
 import styles from '../../../../page.module.css';
 
@@ -56,6 +57,7 @@ export async function generateMetadata({
     alternates: {
       canonical: absoluteUrl(topicMessagesPagePath(slug, topicId, page)),
     },
+    ...groupIconMetadata(slug),
   };
 }
 

@@ -9,6 +9,7 @@ const GROUP_FILES = [
   'messages.json',
   'export_state.json',
   'topics.json',
+  'icon.jpg',
 ] as const;
 
 function copyGroupData(dataDir: string, publicDir: string) {
