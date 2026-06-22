@@ -69,6 +69,8 @@ def require_env(name: str) -> str:
 
 
 GENERAL_TOPIC_ID = 1
+FORUM_REPAIR_WINDOW = 2000
+REPAIR_BATCH_SIZE = 100
 
 ENTITY_TYPE_BY_CLASS: dict[type, str] = {
     MessageEntityBold: "bold",
@@ -183,10 +185,16 @@ def get_topic_id(message: Message, is_forum: bool) -> int | None:
     if not is_forum:
         return None
 
-    if message.reply_to is not None and getattr(message.reply_to, "forum_topic", False):
-        top_id = getattr(message.reply_to, "reply_to_top_id", None)
+    reply_to = message.reply_to
+    if reply_to is not None:
+        top_id = getattr(reply_to, "reply_to_top_id", None)
         if top_id:
             return top_id
+
+        if getattr(reply_to, "forum_topic", False):
+            reply_msg_id = getattr(reply_to, "reply_to_msg_id", None)
+            if reply_msg_id:
+                return reply_msg_id
 
     if message.action and isinstance(message.action, MessageActionTopicCreate):
         return message.id
@@ -239,6 +247,51 @@ def merge_topics(existing: list[dict], fetched: list[dict]) -> list[dict]:
     for item in fetched:
         by_id[item["id"]] = item
     return [by_id[key] for key in sorted(by_id)]
+
+
+async def fetch_messages_by_ids(
+    client: TelegramClient,
+    chat: str,
+    message_ids: list[int],
+    is_forum: bool,
+) -> list[dict]:
+    fetched: list[dict] = []
+
+    for index in range(0, len(message_ids), REPAIR_BATCH_SIZE):
+        batch = message_ids[index : index + REPAIR_BATCH_SIZE]
+        messages = await client.get_messages(chat, ids=batch)
+
+        if messages is None:
+            continue
+
+        if not isinstance(messages, list):
+            messages = [messages]
+
+        for message in messages:
+            if isinstance(message, Message):
+                fetched.append(await message_to_dict(message, is_forum))
+
+    return fetched
+
+
+async def repair_forum_messages(
+    client: TelegramClient,
+    chat: str,
+    merged: list[dict],
+    is_forum: bool,
+) -> list[dict]:
+    if not is_forum or not merged:
+        return merged
+
+    max_id = max(item["id"] for item in merged)
+    min_id = max(1, max_id - FORUM_REPAIR_WINDOW + 1)
+    repair_ids = list(range(min_id, max_id + 1))
+    repaired = await fetch_messages_by_ids(client, chat, repair_ids, is_forum)
+
+    if not repaired:
+        return merged
+
+    return merge_messages(merged, repaired)
 
 
 async def fetch_forum_topics(client: TelegramClient, entity) -> list[dict]:
@@ -392,6 +445,18 @@ async def export_group(
 
     stages.advance("Merge local data with fetched data")
     merged = merge_messages(existing_messages, fetched)
+    if is_forum and merged:
+        before_repair = len(merged)
+        merged = await repair_forum_messages(client, chat, merged, is_forum)
+        repaired_count = len(merged) - before_repair
+        if repaired_count:
+            stages.note(
+                f"forum repair window: added {repaired_count} missing message(s)"
+            )
+        else:
+            stages.note(
+                f"forum repair window: refreshed up to {FORUM_REPAIR_WINDOW} recent id(s)"
+            )
     merged_topics = merge_topics(existing_topics, fetched_topics)
     max_id = max((item["id"] for item in merged), default=last_message_id)
     stages.note(

@@ -52,6 +52,42 @@ jobs:
           search_artifacts: true
           if_no_artifact_found: warn
 
+      - name: Normalize restored archive layout
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p data/groups
+
+          shopt -s nullglob
+          for dir in data/*/; do
+            name=$(basename "$dir")
+            if [ "$name" = "groups" ]; then
+              continue
+            fi
+            if [ -f "${dir}export_state.json" ]; then
+              echo "Normalize: data/$name -> data/groups/$name"
+              rm -rf "data/groups/$name"
+              mv "$dir" "data/groups/$name"
+            fi
+          done
+
+      - name: Verify telegram archive restore
+        shell: bash
+        run: |
+          set -euo pipefail
+          restored_groups=0
+          for state_file in data/groups/*/export_state.json; do
+            if [ -f "$state_file" ]; then
+              restored_groups=$((restored_groups + 1))
+              slug=$(basename "$(dirname "$state_file")")
+              last_id=$(python -c "import json; print(json.load(open('$state_file'))['last_message_id'])")
+              echo "Restored $slug: last_message_id=$last_id"
+            fi
+          done
+          if [ "$restored_groups" -eq 0 ]; then
+            echo "::warning::No group archives restored — export will start from scratch"
+          fi
+
       - name: Export Telegram messages
         env:
           TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
