@@ -1,5 +1,8 @@
 import fs from 'fs';
 import path from 'path';
+import { enrichGroupWithExportState } from '@/lib/groups';
+import { readJsonFile } from '@/lib/readJson';
+import type { ExportState, GroupsManifest } from '@/types/telegram';
 import type { IScriptParams } from '../runner';
 
 const GROUP_FILES = [
@@ -49,7 +52,24 @@ export default async function copyMessages(_params: IScriptParams) {
   const manifestTargetPath = path.join(publicDir, 'groups.json');
 
   if (fs.existsSync(manifestPath)) {
-    fs.copyFileSync(manifestPath, manifestTargetPath);
+    const manifest = readJsonFile<GroupsManifest>('data/groups.json', {
+      groups: [],
+    });
+    const enrichedManifest: GroupsManifest = {
+      groups: manifest.groups.map((group) => {
+        const exportState = readJsonFile<ExportState | null>(
+          `data/groups/${group.slug}/export_state.json`,
+          null
+        );
+
+        return enrichGroupWithExportState(group, exportState);
+      }),
+    };
+
+    fs.writeFileSync(
+      manifestTargetPath,
+      `${JSON.stringify(enrichedManifest, null, 2)}\n`
+    );
     console.log('Prebuild: copied groups.json');
   } else {
     console.warn(`Prebuild: missing ${manifestPath}`);

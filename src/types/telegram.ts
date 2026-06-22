@@ -26,6 +26,7 @@ export type TelegramTopic = {
 
 export type ExportState = {
   chat: string;
+  title?: string;
   last_message_id: number;
   message_count: number;
   topic_count: number;

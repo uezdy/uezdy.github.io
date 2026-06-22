@@ -37,7 +37,7 @@ function loadGroupArchiveContext(slug: string): GroupArchiveContext | null {
   return {
     group,
     slug,
-    title: resolveGroupTitle(group),
+    title: resolveGroupTitle(group, exportState),
     messages,
     exportState,
     topics,
