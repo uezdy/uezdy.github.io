@@ -1,6 +1,10 @@
 import Link from 'next/link';
 import { formatExportDate } from '@/lib/dateFormat';
-import { getGroupIconPath, hasGroupIcon } from '@/lib/groupIcon';
+import {
+  getGroupIconCardPath,
+  getGroupIconCardSrcSet,
+  hasGroupIcon,
+} from '@/lib/groupIcon';
 import { resolveGroupTitle } from '@/lib/groups';
 import type { GroupSummary } from '@/types/telegram';
 import styles from './GroupCard.module.css';
@@ -19,10 +23,13 @@ export function GroupCard({ group }: GroupCardProps) {
         {showIcon ? (
           <img
             className={styles.icon}
-            src={getGroupIconPath(group.slug)}
+            src={getGroupIconCardPath(group.slug)}
+            srcSet={getGroupIconCardSrcSet(group.slug)}
             alt=""
             width={48}
             height={48}
+            loading="lazy"
+            decoding="async"
           />
         ) : null}
         <div className={styles.headerText}>
