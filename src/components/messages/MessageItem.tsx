@@ -9,7 +9,9 @@ import {
   buildTelegramMessageUrl,
 } from '@/lib/telegramChat';
 import { TelegramMessageOpenButton } from '@/components/messages/TelegramMessageOpenButton';
+import { MessageMediaIcon } from '@/components/messages/MessageMediaIcon';
 import { MessageReactions } from '@/components/messages/MessageReactions';
+import { getMessageMediaIconKind } from '@/lib/messageMedia';
 import type { TelegramMessage } from '@/types/telegram';
 import styles from './MessageItem.module.css';
 
@@ -35,6 +37,7 @@ export function MessageItem({
     isForum
   );
   const embedUrl = buildTelegramMessageEmbedUrl(chatHandle, message.id);
+  const mediaKind = getMessageMediaIconKind(message);
 
   return (
     <article className={styles.card} id={String(message.id)}>
@@ -80,7 +83,12 @@ export function MessageItem({
           />
         </header>
 
-        <div className={styles.body}>
+        <div
+          className={`${styles.body} ${mediaKind ? styles.bodyWithMedia : ''}`}
+        >
+          {mediaKind ? (
+            <MessageMediaIcon kind={mediaKind} className={styles.mediaIcon} />
+          ) : null}
           <MessageText entities={message.entities} className={styles.text} />
         </div>
 

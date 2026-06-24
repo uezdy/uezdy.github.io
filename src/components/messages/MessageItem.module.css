@@ -127,6 +127,20 @@
   line-height: 1.45;
 }
 
+.bodyWithMedia {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  align-items: flex-start;
+}
+
+.mediaIcon {
+  flex-shrink: 0;
+  width: 2rem;
+  height: 2rem;
+  color: #78909c;
+}
+
 .text {
   margin: 0;
   padding: 0;
