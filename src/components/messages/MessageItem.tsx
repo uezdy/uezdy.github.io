@@ -9,6 +9,7 @@ import {
   buildTelegramMessageUrl,
 } from '@/lib/telegramChat';
 import { TelegramMessageOpenButton } from '@/components/messages/TelegramMessageOpenButton';
+import { MessageReactions } from '@/components/messages/MessageReactions';
 import type { TelegramMessage } from '@/types/telegram';
 import styles from './MessageItem.module.css';
 
@@ -82,6 +83,8 @@ export function MessageItem({
         <div className={styles.body}>
           <MessageText entities={message.entities} className={styles.text} />
         </div>
+
+        <MessageReactions reactions={message.reactions ?? []} />
       </div>
     </article>
   );

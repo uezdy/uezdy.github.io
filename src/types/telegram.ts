@@ -6,6 +6,25 @@ export type TextEntity = {
   user_id?: number;
 };
 
+export type MessageReaction =
+  | {
+      type: 'emoji';
+      emoji: string;
+      count: number;
+      chosen?: boolean;
+    }
+  | {
+      type: 'custom_emoji';
+      document_id: number;
+      count: number;
+      chosen?: boolean;
+    }
+  | {
+      type: 'paid';
+      count: number;
+      chosen?: boolean;
+    };
+
 export type TelegramMessage = {
   id: number;
   date: string | null;
@@ -17,6 +36,7 @@ export type TelegramMessage = {
   topic_id: number | null;
   has_media: boolean;
   media_type: string | null;
+  reactions?: MessageReaction[];
 };
 
 export type TelegramTopic = {

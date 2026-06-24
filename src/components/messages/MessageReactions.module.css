@@ -1,0 +1,53 @@
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem;
+  margin-top: 0.35rem;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.18rem;
+  min-height: 1.55rem;
+  padding: 0.08rem 0.42rem 0.08rem 0.3rem;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  background: rgb(15 23 42 / 5%);
+  color: #546e7a;
+  font-size: 0.72rem;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+  user-select: none;
+}
+
+.chipChosen {
+  border-color: rgb(25 118 210 / 28%);
+  background: rgb(25 118 210 / 12%);
+  color: #1565c0;
+}
+
+.emoji {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.95rem;
+  line-height: 1;
+}
+
+.customEmoji {
+  display: inline-block;
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  background:
+    radial-gradient(circle at 35% 35%, #fff 0%, #fff 18%, transparent 19%),
+    linear-gradient(135deg, #64b5f6 0%, #1976d2 100%);
+  box-shadow: inset 0 0 0 1px rgb(25 118 210 / 18%);
+}
+
+.count {
+  min-width: 0.55rem;
+  font-size: 0.68rem;
+  font-weight: 500;
+}

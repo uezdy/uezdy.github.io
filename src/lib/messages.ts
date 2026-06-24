@@ -24,6 +24,7 @@ function normalizeMessage(message: TelegramMessage): TelegramMessage {
     ...message,
     topic_id: message.topic_id ?? null,
     sender_name: message.sender_name ?? null,
+    reactions: message.reactions ?? [],
     entities,
   };
 }

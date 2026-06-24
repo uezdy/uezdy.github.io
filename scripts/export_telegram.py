@@ -19,6 +19,9 @@ from telethon.tl.types import (
     ForumTopic,
     Message,
     MessageActionTopicCreate,
+    ReactionCustomEmoji,
+    ReactionEmoji,
+    ReactionPaid,
     MessageEntityBold,
     MessageEntityBotCommand,
     MessageEntityCashtag,
@@ -70,6 +73,7 @@ def require_env(name: str) -> str:
 
 GENERAL_TOPIC_ID = 1
 FORUM_REPAIR_WINDOW = 2000
+REACTIONS_REPAIR_WINDOW = 500
 REPAIR_BATCH_SIZE = 100
 
 ENTITY_TYPE_BY_CLASS: dict[type, str] = {
@@ -96,6 +100,35 @@ def map_entity_type(entity) -> str:
         if isinstance(entity, cls):
             return name
     return "plain"
+
+
+def serialize_reaction_item(reaction) -> dict | None:
+    if isinstance(reaction, ReactionEmoji):
+        return {"type": "emoji", "emoji": reaction.emoticon}
+    if isinstance(reaction, ReactionCustomEmoji):
+        return {"type": "custom_emoji", "document_id": reaction.document_id}
+    if isinstance(reaction, ReactionPaid):
+        return {"type": "paid"}
+    return None
+
+
+def serialize_reactions(message: Message) -> list[dict]:
+    reactions = message.reactions
+    if not reactions or not reactions.results:
+        return []
+
+    serialized: list[dict] = []
+    for item in reactions.results:
+        reaction = serialize_reaction_item(item.reaction)
+        if not reaction:
+            continue
+
+        entry = {**reaction, "count": item.count}
+        if item.chosen_order is not None:
+            entry["chosen"] = True
+        serialized.append(entry)
+
+    return serialized
 
 
 def serialize_entities(message: Message) -> list[dict]:
@@ -262,6 +295,7 @@ async def message_to_dict(
         "topic_id": get_topic_id(message, is_forum, known_topic_ids),
         "has_media": bool(message.media),
         "media_type": media_type,
+        "reactions": serialize_reactions(message),
     }
 
 
@@ -321,6 +355,30 @@ async def fetch_messages_by_ids(
     return fetched
 
 
+async def repair_messages_window(
+    client: TelegramClient,
+    chat: str,
+    merged: list[dict],
+    is_forum: bool,
+    window: int,
+    known_topic_ids: set[int] | None = None,
+) -> list[dict]:
+    if not merged:
+        return merged
+
+    max_id = max(item["id"] for item in merged)
+    min_id = max(1, max_id - window + 1)
+    repair_ids = list(range(min_id, max_id + 1))
+    repaired = await fetch_messages_by_ids(
+        client, chat, repair_ids, is_forum, known_topic_ids
+    )
+
+    if not repaired:
+        return merged
+
+    return merge_messages(merged, repaired)
+
+
 async def repair_forum_messages(
     client: TelegramClient,
     chat: str,
@@ -331,17 +389,29 @@ async def repair_forum_messages(
     if not is_forum or not merged:
         return merged
 
-    max_id = max(item["id"] for item in merged)
-    min_id = max(1, max_id - FORUM_REPAIR_WINDOW + 1)
-    repair_ids = list(range(min_id, max_id + 1))
-    repaired = await fetch_messages_by_ids(
-        client, chat, repair_ids, is_forum, known_topic_ids
+    return await repair_messages_window(
+        client, chat, merged, is_forum, FORUM_REPAIR_WINDOW, known_topic_ids
     )
 
-    if not repaired:
+
+async def repair_recent_reactions(
+    client: TelegramClient,
+    chat: str,
+    merged: list[dict],
+    is_forum: bool,
+    known_topic_ids: set[int] | None = None,
+) -> list[dict]:
+    if not merged:
         return merged
 
-    return merge_messages(merged, repaired)
+    return await repair_messages_window(
+        client,
+        chat,
+        merged,
+        is_forum,
+        REACTIONS_REPAIR_WINDOW,
+        known_topic_ids,
+    )
 
 
 async def fetch_forum_topics(client: TelegramClient, entity) -> list[dict]:
@@ -464,7 +534,9 @@ async def export_group(
         item.get("topic_id") is None for item in existing_messages
     )
     needs_metadata_backfill = any(
-        "entities" not in item or "sender_name" not in item
+        "entities" not in item
+        or "sender_name" not in item
+        or "reactions" not in item
         for item in existing_messages
     )
     export_mode = describe_export_mode(
@@ -512,6 +584,19 @@ async def export_group(
                 f"forum repair window: refreshed up to {FORUM_REPAIR_WINDOW} recent id(s)"
             )
         merged = normalize_message_topic_ids(merged, merged_topics)
+    elif merged:
+        before_repair = len(merged)
+        merged = await repair_recent_reactions(client, chat, merged, is_forum)
+        repaired_count = len(merged) - before_repair
+        if repaired_count:
+            stages.note(
+                f"reactions repair window: added {repaired_count} missing message(s)"
+            )
+        else:
+            stages.note(
+                f"reactions repair window: refreshed up to "
+                f"{REACTIONS_REPAIR_WINDOW} recent id(s)"
+            )
     max_id = max((item["id"] for item in merged), default=last_message_id)
     stages.note(
         f"merged totals: {len(merged)} message(s), "
