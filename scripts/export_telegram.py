@@ -275,6 +275,52 @@ def normalize_message_topic_ids(
     return messages
 
 
+def infer_topic_ids_from_replies(
+    messages: list[dict],
+    topics: list[dict],
+) -> list[dict]:
+    known_topic_ids = build_known_topic_ids(topics)
+    by_id = {item["id"]: item for item in messages}
+    memo: dict[int, int] = {}
+
+    def resolve(message_id: int) -> int:
+        cached = memo.get(message_id)
+        if cached is not None:
+            return cached
+
+        message = by_id.get(message_id)
+        if message is None:
+            memo[message_id] = GENERAL_TOPIC_ID
+            return GENERAL_TOPIC_ID
+
+        stored = message.get("topic_id") or GENERAL_TOPIC_ID
+        if stored not in known_topic_ids:
+            stored = GENERAL_TOPIC_ID
+
+        if stored != GENERAL_TOPIC_ID:
+            memo[message_id] = stored
+            return stored
+
+        reply_to = message.get("reply_to")
+        if reply_to in known_topic_ids and reply_to != GENERAL_TOPIC_ID:
+            memo[message_id] = reply_to
+            return reply_to
+
+        if reply_to in by_id:
+            parent_topic = resolve(reply_to)
+            if parent_topic != GENERAL_TOPIC_ID:
+                memo[message_id] = parent_topic
+                return parent_topic
+
+        memo[message_id] = stored
+        return stored
+
+    for item in messages:
+        item["topic_id"] = resolve(item["id"])
+
+    return messages
+
+
 async def message_to_dict(
     message: Message,
     is_forum: bool,
@@ -584,6 +630,7 @@ async def export_group(
                 f"forum repair window: refreshed up to {FORUM_REPAIR_WINDOW} recent id(s)"
             )
         merged = normalize_message_topic_ids(merged, merged_topics)
+        merged = infer_topic_ids_from_replies(merged, merged_topics)
     elif merged:
         before_repair = len(merged)
         merged = await repair_recent_reactions(client, chat, merged, is_forum)

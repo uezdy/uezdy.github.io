@@ -34,6 +34,97 @@ export function normalizeTopicId(
   return knownTopicIds.has(topicId) ? topicId : GENERAL_TOPIC_ID;
 }
 
+function resolveStoredTopicId(
+  topicId: number | null,
+  knownTopicIds: ReadonlySet<number>
+): number {
+  return normalizeTopicId(topicId ?? GENERAL_TOPIC_ID, knownTopicIds);
+}
+
+function createTopicResolver(
+  messages: TelegramMessage[],
+  knownTopicIds: ReadonlySet<number>
+): (message: TelegramMessage) => number {
+  const messagesById = new Map(messages.map((message) => [message.id, message]));
+  const memo = new Map<number, number>();
+
+  function resolveById(messageId: number): number {
+    const cached = memo.get(messageId);
+
+    if (cached !== undefined) {
+      return cached;
+    }
+
+    const message = messagesById.get(messageId);
+
+    if (!message) {
+      memo.set(messageId, GENERAL_TOPIC_ID);
+      return GENERAL_TOPIC_ID;
+    }
+
+    const stored = resolveStoredTopicId(message.topic_id, knownTopicIds);
+
+    if (stored !== GENERAL_TOPIC_ID) {
+      memo.set(messageId, stored);
+      return stored;
+    }
+
+    const replyTo = message.reply_to;
+
+    if (
+      replyTo !== null &&
+      knownTopicIds.has(replyTo) &&
+      replyTo !== GENERAL_TOPIC_ID
+    ) {
+      memo.set(messageId, replyTo);
+      return replyTo;
+    }
+
+    if (replyTo !== null && messagesById.has(replyTo)) {
+      const parentTopic = resolveById(replyTo);
+
+      if (parentTopic !== GENERAL_TOPIC_ID) {
+        memo.set(messageId, parentTopic);
+        return parentTopic;
+      }
+    }
+
+    memo.set(messageId, stored);
+    return stored;
+  }
+
+  return (message) => resolveById(message.id);
+}
+
+const topicResolverCache = new Map<
+  string,
+  (message: TelegramMessage) => number
+>();
+
+function getTopicResolver(
+  groupSlug: string,
+  messages: TelegramMessage[]
+): (message: TelegramMessage) => number {
+  const cached = topicResolverCache.get(groupSlug);
+
+  if (cached) {
+    return cached;
+  }
+
+  const resolver = createTopicResolver(messages, getKnownTopicIds(groupSlug));
+  topicResolverCache.set(groupSlug, resolver);
+
+  return resolver;
+}
+
+export function resolveMessageTopicId(
+  message: TelegramMessage,
+  groupSlug: string,
+  messages: TelegramMessage[]
+): number {
+  return getTopicResolver(groupSlug, messages)(message);
+}
+
 function resolveTopicTitle(
   topicId: number,
   titles: Map<number, string>
@@ -51,15 +142,13 @@ function resolveTopicTitle(
 
 function countMessagesByTopic(
   messages: TelegramMessage[],
-  knownTopicIds: ReadonlySet<number>
+  groupSlug: string
 ): Map<number, number> {
+  const resolver = getTopicResolver(groupSlug, messages);
   const counts = new Map<number, number>();
 
   for (const message of messages) {
-    const topicId = normalizeTopicId(
-      message.topic_id ?? GENERAL_TOPIC_ID,
-      knownTopicIds
-    );
+    const topicId = resolver(message);
     counts.set(topicId, (counts.get(topicId) ?? 0) + 1);
   }
 
@@ -78,7 +167,7 @@ export function getTopics(
   const titles = new Map(
     exportedTopics.map((topic) => [topic.id, topic.title])
   );
-  const counts = countMessagesByTopic(messages, knownTopicIds);
+  const counts = countMessagesByTopic(messages, groupSlug);
   const topicIds = new Set<number>([
     ...counts.keys(),
     ...exportedTopics.map((topic) => topic.id),

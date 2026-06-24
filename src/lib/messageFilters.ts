@@ -1,6 +1,6 @@
 import { getMessagePlainText } from '@/lib/messageText';
 import { GENERAL_TOPIC_ID } from '@/lib/topicConstants';
-import { getKnownTopicIds, normalizeTopicId } from '@/lib/topics';
+import { resolveMessageTopicId as resolveTopicId } from '@/lib/topics';
 import type { TelegramMessage } from '@/types/telegram';
 
 export function hasDisplayText(message: TelegramMessage): boolean {
@@ -9,15 +9,16 @@ export function hasDisplayText(message: TelegramMessage): boolean {
 
 export function resolveMessageTopicId(
   message: TelegramMessage,
-  groupSlug?: string
+  groupSlug?: string,
+  allMessages?: TelegramMessage[]
 ): number {
   const rawTopicId = message.topic_id ?? GENERAL_TOPIC_ID;
 
-  if (!groupSlug) {
+  if (!groupSlug || !allMessages) {
     return rawTopicId;
   }
 
-  return normalizeTopicId(rawTopicId, getKnownTopicIds(groupSlug));
+  return resolveTopicId(message, groupSlug, allMessages);
 }
 
 export function filterMessagesByTopic(
@@ -26,7 +27,7 @@ export function filterMessagesByTopic(
   groupSlug?: string
 ): TelegramMessage[] {
   return messages.filter(
-    (message) => resolveMessageTopicId(message, groupSlug) === topicId
+    (message) => resolveMessageTopicId(message, groupSlug, messages) === topicId
   );
 }
 
