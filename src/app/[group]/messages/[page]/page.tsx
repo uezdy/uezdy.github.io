@@ -35,7 +35,11 @@ export async function generateMetadata({
     return { title: 'Страница не найдена' };
   }
 
-  const displayable = getDisplayableMessages(context.messages);
+  const displayable = getDisplayableMessages(
+    context.messages,
+    undefined,
+    context.slug
+  );
   const totalPages = getTotalPages(displayable.length);
 
   if (page > totalPages) {
@@ -65,7 +69,11 @@ export default async function GroupMessagesPage({
     notFound();
   }
 
-  const displayable = getDisplayableMessages(context.messages);
+  const displayable = getDisplayableMessages(
+    context.messages,
+    undefined,
+    context.slug
+  );
   const totalPages = getTotalPages(displayable.length);
 
   if (page > totalPages) {

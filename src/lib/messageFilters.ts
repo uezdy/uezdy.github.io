@@ -1,21 +1,32 @@
 import { getMessagePlainText } from '@/lib/messageText';
 import { GENERAL_TOPIC_ID } from '@/lib/topicConstants';
+import { getKnownTopicIds, normalizeTopicId } from '@/lib/topics';
 import type { TelegramMessage } from '@/types/telegram';
 
 export function hasDisplayText(message: TelegramMessage): boolean {
   return getMessagePlainText(message).trim().length > 0;
 }
 
-export function resolveMessageTopicId(message: TelegramMessage): number {
-  return message.topic_id ?? GENERAL_TOPIC_ID;
+export function resolveMessageTopicId(
+  message: TelegramMessage,
+  groupSlug?: string
+): number {
+  const rawTopicId = message.topic_id ?? GENERAL_TOPIC_ID;
+
+  if (!groupSlug) {
+    return rawTopicId;
+  }
+
+  return normalizeTopicId(rawTopicId, getKnownTopicIds(groupSlug));
 }
 
 export function filterMessagesByTopic(
   messages: TelegramMessage[],
-  topicId: number
+  topicId: number,
+  groupSlug?: string
 ): TelegramMessage[] {
   return messages.filter(
-    (message) => resolveMessageTopicId(message) === topicId
+    (message) => resolveMessageTopicId(message, groupSlug) === topicId
   );
 }
 
@@ -26,17 +37,21 @@ const displayableCache = new WeakMap<
 
 function computeDisplayableMessages(
   messages: TelegramMessage[],
-  topicId?: number
+  topicId?: number,
+  groupSlug?: string
 ): TelegramMessage[] {
   const scoped =
-    topicId === undefined ? messages : filterMessagesByTopic(messages, topicId);
+    topicId === undefined
+      ? messages
+      : filterMessagesByTopic(messages, topicId, groupSlug);
 
   return scoped.filter(hasDisplayText);
 }
 
 export function getDisplayableMessages(
   messages: TelegramMessage[],
-  topicId?: number
+  topicId?: number,
+  groupSlug?: string
 ): TelegramMessage[] {
   let byTopic = displayableCache.get(messages);
 
@@ -45,14 +60,21 @@ export function getDisplayableMessages(
     displayableCache.set(messages, byTopic);
   }
 
-  const key = topicId === undefined ? 'all' : String(topicId);
+  const key =
+    topicId === undefined
+      ? groupSlug
+        ? `all:${groupSlug}`
+        : 'all'
+      : groupSlug
+        ? `${topicId}:${groupSlug}`
+        : String(topicId);
   const cached = byTopic.get(key);
 
   if (cached) {
     return cached;
   }
 
-  const displayable = computeDisplayableMessages(messages, topicId);
+  const displayable = computeDisplayableMessages(messages, topicId, groupSlug);
   byTopic.set(key, displayable);
 
   return displayable;

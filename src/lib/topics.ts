@@ -5,6 +5,35 @@ import type { TelegramMessage, TelegramTopic } from '@/types/telegram';
 
 export { GENERAL_TOPIC_ID, type TopicWithCount } from '@/lib/topicConstants';
 
+const knownTopicIdsCache = new Map<string, Set<number>>();
+
+export function getKnownTopicIds(groupSlug: string): Set<number> {
+  const cached = knownTopicIdsCache.get(groupSlug);
+
+  if (cached) {
+    return cached;
+  }
+
+  const exportedTopics = readJsonFile<TelegramTopic[]>(
+    getGroupDataPath(groupSlug, 'topics.json'),
+    []
+  );
+  const knownTopicIds = new Set<number>([
+    GENERAL_TOPIC_ID,
+    ...exportedTopics.map((topic) => topic.id),
+  ]);
+  knownTopicIdsCache.set(groupSlug, knownTopicIds);
+
+  return knownTopicIds;
+}
+
+export function normalizeTopicId(
+  topicId: number,
+  knownTopicIds: ReadonlySet<number>
+): number {
+  return knownTopicIds.has(topicId) ? topicId : GENERAL_TOPIC_ID;
+}
+
 function resolveTopicTitle(
   topicId: number,
   titles: Map<number, string>
@@ -21,12 +50,16 @@ function resolveTopicTitle(
 }
 
 function countMessagesByTopic(
-  messages: TelegramMessage[]
+  messages: TelegramMessage[],
+  knownTopicIds: ReadonlySet<number>
 ): Map<number, number> {
   const counts = new Map<number, number>();
 
   for (const message of messages) {
-    const topicId = message.topic_id ?? GENERAL_TOPIC_ID;
+    const topicId = normalizeTopicId(
+      message.topic_id ?? GENERAL_TOPIC_ID,
+      knownTopicIds
+    );
     counts.set(topicId, (counts.get(topicId) ?? 0) + 1);
   }
 
@@ -41,10 +74,11 @@ export function getTopics(
     getGroupDataPath(groupSlug, 'topics.json'),
     []
   );
+  const knownTopicIds = getKnownTopicIds(groupSlug);
   const titles = new Map(
     exportedTopics.map((topic) => [topic.id, topic.title])
   );
-  const counts = countMessagesByTopic(messages);
+  const counts = countMessagesByTopic(messages, knownTopicIds);
   const topicIds = new Set<number>([
     ...counts.keys(),
     ...exportedTopics.map((topic) => topic.id),

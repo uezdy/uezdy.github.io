@@ -181,20 +181,43 @@ async def get_sender_name(message: Message) -> str | None:
     return f"@{username}" if username else None
 
 
-def get_topic_id(message: Message, is_forum: bool) -> int | None:
+def build_known_topic_ids(topics: list[dict]) -> set[int]:
+    return {GENERAL_TOPIC_ID, *(topic["id"] for topic in topics)}
+
+
+def resolve_forum_topic_id(
+    candidate: int | None,
+    known_topic_ids: set[int],
+) -> int:
+    if candidate is None:
+        return GENERAL_TOPIC_ID
+
+    if candidate in known_topic_ids:
+        return candidate
+
+    return GENERAL_TOPIC_ID
+
+
+def get_topic_id(
+    message: Message,
+    is_forum: bool,
+    known_topic_ids: set[int] | None = None,
+) -> int | None:
     if not is_forum:
         return None
+
+    known = known_topic_ids or {GENERAL_TOPIC_ID}
 
     reply_to = message.reply_to
     if reply_to is not None:
         top_id = getattr(reply_to, "reply_to_top_id", None)
         if top_id:
-            return top_id
+            return resolve_forum_topic_id(top_id, known)
 
         if getattr(reply_to, "forum_topic", False):
             reply_msg_id = getattr(reply_to, "reply_to_msg_id", None)
             if reply_msg_id:
-                return reply_msg_id
+                return resolve_forum_topic_id(reply_msg_id, known)
 
     if message.action and isinstance(message.action, MessageActionTopicCreate):
         return message.id
@@ -202,7 +225,28 @@ def get_topic_id(message: Message, is_forum: bool) -> int | None:
     return GENERAL_TOPIC_ID
 
 
-async def message_to_dict(message: Message, is_forum: bool) -> dict:
+def normalize_message_topic_ids(
+    messages: list[dict],
+    topics: list[dict],
+) -> list[dict]:
+    known_topic_ids = build_known_topic_ids(topics)
+
+    for item in messages:
+        topic_id = item.get("topic_id")
+        if topic_id is None:
+            continue
+
+        if topic_id not in known_topic_ids:
+            item["topic_id"] = GENERAL_TOPIC_ID
+
+    return messages
+
+
+async def message_to_dict(
+    message: Message,
+    is_forum: bool,
+    known_topic_ids: set[int] | None = None,
+) -> dict:
     media_type = None
     if message.media:
         media_type = type(message.media).__name__
@@ -215,7 +259,7 @@ async def message_to_dict(message: Message, is_forum: bool) -> dict:
         "text": message.message or "",
         "entities": serialize_entities(message),
         "reply_to": message.reply_to_msg_id,
-        "topic_id": get_topic_id(message, is_forum),
+        "topic_id": get_topic_id(message, is_forum, known_topic_ids),
         "has_media": bool(message.media),
         "media_type": media_type,
     }
@@ -254,6 +298,7 @@ async def fetch_messages_by_ids(
     chat: str,
     message_ids: list[int],
     is_forum: bool,
+    known_topic_ids: set[int] | None = None,
 ) -> list[dict]:
     fetched: list[dict] = []
 
@@ -269,7 +314,9 @@ async def fetch_messages_by_ids(
 
         for message in messages:
             if isinstance(message, Message):
-                fetched.append(await message_to_dict(message, is_forum))
+                fetched.append(
+                    await message_to_dict(message, is_forum, known_topic_ids)
+                )
 
     return fetched
 
@@ -279,6 +326,7 @@ async def repair_forum_messages(
     chat: str,
     merged: list[dict],
     is_forum: bool,
+    known_topic_ids: set[int] | None = None,
 ) -> list[dict]:
     if not is_forum or not merged:
         return merged
@@ -286,7 +334,9 @@ async def repair_forum_messages(
     max_id = max(item["id"] for item in merged)
     min_id = max(1, max_id - FORUM_REPAIR_WINDOW + 1)
     repair_ids = list(range(min_id, max_id + 1))
-    repaired = await fetch_messages_by_ids(client, chat, repair_ids, is_forum)
+    repaired = await fetch_messages_by_ids(
+        client, chat, repair_ids, is_forum, known_topic_ids
+    )
 
     if not repaired:
         return merged
@@ -445,9 +495,13 @@ async def export_group(
 
     stages.advance("Merge local data with fetched data")
     merged = merge_messages(existing_messages, fetched)
+    merged_topics = merge_topics(existing_topics, fetched_topics)
     if is_forum and merged:
+        known_topic_ids = build_known_topic_ids(merged_topics)
         before_repair = len(merged)
-        merged = await repair_forum_messages(client, chat, merged, is_forum)
+        merged = await repair_forum_messages(
+            client, chat, merged, is_forum, known_topic_ids
+        )
         repaired_count = len(merged) - before_repair
         if repaired_count:
             stages.note(
@@ -457,7 +511,7 @@ async def export_group(
             stages.note(
                 f"forum repair window: refreshed up to {FORUM_REPAIR_WINDOW} recent id(s)"
             )
-    merged_topics = merge_topics(existing_topics, fetched_topics)
+        merged = normalize_message_topic_ids(merged, merged_topics)
     max_id = max((item["id"] for item in merged), default=last_message_id)
     stages.note(
         f"merged totals: {len(merged)} message(s), "

@@ -34,7 +34,11 @@ export function MessagesArchiveView({
   topicId,
   buildPageHref,
 }: MessagesArchiveViewProps) {
-  const displayable = getDisplayableMessages(context.messages, topicId);
+  const displayable = getDisplayableMessages(
+    context.messages,
+    topicId,
+    context.slug
+  );
   const totalPages = getTotalPages(displayable.length);
   const pageMessages = slicePage(displayable, page);
   const topicTitle = resolveTopicTitle(context, topicId);

@@ -44,7 +44,11 @@ export default async function GroupPage({ params }: GroupPageProps) {
     notFound();
   }
 
-  const displayableCount = getDisplayableMessages(context.messages).length;
+  const displayableCount = getDisplayableMessages(
+    context.messages,
+    undefined,
+    context.slug
+  ).length;
   const totalPages = getTotalPages(displayableCount);
 
   return (

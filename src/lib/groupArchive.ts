@@ -70,7 +70,7 @@ export function getGroupMessagePageParams(): { group: string; page: string }[] {
       continue;
     }
 
-    const displayable = getDisplayableMessages(context.messages);
+    const displayable = getDisplayableMessages(context.messages, undefined, context.slug);
     const totalPages = getTotalPages(displayable.length);
 
     for (const page of pageRange(totalPages)) {
@@ -100,7 +100,11 @@ export function getTopicMessagePageParams(): {
     }
 
     for (const topic of context.topics) {
-      const displayable = getDisplayableMessages(context.messages, topic.id);
+      const displayable = getDisplayableMessages(
+        context.messages,
+        topic.id,
+        context.slug
+      );
       const totalPages = getTotalPages(displayable.length);
 
       for (const page of pageRange(totalPages)) {

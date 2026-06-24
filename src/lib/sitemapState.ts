@@ -105,7 +105,11 @@ export function collectSitemapUrlCandidates(): SitemapUrlCandidate[] {
       continue;
     }
 
-    const displayable = getDisplayableMessages(context.messages);
+    const displayable = getDisplayableMessages(
+      context.messages,
+      undefined,
+      context.slug
+    );
 
     candidates.push(
       buildMessagePageCandidate(
@@ -125,7 +129,8 @@ export function collectSitemapUrlCandidates(): SitemapUrlCandidate[] {
 
     const displayable = getDisplayableMessages(
       context.messages,
-      Number(topicId)
+      Number(topicId),
+      context.slug
     );
 
     candidates.push(
@@ -144,7 +149,11 @@ export function collectSitemapUrlCandidates(): SitemapUrlCandidate[] {
       continue;
     }
 
-    const displayable = getDisplayableMessages(context.messages);
+    const displayable = getDisplayableMessages(
+      context.messages,
+      undefined,
+      context.slug
+    );
 
     candidates.push({
       path: groupOverviewPath(group.slug),
@@ -306,7 +315,7 @@ export function isLastMessagePage(path: string): boolean {
     }
 
     const totalPages = getTotalPages(
-      getDisplayableMessages(context.messages).length
+      getDisplayableMessages(context.messages, undefined, context.slug).length
     );
 
     return Number(pageValue) === totalPages;
@@ -328,7 +337,11 @@ export function isLastMessagePage(path: string): boolean {
   }
 
   const totalPages = getTotalPages(
-    getDisplayableMessages(context.messages, Number(topicIdValue)).length
+    getDisplayableMessages(
+      context.messages,
+      Number(topicIdValue),
+      context.slug
+    ).length
   );
 
   return Number(pageValue) === totalPages;
