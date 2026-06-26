@@ -63,10 +63,3 @@ export type TelegramGroupConfig = {
 export type GroupsManifest = {
   groups: TelegramGroupConfig[];
 };
-
-export type GroupSummary = TelegramGroupConfig & {
-  messageCount: number;
-  topicCount: number;
-  isForum: boolean;
-  exportedAt: string | null;
-};

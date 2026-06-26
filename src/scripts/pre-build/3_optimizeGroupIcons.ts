@@ -1,6 +1,8 @@
 import fs from 'fs';
 import path from 'path';
 import sharp from 'sharp';
+import { readJsonFile } from '@/lib/readJson';
+import type { GroupsManifest } from '@/types/telegram';
 import type { IScriptParams } from '../runner';
 
 const GROUP_ICON_SOURCE = 'icon.jpg';
@@ -35,6 +37,9 @@ async function optimizeGroupIcon(
 export default async function optimizeGroupIcons(_params: IScriptParams) {
   const dataGroupsDir = path.join(process.cwd(), 'data', 'groups');
   const publicGroupsDir = path.join(process.cwd(), 'public', 'groups');
+  const manifest = readJsonFile<GroupsManifest>('data/groups.json', {
+    groups: [],
+  });
 
   if (!fs.existsSync(dataGroupsDir)) {
     console.warn(`Prebuild: missing ${dataGroupsDir}`);
@@ -44,18 +49,14 @@ export default async function optimizeGroupIcons(_params: IScriptParams) {
   let groupCount = 0;
   let fileCount = 0;
 
-  for (const entry of fs.readdirSync(dataGroupsDir, { withFileTypes: true })) {
-    if (!entry.isDirectory()) {
-      continue;
-    }
-
-    const sourcePath = path.join(dataGroupsDir, entry.name, GROUP_ICON_SOURCE);
+  for (const group of manifest.groups) {
+    const sourcePath = path.join(dataGroupsDir, group.slug, GROUP_ICON_SOURCE);
 
     if (!fs.existsSync(sourcePath)) {
       continue;
     }
 
-    const targetDir = path.join(publicGroupsDir, entry.name);
+    const targetDir = path.join(publicGroupsDir, group.slug);
     fs.mkdirSync(targetDir, { recursive: true });
 
     const written = await optimizeGroupIcon(sourcePath, targetDir);
@@ -63,7 +64,7 @@ export default async function optimizeGroupIcons(_params: IScriptParams) {
     fileCount += written;
 
     console.log(
-      `Prebuild: optimized groups/${entry.name}/${GROUP_ICON_SOURCE} -> ${written} WebP variant(s)`
+      `Prebuild: optimized groups/${group.slug}/${GROUP_ICON_SOURCE} -> ${written} WebP variant(s)`
     );
   }
 

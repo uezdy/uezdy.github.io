@@ -1,0 +1,47 @@
+.empty {
+  padding: 2rem 1.25rem;
+  border: 1px dashed var(--border);
+  border-radius: 16px;
+  background: var(--surface);
+  text-align: center;
+}
+
+.empty h2 {
+  margin: 0 0 0.5rem;
+}
+
+.empty p {
+  margin: 0;
+  color: var(--text-muted);
+}
+
+.entry {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding: 1.25rem;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: var(--surface);
+}
+
+.entryTitle {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.entryMeta {
+  margin: 0;
+  color: var(--text-muted);
+}
+
+.entryLink {
+  align-self: flex-start;
+  color: var(--accent);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.entryLink:hover {
+  text-decoration: underline;
+}

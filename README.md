@@ -1,19 +1,18 @@
 # uezdy.github.io project
 
-Экспорт сообщений Telegram-групп в JSON и публикация полной истории на
+Экспорт сообщений Telegram-группы @uezdy в JSON и публикация полной истории на
 GitHub Pages через Next.js (SSG).
 
-Сайт поддерживает **несколько групп**: список задаётся в `data/groups.json`,
-данные каждой группы хранятся отдельно в `data/groups/<slug>/`.
+Данные группы хранятся в `data/groups/uezdy/`.
 
 ## Структура данных
 
 | Путь | Описание |
 | ---- | -------- |
-| `data/groups.json` | Список групп для экспорта (`slug` + `chat`) |
-| `data/groups/<slug>/messages.json` | Все сообщения группы |
-| `data/groups/<slug>/topics.json` | Темы форума (для групп с топиками) |
-| `data/groups/<slug>/export_state.json` | Служебное состояние экспорта |
+| `data/groups.json` | Конфигурация группы (`slug` + `chat`) |
+| `data/groups/uezdy/messages.json` | Все сообщения группы |
+| `data/groups/uezdy/topics.json` | Темы форума |
+| `data/groups/uezdy/export_state.json` | Служебное состояние экспорта |
 | `data/sitemap-state.json` | Состояние sitemap между сборками |
 
 При `npm run build` prebuild-скрипты копируют `data/` → `public/` и
@@ -25,7 +24,7 @@ GitHub Pages через Next.js (SSG).
 
 - Python 3.10+ ([python.org](https://www.python.org/downloads/))
 - Node.js 22 ([nodejs.org](https://nodejs.org/))
-- Аккаунт Telegram, **уже состоящий** во всех нужных группах
+- Аккаунт Telegram, **состоящий** в группе @uezdy
 - Доступ к [my.telegram.org](https://my.telegram.org)
 
 ### Шаг 1. Открыть проект в терминале
@@ -95,33 +94,22 @@ TELEGRAM_SESSION=длинная_строка_из_create_session
 
 Переменные из окружения (например, в CI) имеют приоритет над `.env`.
 
-### Шаг 6. Настроить группы для экспорта
+### Шаг 6. Конфигурация группы
 
-Отредактируйте `data/groups.json`:
+Группа @uezdy уже указана в `data/groups.json`:
 
 ```json
 {
   "groups": [
-    { "slug": "lepelskiy", "chat": "@lepelskiy" },
-    { "slug": "sennenskiy", "chat": "@sennenskiy" }
+    { "slug": "uezdy", "chat": "@uezdy" }
   ]
 }
 ```
 
-- **slug** — короткое имя для URL сайта (`/lepelskiy/`, `/lepelskiy/topic/107/messages/1/`)
+- **slug** — имя для URL сайта (`/`, `/uezdy/`, `/uezdy/topic/107/messages/1/`)
 - **chat** — идентификатор группы в Telegram
 
-**Как указать группу в `chat`:**
-
-| Вариант          | Пример                  |
-| ---------------- | ----------------------- |
-| Публичная группа | `@my_group`             |
-| Числовой id      | `-1001234567890`        |
-| Ссылка           | `https://t.me/my_group` |
-
-Для приватной группы без `@username` удобнее числовой id. Его можно узнать через бота вроде `@userinfobot` или из ссылки вида `t.me/c/1234567890/1` → id будет `-1001234567890`.
-
-Если `data/groups.json` отсутствует, можно экспортировать одну группу через переменную окружения `TELEGRAM_CHAT` в `.env`.
+Если `data/groups.json` отсутствует, можно экспортировать через переменную окружения `TELEGRAM_CHAT=@uezdy` в `.env`.
 
 ### Шаг 7. Запустить экспорт истории
 
@@ -131,16 +119,16 @@ TELEGRAM_SESSION=длинная_строка_из_create_session
 python scripts/export_telegram.py
 ```
 
-При успехе скрипт пройдёт по всем группам из `data/groups.json` и сохранит JSON в `data/groups/<slug>/`.
+При успехе скрипт сохранит JSON в `data/groups/uezdy/`.
 
 ### Шаг 8. Проверить результат
 
-Для каждой группы появятся файлы:
+Появятся файлы:
 
-- `data/groups/<slug>/messages.json` — все сообщения
-- `data/groups/<slug>/topics.json` — темы форума (если группа с топиками)
-- `data/groups/<slug>/export_state.json` — последний id, дата экспорта, счётчики
-- `data/groups/<slug>/icon.jpg` — аватар группы (favicon на страницах архива)
+- `data/groups/uezdy/messages.json` — все сообщения
+- `data/groups/uezdy/topics.json` — темы форума
+- `data/groups/uezdy/export_state.json` — последний id, дата экспорта, счётчики
+- `data/groups/uezdy/icon.jpg` — аватар группы (favicon на страницах архива)
 
 Первый запуск скачивает **всю историю**. Повторный — только **новые** сообщения.
 
@@ -159,7 +147,7 @@ npm run dev
 → не заполнен `.env` или он не в корне репозитория.
 
 **`No groups configured. Add data/groups.json or set TELEGRAM_CHAT.`**
-→ не настроен список групп.
+→ не настроена группа для экспорта.
 
 **`Could not find the input entity for`**
 → неверный `chat` в `groups.json` или ваш аккаунт не в этой группе.
@@ -195,7 +183,7 @@ npm run dev
 | `TELEGRAM_API_HASH` | API Hash                              |
 | `TELEGRAM_SESSION`  | String session из `create_session.py` |
 
-Список групп берётся из `data/groups.json` в репозитории — отдельный secret для чата не нужен.
+Список групп берётся из `data/groups.json` в репозитории (группа @uezdy) — отдельный secret для чата не нужен.
 
 ### Когда запускается
 
@@ -230,10 +218,10 @@ npm run dev
 
 | URL | Страница |
 | --- | -------- |
-| `/` | Список всех групп |
-| `/<slug>/` | Обзор группы и список тем |
-| `/<slug>/messages/<page>/` | Сообщения группы (без топиков) |
-| `/<slug>/topic/<topicId>/messages/<page>/` | Сообщения внутри темы форума |
+| `/` | Обзор группы и список тем |
+| `/uezdy/` | То же, что и `/` |
+| `/uezdy/messages/<page>/` | Сообщения группы (без топиков) |
+| `/uezdy/topic/<topicId>/messages/<page>/` | Сообщения внутри темы форума |
 
 ### Локальный запуск сайта
 

@@ -1,29 +1,36 @@
 import type { Metadata } from 'next';
-import { GroupsList } from '@/components/groups/GroupsList';
-import { getGroupSummaries } from '@/lib/groups';
+import { notFound } from 'next/navigation';
+import { GroupOverview } from '@/components/groups/GroupOverview';
+import { getGroupArchiveContext } from '@/lib/groupArchive';
+import { groupIconMetadata } from '@/lib/groupIcon';
+import { PRIMARY_GROUP_SLUG } from '@/lib/groups';
 import styles from './page.module.css';
 
-export const metadata: Metadata = {
-  title: 'Telegram Archives',
-  description:
-    'Архивы сообщений Telegram-групп для индексации поисковыми системами',
-};
+export async function generateMetadata(): Promise<Metadata> {
+  const context = getGroupArchiveContext(PRIMARY_GROUP_SLUG);
+
+  if (!context) {
+    return { title: 'Telegram Archive' };
+  }
+
+  return {
+    title: `${context.title} — Telegram Archive`,
+    description: `Архив сообщений группы ${context.group.chat}`,
+    ...groupIconMetadata(PRIMARY_GROUP_SLUG),
+  };
+}
 
 export default function HomePage() {
-  const groups = getGroupSummaries();
+  const context = getGroupArchiveContext(PRIMARY_GROUP_SLUG);
+
+  if (!context) {
+    notFound();
+  }
 
   return (
     <main className={styles.page}>
       <div className={styles.container}>
-        <header className={styles.hero}>
-          <p className={styles.eyebrow}>Архивы Telegram</p>
-          <h1 className={styles.title}>Группы</h1>
-          <p className={styles.subtitle}>
-            Полная история сообщений для поисковой индексации
-          </p>
-        </header>
-
-        <GroupsList groups={groups} />
+        <GroupOverview context={context} />
       </div>
     </main>
   );

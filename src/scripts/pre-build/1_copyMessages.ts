@@ -11,7 +11,7 @@ const GROUP_FILES = [
   'topics.json',
 ] as const;
 
-function copyGroupData(dataDir: string, publicDir: string) {
+function copyGroupData(dataDir: string, publicDir: string, slugs: string[]) {
   const groupsSourceDir = path.join(dataDir, 'groups');
   const groupsTargetDir = path.join(publicDir, 'groups');
 
@@ -20,16 +20,18 @@ function copyGroupData(dataDir: string, publicDir: string) {
     return;
   }
 
-  for (const slug of fs.readdirSync(groupsSourceDir, { withFileTypes: true })) {
-    if (!slug.isDirectory()) {
+  for (const slug of slugs) {
+    const sourceGroupDir = path.join(groupsSourceDir, slug);
+
+    if (!fs.existsSync(sourceGroupDir)) {
       continue;
     }
 
-    const targetGroupDir = path.join(groupsTargetDir, slug.name);
+    const targetGroupDir = path.join(groupsTargetDir, slug);
     fs.mkdirSync(targetGroupDir, { recursive: true });
 
     for (const file of GROUP_FILES) {
-      const sourcePath = path.join(groupsSourceDir, slug.name, file);
+      const sourcePath = path.join(sourceGroupDir, file);
       const targetPath = path.join(targetGroupDir, file);
 
       if (!fs.existsSync(sourcePath)) {
@@ -37,7 +39,7 @@ function copyGroupData(dataDir: string, publicDir: string) {
       }
 
       fs.copyFileSync(sourcePath, targetPath);
-      console.log(`Prebuild: copied groups/${slug.name}/${file}`);
+      console.log(`Prebuild: copied groups/${slug}/${file}`);
     }
   }
 }
@@ -71,9 +73,13 @@ export default async function copyMessages(_params: IScriptParams) {
       `${JSON.stringify(enrichedManifest, null, 2)}\n`
     );
     console.log('Prebuild: copied groups.json');
+
+    copyGroupData(
+      dataDir,
+      publicDir,
+      manifest.groups.map((group) => group.slug)
+    );
   } else {
     console.warn(`Prebuild: missing ${manifestPath}`);
   }
-
-  copyGroupData(dataDir, publicDir);
 }

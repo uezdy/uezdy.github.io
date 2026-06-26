@@ -11,17 +11,7 @@
 
 const REMOVED_LEGACY_GROUPS = ['1519967596', '1847780795'] as const;
 
-const LEGACY_TOPIC_ROUTE_GROUPS = [
-  'uezdy',
-  'familio_belarus',
-  'lepelskiy',
-  'sennenskiy',
-  'mogilevskiy_uezd',
-  'borisov_uezd',
-  'polotskiy_uezd',
-  'orsha_uezd',
-  'Bychowski_uezd',
-] as const;
+const LEGACY_TOPIC_ROUTE_GROUPS = ['uezdy'] as const;
 
 const NUMERIC_TOPIC_PREFIXES = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'];
 
