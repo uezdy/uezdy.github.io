@@ -1,6 +1,5 @@
 import type { Metadata, Viewport } from 'next';
-import { GoogleAnalytics } from '@/components/analytics/GoogleAnalytics';
-import { YandexMetrika } from '@/components/analytics/YandexMetrika';
+import { Analytics } from '@/components/analytics/Analytics';
 import { getSiteUrl } from '@/lib/siteUrl';
 import './globals.css';
 
@@ -28,8 +27,7 @@ export default function RootLayout({
   return (
     <html lang="ru">
       <body>
-        <GoogleAnalytics />
-        <YandexMetrika />
+        <Analytics />
         {children}
       </body>
     </html>
