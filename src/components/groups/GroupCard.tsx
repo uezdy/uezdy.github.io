@@ -5,7 +5,7 @@ import {
   getGroupIconCardSrcSet,
   hasGroupIcon,
 } from '@/lib/groupIcon';
-import { resolveGroupTitle } from '@/lib/groups';
+import { resolveGroupChatHandle, resolveGroupTitle } from '@/lib/groups';
 import type { GroupSummary } from '@/types/telegram';
 import styles from './GroupCard.module.css';
 
@@ -36,7 +36,7 @@ export function GroupCard({ group }: GroupCardProps) {
           <h2 className={styles.title}>
             <Link href={`/${group.slug}/`}>{title}</Link>
           </h2>
-          <p className={styles.handle}>{group.chat}</p>
+          <p className={styles.handle}>{resolveGroupChatHandle(group)}</p>
         </div>
       </div>
 

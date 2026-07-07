@@ -11,7 +11,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from dotenv import load_dotenv
-from telethon import TelegramClient
+from telethon import TelegramClient, utils
 from telethon.sessions import StringSession
 from telethon.tl.functions.messages import GetForumTopicsRequest
 from telethon.helpers import add_surrogate, del_surrogate
@@ -503,6 +503,36 @@ def chat_to_slug(chat: str) -> str:
     return re.sub(r"[^a-zA-Z0-9_-]+", "_", normalized)
 
 
+def entity_chat_handle(entity) -> str:
+    username = getattr(entity, "username", None)
+    if username:
+        return f"@{username}"
+    return str(utils.get_peer_id(entity))
+
+
+def resolve_group_target(group: dict) -> tuple[str, int | str]:
+    slug = group.get("slug", "").strip()
+    group_id = group.get("id")
+    chat = group.get("chat", "").strip()
+
+    if group_id is not None:
+        if not slug:
+            slug = f"group_{abs(int(group_id))}"
+        return slug, int(group_id)
+
+    if chat:
+        if not slug:
+            slug = chat_to_slug(chat)
+        return slug, chat
+
+    label = slug or "?"
+    print(
+        f"Group {label}: need either 'id' or 'chat' in data/groups.json.",
+        file=sys.stderr,
+    )
+    sys.exit(1)
+
+
 def load_groups() -> list[dict]:
     groups_path = ROOT_DIR / "data" / "groups.json"
     if groups_path.exists():
@@ -541,7 +571,7 @@ def describe_export_mode(
 async def export_group(
     client: TelegramClient,
     slug: str,
-    chat: str,
+    target: int | str,
     *,
     group_index: int,
     group_total: int,
@@ -567,9 +597,12 @@ async def export_group(
         f"{len(existing_topics)} topic(s), last_message_id={last_message_id}"
     )
 
-    stages.advance("Resolve Telegram chat", chat)
-    entity = await client.get_entity(chat)
-    entity_title = getattr(entity, "title", None) or getattr(entity, "username", chat)
+    stages.advance("Resolve Telegram chat", str(target))
+    entity = await client.get_entity(target)
+    chat_handle = entity_chat_handle(entity)
+    entity_title = (
+        getattr(entity, "title", None) or getattr(entity, "username", None) or chat_handle
+    )
     is_forum = bool(getattr(entity, "forum", False))
     stages.note(
         f"resolved as «{entity_title}»"
@@ -594,11 +627,11 @@ async def export_group(
     stages.advance("Fetch messages from Telegram", export_mode)
     fetched: list[dict] = []
     if last_message_id and not needs_topic_backfill and not needs_metadata_backfill:
-        async for message in client.iter_messages(chat, min_id=last_message_id):
+        async for message in client.iter_messages(target, min_id=last_message_id):
             if isinstance(message, Message):
                 fetched.append(await message_to_dict(message, is_forum))
     else:
-        async for message in client.iter_messages(chat):
+        async for message in client.iter_messages(target):
             if isinstance(message, Message):
                 fetched.append(await message_to_dict(message, is_forum))
     stages.note(f"fetched {len(fetched)} message(s) from API")
@@ -618,7 +651,7 @@ async def export_group(
         known_topic_ids = build_known_topic_ids(merged_topics)
         before_repair = len(merged)
         merged = await repair_forum_messages(
-            client, chat, merged, is_forum, known_topic_ids
+            client, target, merged, is_forum, known_topic_ids
         )
         repaired_count = len(merged) - before_repair
         if repaired_count:
@@ -633,7 +666,7 @@ async def export_group(
         merged = infer_topic_ids_from_replies(merged, merged_topics)
     elif merged:
         before_repair = len(merged)
-        merged = await repair_recent_reactions(client, chat, merged, is_forum)
+        merged = await repair_recent_reactions(client, target, merged, is_forum)
         repaired_count = len(merged) - before_repair
         if repaired_count:
             stages.note(
@@ -660,7 +693,7 @@ async def export_group(
     save_json(
         state_path,
         {
-            "chat": chat,
+            "chat": chat_handle,
             "title": entity_title,
             "last_message_id": max_id,
             "message_count": len(merged),
@@ -710,13 +743,12 @@ async def export_messages() -> None:
         f"{len(groups)} group(s), {GROUP_STAGE_COUNT} sub-stages each",
     )
     for index, group in enumerate(groups, start=1):
-        slug = group.get("slug") or chat_to_slug(group["chat"])
-        chat = group["chat"]
+        slug, target = resolve_group_target(group)
         print(flush=True)
         await export_group(
             client,
             slug,
-            chat,
+            target,
             group_index=index,
             group_total=len(groups),
         )

@@ -11,6 +11,7 @@ import { groupOverviewPath, topicMessagesPagePath } from '@/lib/groupRoutes';
 import { getDisplayableMessages } from '@/lib/messageFilters';
 import { getTotalPages, parsePageParam } from '@/lib/pagination';
 import { groupIconMetadata } from '@/lib/groupIcon';
+import { resolveGroupChatHandle } from '@/lib/groups';
 import { absoluteUrl } from '@/lib/siteUrl';
 import styles from '../../../../page.module.css';
 
@@ -57,7 +58,7 @@ export async function generateMetadata({
 
   return {
     title: `${topic.title}${pageSuffix} — ${context.title}`,
-    description: `Архив темы «${topic.title}» в группе ${context.group.chat}, страница ${page}`,
+    description: `Архив темы «${topic.title}» в группе ${resolveGroupChatHandle(context.group, context.exportState)}, страница ${page}`,
     alternates: {
       canonical: absoluteUrl(topicMessagesPagePath(slug, topicId, page)),
     },
