@@ -5,7 +5,7 @@ import { ArchiveHeader } from '@/components/messages/ArchiveHeader';
 import { GroupTopicsList } from '@/components/messages/GroupTopicsList';
 import { getGroupArchiveContext } from '@/lib/groupArchive';
 import { groupIconMetadata } from '@/lib/groupIcon';
-import { getGroups } from '@/lib/groups';
+import { getGroups, resolveGroupChatHandle } from '@/lib/groups';
 import { groupMessagesPagePath } from '@/lib/groupRoutes';
 import { getDisplayableMessages } from '@/lib/messageFilters';
 import { getTotalPages } from '@/lib/pagination';
@@ -31,7 +31,7 @@ export async function generateMetadata({
 
   return {
     title: `${context.title} — Telegram Archive`,
-    description: `Архив сообщений группы ${context.group.chat}`,
+    description: `Архив сообщений группы ${resolveGroupChatHandle(context.group, context.exportState)}`,
     ...groupIconMetadata(slug),
   };
 }

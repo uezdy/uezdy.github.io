@@ -3,6 +3,7 @@ import { MessagesPageLayout } from '@/components/messages/MessagesPageLayout';
 import { PaginationNav } from '@/components/messages/PaginationNav';
 import { TopicsNav } from '@/components/messages/TopicsNav';
 import type { GroupArchiveContext } from '@/lib/groupArchive';
+import { resolveGroupChatHandle } from '@/lib/groups';
 import {
   buildReplyPoolForPage,
   getDisplayableMessages,
@@ -42,7 +43,10 @@ export function MessagesArchiveView({
   const totalPages = getTotalPages(displayable.length);
   const pageMessages = slicePage(displayable, page);
   const topicTitle = resolveTopicTitle(context, topicId);
-  const chatHandle = context.exportState?.chat ?? context.group.chat;
+  const chatHandle = resolveGroupChatHandle(
+    context.group,
+    context.exportState
+  );
   const isForum = context.exportState?.is_forum ?? false;
 
   return (

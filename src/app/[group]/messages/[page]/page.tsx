@@ -11,6 +11,7 @@ import { groupMessagesPagePath, groupOverviewPath } from '@/lib/groupRoutes';
 import { getDisplayableMessages } from '@/lib/messageFilters';
 import { getTotalPages, parsePageParam } from '@/lib/pagination';
 import { groupIconMetadata } from '@/lib/groupIcon';
+import { resolveGroupChatHandle } from '@/lib/groups';
 import { absoluteUrl } from '@/lib/siteUrl';
 import styles from '../../page.module.css';
 
@@ -50,7 +51,7 @@ export async function generateMetadata({
 
   return {
     title: `${context.title}${pageSuffix} — Telegram Archive`,
-    description: `Архив сообщений группы ${context.group.chat}, страница ${page}`,
+    description: `Архив сообщений группы ${resolveGroupChatHandle(context.group, context.exportState)}, страница ${page}`,
     alternates: {
       canonical: absoluteUrl(groupMessagesPagePath(slug, page)),
     },

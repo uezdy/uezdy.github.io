@@ -56,7 +56,10 @@ export type ExportState = {
 
 export type TelegramGroupConfig = {
   slug: string;
-  chat: string;
+  /** @username, ссылка t.me или числовой id в виде строки */
+  chat?: string;
+  /** Числовой id группы в Telegram, например -1001234567890 */
+  id?: number;
   title?: string;
 };
 

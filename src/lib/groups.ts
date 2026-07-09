@@ -33,19 +33,37 @@ export function enrichGroupWithExportState(
   exportState: ExportState | null
 ): TelegramGroupConfig {
   const title = group.title ?? exportState?.title;
+  const chat = group.chat ?? exportState?.chat;
 
-  if (!title) {
+  if (!title && !chat) {
     return group;
   }
 
-  return { ...group, title };
+  return {
+    ...group,
+    ...(title ? { title } : {}),
+    ...(chat ? { chat } : {}),
+  };
+}
+
+export function resolveGroupChatHandle(
+  group: TelegramGroupConfig,
+  exportState?: ExportState | null
+): string {
+  return (
+    group.chat ??
+    exportState?.chat ??
+    (group.id !== undefined ? String(group.id) : group.slug)
+  );
 }
 
 export function resolveGroupTitle(
   group: TelegramGroupConfig,
   exportState?: ExportState | null
 ): string {
-  return group.title ?? exportState?.title ?? group.chat;
+  return (
+    group.title ?? exportState?.title ?? resolveGroupChatHandle(group, exportState)
+  );
 }
 
 export function chatToSlug(chat: string): string {
