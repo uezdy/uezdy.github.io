@@ -10,11 +10,15 @@ type GroupTopicsListProps = {
 };
 
 export function GroupTopicsList({ groupSlug, topics }: GroupTopicsListProps) {
+  const sortedTopics = [...topics].sort(
+    (a, b) => b.message_count - a.message_count,
+  );
+
   return (
     <section className={styles.section} aria-label="Темы архива">
       <h2 className={styles.heading}>Темы</h2>
       <ul className={styles.list}>
-        {topics.map((topic) => {
+        {sortedTopics.map((topic) => {
           const totalPages = getTotalPages(topic.message_count);
 
           return (
