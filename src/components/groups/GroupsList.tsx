@@ -19,9 +19,13 @@ export function GroupsList({ groups }: GroupsListProps) {
     );
   }
 
+  const sortedGroups = [...groups].sort(
+    (a, b) => b.messageCount - a.messageCount,
+  );
+
   return (
     <section className={styles.list} aria-label="Список групп">
-      {groups.map((group) => (
+      {sortedGroups.map((group) => (
         <GroupCard key={group.slug} group={group} />
       ))}
     </section>
