@@ -85,6 +85,7 @@ export function getGroupSummaries(): GroupSummary[] {
       ...enrichGroupWithExportState(group, exportState),
       messageCount: exportState?.message_count ?? messages.length,
       topicCount: exportState?.topic_count ?? 0,
+      memberCount: exportState?.member_count ?? null,
       isForum: exportState?.is_forum ?? false,
       exportedAt: exportState?.exported_at ?? null,
     };

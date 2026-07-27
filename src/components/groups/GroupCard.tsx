@@ -6,6 +6,7 @@ import {
   hasGroupIcon,
 } from '@/lib/groupIcon';
 import { resolveGroupChatHandle, resolveGroupTitle } from '@/lib/groups';
+import { formatCount } from '@/lib/numberFormat';
 import type { GroupSummary } from '@/types/telegram';
 import styles from './GroupCard.module.css';
 
@@ -41,14 +42,20 @@ export function GroupCard({ group }: GroupCardProps) {
       </div>
 
       <dl className={styles.stats}>
+        {group.memberCount != null ? (
+          <div>
+            <dt>Участников</dt>
+            <dd>{formatCount(group.memberCount)}</dd>
+          </div>
+        ) : null}
         <div>
           <dt>Сообщений</dt>
-          <dd>{group.messageCount}</dd>
+          <dd>{formatCount(group.messageCount)}</dd>
         </div>
         {group.isForum ? (
           <div>
             <dt>Тем</dt>
-            <dd>{group.topicCount}</dd>
+            <dd>{formatCount(group.topicCount)}</dd>
           </div>
         ) : null}
         <div>

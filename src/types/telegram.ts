@@ -50,6 +50,7 @@ export type ExportState = {
   last_message_id: number;
   message_count: number;
   topic_count: number;
+  member_count?: number;
   is_forum: boolean;
   exported_at: string;
 };
@@ -70,6 +71,7 @@ export type GroupsManifest = {
 export type GroupSummary = TelegramGroupConfig & {
   messageCount: number;
   topicCount: number;
+  memberCount: number | null;
   isForum: boolean;
   exportedAt: string | null;
 };

@@ -13,9 +13,12 @@ from pathlib import Path
 from dotenv import load_dotenv
 from telethon import TelegramClient, utils
 from telethon.sessions import StringSession
-from telethon.tl.functions.messages import GetForumTopicsRequest
+from telethon.tl.functions.channels import GetFullChannelRequest
+from telethon.tl.functions.messages import GetForumTopicsRequest, GetFullChatRequest
 from telethon.helpers import add_surrogate, del_surrogate
 from telethon.tl.types import (
+    Channel,
+    Chat,
     ForumTopic,
     Message,
     MessageActionTopicCreate,
@@ -510,6 +513,24 @@ def entity_chat_handle(entity) -> str:
     return str(utils.get_peer_id(entity))
 
 
+async def fetch_member_count(client: TelegramClient, entity) -> int | None:
+    """Reliable participant count via full chat/channel request."""
+    try:
+        if isinstance(entity, Channel):
+            full = await client(GetFullChannelRequest(entity))
+            count = full.full_chat.participants_count
+        elif isinstance(entity, Chat):
+            full = await client(GetFullChatRequest(entity.id))
+            count = full.full_chat.participants_count
+        else:
+            count = getattr(entity, "participants_count", None)
+
+        return int(count) if count is not None else None
+    except Exception as exc:
+        print(f"  warning: could not fetch member count: {exc}", flush=True)
+        return None
+
+
 def resolve_group_target(group: dict) -> tuple[str, int | str]:
     slug = group.get("slug", "").strip()
     group_id = group.get("id")
@@ -604,9 +625,18 @@ async def export_group(
         getattr(entity, "title", None) or getattr(entity, "username", None) or chat_handle
     )
     is_forum = bool(getattr(entity, "forum", False))
+    member_count = await fetch_member_count(client, entity)
+    if member_count is None and "member_count" in state:
+        previous = state.get("member_count")
+        if previous is not None:
+            member_count = int(previous)
+    member_note = (
+        f", {member_count} participant(s)" if member_count is not None else ""
+    )
     stages.note(
         f"resolved as «{entity_title}»"
         + (" (forum)" if is_forum else " (regular chat)")
+        + member_note
     )
 
     needs_topic_backfill = is_forum and any(
@@ -690,18 +720,18 @@ async def export_group(
     output_dir.mkdir(parents=True, exist_ok=True)
     save_json(output_path, merged)
     save_json(topics_path, merged_topics)
-    save_json(
-        state_path,
-        {
-            "chat": chat_handle,
-            "title": entity_title,
-            "last_message_id": max_id,
-            "message_count": len(merged),
-            "topic_count": len(merged_topics),
-            "is_forum": is_forum,
-            "exported_at": datetime.now(timezone.utc).isoformat(),
-        },
-    )
+    export_state = {
+        "chat": chat_handle,
+        "title": entity_title,
+        "last_message_id": max_id,
+        "message_count": len(merged),
+        "topic_count": len(merged_topics),
+        "is_forum": is_forum,
+        "exported_at": datetime.now(timezone.utc).isoformat(),
+    }
+    if member_count is not None:
+        export_state["member_count"] = member_count
+    save_json(state_path, export_state)
     icon_path = output_dir / "icon.jpg"
     icon_file = await client.download_profile_photo(entity, file=str(icon_path))
     if icon_file:

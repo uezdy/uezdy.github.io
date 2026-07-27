@@ -1,5 +1,6 @@
 import type { ExportState } from '@/types/telegram';
 import { formatExportDate } from '@/lib/dateFormat';
+import { formatCount } from '@/lib/numberFormat';
 import styles from './ArchiveHeader.module.css';
 
 type ArchiveHeaderProps = {
@@ -18,14 +19,20 @@ export function ArchiveHeader({
       <p className={styles.eyebrow}>История группы</p>
       <h1 className={styles.title}>{title}</h1>
       <dl className={styles.stats}>
+        {exportState?.member_count != null ? (
+          <div>
+            <dt>Участников</dt>
+            <dd>{formatCount(exportState.member_count)}</dd>
+          </div>
+        ) : null}
         <div>
           <dt>Сообщений</dt>
-          <dd>{messageCount}</dd>
+          <dd>{formatCount(messageCount)}</dd>
         </div>
         {exportState?.is_forum ? (
           <div>
             <dt>Тем</dt>
-            <dd>{exportState.topic_count ?? '—'}</dd>
+            <dd>{formatCount(exportState.topic_count)}</dd>
           </div>
         ) : null}
         <div>
