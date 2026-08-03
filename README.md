@@ -99,11 +99,9 @@ TELEGRAM_SESSION=длинная_строка_из_create_session
 Группа @uezdy уже указана в `data/groups.json`:
 
 ```json
-{
-  "groups": [
-    { "slug": "uezdy", "chat": "@uezdy" }
-  ]
-}
+[
+  { "slug": "uezdy", "chat": "@uezdy" }
+]
 ```
 
 - **slug** — имя для URL сайта (`/`, `/uezdy/`, `/uezdy/topic/107/messages/1/`)

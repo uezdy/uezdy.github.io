@@ -506,9 +506,8 @@ def chat_to_slug(chat: str) -> str:
 def load_groups() -> list[dict]:
     groups_path = ROOT_DIR / "data" / "groups.json"
     if groups_path.exists():
-        manifest = load_json(groups_path, {"groups": []})
-        groups = manifest.get("groups", [])
-        if groups:
+        groups = load_json(groups_path, [])
+        if isinstance(groups, list) and groups:
             return groups
 
     chat = os.environ.get("TELEGRAM_CHAT", "").strip()

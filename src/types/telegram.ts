@@ -60,6 +60,4 @@ export type TelegramGroupConfig = {
   title?: string;
 };
 
-export type GroupsManifest = {
-  groups: TelegramGroupConfig[];
-};
+export type GroupsManifest = TelegramGroupConfig[];

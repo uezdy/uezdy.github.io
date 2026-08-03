@@ -37,9 +37,7 @@ async function optimizeGroupIcon(
 export default async function optimizeGroupIcons(_params: IScriptParams) {
   const dataGroupsDir = path.join(process.cwd(), 'data', 'groups');
   const publicGroupsDir = path.join(process.cwd(), 'public', 'groups');
-  const manifest = readJsonFile<GroupsManifest>('data/groups.json', {
-    groups: [],
-  });
+  const manifest = readJsonFile<GroupsManifest>('data/groups.json', []);
 
   if (!fs.existsSync(dataGroupsDir)) {
     console.warn(`Prebuild: missing ${dataGroupsDir}`);
@@ -49,7 +47,7 @@ export default async function optimizeGroupIcons(_params: IScriptParams) {
   let groupCount = 0;
   let fileCount = 0;
 
-  for (const group of manifest.groups) {
+  for (const group of manifest) {
     const sourcePath = path.join(dataGroupsDir, group.slug, GROUP_ICON_SOURCE);
 
     if (!fs.existsSync(sourcePath)) {

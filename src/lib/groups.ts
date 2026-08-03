@@ -20,9 +20,7 @@ export function getGroupDataPath(slug: string, fileName: string): string {
 }
 
 export function getGroups(): TelegramGroupConfig[] {
-  const manifest = readJsonFile<GroupsManifest>(MANIFEST_PATH, { groups: [] });
-
-  return manifest.groups;
+  return readJsonFile<GroupsManifest>(MANIFEST_PATH, []);
 }
 
 export function getGroup(slug: string): TelegramGroupConfig | null {

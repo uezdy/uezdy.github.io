@@ -54,19 +54,15 @@ export default async function copyMessages(_params: IScriptParams) {
   const manifestTargetPath = path.join(publicDir, 'groups.json');
 
   if (fs.existsSync(manifestPath)) {
-    const manifest = readJsonFile<GroupsManifest>('data/groups.json', {
-      groups: [],
-    });
-    const enrichedManifest: GroupsManifest = {
-      groups: manifest.groups.map((group) => {
-        const exportState = readJsonFile<ExportState | null>(
-          `data/groups/${group.slug}/export_state.json`,
-          null
-        );
+    const manifest = readJsonFile<GroupsManifest>('data/groups.json', []);
+    const enrichedManifest: GroupsManifest = manifest.map((group) => {
+      const exportState = readJsonFile<ExportState | null>(
+        `data/groups/${group.slug}/export_state.json`,
+        null
+      );
 
-        return enrichGroupWithExportState(group, exportState);
-      }),
-    };
+      return enrichGroupWithExportState(group, exportState);
+    });
 
     fs.writeFileSync(
       manifestTargetPath,
@@ -77,7 +73,7 @@ export default async function copyMessages(_params: IScriptParams) {
     copyGroupData(
       dataDir,
       publicDir,
-      manifest.groups.map((group) => group.slug)
+      manifest.map((group) => group.slug)
     );
   } else {
     console.warn(`Prebuild: missing ${manifestPath}`);
