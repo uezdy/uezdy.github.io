@@ -1,8 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import sharp from 'sharp';
-import { readJsonFile } from '@/lib/readJson';
-import type { GroupsManifest } from '@/types/telegram';
+import { loadGroupsFromManifest } from '@/lib/groups';
 import type { IScriptParams } from '../runner';
 
 const GROUP_ICON_SOURCE = 'icon.jpg';
@@ -37,7 +36,7 @@ async function optimizeGroupIcon(
 export default async function optimizeGroupIcons(_params: IScriptParams) {
   const dataGroupsDir = path.join(process.cwd(), 'data', 'groups');
   const publicGroupsDir = path.join(process.cwd(), 'public', 'groups');
-  const manifest = readJsonFile<GroupsManifest>('data/groups.json', []);
+  const groups = loadGroupsFromManifest('data/groups.json');
 
   if (!fs.existsSync(dataGroupsDir)) {
     console.warn(`Prebuild: missing ${dataGroupsDir}`);
@@ -47,7 +46,7 @@ export default async function optimizeGroupIcons(_params: IScriptParams) {
   let groupCount = 0;
   let fileCount = 0;
 
-  for (const group of manifest) {
+  for (const group of groups) {
     const sourcePath = path.join(dataGroupsDir, group.slug, GROUP_ICON_SOURCE);
 
     if (!fs.existsSync(sourcePath)) {

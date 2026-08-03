@@ -19,8 +19,21 @@ export function getGroupDataPath(slug: string, fileName: string): string {
   return path.posix.join(groupDir(slug), fileName);
 }
 
+/** Reads groups.json as a single group object and returns it as a list. */
+export function loadGroupsFromManifest(
+  relativePath: string
+): TelegramGroupConfig[] {
+  const group = readJsonFile<GroupsManifest | null>(relativePath, null);
+
+  if (!group?.slug || !group?.chat) {
+    return [];
+  }
+
+  return [group];
+}
+
 export function getGroups(): TelegramGroupConfig[] {
-  return readJsonFile<GroupsManifest>(MANIFEST_PATH, []);
+  return loadGroupsFromManifest(MANIFEST_PATH);
 }
 
 export function getGroup(slug: string): TelegramGroupConfig | null {
