@@ -11,6 +11,10 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: getLegacyRouteDisallowPaths(),
     },
-    sitemap: absoluteUrl('/sitemap.xml'),
+    sitemap: [
+        absoluteUrl('/sitemap.xml'),
+        absoluteUrl('/docs/sitemap.xml'),
+        absoluteUrl('/uezdy/sitemap.xml'),
+    ],
   };
 }
