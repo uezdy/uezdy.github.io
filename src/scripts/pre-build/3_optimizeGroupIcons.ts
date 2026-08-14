@@ -1,6 +1,9 @@
 import fs from 'fs';
 import path from 'path';
 import sharp from 'sharp';
+import { isLocalArchiveGroup } from '@/lib/groups';
+import { readJsonFile } from '@/lib/readJson';
+import type { GroupsManifest } from '@/types/telegram';
 import type { IScriptParams } from '../runner';
 
 const GROUP_ICON_SOURCE = 'icon.jpg';
@@ -41,11 +44,25 @@ export default async function optimizeGroupIcons(_params: IScriptParams) {
     return;
   }
 
+  const manifest = readJsonFile<GroupsManifest>('data/groups.json', {
+    groups: [],
+  });
+  const skippedSlugs = new Set(
+    manifest.groups
+      .filter((group) => !isLocalArchiveGroup(group))
+      .map((group) => group.slug)
+  );
+
   let groupCount = 0;
   let fileCount = 0;
 
   for (const entry of fs.readdirSync(dataGroupsDir, { withFileTypes: true })) {
     if (!entry.isDirectory()) {
+      continue;
+    }
+
+    if (skippedSlugs.has(entry.name)) {
+      console.log(`Prebuild: skipped icon for groups/${entry.name} (skipExport)`);
       continue;
     }
 

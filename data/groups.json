@@ -2,7 +2,8 @@
   "groups": [
     {
       "slug": "uezdy",
-      "chat": "@uezdy"
+      "chat": "@uezdy",
+      "skipExport": true
     },
     {
       "slug": "familio_belarus",

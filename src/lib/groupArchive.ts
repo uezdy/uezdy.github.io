@@ -1,4 +1,4 @@
-import { getGroup, getGroups, resolveGroupTitle } from '@/lib/groups';
+import { getGroup, getLocalArchiveGroups, resolveGroupTitle } from '@/lib/groups';
 import { getDisplayableMessages } from '@/lib/messageFilters';
 import { getTotalPages, pageRange } from '@/lib/pagination';
 import { getExportState, getMessages } from '@/lib/messages';
@@ -25,7 +25,7 @@ const groupArchiveContextCache = new Map<string, GroupArchiveContext | null>();
 function loadGroupArchiveContext(slug: string): GroupArchiveContext | null {
   const group = getGroup(slug);
 
-  if (!group) {
+  if (!group || group.skipExport) {
     return null;
   }
 
@@ -63,7 +63,7 @@ export function getGroupArchiveContext(
 export function getGroupMessagePageParams(): { group: string; page: string }[] {
   const params: { group: string; page: string }[] = [];
 
-  for (const group of getGroups()) {
+  for (const group of getLocalArchiveGroups()) {
     const context = getGroupArchiveContext(group.slug);
 
     if (!context || context.showTopics) {
@@ -92,7 +92,7 @@ export function getTopicMessagePageParams(): {
     page: string;
   }[] = [];
 
-  for (const group of getGroups()) {
+  for (const group of getLocalArchiveGroups()) {
     const context = getGroupArchiveContext(group.slug);
 
     if (!context?.showTopics) {
@@ -131,7 +131,7 @@ export function getGroupMessagePageParamsForExport(): {
     return params;
   }
 
-  return getGroups().map((group) => ({
+  return getLocalArchiveGroups().map((group) => ({
     group: group.slug,
     page: '1',
   }));
@@ -149,7 +149,7 @@ export function getTopicMessagePageParamsForExport(): {
     return params;
   }
 
-  return getGroups().map((group) => ({
+  return getLocalArchiveGroups().map((group) => ({
     group: group.slug,
     topicId: '1',
     page: '1',

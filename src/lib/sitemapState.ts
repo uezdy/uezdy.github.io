@@ -3,7 +3,7 @@ import {
   getGroupMessagePageParams,
   getTopicMessagePageParams,
 } from '@/lib/groupArchive';
-import { getGroups } from '@/lib/groups';
+import { getLocalArchiveGroups } from '@/lib/groups';
 import {
   groupMessagesPagePath,
   groupOverviewPath,
@@ -142,7 +142,7 @@ export function collectSitemapUrlCandidates(): SitemapUrlCandidate[] {
     );
   }
 
-  for (const group of getGroups()) {
+  for (const group of getLocalArchiveGroups()) {
     const context = getGroupArchiveContext(group.slug);
 
     if (!context) {

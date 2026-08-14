@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { enrichGroupWithExportState } from '@/lib/groups';
+import { enrichGroupWithExportState, isLocalArchiveGroup } from '@/lib/groups';
 import { readJsonFile } from '@/lib/readJson';
 import type { ExportState, GroupsManifest } from '@/types/telegram';
 import type { IScriptParams } from '../runner';
@@ -11,7 +11,11 @@ const GROUP_FILES = [
   'topics.json',
 ] as const;
 
-function copyGroupData(dataDir: string, publicDir: string) {
+function copyGroupData(
+  dataDir: string,
+  publicDir: string,
+  skippedSlugs: Set<string>
+) {
   const groupsSourceDir = path.join(dataDir, 'groups');
   const groupsTargetDir = path.join(publicDir, 'groups');
 
@@ -22,6 +26,11 @@ function copyGroupData(dataDir: string, publicDir: string) {
 
   for (const slug of fs.readdirSync(groupsSourceDir, { withFileTypes: true })) {
     if (!slug.isDirectory()) {
+      continue;
+    }
+
+    if (skippedSlugs.has(slug.name)) {
+      console.log(`Prebuild: skipped groups/${slug.name} (skipExport)`);
       continue;
     }
 
@@ -50,6 +59,7 @@ export default async function copyMessages(_params: IScriptParams) {
 
   const manifestPath = path.join(dataDir, 'groups.json');
   const manifestTargetPath = path.join(publicDir, 'groups.json');
+  const skippedSlugs = new Set<string>();
 
   if (fs.existsSync(manifestPath)) {
     const manifest = readJsonFile<GroupsManifest>('data/groups.json', {
@@ -57,6 +67,11 @@ export default async function copyMessages(_params: IScriptParams) {
     });
     const enrichedManifest: GroupsManifest = {
       groups: manifest.groups.map((group) => {
+        if (!isLocalArchiveGroup(group)) {
+          skippedSlugs.add(group.slug);
+          return group;
+        }
+
         const exportState = readJsonFile<ExportState | null>(
           `data/groups/${group.slug}/export_state.json`,
           null
@@ -75,5 +90,16 @@ export default async function copyMessages(_params: IScriptParams) {
     console.warn(`Prebuild: missing ${manifestPath}`);
   }
 
-  copyGroupData(dataDir, publicDir);
+  for (const slug of skippedSlugs) {
+    const leftoverDir = path.join(publicDir, 'groups', slug);
+
+    if (!fs.existsSync(leftoverDir)) {
+      continue;
+    }
+
+    fs.rmSync(leftoverDir, { recursive: true, force: true });
+    console.log(`Prebuild: removed public/groups/${slug} (skipExport)`);
+  }
+
+  copyGroupData(dataDir, publicDir, skippedSlugs);
 }

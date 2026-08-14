@@ -5,7 +5,7 @@ import { ArchiveHeader } from '@/components/messages/ArchiveHeader';
 import { GroupTopicsList } from '@/components/messages/GroupTopicsList';
 import { getGroupArchiveContext } from '@/lib/groupArchive';
 import { groupIconMetadata } from '@/lib/groupIcon';
-import { getGroups, resolveGroupChatHandle } from '@/lib/groups';
+import { getLocalArchiveGroups, resolveGroupChatHandle } from '@/lib/groups';
 import { groupMessagesPagePath } from '@/lib/groupRoutes';
 import { getDisplayableMessages } from '@/lib/messageFilters';
 import { getTotalPages } from '@/lib/pagination';
@@ -16,7 +16,7 @@ type GroupPageProps = {
 };
 
 export function generateStaticParams() {
-  return getGroups().map((group) => ({ group: group.slug }));
+  return getLocalArchiveGroups().map((group) => ({ group: group.slug }));
 }
 
 export async function generateMetadata({

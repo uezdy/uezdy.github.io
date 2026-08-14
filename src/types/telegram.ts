@@ -62,6 +62,8 @@ export type TelegramGroupConfig = {
   /** Числовой id группы в Telegram, например -1001234567890 */
   id?: number;
   title?: string;
+  /** Архив живёт на другом сайте; этот репозиторий группу не экспортирует */
+  skipExport?: boolean;
 };
 
 export type GroupsManifest = {

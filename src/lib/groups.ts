@@ -1,5 +1,7 @@
 import path from 'path';
+import { groupOverviewPath } from '@/lib/groupRoutes';
 import { readJsonFile } from '@/lib/readJson';
+import { absoluteUrl } from '@/lib/siteUrl';
 import { normalizeChatHandle } from '@/lib/telegramChat';
 import type {
   ExportState,
@@ -26,6 +28,24 @@ export function getGroups(): TelegramGroupConfig[] {
 
 export function getGroup(slug: string): TelegramGroupConfig | null {
   return getGroups().find((group) => group.slug === slug) ?? null;
+}
+
+export function isLocalArchiveGroup(group: TelegramGroupConfig): boolean {
+  return !group.skipExport;
+}
+
+export function getLocalArchiveGroups(): TelegramGroupConfig[] {
+  return getGroups().filter(isLocalArchiveGroup);
+}
+
+export function groupArchiveHref(group: TelegramGroupConfig): string {
+  const overviewPath = groupOverviewPath(group.slug);
+
+  if (group.skipExport) {
+    return absoluteUrl(overviewPath);
+  }
+
+  return overviewPath;
 }
 
 export function enrichGroupWithExportState(
@@ -72,6 +92,17 @@ export function chatToSlug(chat: string): string {
 
 export function getGroupSummaries(): GroupSummary[] {
   return getGroups().map((group) => {
+    if (group.skipExport) {
+      return {
+        ...group,
+        messageCount: 0,
+        topicCount: 0,
+        memberCount: null,
+        isForum: false,
+        exportedAt: null,
+      };
+    }
+
     const exportState = readJsonFile<ExportState | null>(
       getGroupDataPath(group.slug, 'export_state.json'),
       null

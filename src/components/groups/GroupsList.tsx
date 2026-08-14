@@ -19,9 +19,13 @@ export function GroupsList({ groups }: GroupsListProps) {
     );
   }
 
-  const sortedGroups = [...groups].sort(
-    (a, b) => b.messageCount - a.messageCount,
-  );
+  const sortedGroups = [...groups].sort((a, b) => {
+    if (Boolean(a.skipExport) !== Boolean(b.skipExport)) {
+      return a.skipExport ? -1 : 1;
+    }
+
+    return b.messageCount - a.messageCount;
+  });
 
   return (
     <section className={styles.list} aria-label="Список групп">

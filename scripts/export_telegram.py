@@ -6,6 +6,7 @@ import asyncio
 import json
 import os
 import re
+import shutil
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -554,13 +555,37 @@ def resolve_group_target(group: dict) -> tuple[str, int | str]:
     sys.exit(1)
 
 
+def prepare_export_groups(groups: list[dict]) -> list[dict]:
+    exportable: list[dict] = []
+
+    for group in groups:
+        if not group.get("skipExport"):
+            exportable.append(group)
+            continue
+
+        slug = (group.get("slug") or "").strip()
+        label = slug or "?"
+        archive_dir = ROOT_DIR / "data" / "groups" / slug if slug else None
+
+        if archive_dir and archive_dir.exists():
+            shutil.rmtree(archive_dir)
+            print(
+                f"Skipping export for {label}: removed data/groups/{slug}/",
+                flush=True,
+            )
+        else:
+            print(f"Skipping export for {label} (skipExport)", flush=True)
+
+    return exportable
+
+
 def load_groups() -> list[dict]:
     groups_path = ROOT_DIR / "data" / "groups.json"
     if groups_path.exists():
         manifest = load_json(groups_path, {"groups": []})
         groups = manifest.get("groups", [])
         if groups:
-            return groups
+            return prepare_export_groups(groups)
 
     chat = os.environ.get("TELEGRAM_CHAT", "").strip()
     if chat:
