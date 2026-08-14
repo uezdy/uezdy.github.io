@@ -92,25 +92,13 @@ export function chatToSlug(chat: string): string {
 
 export function getGroupSummaries(): GroupSummary[] {
   return getGroups().map((group) => {
-    if (group.skipExport) {
-      return {
-        ...group,
-        messageCount: 0,
-        topicCount: 0,
-        memberCount: null,
-        isForum: false,
-        exportedAt: null,
-      };
-    }
-
     const exportState = readJsonFile<ExportState | null>(
       getGroupDataPath(group.slug, 'export_state.json'),
       null
     );
-    const messages = readJsonFile<unknown[]>(
-      getGroupDataPath(group.slug, 'messages.json'),
-      []
-    );
+    const messages = group.skipExport
+      ? []
+      : readJsonFile<unknown[]>(getGroupDataPath(group.slug, 'messages.json'), []);
 
     return {
       ...enrichGroupWithExportState(group, exportState),

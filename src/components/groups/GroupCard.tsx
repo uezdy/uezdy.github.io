@@ -58,30 +58,28 @@ export function GroupCard({ group }: GroupCardProps) {
         </div>
       </div>
 
-      {group.skipExport ? null : (
-        <dl className={styles.stats}>
-          {group.memberCount != null ? (
-            <div>
-              <dt>Участников</dt>
-              <dd>{formatCount(group.memberCount)}</dd>
-            </div>
-          ) : null}
+      <dl className={styles.stats}>
+        {group.memberCount != null ? (
           <div>
-            <dt>Сообщений</dt>
-            <dd>{formatCount(group.messageCount)}</dd>
+            <dt>Участников</dt>
+            <dd>{formatCount(group.memberCount)}</dd>
           </div>
-          {group.isForum ? (
-            <div>
-              <dt>Тем</dt>
-              <dd>{formatCount(group.topicCount)}</dd>
-            </div>
-          ) : null}
+        ) : null}
+        <div>
+          <dt>Сообщений</dt>
+          <dd>{formatCount(group.messageCount)}</dd>
+        </div>
+        {group.isForum && !group.skipExport ? (
           <div>
-            <dt>Обновлено</dt>
-            <dd>{formatExportDate(group.exportedAt)}</dd>
+            <dt>Тем</dt>
+            <dd>{formatCount(group.topicCount)}</dd>
           </div>
-        </dl>
-      )}
+        ) : null}
+        <div>
+          <dt>Обновлено</dt>
+          <dd>{formatExportDate(group.exportedAt)}</dd>
+        </div>
+      </dl>
 
       {archiveLink}
     </article>

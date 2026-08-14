@@ -6,7 +6,6 @@ import asyncio
 import json
 import os
 import re
-import shutil
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -48,6 +47,7 @@ load_dotenv(ROOT_DIR / ".env")
 
 GLOBAL_STAGE_COUNT = 5
 GROUP_STAGE_COUNT = 6
+METADATA_STAGE_COUNT = 4
 
 
 class StageLogger:
@@ -532,6 +532,41 @@ async def fetch_member_count(client: TelegramClient, entity) -> int | None:
         return None
 
 
+async def fetch_message_count(client: TelegramClient, target: int | str) -> int | None:
+    """Message total without downloading history."""
+    try:
+        result = await client.get_messages(target, limit=0)
+        total = getattr(result, "total", None)
+        return int(total) if total is not None else 0
+    except Exception as exc:
+        print(f"  warning: could not fetch message count: {exc}", flush=True)
+        return None
+
+
+async def save_group_icon(
+    client: TelegramClient,
+    entity,
+    icon_path: Path,
+    stages: StageLogger,
+) -> None:
+    icon_file = await client.download_profile_photo(entity, file=str(icon_path))
+    if icon_file:
+        stages.note(f"saved {icon_path.name}")
+    elif icon_path.exists():
+        icon_path.unlink()
+        stages.note("removed stale group icon (no profile photo)")
+    else:
+        stages.note("no group profile photo")
+
+
+def remove_leftover_message_files(output_dir: Path, stages: StageLogger) -> None:
+    for name in ("messages.json", "topics.json"):
+        leftover = output_dir / name
+        if leftover.exists():
+            leftover.unlink()
+            stages.note(f"removed leftover {name}")
+
+
 def resolve_group_target(group: dict) -> tuple[str, int | str]:
     slug = group.get("slug", "").strip()
     group_id = group.get("id")
@@ -555,37 +590,13 @@ def resolve_group_target(group: dict) -> tuple[str, int | str]:
     sys.exit(1)
 
 
-def prepare_export_groups(groups: list[dict]) -> list[dict]:
-    exportable: list[dict] = []
-
-    for group in groups:
-        if not group.get("skipExport"):
-            exportable.append(group)
-            continue
-
-        slug = (group.get("slug") or "").strip()
-        label = slug or "?"
-        archive_dir = ROOT_DIR / "data" / "groups" / slug if slug else None
-
-        if archive_dir and archive_dir.exists():
-            shutil.rmtree(archive_dir)
-            print(
-                f"Skipping export for {label}: removed data/groups/{slug}/",
-                flush=True,
-            )
-        else:
-            print(f"Skipping export for {label} (skipExport)", flush=True)
-
-    return exportable
-
-
 def load_groups() -> list[dict]:
     groups_path = ROOT_DIR / "data" / "groups.json"
     if groups_path.exists():
         manifest = load_json(groups_path, {"groups": []})
         groups = manifest.get("groups", [])
         if groups:
-            return prepare_export_groups(groups)
+            return groups
 
     chat = os.environ.get("TELEGRAM_CHAT", "").strip()
     if chat:
@@ -614,7 +625,7 @@ def describe_export_mode(
     return "full history (first export)"
 
 
-async def export_group(
+async def export_group_metadata(
     client: TelegramClient,
     slug: str,
     target: int | str,
@@ -622,6 +633,88 @@ async def export_group(
     group_index: int,
     group_total: int,
 ) -> None:
+    group_prefix = f"Group {group_index}/{group_total} [{slug}]"
+    stages = StageLogger(METADATA_STAGE_COUNT, prefix=group_prefix)
+
+    output_dir = ROOT_DIR / "data" / "groups" / slug
+    state_path = output_dir / "export_state.json"
+
+    stages.advance(
+        "Load local export data",
+        f"reading {output_dir.relative_to(ROOT_DIR)}",
+    )
+    state = load_json(state_path, {})
+    stages.note("metadata-only export (skip message history)")
+
+    stages.advance("Resolve Telegram chat", str(target))
+    entity = await client.get_entity(target)
+    chat_handle = entity_chat_handle(entity)
+    entity_title = (
+        getattr(entity, "title", None) or getattr(entity, "username", None) or chat_handle
+    )
+    is_forum = bool(getattr(entity, "forum", False))
+    member_count = await fetch_member_count(client, entity)
+    if member_count is None and "member_count" in state:
+        previous = state.get("member_count")
+        if previous is not None:
+            member_count = int(previous)
+    member_note = (
+        f", {member_count} participant(s)" if member_count is not None else ""
+    )
+    stages.note(
+        f"resolved as «{entity_title}»"
+        + (" (forum)" if is_forum else " (regular chat)")
+        + member_note
+    )
+
+    stages.advance("Fetch group metadata", "message count without history")
+    message_count = await fetch_message_count(client, target)
+    if message_count is None:
+        previous_count = state.get("message_count")
+        message_count = int(previous_count) if previous_count is not None else 0
+        stages.note(f"message_count={message_count} (kept previous value)")
+    else:
+        stages.note(f"message_count={message_count}")
+
+    stages.advance("Save JSON files", "export_state.json, icon")
+    output_dir.mkdir(parents=True, exist_ok=True)
+    export_state = {
+        "chat": chat_handle,
+        "title": entity_title,
+        "last_message_id": 0,
+        "message_count": message_count,
+        "topic_count": 0,
+        "is_forum": is_forum,
+        "exported_at": datetime.now(timezone.utc).isoformat(),
+    }
+    if member_count is not None:
+        export_state["member_count"] = member_count
+    save_json(state_path, export_state)
+    await save_group_icon(client, entity, output_dir / "icon.jpg", stages)
+    remove_leftover_message_files(output_dir, stages)
+    stages.note(f"written to {output_dir.relative_to(ROOT_DIR)}")
+    stages.note("done: metadata only, no message history")
+
+
+async def export_group(
+    client: TelegramClient,
+    slug: str,
+    target: int | str,
+    *,
+    group_index: int,
+    group_total: int,
+    skip_messages: bool = False,
+) -> None:
+    if skip_messages:
+        await export_group_metadata(
+            client,
+            slug,
+            target,
+            group_index=group_index,
+            group_total=group_total,
+        )
+        return
+
     group_prefix = f"Group {group_index}/{group_total} [{slug}]"
     stages = StageLogger(GROUP_STAGE_COUNT, prefix=group_prefix)
 
@@ -757,15 +850,7 @@ async def export_group(
     if member_count is not None:
         export_state["member_count"] = member_count
     save_json(state_path, export_state)
-    icon_path = output_dir / "icon.jpg"
-    icon_file = await client.download_profile_photo(entity, file=str(icon_path))
-    if icon_file:
-        stages.note(f"saved {icon_path.name}")
-    elif icon_path.exists():
-        icon_path.unlink()
-        stages.note("removed stale group icon (no profile photo)")
-    else:
-        stages.note("no group profile photo")
+    await save_group_icon(client, entity, output_dir / "icon.jpg", stages)
     stages.note(f"written to {output_dir.relative_to(ROOT_DIR)}")
     stages.note(
         f"done: +{len(fetched)} new message(s), {len(merged)} total in archive"
@@ -806,6 +891,7 @@ async def export_messages() -> None:
             target,
             group_index=index,
             group_total=len(groups),
+            skip_messages=bool(group.get("skipExport")),
         )
 
     stages.advance("Disconnect from Telegram")
